@@ -1,0 +1,67 @@
+{"level":"info","message":"🚀 Launching Hello Scraper...","timestamp":"2026-02-03T21:17:21.610Z"}
+{"level":"info","message":"Going to books.toscrape.com","timestamp":"2026-02-03T21:17:24.667Z"}
+{"level":"info","message":"Page Title: All products | Books to Scrape - Sandbox","timestamp":"2026-02-03T21:17:28.356Z"}
+{"level":"info","message":"📸 Screenshot saved","timestamp":"2026-02-03T21:17:28.579Z"}
+{"level":"info","message":"✅ Done!","timestamp":"2026-02-03T21:17:29.244Z"}
+{"level":"info","message":"🚀 Launching Stealth Scraper...","timestamp":"2026-02-04T19:35:09.921Z"}
+{"level":"info","message":"Testing stealth on bot.sannysoft.com...","timestamp":"2026-02-04T19:35:36.275Z"}
+{"level":"info","message":"📸 Stealth test screenshot saved","timestamp":"2026-02-04T19:35:40.751Z"}
+{"level":"info","message":"Attempting Google Maps...","timestamp":"2026-02-04T19:35:40.753Z"}
+{"level":"info","message":"📸 Google Maps screenshot saved","timestamp":"2026-02-04T19:35:48.698Z"}
+{"level":"info","message":"✅ Stealth Mission Complete!","timestamp":"2026-02-04T19:35:49.773Z"}
+{"level":"info","message":"🚀 Launching Database-Connected Scraper...","timestamp":"2026-02-05T23:35:20.660Z"}
+{"level":"info","message":"🔌 Connected to PostgreSQL","timestamp":"2026-02-05T23:35:20.719Z"}
+{"level":"info","message":"🔍 Searching for: dentists in tbilisi","timestamp":"2026-02-05T23:35:30.974Z"}
+{"level":"info","message":"📄 Page Title: dentists in tbilisi - Google Maps","timestamp":"2026-02-05T23:35:38.665Z"}
+{"level":"info","message":"💾 Saving lead to Database...","timestamp":"2026-02-05T23:35:38.665Z"}
+{"level":"info","message":"✅ Lead Saved! ID: 1","timestamp":"2026-02-05T23:35:38.679Z"}
+{"level":"info","message":"📸 Screenshot saved","timestamp":"2026-02-05T23:35:39.100Z"}
+{"level":"info","message":"🎉 Mission Complete: Web -> Code -> Database","timestamp":"2026-02-05T23:35:39.972Z"}
+{"level":"info","message":"🚀 Launching Database-Connected Scraper...","timestamp":"2026-02-05T23:44:27.982Z"}
+{"level":"info","message":"🔌 Connected to PostgreSQL","timestamp":"2026-02-05T23:44:28.037Z"}
+{"level":"info","message":"🔍 Searching for: dentists in tbilisi","timestamp":"2026-02-05T23:44:29.568Z"}
+{"level":"info","message":"📄 Page Title: dentists in tbilisi - Google Maps","timestamp":"2026-02-05T23:44:36.726Z"}
+{"level":"info","message":"💾 Saving lead to Database...","timestamp":"2026-02-05T23:44:36.727Z"}
+{"level":"info","message":"✅ Lead Saved! ID: 2","timestamp":"2026-02-05T23:44:36.743Z"}
+{"level":"info","message":"📸 Screenshot saved","timestamp":"2026-02-05T23:44:37.292Z"}
+{"level":"info","message":"🎉 Mission Complete: Web -> Code -> Database","timestamp":"2026-02-05T23:44:38.229Z"}
+{"level":"info","message":"🚀 Launching PRO Scraper...","timestamp":"2026-02-06T00:04:35.186Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-06T00:04:35.255Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-06T00:04:36.504Z"}
+{"level":"info","message":"👆 Clicking first result...","timestamp":"2026-02-06T00:04:41.908Z"}
+{"level":"info","message":"📄 Extracting details...","timestamp":"2026-02-06T00:04:46.008Z"}
+{"level":"error","message":"❌ Fatal Error: __name is not defined","name":"ReferenceError","stack":"ReferenceError: __name is not defined\n    at evaluate (evaluate at main (file:///D:/lids1/swarm-lead-scraper/src/index.ts:1:1733), <anonymous>:0:20)\n    at ExecutionContext.#evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:456:34)\n    at async ExecutionContext.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:293:12)\n    at async IsolatedWorld.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\IsolatedWorld.ts:196:12)\n    at async CdpFrame.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Frame.ts:488:12)\n    at async CdpPage.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Page.ts:2341:12)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:76:22)","timestamp":"2026-02-06T00:04:46.030Z"}
+{"level":"info","message":"🚀 Launching PRO Scraper (Fixed)...","timestamp":"2026-02-06T00:16:11.497Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-06T00:16:11.543Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-06T00:16:12.888Z"}
+{"level":"info","message":"👆 Clicking first result...","timestamp":"2026-02-06T00:16:17.670Z"}
+{"level":"info","message":"📄 Extracting details...","timestamp":"2026-02-06T00:16:22.899Z"}
+{"level":"error","message":"❌ Fatal Error: __name is not defined","name":"ReferenceError","stack":"ReferenceError: __name is not defined\n    at evaluate (evaluate at main (file:///D:/lids1/swarm-lead-scraper/src/index.ts:1:1776), <anonymous>:0:91)\n    at ExecutionContext.#evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:456:34)\n    at async ExecutionContext.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:293:12)\n    at async IsolatedWorld.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\IsolatedWorld.ts:196:12)\n    at async CdpFrame.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Frame.ts:488:12)\n    at async CdpPage.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Page.ts:2341:12)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:70:22)","timestamp":"2026-02-06T00:16:22.940Z"}
+{"level":"info","message":"🚀 Launching Speed Scraper...","timestamp":"2026-02-06T00:32:08.267Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-06T00:32:08.315Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-06T00:32:09.890Z"}
+{"level":"info","message":"⏳ Waiting for results container...","timestamp":"2026-02-06T00:32:11.751Z"}
+{"level":"info","message":"✅ Found results feed","timestamp":"2026-02-06T00:32:14.108Z"}
+{"level":"info","message":"👆 Attempting to click first result...","timestamp":"2026-02-06T00:32:14.109Z"}
+{"level":"info","message":"✅ OTA Click sent","timestamp":"2026-02-06T00:32:14.674Z"}
+{"level":"info","message":"📄 reading details...","timestamp":"2026-02-06T00:32:18.679Z"}
+{"level":"error","message":"❌ Fatal Error: __name is not defined","name":"ReferenceError","stack":"ReferenceError: __name is not defined\n    at evaluate (evaluate at main (file:///D:/lids1/swarm-lead-scraper/src/index.ts:1:1980), <anonymous>:0:91)\n    at ExecutionContext.#evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:456:34)\n    at async ExecutionContext.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:293:12)\n    at async IsolatedWorld.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\IsolatedWorld.ts:196:12)\n    at async CdpFrame.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Frame.ts:488:12)\n    at async CdpPage.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Page.ts:2341:12)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:81:22)","timestamp":"2026-02-06T00:32:18.718Z"}
+{"level":"info","message":"🚀 Launching Speed Scraper...","timestamp":"2026-02-06T01:43:26.069Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-06T01:43:26.123Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-06T01:43:27.580Z"}
+{"level":"info","message":"⏳ Waiting for results container...","timestamp":"2026-02-06T01:43:29.446Z"}
+{"level":"info","message":"✅ Found results feed","timestamp":"2026-02-06T01:43:31.322Z"}
+{"level":"info","message":"👆 Attempting to click first result...","timestamp":"2026-02-06T01:43:31.323Z"}
+{"level":"info","message":"✅ OTA Click sent","timestamp":"2026-02-06T01:43:31.879Z"}
+{"level":"info","message":"📄 reading details...","timestamp":"2026-02-06T01:43:35.885Z"}
+{"level":"error","message":"❌ Fatal Error: __name is not defined","name":"ReferenceError","stack":"ReferenceError: __name is not defined\n    at evaluate (evaluate at main (file:///D:/lids1/swarm-lead-scraper/src/index.ts:1:1980), <anonymous>:0:91)\n    at ExecutionContext.#evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:456:34)\n    at async ExecutionContext.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\ExecutionContext.ts:293:12)\n    at async IsolatedWorld.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\cdp\\IsolatedWorld.ts:196:12)\n    at async CdpFrame.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Frame.ts:488:12)\n    at async CdpPage.evaluate (D:\\lids1\\swarm-lead-scraper\\node_modules\\puppeteer-core\\src\\api\\Page.ts:2341:12)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:81:22)","timestamp":"2026-02-06T01:43:35.985Z"}
+{"level":"info","message":"🚀 Launching Speed Scraper...","timestamp":"2026-02-06T01:48:38.830Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-06T01:48:38.880Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-06T01:48:40.089Z"}
+{"level":"info","message":"⏳ Waiting for results container...","timestamp":"2026-02-06T01:48:41.456Z"}
+{"level":"info","message":"✅ Found results feed","timestamp":"2026-02-06T01:48:43.273Z"}
+{"level":"info","message":"👆 Attempting to click first result...","timestamp":"2026-02-06T01:48:43.275Z"}
+{"level":"info","message":"✅ OTA Click sent","timestamp":"2026-02-06T01:48:43.605Z"}
+{"level":"info","message":"📄 reading details...","timestamp":"2026-02-06T01:48:47.618Z"}
+{"level":"info","message":"✅ EXTRACTED: {\n  \"name\": \"EvoDent\",\n  \"phone\": \"555 10 70 00\",\n  \"website\": \"https://evodent.ge/\",\n  \"address\": \"13 o, Mikheil Tamarashvili St, Tbilisi 0177\"\n}","timestamp":"2026-02-06T01:48:47.649Z"}
+{"level":"info","message":"💾 Saved ID: 3","timestamp":"2026-02-06T01:48:47.666Z"}
