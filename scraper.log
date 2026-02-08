@@ -65,3 +65,621 @@
 {"level":"info","message":"📄 reading details...","timestamp":"2026-02-06T01:48:47.618Z"}
 {"level":"info","message":"✅ EXTRACTED: {\n  \"name\": \"EvoDent\",\n  \"phone\": \"555 10 70 00\",\n  \"website\": \"https://evodent.ge/\",\n  \"address\": \"13 o, Mikheil Tamarashvili St, Tbilisi 0177\"\n}","timestamp":"2026-02-06T01:48:47.649Z"}
 {"level":"info","message":"💾 Saved ID: 3","timestamp":"2026-02-06T01:48:47.666Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-06T20:04:13.686Z"}
+{"code":"ECONNREFUSED","level":"error","message":"❌ Fatal Error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-02-06T20:04:13.714Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T19:40:45.505Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-07T19:40:45.560Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T19:40:57.063Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T19:40:59.119Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-07T19:41:02.189Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-07T19:41:03.427Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-07T19:41:04.656Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links (prev: 44)","timestamp":"2026-02-07T19:41:05.880Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 58 links (prev: 44)","timestamp":"2026-02-07T19:41:07.095Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 58)","timestamp":"2026-02-07T19:41:08.315Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-07T19:41:09.545Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-07T19:41:10.791Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 78 links (prev: 78)","timestamp":"2026-02-07T19:41:12.156Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 78)","timestamp":"2026-02-07T19:41:13.368Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:41:14.583Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:41:15.803Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:41:17.020Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T19:41:17.021Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-07T19:41:17.023Z"}
+{"level":"info","message":"📋 Processing first 20 of 81 links...","timestamp":"2026-02-07T19:41:17.024Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T19:41:17.024Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:17.025Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T19:41:19.266Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 0: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:19.281Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T19:41:20.283Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:20.284Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T19:41:21.934Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 1: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:21.938Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T19:41:22.944Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:22.944Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T19:41:23.896Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 2: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:23.899Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T19:41:24.916Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:24.917Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T19:41:25.964Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 3: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:25.967Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T19:41:26.980Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:26.981Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T19:41:27.833Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 4: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:27.838Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T19:41:28.852Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:28.852Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T19:41:29.759Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 5: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:29.762Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T19:41:30.765Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:30.765Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T19:41:31.838Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 6: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:31.842Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T19:41:32.854Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Clinic+DENS+%E2%80%A2+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A1%E1%83%98/data=!4m7!3m6!1s0x4044733fbf3fd5d5:0xbd8428c415c681d7!8m2!3d41.7288588!4d44.7625519!16s%2Fg%2F11j8ksvlys!19sChIJ1dU_vz9zREAR14HGFcQohL0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:32.855Z"}
+{"level":"info","message":"✅ Extracted: Dental Clinic DENS • სტომატოლოგიური კლინიკა დენსი","timestamp":"2026-02-07T19:41:33.921Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 7: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:33.924Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T19:41:34.939Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:34.939Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T19:41:35.990Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 8: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:35.993Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T19:41:37.006Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:37.007Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T19:41:38.099Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 9: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:38.101Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T19:41:39.110Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:39.110Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T19:41:40.339Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 10: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:40.343Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T19:41:41.354Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:41.355Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T19:41:42.525Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 11: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:42.528Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T19:41:43.543Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:43.544Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T19:41:44.687Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 12: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:44.689Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T19:41:45.692Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:45.692Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T19:41:46.950Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 13: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:46.953Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T19:41:47.967Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:47.969Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T19:41:48.837Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 14: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:48.841Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T19:41:49.856Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:49.857Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T19:41:50.985Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 15: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:50.988Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T19:41:52.002Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:52.003Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T19:41:53.007Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 16: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:53.012Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T19:41:54.028Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:54.028Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T19:41:55.107Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 17: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:55.110Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T19:41:56.120Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:56.121Z"}
+{"level":"info","message":"✅ Extracted: Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-07T19:41:57.097Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 18: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:57.102Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T19:41:58.120Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:41:58.120Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T19:41:59.057Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 19: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:41:59.060Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T19:42:00.074Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T19:49:19.080Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-07T19:49:19.130Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T19:49:20.503Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T19:49:21.858Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 21 links (prev: 0)","timestamp":"2026-02-07T19:49:25.263Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 21 links (prev: 21)","timestamp":"2026-02-07T19:49:26.478Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 35 links (prev: 21)","timestamp":"2026-02-07T19:49:27.691Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 42 links (prev: 35)","timestamp":"2026-02-07T19:49:28.911Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 56 links (prev: 42)","timestamp":"2026-02-07T19:49:30.361Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 62 links (prev: 56)","timestamp":"2026-02-07T19:49:31.591Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 62 links (prev: 62)","timestamp":"2026-02-07T19:49:32.807Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 76 links (prev: 62)","timestamp":"2026-02-07T19:49:34.064Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 76 links (prev: 76)","timestamp":"2026-02-07T19:49:35.326Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 82 links (prev: 76)","timestamp":"2026-02-07T19:49:36.538Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 82 links (prev: 82)","timestamp":"2026-02-07T19:49:37.756Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 82 links (prev: 82)","timestamp":"2026-02-07T19:49:38.961Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 82 links (prev: 82)","timestamp":"2026-02-07T19:49:40.166Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T19:49:40.167Z"}
+{"level":"info","message":"✅ Collected 80 unique links.","timestamp":"2026-02-07T19:49:40.170Z"}
+{"level":"info","message":"📋 Processing first 20 of 80 links...","timestamp":"2026-02-07T19:49:40.170Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T19:49:40.171Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:40.171Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T19:49:42.113Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 0: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:42.131Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T19:49:43.132Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:43.133Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T19:49:44.990Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 1: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:44.994Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T19:49:46.002Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:46.002Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T19:49:47.245Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 2: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:47.248Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T19:49:48.253Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:48.254Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T19:49:49.470Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 3: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:49.473Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T19:49:50.480Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:50.480Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T19:49:51.524Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 4: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:51.527Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T19:49:52.536Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:52.536Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T19:49:53.706Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 5: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:53.709Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T19:49:54.718Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:54.718Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T19:49:56.628Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 6: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:56.642Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T19:49:57.654Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:57.655Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T19:49:58.801Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 7: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:49:58.805Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T19:49:59.820Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:49:59.820Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T19:50:01.110Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 8: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:01.113Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T19:50:02.117Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:02.117Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T19:50:03.273Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 9: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:03.276Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T19:50:04.276Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:04.277Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T19:50:05.673Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 10: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:05.676Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T19:50:06.685Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:06.685Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T19:50:08.001Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 11: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:08.004Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T19:50:09.013Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:09.013Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T19:50:10.439Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 12: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:10.442Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T19:50:11.450Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:11.450Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T19:50:12.790Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 13: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:12.793Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T19:50:13.799Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:13.800Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T19:50:15.189Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 14: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:15.192Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T19:50:16.196Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:16.197Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T19:50:17.432Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 15: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:17.437Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T19:50:18.455Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:18.455Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T19:50:19.769Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 16: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:19.771Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T19:50:20.774Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:20.775Z"}
+{"level":"info","message":"✅ Extracted: Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-07T19:50:21.930Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 17: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:21.933Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T19:50:22.949Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:22.949Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T19:50:24.251Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 18: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:24.254Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T19:50:25.265Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TM+DENTAL+CENTER+%7C+Dental+Clinic/data=!4m7!3m6!1s0x40446f81856c390f:0x7856ce2e6a1737e3!8m2!3d41.788362!4d44.7409771!16s%2Fg%2F11l5fbtddr!19sChIJDzlshYFvREAR4zcXai7OVng?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:50:25.266Z"}
+{"level":"info","message":"✅ Extracted: TM DENTAL CENTER | Dental Clinic","timestamp":"2026-02-07T19:50:26.451Z"}
+{"code":"42P01","file":"parse_relation.c","length":103,"level":"error","line":"1466","message":"❌ Failed to process item 19: relation \"Lead\" does not exist","name":"error","position":"38","routine":"parserOpenTable","severity":"ERROR","stack":"error: relation \"Lead\" does not exist\n    at D:\\lids1\\swarm-lead-scraper\\node_modules\\pg\\lib\\client.js:624:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:182:33)","timestamp":"2026-02-07T19:50:26.454Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T19:50:27.469Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T19:56:58.605Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-07T19:56:58.660Z"}
+{"level":"info","message":"✅ Database table \"Lead\" verified/created successfully.","timestamp":"2026-02-07T19:56:58.742Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T19:57:00.280Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T19:57:01.687Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-07T19:57:05.398Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-07T19:57:06.783Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-07T19:57:08.127Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 58 links (prev: 44)","timestamp":"2026-02-07T19:57:09.685Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 64 links (prev: 58)","timestamp":"2026-02-07T19:57:11.077Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 64)","timestamp":"2026-02-07T19:57:12.333Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-07T19:57:13.585Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-07T19:57:14.856Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 78 links (prev: 78)","timestamp":"2026-02-07T19:57:16.195Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 78)","timestamp":"2026-02-07T19:57:17.589Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:57:18.848Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:57:20.063Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 84 links (prev: 84)","timestamp":"2026-02-07T19:57:21.282Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T19:57:21.283Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-07T19:57:21.286Z"}
+{"level":"info","message":"📋 Processing first 20 of 81 links...","timestamp":"2026-02-07T19:57:21.286Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T19:57:21.287Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:21.287Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T19:57:23.541Z"}
+{"level":"info","message":"💾 Saved ID: 1","timestamp":"2026-02-07T19:57:23.556Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T19:57:24.565Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:24.565Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T19:57:26.058Z"}
+{"level":"info","message":"💾 Saved ID: 2","timestamp":"2026-02-07T19:57:26.064Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T19:57:27.065Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:27.065Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T19:57:27.994Z"}
+{"level":"info","message":"💾 Saved ID: 3","timestamp":"2026-02-07T19:57:28.001Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T19:57:29.007Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:29.008Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T19:57:29.987Z"}
+{"level":"info","message":"💾 Saved ID: 4","timestamp":"2026-02-07T19:57:29.993Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T19:57:30.999Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:31.000Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T19:57:31.865Z"}
+{"level":"info","message":"💾 Saved ID: 5","timestamp":"2026-02-07T19:57:31.875Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T19:57:32.875Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:32.876Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T19:57:33.866Z"}
+{"level":"info","message":"💾 Saved ID: 6","timestamp":"2026-02-07T19:57:33.873Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T19:57:34.883Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:34.884Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T19:57:35.879Z"}
+{"level":"info","message":"💾 Saved ID: 7","timestamp":"2026-02-07T19:57:35.886Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T19:57:36.895Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:36.896Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T19:57:37.849Z"}
+{"level":"info","message":"💾 Saved ID: 8","timestamp":"2026-02-07T19:57:37.856Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T19:57:38.862Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:38.863Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T19:57:39.978Z"}
+{"level":"info","message":"💾 Saved ID: 9","timestamp":"2026-02-07T19:57:39.985Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T19:57:40.994Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:40.994Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T19:57:42.158Z"}
+{"level":"info","message":"💾 Saved ID: 10","timestamp":"2026-02-07T19:57:42.176Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T19:57:43.189Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:43.190Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T19:57:44.183Z"}
+{"level":"info","message":"💾 Saved ID: 11","timestamp":"2026-02-07T19:57:44.190Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T19:57:45.207Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:45.207Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T19:57:46.145Z"}
+{"level":"info","message":"💾 Saved ID: 12","timestamp":"2026-02-07T19:57:46.153Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T19:57:47.161Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:47.162Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T19:57:48.196Z"}
+{"level":"info","message":"💾 Saved ID: 13","timestamp":"2026-02-07T19:57:48.203Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T19:57:49.207Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:49.207Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T19:57:50.171Z"}
+{"level":"info","message":"💾 Saved ID: 14","timestamp":"2026-02-07T19:57:50.177Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T19:57:51.183Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:51.184Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T19:57:52.205Z"}
+{"level":"info","message":"💾 Saved ID: 15","timestamp":"2026-02-07T19:57:52.212Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T19:57:53.221Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:53.222Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T19:57:54.147Z"}
+{"level":"info","message":"💾 Saved ID: 16","timestamp":"2026-02-07T19:57:54.152Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T19:57:55.161Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:55.162Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T19:57:56.157Z"}
+{"level":"info","message":"💾 Saved ID: 17","timestamp":"2026-02-07T19:57:56.164Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T19:57:57.173Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:57.174Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T19:57:58.092Z"}
+{"level":"info","message":"💾 Saved ID: 18","timestamp":"2026-02-07T19:57:58.106Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T19:57:59.120Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TM+DENTAL+CENTER+%7C+Dental+Clinic/data=!4m7!3m6!1s0x40446f81856c390f:0x7856ce2e6a1737e3!8m2!3d41.788362!4d44.7409771!16s%2Fg%2F11l5fbtddr!19sChIJDzlshYFvREAR4zcXai7OVng?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:57:59.120Z"}
+{"level":"info","message":"✅ Extracted: TM DENTAL CENTER | Dental Clinic","timestamp":"2026-02-07T19:58:00.233Z"}
+{"level":"info","message":"💾 Saved ID: 19","timestamp":"2026-02-07T19:58:00.238Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T19:58:01.241Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T19:58:01.241Z"}
+{"level":"info","message":"✅ Extracted: Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-07T19:58:02.318Z"}
+{"level":"info","message":"💾 Saved ID: 20","timestamp":"2026-02-07T19:58:02.324Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T19:58:03.333Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T20:05:20.814Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-07T20:05:20.864Z"}
+{"level":"info","message":"✅ Database table \"Lead\" verified/created successfully.","timestamp":"2026-02-07T20:05:20.868Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T20:05:22.137Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T20:05:23.707Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-07T20:05:26.600Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links (prev: 22)","timestamp":"2026-02-07T20:05:27.809Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 36 links (prev: 22)","timestamp":"2026-02-07T20:05:29.027Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links (prev: 36)","timestamp":"2026-02-07T20:05:30.261Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 44 links (prev: 44)","timestamp":"2026-02-07T20:05:31.476Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 58 links (prev: 44)","timestamp":"2026-02-07T20:05:32.683Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 64 links (prev: 58)","timestamp":"2026-02-07T20:05:33.900Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 64 links (prev: 64)","timestamp":"2026-02-07T20:05:35.111Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 78 links (prev: 64)","timestamp":"2026-02-07T20:05:36.371Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 78 links (prev: 78)","timestamp":"2026-02-07T20:05:37.596Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 78)","timestamp":"2026-02-07T20:05:38.887Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-07T20:05:40.106Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 84 links (prev: 84)","timestamp":"2026-02-07T20:05:41.323Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 84 links (prev: 84)","timestamp":"2026-02-07T20:05:42.536Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T20:05:42.536Z"}
+{"level":"info","message":"✅ Collected 82 unique links.","timestamp":"2026-02-07T20:05:42.542Z"}
+{"level":"info","message":"📋 Processing first 20 of 82 links...","timestamp":"2026-02-07T20:05:42.542Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T20:05:42.543Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:42.543Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T20:05:44.871Z"}
+{"level":"info","message":"💾 Saved ID: 21","timestamp":"2026-02-07T20:05:44.881Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T20:05:45.894Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:45.894Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T20:05:47.651Z"}
+{"level":"info","message":"💾 Saved ID: 22","timestamp":"2026-02-07T20:05:47.660Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T20:05:48.664Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:48.664Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T20:05:49.926Z"}
+{"level":"info","message":"💾 Saved ID: 23","timestamp":"2026-02-07T20:05:49.933Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T20:05:50.947Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:50.947Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T20:05:52.133Z"}
+{"level":"info","message":"💾 Saved ID: 24","timestamp":"2026-02-07T20:05:52.140Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T20:05:53.141Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:53.141Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T20:05:54.405Z"}
+{"level":"info","message":"💾 Saved ID: 25","timestamp":"2026-02-07T20:05:54.410Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T20:05:55.414Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:55.415Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T20:05:56.487Z"}
+{"level":"info","message":"💾 Saved ID: 26","timestamp":"2026-02-07T20:05:56.494Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T20:05:57.495Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:57.496Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T20:05:58.683Z"}
+{"level":"info","message":"💾 Saved ID: 27","timestamp":"2026-02-07T20:05:58.691Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T20:05:59.693Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:05:59.694Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T20:06:00.759Z"}
+{"level":"info","message":"💾 Saved ID: 28","timestamp":"2026-02-07T20:06:00.766Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T20:06:01.777Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:01.778Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T20:06:03.387Z"}
+{"level":"info","message":"💾 Saved ID: 29","timestamp":"2026-02-07T20:06:03.395Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T20:06:04.410Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:04.411Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T20:06:05.610Z"}
+{"level":"info","message":"💾 Saved ID: 30","timestamp":"2026-02-07T20:06:05.617Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T20:06:06.628Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:06.628Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T20:06:07.776Z"}
+{"level":"info","message":"💾 Saved ID: 31","timestamp":"2026-02-07T20:06:07.785Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T20:06:08.796Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:08.797Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T20:06:10.122Z"}
+{"level":"info","message":"💾 Saved ID: 32","timestamp":"2026-02-07T20:06:10.130Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T20:06:11.134Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:11.134Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T20:06:12.417Z"}
+{"level":"info","message":"💾 Saved ID: 33","timestamp":"2026-02-07T20:06:12.423Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T20:06:13.434Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:13.436Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T20:06:14.753Z"}
+{"level":"info","message":"💾 Saved ID: 34","timestamp":"2026-02-07T20:06:14.770Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T20:06:15.773Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:15.774Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T20:06:16.999Z"}
+{"level":"info","message":"💾 Saved ID: 35","timestamp":"2026-02-07T20:06:17.009Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T20:06:18.013Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:18.014Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T20:06:19.076Z"}
+{"level":"info","message":"💾 Saved ID: 36","timestamp":"2026-02-07T20:06:19.083Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T20:06:20.099Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:20.100Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T20:06:21.346Z"}
+{"level":"info","message":"💾 Saved ID: 37","timestamp":"2026-02-07T20:06:21.354Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T20:06:22.356Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:22.356Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T20:06:23.516Z"}
+{"level":"info","message":"💾 Saved ID: 38","timestamp":"2026-02-07T20:06:23.523Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T20:06:24.526Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TM+DENTAL+CENTER+%7C+Dental+Clinic/data=!4m7!3m6!1s0x40446f81856c390f:0x7856ce2e6a1737e3!8m2!3d41.788362!4d44.7409771!16s%2Fg%2F11l5fbtddr!19sChIJDzlshYFvREAR4zcXai7OVng?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:24.526Z"}
+{"level":"info","message":"✅ Extracted: TM DENTAL CENTER | Dental Clinic","timestamp":"2026-02-07T20:06:25.639Z"}
+{"level":"info","message":"💾 Saved ID: 39","timestamp":"2026-02-07T20:06:25.646Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T20:06:26.663Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:06:26.663Z"}
+{"level":"info","message":"✅ Extracted: Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-07T20:06:27.773Z"}
+{"level":"info","message":"💾 Saved ID: 40","timestamp":"2026-02-07T20:06:27.779Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T20:06:28.781Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T20:23:30.250Z"}
+{"code":"ECONNREFUSED","level":"error","message":"❌ Fatal Error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-02-07T20:23:30.279Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T20:27:01.631Z"}
+{"code":"ECONNREFUSED","level":"error","message":"❌ Fatal Error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-02-07T20:27:01.660Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T20:29:09.616Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-07T20:29:09.667Z"}
+{"level":"info","message":"✅ Database table \"Lead\" verified/created successfully.","timestamp":"2026-02-07T20:29:09.739Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T20:29:11.041Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T20:29:12.526Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-07T20:29:15.661Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-07T20:29:16.930Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-07T20:29:18.211Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 58 links (prev: 44)","timestamp":"2026-02-07T20:29:19.647Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 64 links (prev: 58)","timestamp":"2026-02-07T20:29:21.151Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 64)","timestamp":"2026-02-07T20:29:22.404Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-07T20:29:23.619Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 84 links (prev: 78)","timestamp":"2026-02-07T20:29:24.832Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 98 links (prev: 84)","timestamp":"2026-02-07T20:29:26.132Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 98 links (prev: 98)","timestamp":"2026-02-07T20:29:27.434Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 98 links (prev: 98)","timestamp":"2026-02-07T20:29:28.714Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 104 links (prev: 98)","timestamp":"2026-02-07T20:29:29.987Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 104 links (prev: 104)","timestamp":"2026-02-07T20:29:31.200Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 104 links (prev: 104)","timestamp":"2026-02-07T20:29:32.422Z"}
+{"level":"info","message":"🔄 Scroll attempt 15: Found 104 links (prev: 104)","timestamp":"2026-02-07T20:29:33.641Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T20:29:33.642Z"}
+{"level":"info","message":"✅ Collected 101 unique links.","timestamp":"2026-02-07T20:29:33.648Z"}
+{"level":"info","message":"📋 Processing first 20 of 101 links...","timestamp":"2026-02-07T20:29:33.650Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T20:29:33.651Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:33.652Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T20:29:35.667Z"}
+{"level":"info","message":"💾 Saved ID: 1","timestamp":"2026-02-07T20:29:35.688Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T20:29:36.701Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:36.702Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T20:29:38.174Z"}
+{"level":"info","message":"💾 Saved ID: 2","timestamp":"2026-02-07T20:29:38.181Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T20:29:39.183Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:39.184Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T20:29:40.591Z"}
+{"level":"info","message":"💾 Saved ID: 3","timestamp":"2026-02-07T20:29:40.597Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T20:29:41.641Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:41.641Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T20:29:43.082Z"}
+{"level":"info","message":"💾 Saved ID: 4","timestamp":"2026-02-07T20:29:43.087Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T20:29:44.094Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:44.095Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T20:29:45.151Z"}
+{"level":"info","message":"💾 Saved ID: 5","timestamp":"2026-02-07T20:29:45.158Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T20:29:46.159Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:46.159Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T20:29:47.481Z"}
+{"level":"info","message":"💾 Saved ID: 6","timestamp":"2026-02-07T20:29:47.489Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T20:29:48.498Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:48.498Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T20:29:49.743Z"}
+{"level":"info","message":"💾 Saved ID: 7","timestamp":"2026-02-07T20:29:49.748Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T20:29:50.751Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Clinic+DENS+%E2%80%A2+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A1%E1%83%98/data=!4m7!3m6!1s0x4044733fbf3fd5d5:0xbd8428c415c681d7!8m2!3d41.7288588!4d44.7625519!16s%2Fg%2F11j8ksvlys!19sChIJ1dU_vz9zREAR14HGFcQohL0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:50.751Z"}
+{"level":"info","message":"✅ Extracted: Dental Clinic DENS • სტომატოლოგიური კლინიკა დენსი","timestamp":"2026-02-07T20:29:51.883Z"}
+{"level":"info","message":"💾 Saved ID: 8","timestamp":"2026-02-07T20:29:51.890Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T20:29:52.900Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:52.900Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T20:29:54.038Z"}
+{"level":"info","message":"💾 Saved ID: 9","timestamp":"2026-02-07T20:29:54.046Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T20:29:55.060Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:55.060Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T20:29:56.181Z"}
+{"level":"info","message":"💾 Saved ID: 10","timestamp":"2026-02-07T20:29:56.188Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T20:29:57.192Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:57.193Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T20:29:58.322Z"}
+{"level":"info","message":"💾 Saved ID: 11","timestamp":"2026-02-07T20:29:58.332Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T20:29:59.348Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:29:59.349Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T20:30:00.532Z"}
+{"level":"info","message":"💾 Saved ID: 12","timestamp":"2026-02-07T20:30:00.539Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T20:30:01.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:01.542Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T20:30:02.836Z"}
+{"level":"info","message":"💾 Saved ID: 13","timestamp":"2026-02-07T20:30:02.841Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T20:30:03.855Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:03.856Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T20:30:05.200Z"}
+{"level":"info","message":"💾 Saved ID: 14","timestamp":"2026-02-07T20:30:05.207Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T20:30:06.210Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:06.211Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T20:30:07.354Z"}
+{"level":"info","message":"💾 Saved ID: 15","timestamp":"2026-02-07T20:30:07.364Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T20:30:08.377Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:08.378Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T20:30:09.583Z"}
+{"level":"info","message":"💾 Saved ID: 16","timestamp":"2026-02-07T20:30:09.591Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T20:30:10.602Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:10.603Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T20:30:11.747Z"}
+{"level":"info","message":"💾 Saved ID: 17","timestamp":"2026-02-07T20:30:11.754Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T20:30:12.755Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:12.756Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T20:30:14.026Z"}
+{"level":"info","message":"💾 Saved ID: 18","timestamp":"2026-02-07T20:30:14.035Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T20:30:15.037Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TM+DENTAL+CENTER+%7C+Dental+Clinic/data=!4m7!3m6!1s0x40446f81856c390f:0x7856ce2e6a1737e3!8m2!3d41.788362!4d44.7409771!16s%2Fg%2F11l5fbtddr!19sChIJDzlshYFvREAR4zcXai7OVng?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:15.037Z"}
+{"level":"info","message":"✅ Extracted: TM DENTAL CENTER | Dental Clinic","timestamp":"2026-02-07T20:30:16.630Z"}
+{"level":"info","message":"💾 Saved ID: 19","timestamp":"2026-02-07T20:30:16.637Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T20:30:17.648Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T20:30:17.652Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T20:30:19.175Z"}
+{"level":"info","message":"💾 Saved ID: 20","timestamp":"2026-02-07T20:30:19.182Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T20:30:20.191Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-07T21:46:12.025Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-07T21:46:12.080Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in tbilisi?hl=en","timestamp":"2026-02-07T21:46:14.070Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-07T21:46:15.622Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-07T21:46:19.190Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links (prev: 22)","timestamp":"2026-02-07T21:46:20.529Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 36 links (prev: 22)","timestamp":"2026-02-07T21:46:21.743Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links (prev: 36)","timestamp":"2026-02-07T21:46:22.996Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 58 links (prev: 44)","timestamp":"2026-02-07T21:46:24.741Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 58)","timestamp":"2026-02-07T21:46:26.006Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-07T21:46:27.245Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-07T21:46:28.506Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 78 links (prev: 78)","timestamp":"2026-02-07T21:46:29.821Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 78)","timestamp":"2026-02-07T21:46:31.051Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-07T21:46:32.259Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-07T21:46:33.473Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 84 links (prev: 84)","timestamp":"2026-02-07T21:46:34.691Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-07T21:46:34.692Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-07T21:46:34.695Z"}
+{"level":"info","message":"📋 Processing first 20 of 81 links...","timestamp":"2026-02-07T21:46:34.695Z"}
+{"level":"info","message":"--- [1/20] ---","timestamp":"2026-02-07T21:46:34.696Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:34.697Z"}
+{"level":"info","message":"✅ Extracted: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-07T21:46:37.275Z"}
+{"level":"info","message":"💾 Saved ID: d99131ac-0bec-4712-8ec4-2935f1ad3d7d","timestamp":"2026-02-07T21:46:37.639Z"}
+{"level":"info","message":"--- [2/20] ---","timestamp":"2026-02-07T21:46:38.648Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:38.649Z"}
+{"level":"info","message":"✅ Extracted: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-07T21:46:40.620Z"}
+{"level":"info","message":"💾 Saved ID: 851414ce-5c6a-4b50-99bb-8e539ee6466f","timestamp":"2026-02-07T21:46:40.634Z"}
+{"level":"info","message":"--- [3/20] ---","timestamp":"2026-02-07T21:46:41.635Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:41.636Z"}
+{"level":"info","message":"✅ Extracted: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-07T21:46:42.866Z"}
+{"level":"info","message":"💾 Saved ID: a4414ee3-2450-40b7-8cbd-3b3c4e28812a","timestamp":"2026-02-07T21:46:42.876Z"}
+{"level":"info","message":"--- [4/20] ---","timestamp":"2026-02-07T21:46:43.890Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:43.890Z"}
+{"level":"info","message":"✅ Extracted: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-07T21:46:45.114Z"}
+{"level":"info","message":"💾 Saved ID: 4ec3aedb-5a76-46c7-b7f9-1ac1066456d8","timestamp":"2026-02-07T21:46:45.169Z"}
+{"level":"info","message":"--- [5/20] ---","timestamp":"2026-02-07T21:46:46.179Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Algani+Dent/data=!4m7!3m6!1s0x404472cf8ad85c9b:0x68c5aee6b087ccab!8m2!3d41.7263957!4d44.7853789!16s%2Fg%2F11c7vgb56d!19sChIJm1zYis9yREARq8yHsOauxWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:46.180Z"}
+{"level":"info","message":"✅ Extracted: Algani Dent","timestamp":"2026-02-07T21:46:47.359Z"}
+{"level":"info","message":"💾 Saved ID: fab96813-63da-4433-87d8-16014d6462d7","timestamp":"2026-02-07T21:46:47.368Z"}
+{"level":"info","message":"--- [6/20] ---","timestamp":"2026-02-07T21:46:48.382Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Dental+%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%9C+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98/data=!4m7!3m6!1s0x404473acbe2dd80b:0xaf615412f65d9cdc!8m2!3d41.7205253!4d44.7633812!16s%2Fg%2F11sdwkt79s!19sChIJC9gtvqxzREAR3Jxd9hJUYa8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:48.382Z"}
+{"level":"info","message":"✅ Extracted: Modern Dental მოდერნ დენტალი","timestamp":"2026-02-07T21:46:49.628Z"}
+{"level":"info","message":"💾 Saved ID: 144a2852-be2c-4448-a340-cd1382a77531","timestamp":"2026-02-07T21:46:49.636Z"}
+{"level":"info","message":"--- [7/20] ---","timestamp":"2026-02-07T21:46:50.639Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:50.640Z"}
+{"level":"info","message":"✅ Extracted: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-07T21:46:51.745Z"}
+{"level":"info","message":"💾 Saved ID: 833d91ee-f522-44cd-84f9-111e7d9343c0","timestamp":"2026-02-07T21:46:51.755Z"}
+{"level":"info","message":"--- [8/20] ---","timestamp":"2026-02-07T21:46:52.759Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Clinic+DENS+%E2%80%A2+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A1%E1%83%98/data=!4m7!3m6!1s0x4044733fbf3fd5d5:0xbd8428c415c681d7!8m2!3d41.7288588!4d44.7625519!16s%2Fg%2F11j8ksvlys!19sChIJ1dU_vz9zREAR14HGFcQohL0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:52.759Z"}
+{"level":"info","message":"✅ Extracted: Dental Clinic DENS • სტომატოლოგიური კლინიკა დენსი","timestamp":"2026-02-07T21:46:54.104Z"}
+{"level":"info","message":"💾 Saved ID: ec08836e-367f-4dc1-9b29-8858cc5a4dd6","timestamp":"2026-02-07T21:46:54.112Z"}
+{"level":"info","message":"--- [9/20] ---","timestamp":"2026-02-07T21:46:55.118Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Universe+Dental/data=!4m7!3m6!1s0x404473275d0d02ab:0xee0e589e57228862!8m2!3d41.7221608!4d44.7683242!16s%2Fg%2F11bzs436qk!19sChIJqwINXSdzREARYogiV55YDu4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:55.119Z"}
+{"level":"info","message":"✅ Extracted: Universe Dental","timestamp":"2026-02-07T21:46:56.365Z"}
+{"level":"info","message":"💾 Saved ID: 496467c3-f284-4ea6-ab22-a2806882aa38","timestamp":"2026-02-07T21:46:56.377Z"}
+{"level":"info","message":"--- [10/20] ---","timestamp":"2026-02-07T21:46:57.385Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentistry/data=!4m7!3m6!1s0x404473d8cbc509b9:0x9f7d426babae2b75!8m2!3d41.7230087!4d44.7735135!16s%2Fg%2F11h07f1r4r!19sChIJuQnFy9hzREARdSuuq2tCfZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:57.385Z"}
+{"level":"info","message":"✅ Extracted: Dentistry","timestamp":"2026-02-07T21:46:58.440Z"}
+{"level":"info","message":"💾 Saved ID: 616d386b-442a-40ac-97bc-c8c79fdf0f38","timestamp":"2026-02-07T21:46:58.451Z"}
+{"level":"info","message":"--- [11/20] ---","timestamp":"2026-02-07T21:46:59.460Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Centre/data=!4m7!3m6!1s0x404473241ceb1f9b:0x64d542c911a6f695!8m2!3d41.7199164!4d44.7628099!16s%2Fg%2F11c37_nrvn!19sChIJmx_rHCRzREARlfamEclC1WQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:46:59.460Z"}
+{"level":"info","message":"✅ Extracted: Dental Centre","timestamp":"2026-02-07T21:47:00.670Z"}
+{"level":"info","message":"💾 Saved ID: 00eed5c0-c533-402c-8a21-3cc32c204527","timestamp":"2026-02-07T21:47:00.679Z"}
+{"level":"info","message":"--- [12/20] ---","timestamp":"2026-02-07T21:47:01.680Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+clinic+Doctor+Smile/data=!4m7!3m6!1s0x404473050b175047:0xdd3aaebbad51ea6a!8m2!3d41.7265009!4d44.7991946!16s%2Fg%2F11rsrhfvvz!19sChIJR1AXCwVzREARaupRrbuuOt0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:01.680Z"}
+{"level":"info","message":"✅ Extracted: Dental clinic Doctor Smile","timestamp":"2026-02-07T21:47:02.809Z"}
+{"level":"info","message":"💾 Saved ID: e213bd85-aed6-42ad-8e9b-4556ff400dee","timestamp":"2026-02-07T21:47:02.840Z"}
+{"level":"info","message":"--- [13/20] ---","timestamp":"2026-02-07T21:47:03.856Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:03.857Z"}
+{"level":"info","message":"✅ Extracted: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-07T21:47:05.231Z"}
+{"level":"info","message":"💾 Saved ID: 113a4390-0afe-47c1-b089-039d1a546ead","timestamp":"2026-02-07T21:47:05.242Z"}
+{"level":"info","message":"--- [14/20] ---","timestamp":"2026-02-07T21:47:06.248Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:06.252Z"}
+{"level":"info","message":"✅ Extracted: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-07T21:47:07.538Z"}
+{"level":"info","message":"💾 Saved ID: 30a4ae2b-3cec-4926-a72f-2f2d00e9ad66","timestamp":"2026-02-07T21:47:07.545Z"}
+{"level":"info","message":"--- [15/20] ---","timestamp":"2026-02-07T21:47:08.552Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%A5%E1%83%A1%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98+%2F+MaxiDent/data=!4m7!3m6!1s0x404473c5572ba16d:0x42d1566224ef3835!8m2!3d41.7239334!4d44.7443634!16s%2Fg%2F11ts382j53!19sChIJbaErV8VzREARNTjvJGJW0UI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:08.553Z"}
+{"level":"info","message":"✅ Extracted: მაქსიდენტი / MaxiDent","timestamp":"2026-02-07T21:47:09.872Z"}
+{"level":"info","message":"💾 Saved ID: 8901ed68-7545-494b-b9bd-e2902c4cd8ac","timestamp":"2026-02-07T21:47:09.884Z"}
+{"level":"info","message":"--- [16/20] ---","timestamp":"2026-02-07T21:47:10.890Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:10.890Z"}
+{"level":"info","message":"✅ Extracted: Dream Dental & Aesthetic Group","timestamp":"2026-02-07T21:47:12.360Z"}
+{"level":"info","message":"💾 Saved ID: a79aaa8b-1268-46b8-a619-7361f57a356f","timestamp":"2026-02-07T21:47:12.408Z"}
+{"level":"info","message":"--- [17/20] ---","timestamp":"2026-02-07T21:47:13.413Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:13.413Z"}
+{"level":"info","message":"✅ Extracted: Dental House","timestamp":"2026-02-07T21:47:15.239Z"}
+{"level":"info","message":"💾 Saved ID: 89ec011a-b1a1-4f83-ad3b-d9a1ea492f6a","timestamp":"2026-02-07T21:47:15.247Z"}
+{"level":"info","message":"--- [18/20] ---","timestamp":"2026-02-07T21:47:16.262Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%AA%E1%83%9D+%E1%83%A5%E1%83%95%E1%83%90%E1%83%A0%E1%83%AA%E1%83%AE%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+MQ+DENTAL+CLINIC/data=!4m7!3m6!1s0x404473bf5317ebab:0xaa83b4107120a9ee!8m2!3d41.7212628!4d44.7762499!16s%2Fg%2F11r3lrnvvq!19sChIJq-sXU79zREAR7qkgcRC0g6o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:16.263Z"}
+{"level":"info","message":"✅ Extracted: მაცაცო ქვარცხავას სტომატოლოგიური კლინიკა MQ DENTAL CLINIC","timestamp":"2026-02-07T21:47:17.707Z"}
+{"level":"info","message":"💾 Saved ID: e4aa9a5d-4179-452c-9cda-747cdd07ca57","timestamp":"2026-02-07T21:47:17.718Z"}
+{"level":"info","message":"--- [19/20] ---","timestamp":"2026-02-07T21:47:18.721Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TM+DENTAL+CENTER+%7C+Dental+Clinic/data=!4m7!3m6!1s0x40446f81856c390f:0x7856ce2e6a1737e3!8m2!3d41.788362!4d44.7409771!16s%2Fg%2F11l5fbtddr!19sChIJDzlshYFvREAR4zcXai7OVng?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:18.721Z"}
+{"level":"info","message":"✅ Extracted: TM DENTAL CENTER | Dental Clinic","timestamp":"2026-02-07T21:47:20.302Z"}
+{"level":"info","message":"💾 Saved ID: 9bdc3147-dbb8-45b2-ab45-62e900ce5a8d","timestamp":"2026-02-07T21:47:20.316Z"}
+{"level":"info","message":"--- [20/20] ---","timestamp":"2026-02-07T21:47:21.322Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dento+Group+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D+%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98/data=!4m7!3m6!1s0x4044730079359feb:0x6c95550d3a8e0e8a!8m2!3d41.7213839!4d44.7806208!16s%2Fg%2F11sj298j2h!19sChIJ6581eQBzREARig6OOg1VlWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-07T21:47:21.322Z"}
+{"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T21:47:22.826Z"}
+{"level":"info","message":"💾 Saved ID: 180eea36-0a09-4274-a2e3-0f94d76097f7","timestamp":"2026-02-07T21:47:22.832Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T21:47:23.843Z"}
