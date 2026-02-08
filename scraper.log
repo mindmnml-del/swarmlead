@@ -863,3 +863,61 @@
 {"level":"info","message":"💾 Saved ID: 5c8bd614-ee03-4a9d-aebe-27b1f6d7b1bb","timestamp":"2026-02-08T19:38:11.528Z"}
 {"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:38:12.531Z"}
 {"level":"info","message":"✅ CSV exported to: leads_2026-02-08T19-38-12.csv","timestamp":"2026-02-08T19:38:12.533Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:55:36.749Z"}
+{"level":"info","message":"📝 Query: \"dentists in tbilisi\"","timestamp":"2026-02-08T19:55:36.753Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-08T19:55:36.754Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T19:55:36.755Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:55:36.797Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-08T19:55:38.468Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:55:39.929Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-08T19:55:43.092Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-08T19:55:44.485Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-08T19:55:45.877Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 58 links (prev: 44)","timestamp":"2026-02-08T19:55:47.482Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 64 links (prev: 58)","timestamp":"2026-02-08T19:55:48.829Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 64)","timestamp":"2026-02-08T19:55:50.036Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-08T19:55:51.304Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-08T19:55:52.595Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 84 links (prev: 78)","timestamp":"2026-02-08T19:55:53.847Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:55:55.058Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:55:56.272Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:55:57.480Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:55:57.481Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-08T19:55:57.483Z"}
+{"level":"info","message":"📋 Processing first 5 of 81 links...","timestamp":"2026-02-08T19:55:57.484Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:55:57.490Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:56:00.608Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:56:03.137Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:56:05.402Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:56:07.640Z"}
+{"level":"info","message":"Summary: saved=5, duplicates=0, failed=0","timestamp":"2026-02-08T19:56:09.901Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-08T19-56-09.csv","timestamp":"2026-02-08T19:56:09.904Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:57:16.650Z"}
+{"level":"info","message":"📝 Query: \"dentists in tbilisi\"","timestamp":"2026-02-08T19:57:16.654Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-08T19:57:16.654Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T19:57:16.655Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:57:16.694Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-08T19:57:18.262Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:57:21.302Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-08T19:57:27.110Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-08T19:57:28.465Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-08T19:57:29.683Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links (prev: 44)","timestamp":"2026-02-08T19:57:30.938Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 58 links (prev: 44)","timestamp":"2026-02-08T19:57:32.145Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 58)","timestamp":"2026-02-08T19:57:33.358Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-08T19:57:34.716Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-08T19:57:35.943Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 78 links (prev: 78)","timestamp":"2026-02-08T19:57:37.190Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 78)","timestamp":"2026-02-08T19:57:38.492Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:57:39.702Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:57:40.909Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 84 links (prev: 84)","timestamp":"2026-02-08T19:57:42.125Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:57:42.126Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-08T19:57:42.129Z"}
+{"level":"info","message":"📋 Processing first 5 of 81 links...","timestamp":"2026-02-08T19:57:42.129Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:42.136Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:45.247Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:47.897Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:49.956Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:52.068Z"}
+{"level":"info","message":"Summary: saved=0, duplicates=5, failed=0","timestamp":"2026-02-08T19:57:54.169Z"}
