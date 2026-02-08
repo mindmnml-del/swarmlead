@@ -683,3 +683,52 @@
 {"level":"info","message":"✅ Extracted: Dento Group დენტო გრუპი","timestamp":"2026-02-07T21:47:22.826Z"}
 {"level":"info","message":"💾 Saved ID: 180eea36-0a09-4274-a2e3-0f94d76097f7","timestamp":"2026-02-07T21:47:22.832Z"}
 {"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-07T21:47:23.843Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:22:50.919Z"}
+{"level":"info","message":"📝 Query: \"cafes in paris\"","timestamp":"2026-02-08T19:22:50.924Z"}
+{"level":"info","message":"🎯 Max Results: 2","timestamp":"2026-02-08T19:22:50.924Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-08T19:22:50.925Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:22:51.729Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/cafes+in+paris?hl=en","timestamp":"2026-02-08T19:23:02.474Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:23:03.872Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 8 links (prev: 0)","timestamp":"2026-02-08T19:23:07.167Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 12 links (prev: 8)","timestamp":"2026-02-08T19:23:08.371Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 16 links (prev: 12)","timestamp":"2026-02-08T19:23:09.587Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 20 links (prev: 16)","timestamp":"2026-02-08T19:23:10.804Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 20 links (prev: 20)","timestamp":"2026-02-08T19:23:12.024Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 24 links (prev: 20)","timestamp":"2026-02-08T19:23:13.229Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 28 links (prev: 24)","timestamp":"2026-02-08T19:23:14.444Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 32 links (prev: 28)","timestamp":"2026-02-08T19:23:15.657Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 36 links (prev: 32)","timestamp":"2026-02-08T19:23:16.865Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 40 links (prev: 36)","timestamp":"2026-02-08T19:23:18.076Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 42 links (prev: 40)","timestamp":"2026-02-08T19:23:19.293Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 42 links (prev: 42)","timestamp":"2026-02-08T19:23:20.505Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 46 links (prev: 42)","timestamp":"2026-02-08T19:23:21.718Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 50 links (prev: 46)","timestamp":"2026-02-08T19:23:22.940Z"}
+{"level":"info","message":"🔄 Scroll attempt 15: Found 54 links (prev: 50)","timestamp":"2026-02-08T19:23:24.157Z"}
+{"level":"info","message":"🔄 Scroll attempt 16: Found 58 links (prev: 54)","timestamp":"2026-02-08T19:23:25.369Z"}
+{"level":"info","message":"🔄 Scroll attempt 17: Found 62 links (prev: 58)","timestamp":"2026-02-08T19:23:26.583Z"}
+{"level":"info","message":"🔄 Scroll attempt 18: Found 62 links (prev: 62)","timestamp":"2026-02-08T19:23:27.801Z"}
+{"level":"info","message":"🔄 Scroll attempt 19: Found 66 links (prev: 62)","timestamp":"2026-02-08T19:23:29.013Z"}
+{"level":"info","message":"🔄 Scroll attempt 20: Found 70 links (prev: 66)","timestamp":"2026-02-08T19:23:30.224Z"}
+{"level":"info","message":"🔄 Scroll attempt 21: Found 74 links (prev: 70)","timestamp":"2026-02-08T19:23:31.439Z"}
+{"level":"info","message":"🔄 Scroll attempt 22: Found 78 links (prev: 74)","timestamp":"2026-02-08T19:23:32.651Z"}
+{"level":"info","message":"🔄 Scroll attempt 23: Found 82 links (prev: 78)","timestamp":"2026-02-08T19:23:33.864Z"}
+{"level":"info","message":"🔄 Scroll attempt 24: Found 82 links (prev: 82)","timestamp":"2026-02-08T19:23:35.068Z"}
+{"level":"info","message":"🔄 Scroll attempt 25: Found 86 links (prev: 82)","timestamp":"2026-02-08T19:23:36.285Z"}
+{"level":"info","message":"🔄 Scroll attempt 26: Found 90 links (prev: 86)","timestamp":"2026-02-08T19:23:37.502Z"}
+{"level":"info","message":"🔄 Scroll attempt 27: Found 90 links (prev: 90)","timestamp":"2026-02-08T19:23:38.713Z"}
+{"level":"info","message":"🔄 Scroll attempt 28: Found 90 links (prev: 90)","timestamp":"2026-02-08T19:23:39.924Z"}
+{"level":"info","message":"🔄 Scroll attempt 29: Found 90 links (prev: 90)","timestamp":"2026-02-08T19:23:41.140Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:23:41.140Z"}
+{"level":"info","message":"✅ Collected 90 unique links.","timestamp":"2026-02-08T19:23:41.145Z"}
+{"level":"info","message":"📋 Processing first 2 of 90 links...","timestamp":"2026-02-08T19:23:41.145Z"}
+{"level":"info","message":"--- [1/2] ---","timestamp":"2026-02-08T19:23:41.146Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Caf%C3%A9+d%E2%80%99Auteur+-+Specialty+Coffee+shop+%26+roaster/data=!4m7!3m6!1s0x47e6716b341278c9:0x42925abdb9dd5f03!8m2!3d48.854221!4d2.338259!16s%2Fg%2F11m_dd_szg!19sChIJyXgSNGtx5kcRA1_dub1akkI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:23:41.146Z"}
+{"level":"info","message":"✅ Extracted: Café d’Auteur - Specialty Coffee shop & roaster","timestamp":"2026-02-08T19:23:44.142Z"}
+{"clientVersion":"5.22.0","code":"P2021","level":"error","message":"❌ Failed to process item 0: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.","meta":{"modelName":"Company","table":"public.companies"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.\n    at $n.handleRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:7315)\n    at $n.handleAndLogRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6623)\n    at $n.request (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6307)\n    at async l (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:37)","timestamp":"2026-02-08T19:23:44.337Z"}
+{"level":"info","message":"--- [2/2] ---","timestamp":"2026-02-08T19:23:45.347Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Caf%C3%A9oth%C3%A8que+of+Paris/data=!4m7!3m6!1s0x47e671fd3387e0dd:0x174ea8ece7dffa45!8m2!3d48.8544525!4d2.3557667!16s%2Fg%2F1ttq1d_3!19sChIJ3eCHM_1x5kcRRfrf5-yoThc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:23:45.348Z"}
+{"level":"info","message":"✅ Extracted: The Caféothèque of Paris","timestamp":"2026-02-08T19:23:47.360Z"}
+{"clientVersion":"5.22.0","code":"P2021","level":"error","message":"❌ Failed to process item 1: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.","meta":{"modelName":"Company","table":"public.companies"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.\n    at $n.handleRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:7315)\n    at $n.handleAndLogRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6623)\n    at $n.request (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6307)\n    at async l (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:37)","timestamp":"2026-02-08T19:23:47.374Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:23:48.385Z"}
+{"level":"warn","message":"⚠️ No companies scraped, skipping CSV export.","timestamp":"2026-02-08T19:23:48.385Z"}
