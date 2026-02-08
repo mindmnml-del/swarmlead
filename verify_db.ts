@@ -11,12 +11,12 @@ async function verifyData() {
         await client.connect();
 
         console.log("🔍 Checking Database...");
-        const res = await client.query('SELECT * FROM "Lead" ORDER BY id DESC LIMIT 5');
+        const res = await client.query('SELECT * FROM "companies" ORDER BY created_at DESC LIMIT 5');
 
         console.table(res.rows); // Prints data in a nice table
 
         if (res.rows.length > 0) {
-            console.log(`✅ Success! Found ${res.rows.length} leads in the database.`);
+            console.log(`✅ Success! Found ${res.rows.length} companies in the database.`);
         } else {
             console.log("⚠️ Database is empty.");
         }

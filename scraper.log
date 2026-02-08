@@ -732,3 +732,134 @@
 {"clientVersion":"5.22.0","code":"P2021","level":"error","message":"❌ Failed to process item 1: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.","meta":{"modelName":"Company","table":"public.companies"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.\n    at $n.handleRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:7315)\n    at $n.handleAndLogRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6623)\n    at $n.request (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6307)\n    at async l (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:37)","timestamp":"2026-02-08T19:23:47.374Z"}
 {"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:23:48.385Z"}
 {"level":"warn","message":"⚠️ No companies scraped, skipping CSV export.","timestamp":"2026-02-08T19:23:48.385Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:26:32.305Z"}
+{"level":"info","message":"📝 Query: \"coffee shops in london\"","timestamp":"2026-02-08T19:26:32.309Z"}
+{"level":"info","message":"🎯 Max Results: 2","timestamp":"2026-02-08T19:26:32.310Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T19:26:32.310Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:26:32.349Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/coffee+shops+in+london?hl=en","timestamp":"2026-02-08T19:26:33.628Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:26:35.104Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T19:26:38.561Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links (prev: 20)","timestamp":"2026-02-08T19:26:39.776Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 30 links (prev: 20)","timestamp":"2026-02-08T19:26:40.988Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 40 links (prev: 30)","timestamp":"2026-02-08T19:26:42.199Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 42 links (prev: 40)","timestamp":"2026-02-08T19:26:43.410Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 42 links (prev: 42)","timestamp":"2026-02-08T19:26:44.632Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 52 links (prev: 42)","timestamp":"2026-02-08T19:26:45.850Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 62 links (prev: 52)","timestamp":"2026-02-08T19:26:47.134Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 62 links (prev: 62)","timestamp":"2026-02-08T19:26:48.345Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 62 links (prev: 62)","timestamp":"2026-02-08T19:26:49.556Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 62 links (prev: 62)","timestamp":"2026-02-08T19:26:50.774Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:26:50.774Z"}
+{"level":"info","message":"✅ Collected 61 unique links.","timestamp":"2026-02-08T19:26:50.777Z"}
+{"level":"info","message":"📋 Processing first 2 of 61 links...","timestamp":"2026-02-08T19:26:50.777Z"}
+{"level":"info","message":"--- [1/2] ---","timestamp":"2026-02-08T19:26:50.778Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/London+Spot+-+%E1%83%9A%E1%83%9D%E1%83%9C%E1%83%93%E1%83%9D%E1%83%9C+%E1%83%A1%E1%83%A4%E1%83%9D%E1%83%97%E1%83%98+%28%E1%83%A1%E1%83%90%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98%29/data=!4m7!3m6!1s0x40446de9bd5ab55b:0x7e8769d2b0c8df09!8m2!3d41.7559487!4d44.7892777!16s%2Fg%2F11l6h_6lf4!19sChIJW7VaveltREARCd_IsNJph34?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:26:50.778Z"}
+{"level":"info","message":"✅ Extracted: London Spot - ლონდონ სფოთი (საწყობი)","timestamp":"2026-02-08T19:26:53.150Z"}
+{"clientVersion":"5.22.0","code":"P2021","level":"error","message":"❌ Failed to process item 0: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.","meta":{"modelName":"Company","table":"public.companies"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.\n    at $n.handleRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:7315)\n    at $n.handleAndLogRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6623)\n    at $n.request (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6307)\n    at async l (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:37)","timestamp":"2026-02-08T19:26:53.170Z"}
+{"level":"info","message":"--- [2/2] ---","timestamp":"2026-02-08T19:26:54.171Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Drury+Covent+Garden+%7C+Cafe+%26+Brunch/data=!4m7!3m6!1s0x48761b335cadcf35:0x7f5399cd5349bd2b!8m2!3d51.5160905!4d-0.123997!16s%2Fg%2F11c5wy8bnx!19sChIJNc-tXDMbdkgRK71JU82ZU38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:26:54.171Z"}
+{"level":"info","message":"✅ Extracted: Drury Covent Garden | Cafe & Brunch","timestamp":"2026-02-08T19:26:56.275Z"}
+{"clientVersion":"5.22.0","code":"P2021","level":"error","message":"❌ Failed to process item 1: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.","meta":{"modelName":"Company","table":"public.companies"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.company.create()` invocation in\nD:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:58\n\n  198 \n  199 // Save to DB\n  200  if (data.name !== 'Unknown Name') {\n→ 201     const company = await prisma.company.create(\nThe table `public.companies` does not exist in the current database.\n    at $n.handleRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:7315)\n    at $n.handleAndLogRequestError (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6623)\n    at $n.request (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:121:6307)\n    at async l (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async main (D:\\lids1\\swarm-lead-scraper\\src\\index.ts:201:37)","timestamp":"2026-02-08T19:26:56.285Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:26:57.299Z"}
+{"level":"warn","message":"⚠️ No companies scraped, skipping CSV export.","timestamp":"2026-02-08T19:26:57.300Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:29:40.248Z"}
+{"level":"info","message":"📝 Query: \"coffee shops in london\"","timestamp":"2026-02-08T19:29:40.253Z"}
+{"level":"info","message":"🎯 Max Results: 2","timestamp":"2026-02-08T19:29:40.254Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T19:29:40.255Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:29:40.400Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/coffee+shops+in+london?hl=en","timestamp":"2026-02-08T19:29:41.899Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:29:43.389Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T19:29:46.593Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links (prev: 20)","timestamp":"2026-02-08T19:29:47.813Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 30 links (prev: 20)","timestamp":"2026-02-08T19:29:49.019Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 40 links (prev: 30)","timestamp":"2026-02-08T19:29:50.279Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 42 links (prev: 40)","timestamp":"2026-02-08T19:29:51.498Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 42 links (prev: 42)","timestamp":"2026-02-08T19:29:52.709Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 52 links (prev: 42)","timestamp":"2026-02-08T19:29:53.924Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 62 links (prev: 52)","timestamp":"2026-02-08T19:29:55.131Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 62 links (prev: 62)","timestamp":"2026-02-08T19:29:56.344Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 72 links (prev: 62)","timestamp":"2026-02-08T19:29:57.590Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 82 links (prev: 72)","timestamp":"2026-02-08T19:29:58.896Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 82 links (prev: 82)","timestamp":"2026-02-08T19:30:00.145Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 82 links (prev: 82)","timestamp":"2026-02-08T19:30:01.353Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 82 links (prev: 82)","timestamp":"2026-02-08T19:30:02.567Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:30:02.567Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-08T19:30:02.570Z"}
+{"level":"info","message":"📋 Processing first 2 of 81 links...","timestamp":"2026-02-08T19:30:02.570Z"}
+{"level":"info","message":"--- [1/2] ---","timestamp":"2026-02-08T19:30:02.571Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/London+Spot+-+%E1%83%9A%E1%83%9D%E1%83%9C%E1%83%93%E1%83%9D%E1%83%9C+%E1%83%A1%E1%83%A4%E1%83%9D%E1%83%97%E1%83%98+%28%E1%83%A1%E1%83%90%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98%29/data=!4m7!3m6!1s0x40446de9bd5ab55b:0x7e8769d2b0c8df09!8m2!3d41.7559487!4d44.7892777!16s%2Fg%2F11l6h_6lf4!19sChIJW7VaveltREARCd_IsNJph34?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:30:02.573Z"}
+{"level":"info","message":"✅ Extracted: London Spot - ლონდონ სფოთი (საწყობი)","timestamp":"2026-02-08T19:30:06.881Z"}
+{"level":"info","message":"💾 Saved ID: 5a100979-19f6-4c72-ba9b-6246df42ed97","timestamp":"2026-02-08T19:30:06.903Z"}
+{"level":"info","message":"--- [2/2] ---","timestamp":"2026-02-08T19:30:07.910Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Drury+Covent+Garden+%7C+Cafe+%26+Brunch/data=!4m7!3m6!1s0x48761b335cadcf35:0x7f5399cd5349bd2b!8m2!3d51.5160905!4d-0.123997!16s%2Fg%2F11c5wy8bnx!19sChIJNc-tXDMbdkgRK71JU82ZU38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:30:07.911Z"}
+{"level":"info","message":"✅ Extracted: Drury Covent Garden | Cafe & Brunch","timestamp":"2026-02-08T19:30:11.919Z"}
+{"level":"info","message":"💾 Saved ID: 9e195816-8602-4ebe-9a0c-d48e75ce6840","timestamp":"2026-02-08T19:30:11.925Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:30:12.930Z"}
+{"level":"info","message":"✅ CSV exported to: leads_2026-02-08T19-30-12.csv","timestamp":"2026-02-08T19:30:12.937Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T19:37:25.465Z"}
+{"level":"info","message":"📝 Query: \"restaurants in berlin\"","timestamp":"2026-02-08T19:37:25.469Z"}
+{"level":"info","message":"🎯 Max Results: 10","timestamp":"2026-02-08T19:37:25.470Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T19:37:25.470Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T19:37:25.515Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/restaurants+in+berlin?hl=en","timestamp":"2026-02-08T19:37:26.818Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T19:37:28.168Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T19:37:31.289Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links (prev: 20)","timestamp":"2026-02-08T19:37:32.514Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 22 links (prev: 22)","timestamp":"2026-02-08T19:37:33.793Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 32 links (prev: 22)","timestamp":"2026-02-08T19:37:35.003Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 42 links (prev: 32)","timestamp":"2026-02-08T19:37:36.222Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 44 links (prev: 42)","timestamp":"2026-02-08T19:37:37.438Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 44 links (prev: 44)","timestamp":"2026-02-08T19:37:38.642Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 54 links (prev: 44)","timestamp":"2026-02-08T19:37:39.870Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 54 links (prev: 54)","timestamp":"2026-02-08T19:37:41.201Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 54 links (prev: 54)","timestamp":"2026-02-08T19:37:42.602Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 64 links (prev: 54)","timestamp":"2026-02-08T19:37:43.880Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 64 links (prev: 64)","timestamp":"2026-02-08T19:37:45.084Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 64 links (prev: 64)","timestamp":"2026-02-08T19:37:46.289Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 64 links (prev: 64)","timestamp":"2026-02-08T19:37:47.504Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T19:37:47.505Z"}
+{"level":"info","message":"✅ Collected 63 unique links.","timestamp":"2026-02-08T19:37:47.508Z"}
+{"level":"info","message":"📋 Processing first 10 of 63 links...","timestamp":"2026-02-08T19:37:47.508Z"}
+{"level":"info","message":"--- [1/10] ---","timestamp":"2026-02-08T19:37:47.509Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Restaurant+Facil/data=!4m7!3m6!1s0x47a8504a94b9e203:0x7b2115cb49fb6b1c!8m2!3d52.5089804!4d13.37369!16s%2Fg%2F1tjffwbb!19sChIJA-K5lEpQqEcRHGv7ScsVIXs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:37:47.509Z"}
+{"level":"info","message":"✅ Extracted: Restaurant Facil","timestamp":"2026-02-08T19:37:50.111Z"}
+{"level":"info","message":"💾 Saved ID: a14d464a-f6d2-48fa-b957-0a0c523274eb","timestamp":"2026-02-08T19:37:50.151Z"}
+{"level":"info","message":"--- [2/10] ---","timestamp":"2026-02-08T19:37:51.175Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Restaurant+Trattoria+Portofino/data=!4m7!3m6!1s0x47a84e43365ac997:0x513ecc8184fdc3fd!8m2!3d52.5123562!4d13.4484136!16s%2Fg%2F11byt5y2jm!19sChIJl8laNkNOqEcR_cP9hIHMPlE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:37:51.177Z"}
+{"level":"info","message":"✅ Extracted: Restaurant Trattoria Portofino","timestamp":"2026-02-08T19:37:52.903Z"}
+{"level":"info","message":"💾 Saved ID: abc87447-88b1-4bb0-94c3-eae53edebb52","timestamp":"2026-02-08T19:37:52.912Z"}
+{"level":"info","message":"--- [3/10] ---","timestamp":"2026-02-08T19:37:53.912Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LOUMI/data=!4m7!3m6!1s0x47a84fcbf01768e5:0xa597995d977f1fd1!8m2!3d52.5007247!4d13.4135176!16s%2Fg%2F11l27rxdwz!19sChIJ5WgX8MtPqEcR0R9_l12Zl6U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:37:53.913Z"}
+{"level":"info","message":"✅ Extracted: LOUMI","timestamp":"2026-02-08T19:37:55.006Z"}
+{"level":"info","message":"💾 Saved ID: 89b1f3a9-2c68-4055-a4be-5cb4a62db9d6","timestamp":"2026-02-08T19:37:55.012Z"}
+{"level":"info","message":"--- [4/10] ---","timestamp":"2026-02-08T19:37:56.016Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Nante-Eck+%7C+Restaurant+Berlin+Mitte/data=!4m7!3m6!1s0x47a851c4be9016e7:0x4174f7a2cb96cf37!8m2!3d52.5166722!4d13.388301!16s%2Fg%2F1v8y31rr!19sChIJ5xaQvsRRqEcRN8-Wy6L3dEE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:37:56.017Z"}
+{"level":"info","message":"✅ Extracted: Nante-Eck | Restaurant Berlin Mitte","timestamp":"2026-02-08T19:37:57.372Z"}
+{"level":"info","message":"💾 Saved ID: 009ba700-08a2-4237-bb51-6bd3b8fd0dc3","timestamp":"2026-02-08T19:37:57.379Z"}
+{"level":"info","message":"--- [5/10] ---","timestamp":"2026-02-08T19:37:58.388Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ristorante+Bocca+Felice+Berlin-Mitte/data=!4m7!3m6!1s0x47a84fa0466cf447:0x243749f6e2811123!8m2!3d52.5086731!4d13.4046246!16s%2Fg%2F11tj9lnj7m!19sChIJR_RsRqBPqEcRIxGB4vZJNyQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:37:58.392Z"}
+{"level":"info","message":"✅ Extracted: Ristorante Bocca Felice Berlin-Mitte","timestamp":"2026-02-08T19:37:59.762Z"}
+{"level":"info","message":"💾 Saved ID: d5540c52-6999-41a8-b69b-bc6a86c1e348","timestamp":"2026-02-08T19:37:59.771Z"}
+{"level":"info","message":"--- [6/10] ---","timestamp":"2026-02-08T19:38:00.782Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gujrat+Spice+Restaurant/data=!4m7!3m6!1s0x47a851a2794756a1:0xa1844e35ff3596fa!8m2!3d52.525!4d13.35716!16s%2Fg%2F11y66jlf2k!19sChIJoVZHeaJRqEcR-pY1_zVOhKE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:38:00.783Z"}
+{"level":"info","message":"✅ Extracted: Gujrat Spice Restaurant","timestamp":"2026-02-08T19:38:01.871Z"}
+{"level":"info","message":"💾 Saved ID: 06c62405-260f-43a4-9662-5be56607a25b","timestamp":"2026-02-08T19:38:01.883Z"}
+{"level":"info","message":"--- [7/10] ---","timestamp":"2026-02-08T19:38:02.891Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/IMAYA+Restaurant/data=!4m7!3m6!1s0x47a851e356e906c3:0x9ba2d9e0a1ae39f2!8m2!3d52.5259791!4d13.3904369!16s%2Fg%2F11ycfrdksc!19sChIJwwbpVuNRqEcR8jmuoeDZops?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:38:02.891Z"}
+{"level":"info","message":"✅ Extracted: IMAYA Restaurant","timestamp":"2026-02-08T19:38:04.180Z"}
+{"level":"info","message":"💾 Saved ID: 1502b7fc-98da-4293-93bf-9ff3558e8470","timestamp":"2026-02-08T19:38:04.190Z"}
+{"level":"info","message":"--- [8/10] ---","timestamp":"2026-02-08T19:38:05.204Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BLESS+Restaurant/data=!4m7!3m6!1s0x47a8518e5446ed29:0x414b04762b9f4b36!8m2!3d52.5124086!4d13.3967904!16s%2Fg%2F11lkzg8dhv!19sChIJKe1GVI5RqEcRNkufK3YES0E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:38:05.206Z"}
+{"level":"info","message":"✅ Extracted: BLESS Restaurant","timestamp":"2026-02-08T19:38:06.189Z"}
+{"level":"info","message":"💾 Saved ID: 65efa8d7-a7f9-4c2c-802e-a4af6a86a3f3","timestamp":"2026-02-08T19:38:06.199Z"}
+{"level":"info","message":"--- [9/10] ---","timestamp":"2026-02-08T19:38:07.210Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/A+Mano/data=!4m7!3m6!1s0x47a84e1623b079cb:0xa355fb53a80d566c!8m2!3d52.5193916!4d13.4273865!16s%2Fg%2F1hc0s4f1h!19sChIJy3mwIxZOqEcRbFYNqFP7VaM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:38:07.210Z"}
+{"level":"info","message":"✅ Extracted: A Mano","timestamp":"2026-02-08T19:38:08.935Z"}
+{"level":"info","message":"💾 Saved ID: 9369dbd1-429e-4847-8f5c-27a5c33fd888","timestamp":"2026-02-08T19:38:08.943Z"}
+{"level":"info","message":"--- [10/10] ---","timestamp":"2026-02-08T19:38:09.956Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Avocado+Club/data=!4m7!3m6!1s0x47a84ef662d30b69:0x40599ec0996d16a4!8m2!3d52.523591!4d13.404883!16s%2Fg%2F11fzpbt__j!19sChIJaQvTYvZOqEcRpBZtmcCeWUA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:38:09.956Z"}
+{"level":"info","message":"✅ Extracted: Avocado Club","timestamp":"2026-02-08T19:38:11.523Z"}
+{"level":"info","message":"💾 Saved ID: 5c8bd614-ee03-4a9d-aebe-27b1f6d7b1bb","timestamp":"2026-02-08T19:38:11.528Z"}
+{"level":"info","message":"🏁 Batch processing complete.","timestamp":"2026-02-08T19:38:12.531Z"}
+{"level":"info","message":"✅ CSV exported to: leads_2026-02-08T19-38-12.csv","timestamp":"2026-02-08T19:38:12.533Z"}
