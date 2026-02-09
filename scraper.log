@@ -921,3 +921,109 @@
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:49.956Z"}
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T19:57:52.068Z"}
 {"level":"info","message":"Summary: saved=0, duplicates=5, failed=0","timestamp":"2026-02-08T19:57:54.169Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T20:03:26.978Z"}
+{"level":"info","message":"📝 Query: \"cafes in tbilisi\"","timestamp":"2026-02-08T20:03:26.982Z"}
+{"level":"info","message":"🎯 Max Results: 10","timestamp":"2026-02-08T20:03:26.983Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T20:03:26.983Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T20:03:27.026Z"}
+{"level":"info","message":"Job created: 8c15fa83-804f-49ce-99a9-9ac01f1a73cd","timestamp":"2026-02-08T20:03:27.066Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/cafes+in+tbilisi?hl=en","timestamp":"2026-02-08T20:03:28.331Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T20:03:29.776Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T20:03:32.731Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links (prev: 20)","timestamp":"2026-02-08T20:03:33.948Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 30 links (prev: 20)","timestamp":"2026-02-08T20:03:35.157Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 40 links (prev: 30)","timestamp":"2026-02-08T20:03:36.388Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 50 links (prev: 40)","timestamp":"2026-02-08T20:03:37.784Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 60 links (prev: 50)","timestamp":"2026-02-08T20:03:39.022Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 60 links (prev: 60)","timestamp":"2026-02-08T20:03:40.227Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 70 links (prev: 60)","timestamp":"2026-02-08T20:03:41.443Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 80 links (prev: 70)","timestamp":"2026-02-08T20:03:42.664Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 80 links (prev: 80)","timestamp":"2026-02-08T20:03:43.867Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 90 links (prev: 80)","timestamp":"2026-02-08T20:03:45.083Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 100 links (prev: 90)","timestamp":"2026-02-08T20:03:46.295Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 100 links (prev: 100)","timestamp":"2026-02-08T20:03:47.514Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 110 links (prev: 100)","timestamp":"2026-02-08T20:03:48.732Z"}
+{"level":"info","message":"🔄 Scroll attempt 15: Found 120 links (prev: 110)","timestamp":"2026-02-08T20:03:49.947Z"}
+{"level":"info","message":"🔄 Scroll attempt 16: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:03:51.164Z"}
+{"level":"info","message":"🔄 Scroll attempt 17: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:03:52.375Z"}
+{"level":"info","message":"🔄 Scroll attempt 18: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:03:53.591Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T20:03:53.591Z"}
+{"level":"info","message":"✅ Collected 120 unique links.","timestamp":"2026-02-08T20:03:53.594Z"}
+{"level":"info","message":"📋 Processing first 10 of 120 links...","timestamp":"2026-02-08T20:03:53.595Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Cafe/data=!4m7!3m6!1s0x4044730049bb5dcf:0x64fa3347d09fd453!8m2!3d41.747484!4d44.7791466!16s%2Fg%2F11vq2t6773!19sChIJz127SQBzREARU9Sf0Ecz-mQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:03:53.601Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Salut!+%28coffee%29/data=!4m7!3m6!1s0x40447329b620451f:0x41f38fb28d5f40c6!8m2!3d41.7191252!4d44.7911118!16s%2Fg%2F11vycbl52y!19sChIJH0UgtilzREARxkBfjbKP80E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:03:57.173Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Caffeine+by+WorkIn/data=!4m7!3m6!1s0x404473674f916855:0x38d9b735a0d9d12d!8m2!3d41.7261691!4d44.7685813!16s%2Fg%2F11sr74_nc4!19sChIJVWiRT2dzREARLdHZoDW32Tg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:03:59.971Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/OKRO+Coffee+Roastery/data=!4m7!3m6!1s0x40440da2ba4d07e5:0xacc5ae311adaad37!8m2!3d41.7094078!4d44.7820775!16s%2Fg%2F11vdw1fww1!19sChIJ5QdNuqINREARN63aGjGuxaw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:02.451Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Praline/data=!4m7!3m6!1s0x40440d0074049167:0x37a2cb504c0b2488!8m2!3d41.7072168!4d44.7838274!16s%2Fg%2F11y651wzq7!19sChIJZ5EEdAANREARiCQLTFDLojc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:04.778Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Cafe+Mziuri/data=!4m7!3m6!1s0x4044732da141cb63:0xbdb582c945cbd023!8m2!3d41.7104689!4d44.7688908!16s%2Fg%2F1tfhy22v!19sChIJY8tBoS1zREARI9DLRcmCtb0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:06.989Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Early+Bird+Coffee/data=!4m7!3m6!1s0x40440d0a61a68f3d:0xf203eb6b99f24973!8m2!3d41.7086076!4d44.7729875!16s%2Fg%2F11t5jj9h3x!19sChIJPY-mYQoNREARc0nymWvrA_I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:09.399Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Shavi+Coffee+Roasters+-+Ninoshvili/data=!4m7!3m6!1s0x40440df79d30845b:0x5f772523f203aefd!8m2!3d41.7114994!4d44.8016914!16s%2Fg%2F11w3zmrwjm!19sChIJW4QwnfcNREAR_a4D8iMld18?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:11.881Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/26.05.coffee/data=!4m7!3m6!1s0x40440dc642c8936b:0xf18520c96b35d37a!8m2!3d41.7050256!4d44.7905303!16s%2Fg%2F11v_868k0l!19sChIJa5PIQsYNREARetM1a8kghfE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:14.184Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Chika/data=!4m7!3m6!1s0x40440dc71dd18765:0x28e34667eb804e89!8m2!3d41.7051577!4d44.7895322!16s%2Fg%2F11tfk9yyp_!19sChIJZYfRHccNREARiU6A62dG4yg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:04:16.655Z"}
+{"level":"info","message":"Summary: saved=10, duplicates=0, failed=0","timestamp":"2026-02-08T20:04:19.073Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-08T20-04-19.csv","timestamp":"2026-02-08T20:04:19.075Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T20:07:59.909Z"}
+{"level":"info","message":"📝 Query: \"pharmacies in tbilisi\"","timestamp":"2026-02-08T20:07:59.914Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-08T20:07:59.914Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T20:07:59.915Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T20:07:59.957Z"}
+{"level":"info","message":"Job created: c8b3a4bc-2d7e-44d9-a81b-a968349dca60","timestamp":"2026-02-08T20:08:00.002Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/pharmacies+in+tbilisi?hl=en","timestamp":"2026-02-08T20:08:01.245Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T20:08:02.466Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T20:08:05.083Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links (prev: 20)","timestamp":"2026-02-08T20:08:06.286Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 34 links (prev: 20)","timestamp":"2026-02-08T20:08:07.538Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 40 links (prev: 34)","timestamp":"2026-02-08T20:08:08.766Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 54 links (prev: 40)","timestamp":"2026-02-08T20:08:10.079Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 60 links (prev: 54)","timestamp":"2026-02-08T20:08:11.302Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 60 links (prev: 60)","timestamp":"2026-02-08T20:08:12.523Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 74 links (prev: 60)","timestamp":"2026-02-08T20:08:13.743Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 80 links (prev: 74)","timestamp":"2026-02-08T20:08:14.957Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 80 links (prev: 80)","timestamp":"2026-02-08T20:08:16.181Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 94 links (prev: 80)","timestamp":"2026-02-08T20:08:17.387Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 100 links (prev: 94)","timestamp":"2026-02-08T20:08:18.611Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 114 links (prev: 100)","timestamp":"2026-02-08T20:08:19.960Z"}
+{"level":"info","message":"🔄 Scroll attempt 14: Found 120 links (prev: 114)","timestamp":"2026-02-08T20:08:21.178Z"}
+{"level":"info","message":"🔄 Scroll attempt 15: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:08:22.401Z"}
+{"level":"info","message":"🔄 Scroll attempt 16: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:08:23.608Z"}
+{"level":"info","message":"🔄 Scroll attempt 17: Found 120 links (prev: 120)","timestamp":"2026-02-08T20:08:24.818Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T20:08:24.818Z"}
+{"level":"info","message":"✅ Collected 120 unique links.","timestamp":"2026-02-08T20:08:24.821Z"}
+{"level":"info","message":"📋 Processing first 5 of 120 links...","timestamp":"2026-02-08T20:08:24.821Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+185/data=!4m7!3m6!1s0x404473470a9740db:0xbd6693379dcd2ed3!8m2!3d41.7484531!4d44.787174!16s%2Fg%2F11rk03w9r7!19sChIJ20CXCkdzREAR0y7NnTeTZr0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:08:24.830Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+106/data=!4m7!3m6!1s0x4044728f5a99caed:0xf30f9818852ab040!8m2!3d41.7497055!4d44.7794171!16s%2Fg%2F11c5s8pnwz!19sChIJ7cqZWo9yREARQLAqhRiYD_M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:08:28.067Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PSP/data=!4m7!3m6!1s0x4044728e0f2b9c75:0xa8376ec0fe8efa0d!8m2!3d41.7454602!4d44.7778779!16s%2Fg%2F11bxfqr764!19sChIJdZwrD45yREARDfqO_sBuN6g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:08:30.776Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+15/data=!4m7!3m6!1s0x40447335ca6234dd:0xd25c30b982ce229!8m2!3d41.7500807!4d44.7774085!16s%2Fg%2F11s06_4bd_!19sChIJ3TRiyjVzREARKeIsmAvDJQ0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:08:32.938Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PSP+Pharmacy/data=!4m7!3m6!1s0x404472832da57611:0xd7cbcc484a2f70c!8m2!3d41.7511153!4d44.7904446!16s%2Fg%2F11cncvl4f_!19sChIJEXalLYNyREARDPeihMS8fA0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:08:35.021Z"}
+{"level":"info","message":"Summary: saved=5, duplicates=0, failed=0","timestamp":"2026-02-08T20:08:37.027Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-08T20-08-37.csv","timestamp":"2026-02-08T20:08:37.030Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-08T20:08:53.162Z"}
+{"level":"info","message":"📝 Query: \"pharmacies in tbilisi\"","timestamp":"2026-02-08T20:08:53.166Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-08T20:08:53.166Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-08T20:08:53.167Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-08T20:08:53.208Z"}
+{"level":"info","message":"Job created: 9e45902f-2789-484d-b06a-1f6a23d3ff83","timestamp":"2026-02-08T20:08:53.252Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/pharmacies+in+tbilisi?hl=en","timestamp":"2026-02-08T20:08:54.499Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-08T20:08:56.090Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-08T20:08:58.980Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 34 links (prev: 20)","timestamp":"2026-02-08T20:09:00.278Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 40 links (prev: 34)","timestamp":"2026-02-08T20:09:01.500Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 54 links (prev: 40)","timestamp":"2026-02-08T20:09:02.837Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 60 links (prev: 54)","timestamp":"2026-02-08T20:09:04.065Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 60 links (prev: 60)","timestamp":"2026-02-08T20:09:05.272Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 74 links (prev: 60)","timestamp":"2026-02-08T20:09:06.482Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 80 links (prev: 74)","timestamp":"2026-02-08T20:09:07.687Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 94 links (prev: 80)","timestamp":"2026-02-08T20:09:08.988Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 100 links (prev: 94)","timestamp":"2026-02-08T20:09:10.207Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 100 links (prev: 100)","timestamp":"2026-02-08T20:09:11.424Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 100 links (prev: 100)","timestamp":"2026-02-08T20:09:12.632Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 100 links (prev: 100)","timestamp":"2026-02-08T20:09:13.859Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-08T20:09:13.860Z"}
+{"level":"info","message":"✅ Collected 100 unique links.","timestamp":"2026-02-08T20:09:13.863Z"}
+{"level":"info","message":"📋 Processing first 5 of 100 links...","timestamp":"2026-02-08T20:09:13.864Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+185/data=!4m7!3m6!1s0x404473470a9740db:0xbd6693379dcd2ed3!8m2!3d41.7484531!4d44.787174!16s%2Fg%2F11rk03w9r7!19sChIJ20CXCkdzREAR0y7NnTeTZr0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:13.874Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+106/data=!4m7!3m6!1s0x4044728f5a99caed:0xf30f9818852ab040!8m2!3d41.7497055!4d44.7794171!16s%2Fg%2F11c5s8pnwz!19sChIJ7cqZWo9yREARQLAqhRiYD_M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:17.141Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PSP/data=!4m7!3m6!1s0x4044728e0f2b9c75:0xa8376ec0fe8efa0d!8m2!3d41.7454602!4d44.7778779!16s%2Fg%2F11bxfqr764!19sChIJdZwrD45yREARDfqO_sBuN6g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:19.875Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+15/data=!4m7!3m6!1s0x40447335ca6234dd:0xd25c30b982ce229!8m2!3d41.7500807!4d44.7774085!16s%2Fg%2F11s06_4bd_!19sChIJ3TRiyjVzREARKeIsmAvDJQ0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:22.029Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PSP+Pharmacy/data=!4m7!3m6!1s0x404472832da57611:0xd7cbcc484a2f70c!8m2!3d41.7511153!4d44.7904446!16s%2Fg%2F11cncvl4f_!19sChIJEXalLYNyREARDPeihMS8fA0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:24.199Z"}
+{"level":"info","message":"Summary: saved=0, duplicates=5, failed=0","timestamp":"2026-02-08T20:09:26.422Z"}
