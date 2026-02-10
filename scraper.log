@@ -1027,3 +1027,185 @@
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aversi+15/data=!4m7!3m6!1s0x40447335ca6234dd:0xd25c30b982ce229!8m2!3d41.7500807!4d44.7774085!16s%2Fg%2F11s06_4bd_!19sChIJ3TRiyjVzREARKeIsmAvDJQ0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:22.029Z"}
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PSP+Pharmacy/data=!4m7!3m6!1s0x404472832da57611:0xd7cbcc484a2f70c!8m2!3d41.7511153!4d44.7904446!16s%2Fg%2F11cncvl4f_!19sChIJEXalLYNyREARDPeihMS8fA0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-08T20:09:24.199Z"}
 {"level":"info","message":"Summary: saved=0, duplicates=5, failed=0","timestamp":"2026-02-08T20:09:26.422Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T19:25:35.301Z"}
+{"level":"info","message":"📝 Query: \"web studio tbilisi\"","timestamp":"2026-02-09T19:25:35.310Z"}
+{"level":"info","message":"🎯 Max Results: 3","timestamp":"2026-02-09T19:25:35.311Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-09T19:25:35.312Z"}
+{"clientVersion":"5.22.0","errorCode":"P1001","level":"error","message":"❌ Fatal Error: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.","name":"PrismaClientInitializationError","stack":"PrismaClientInitializationError: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.\n    at t (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:112:2488)\n    at async connectDB (file:///D:/lids1/swarm-lead-scraper/dist/src/db/company.js:75:5)\n    at async main (file:///D:/lids1/swarm-lead-scraper/dist/src/index.js:170:9)","timestamp":"2026-02-09T19:25:39.626Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T19:25:58.713Z"}
+{"level":"info","message":"📝 Query: \"web studio tbilisi\"","timestamp":"2026-02-09T19:25:58.718Z"}
+{"level":"info","message":"🎯 Max Results: 3","timestamp":"2026-02-09T19:25:58.719Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-09T19:25:58.720Z"}
+{"clientVersion":"5.22.0","errorCode":"P1001","level":"error","message":"❌ Fatal Error: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.","name":"PrismaClientInitializationError","stack":"PrismaClientInitializationError: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.\n    at t (D:\\lids1\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:112:2488)\n    at async connectDB (file:///D:/lids1/swarm-lead-scraper/dist/src/db/company.js:75:5)\n    at async main (file:///D:/lids1/swarm-lead-scraper/dist/src/index.js:170:9)","timestamp":"2026-02-09T19:26:02.803Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T19:27:57.437Z"}
+{"level":"info","message":"📝 Query: \"web studio tbilisi\"","timestamp":"2026-02-09T19:27:57.443Z"}
+{"level":"info","message":"🎯 Max Results: 3","timestamp":"2026-02-09T19:27:57.443Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-09T19:27:57.444Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-09T19:27:57.530Z"}
+{"level":"info","message":"Job created: 15c952bf-a25c-4b5a-86c3-e45c8b00fcd4","timestamp":"2026-02-09T19:27:57.602Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/web+studio+tbilisi?hl=en","timestamp":"2026-02-09T19:28:09.573Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-09T19:28:11.180Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 12 links (prev: 0)","timestamp":"2026-02-09T19:28:14.100Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 18 links (prev: 12)","timestamp":"2026-02-09T19:28:15.317Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 20 links (prev: 18)","timestamp":"2026-02-09T19:28:16.541Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 26 links (prev: 20)","timestamp":"2026-02-09T19:28:17.762Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 32 links (prev: 26)","timestamp":"2026-02-09T19:28:18.992Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 38 links (prev: 32)","timestamp":"2026-02-09T19:28:20.206Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 41 links (prev: 38)","timestamp":"2026-02-09T19:28:21.412Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 47 links (prev: 41)","timestamp":"2026-02-09T19:28:22.641Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 51 links (prev: 47)","timestamp":"2026-02-09T19:28:23.853Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 51 links (prev: 51)","timestamp":"2026-02-09T19:28:25.058Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 51 links (prev: 51)","timestamp":"2026-02-09T19:28:26.269Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 51 links (prev: 51)","timestamp":"2026-02-09T19:28:27.484Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-09T19:28:27.484Z"}
+{"level":"info","message":"✅ Collected 51 unique links.","timestamp":"2026-02-09T19:28:27.487Z"}
+{"level":"info","message":"📋 Processing first 3 of 51 links...","timestamp":"2026-02-09T19:28:27.487Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/WeBuild+web+studio/data=!4m7!3m6!1s0x404472955a257959:0xbac5d622b301c0d4!8m2!3d41.7370994!4d44.7841921!16s%2Fg%2F11byld2ns2!19sChIJWXklWpVyREAR1MABsyLWxbo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T19:28:27.495Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/UniSoft+Web+Studio/data=!4m7!3m6!1s0x404473e10a0a763d:0x220e069c4a8fe79d!8m2!3d41.735089!4d44.7834403!16s%2Fg%2F11fdlbj9gb!19sChIJPXYKCuFzREARneePSpwGDiI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T19:28:30.542Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Mywebs.ge+%E1%83%A1%E1%83%90%E1%83%98%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1+%E1%83%93%E1%83%90%E1%83%9B%E1%83%96%E1%83%90%E1%83%93%E1%83%94%E1%83%91%E1%83%90,+%E1%83%A1%E1%83%94%E1%83%9D+%E1%83%9D%E1%83%9E%E1%83%A2%E1%83%98%E1%83%9B%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/data=!4m7!3m6!1s0x404472c67fd327d3:0x200def4b127a4aae!8m2!3d41.7298777!4d44.7866973!16s%2Fg%2F11c1p3kcfj!19sChIJ0yfTf8ZyREARrkp6EkvvDSA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T19:28:33.197Z"}
+{"level":"info","message":"Starting email extraction for collected leads...","timestamp":"2026-02-09T19:28:35.262Z"}
+{"level":"info","message":"📧 Found emails for UniSoft Web Studio: info@lightblue-skunk-666478.hostingersite.com, manager@lightblue-skunk-666478.hostingersite.com, projectinfo@lightblue-skunk-666478.hostingersite.comfor","timestamp":"2026-02-09T19:28:48.390Z"}
+{"level":"info","message":"Summary: saved=3, duplicates=0, failed=0","timestamp":"2026-02-09T19:28:48.831Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-09T19-28-48.csv","timestamp":"2026-02-09T19:28:48.834Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T19:41:58.021Z"}
+{"level":"info","message":"📝 Query: \"web design tbilisi\"","timestamp":"2026-02-09T19:41:58.026Z"}
+{"level":"info","message":"🎯 Max Results: 2","timestamp":"2026-02-09T19:41:58.026Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-09T19:41:58.027Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-09T19:41:58.073Z"}
+{"level":"info","message":"Job created: db0c8ede-efee-4de4-8866-193b988e3f1d","timestamp":"2026-02-09T19:41:58.116Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T19:42:23.193Z"}
+{"level":"info","message":"📝 Query: \"web studio tbilisi\"","timestamp":"2026-02-09T19:42:23.198Z"}
+{"level":"info","message":"🎯 Max Results: 2","timestamp":"2026-02-09T19:42:23.199Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-09T19:42:23.200Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-09T19:42:23.254Z"}
+{"level":"info","message":"Job created: eed33ddb-e584-4bec-a607-b911f4392897","timestamp":"2026-02-09T19:42:23.301Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-09T20:57:11.286Z"}
+{"level":"info","message":"📝 Query: \"Lead generation agencies in New York\"","timestamp":"2026-02-09T20:57:11.290Z"}
+{"level":"info","message":"🎯 Max Results: 20","timestamp":"2026-02-09T20:57:11.291Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-09T20:57:11.291Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-09T20:57:11.344Z"}
+{"level":"info","message":"Job created: b3b237b1-0a94-40df-b02d-fa07f74d8be3","timestamp":"2026-02-09T20:57:11.388Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/Lead+generation+agencies+in+New+York?hl=en","timestamp":"2026-02-09T20:57:12.778Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-09T20:57:14.206Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links (prev: 0)","timestamp":"2026-02-09T20:57:17.324Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links (prev: 20)","timestamp":"2026-02-09T20:57:18.537Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 34 links (prev: 20)","timestamp":"2026-02-09T20:57:19.749Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 40 links (prev: 34)","timestamp":"2026-02-09T20:57:20.974Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 48 links (prev: 40)","timestamp":"2026-02-09T20:57:22.252Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 48 links (prev: 48)","timestamp":"2026-02-09T20:57:23.633Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 48 links (prev: 48)","timestamp":"2026-02-09T20:57:24.858Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 48 links (prev: 48)","timestamp":"2026-02-09T20:57:26.073Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-09T20:57:26.073Z"}
+{"level":"info","message":"✅ Collected 48 unique links.","timestamp":"2026-02-09T20:57:26.076Z"}
+{"level":"info","message":"📋 Processing first 20 of 48 links...","timestamp":"2026-02-09T20:57:26.077Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadflow+NYC+-+Lead+Gen+Agency+for+Nonprofits+%26+Entrepreneurs/data=!4m7!3m6!1s0x89c259a85859daef:0x40aa5b69542218f6!8m2!3d40.7370087!4d-73.9794227!16s%2Fg%2F11fsxc1yxq!19sChIJ79pZWKhZwokR9hgiVGlbqkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:26.085Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Nectar/data=!4m7!3m6!1s0x876c797d987ce9c3:0x9aa0abf1a5456656!8m2!3d40.7521111!4d-73.9823202!16s%2Fg%2F11qpw0hv3y!19sChIJw-l8mH15bIcRVmZFpfGroJo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:28.950Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Marketing+Strategies+-+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89e82b673b9996c9:0x40eb5a19af938f22!8m2!3d40.8473783!4d-73.2647366!16s%2Fg%2F11gjv6yv_y!19sChIJyZaZO2cr6IkRIo-Trxla60A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:31.750Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BusySeed/data=!4m7!3m6!1s0x89c2f716ec1978ed:0x7d1ea29a8aa1d80c!8m2!3d40.7452353!4d-73.9881912!16s%2Fg%2F11k__7f41m!19sChIJ7XgZ7Bb3wokRDNihipqiHn0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:33.975Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Generation+Company/data=!4m7!3m6!1s0x89c25901122004df:0x706077f98d7adc56!8m2!3d40.751357!4d-73.97896!16s%2Fg%2F11c58p4hgs!19sChIJ3wQgEgFZwokRVtx6jfl3YHA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:36.196Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Demand+Growth+Digital/data=!4m7!3m6!1s0x89c259bae0fb76ad:0x587d6edc861627d9!8m2!3d40.7461864!4d-73.9836573!16s%2Fg%2F11scrjmtqs!19sChIJrXb74LpZwokR2ScWhtxufVg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:38.288Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jives+Media/data=!4m7!3m6!1s0x89c259869319e7af:0x54953953a5ede7bb!8m2!3d40.7453911!4d-73.9904866!16s%2Fg%2F11jtxfx3x2!19sChIJr-cZk4ZZwokRu-ftpVM5lVQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:40.610Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadige+Media+Group/data=!4m7!3m6!1s0x89c25854e6aa136f:0x20cf9222f820b1e6!8m2!3d40.757068!4d-73.986446!16s%2Fg%2F12lkcfsch!19sChIJbxOq5lRYwokR5rEg-CKSzyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:42.733Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SmartKonnects+Inc.-+Lead+Generation+Agency/data=!4m7!3m6!1s0x89c259a96dbf04bd:0xf3f996872bed9e50!8m2!3d40.7369025!4d-73.9974628!16s%2Fg%2F11g8vctkr2!19sChIJvQS_balZwokRUJ7tK4eW-fM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:44.865Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Main+Street+ROI/data=!4m7!3m6!1s0x89c2585f5fee55e7:0xd5f7cbbf19e2368e!8m2!3d40.778052!4d-73.5683375!16s%2Fg%2F12qgm74j4!19sChIJ51XuX19YwokRjjbiGb_L99U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:47.142Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Just+Lead+Market+%7C+Best+Digital+Marketing+Agency+-+New+York/data=!4m7!3m6!1s0x89c245518cd0e60b:0x407ec0941aae31d9!8m2!3d40.6313492!4d-73.9681635!16s%2Fg%2F11fwc3sfjc!19sChIJC-bQjFFFwokR2TGuGpTAfkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:49.269Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Star+Tech+SEO+-+Digital+Marketing+Agency+New+York/data=!4m7!3m6!1s0xaadd292c748e9771:0x5f50b98bce59c6d3!8m2!3d40.752697!4d-73.9935515!16s%2Fg%2F11wmy6p_dg!19sChIJcZeOdCwp3aoR08ZZzou5UF8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:51.754Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JUICE:+Full+Service+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89c259a9a9aab5c9:0xeb9d8cfa6bff29e7!8m2!3d40.7249946!4d-74.0072895!16s%2Fg%2F11gf0w78xs!19sChIJybWqqalZwokR5yn_a_qMnes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:53.959Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Verbsz+Marketing/data=!4m7!3m6!1s0x89c25986a80e79eb:0x453ada55acbe770d!8m2!3d40.7395!4d-73.9862571!16s%2Fg%2F11t4lvvnmb!19sChIJ63kOqIZZwokRDXe-rFXaOkU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:56.232Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadbird/data=!4m7!3m6!1s0x89c259ad9fe58ab1:0x21ae45a3b6255050!8m2!3d40.7531386!4d-73.9894616!16s%2Fg%2F11c58nqbq2!19sChIJsYrln61ZwokRUFAltqNFriE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:57:58.355Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DiscoverMyBusiness+Digital+Marketing+Agency/data=!4m7!3m6!1s0x880e2cb08ce25f31:0x1a4a977ac525891a!8m2!3d40.7505033!4d-73.9806452!16s%2Fg%2F11df25rhcx!19sChIJMV_ijLAsDogRGoklxXqXSho?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:58:00.674Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leaddog/data=!4m7!3m6!1s0x89c259a53a174c8b:0xdf2a1920a7637af8!8m2!3d40.7536567!4d-73.9955598!16s%2Fg%2F1tfkghb8!19sChIJi0wXOqVZwokR-HpjpyAZKt8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:58:02.818Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Netrocket+HVAC+Marketing+Agency/data=!4m7!3m6!1s0x89c25b00727973dd:0xde0424d739f38573!8m2!3d40.6936215!4d-73.9908599!16s%2Fg%2F11wqyqjr0d!19sChIJ3XN5cgBbwokRc4XzOdckBN4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:58:04.976Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Golden+Web+Media/data=!4m7!3m6!1s0x89c2f622e4158a23:0x76d6cb1cc172c68e!8m2!3d40.7607986!4d-73.9717622!16s%2Fg%2F11dfwydkvs!19sChIJI4oV5CL2wokRjsZywRzL1nY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:58:07.264Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Drew+SEM/data=!4m7!3m6!1s0x89c258c741910ab1:0x7b88198b45022808!8m2!3d40.7429246!4d-73.9834751!16s%2Fg%2F11f24vg3gh!19sChIJsQqRQcdYwokRCCgCRYsZiHs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-09T20:58:09.391Z"}
+{"level":"info","message":"Summary: saved=20, duplicates=0, failed=0","timestamp":"2026-02-09T20:58:12.136Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-09T20-58-12.csv","timestamp":"2026-02-09T20:58:12.140Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-10T19:03:38.708Z"}
+{"level":"info","message":"📝 Query: \"dentists in tbilisi\"","timestamp":"2026-02-10T19:03:38.712Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-10T19:03:38.712Z"}
+{"level":"info","message":"👁️  Headless: false","timestamp":"2026-02-10T19:03:38.713Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-10T19:03:39.806Z"}
+{"level":"info","message":"Job created: a981b248-ada9-41ca-a9a5-7df43a5c1c37","timestamp":"2026-02-10T19:03:40.061Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-10T19:03:50.456Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-10T19:03:52.125Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links (prev: 0)","timestamp":"2026-02-10T19:03:55.091Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 36 links (prev: 22)","timestamp":"2026-02-10T19:03:56.416Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links (prev: 36)","timestamp":"2026-02-10T19:03:57.660Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 58 links (prev: 44)","timestamp":"2026-02-10T19:03:59.159Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 64 links (prev: 58)","timestamp":"2026-02-10T19:04:00.444Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links (prev: 64)","timestamp":"2026-02-10T19:04:01.660Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 78 links (prev: 64)","timestamp":"2026-02-10T19:04:02.922Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 78 links (prev: 78)","timestamp":"2026-02-10T19:04:04.291Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 84 links (prev: 78)","timestamp":"2026-02-10T19:04:05.509Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links (prev: 84)","timestamp":"2026-02-10T19:04:06.729Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links (prev: 84)","timestamp":"2026-02-10T19:04:07.948Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links (prev: 84)","timestamp":"2026-02-10T19:04:09.166Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-10T19:04:09.166Z"}
+{"level":"info","message":"✅ Collected 81 unique links.","timestamp":"2026-02-10T19:04:09.169Z"}
+{"level":"info","message":"📋 Processing first 5 of 81 links...","timestamp":"2026-02-10T19:04:09.169Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:04:09.176Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:04:12.234Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:04:14.742Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:04:16.889Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:04:18.978Z"}
+{"level":"info","message":"Summary: saved=1, duplicates=4, failed=0","timestamp":"2026-02-10T19:04:21.236Z"}
+{"level":"info","message":"CSV exported to: leads_2026-02-10T19-04-21.csv","timestamp":"2026-02-10T19:04:21.585Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-10T19:11:23.603Z"}
+{"level":"info","message":"📝 Query: \"dentists in tbilisi\"","timestamp":"2026-02-10T19:11:23.608Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-10T19:11:23.610Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-10T19:11:23.610Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-10T19:11:23.673Z"}
+{"level":"info","message":"Job created: 72da960c-1a31-40a6-bcb1-7d584d7817c3","timestamp":"2026-02-10T19:11:23.723Z"}
+{"level":"info","message":"🚀 Launching Multi-Result Scraper...","timestamp":"2026-02-10T19:11:27.114Z"}
+{"level":"info","message":"📝 Query: \"dentists in tbilisi\"","timestamp":"2026-02-10T19:11:27.118Z"}
+{"level":"info","message":"🎯 Max Results: 5","timestamp":"2026-02-10T19:11:27.119Z"}
+{"level":"info","message":"👁️  Headless: true","timestamp":"2026-02-10T19:11:27.119Z"}
+{"level":"info","message":"🔌 Connected to DB via Prisma","timestamp":"2026-02-10T19:11:27.181Z"}
+{"level":"info","message":"Job created: 74e6def5-d734-4d2e-b8d1-2c225b16b071","timestamp":"2026-02-10T19:11:27.225Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-10T19:11:34.111Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-10T19:11:34.111Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-10T19:11:36.047Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-10T19:11:36.255Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 12 links (prev: 0)","timestamp":"2026-02-10T19:11:39.976Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 12 links (prev: 0)","timestamp":"2026-02-10T19:11:40.761Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 18 links (prev: 12)","timestamp":"2026-02-10T19:11:41.203Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 18 links (prev: 12)","timestamp":"2026-02-10T19:11:42.249Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 20 links (prev: 18)","timestamp":"2026-02-10T19:11:42.566Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 22 links (prev: 18)","timestamp":"2026-02-10T19:11:43.577Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 20 links (prev: 20)","timestamp":"2026-02-10T19:11:43.795Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 28 links (prev: 22)","timestamp":"2026-02-10T19:11:44.931Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 26 links (prev: 20)","timestamp":"2026-02-10T19:11:45.008Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 34 links (prev: 28)","timestamp":"2026-02-10T19:11:46.159Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 32 links (prev: 26)","timestamp":"2026-02-10T19:11:46.218Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 40 links (prev: 34)","timestamp":"2026-02-10T19:11:47.372Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 38 links (prev: 32)","timestamp":"2026-02-10T19:11:47.429Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 44 links (prev: 40)","timestamp":"2026-02-10T19:11:48.579Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 42 links (prev: 38)","timestamp":"2026-02-10T19:11:48.638Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 50 links (prev: 44)","timestamp":"2026-02-10T19:11:49.849Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 48 links (prev: 42)","timestamp":"2026-02-10T19:11:49.931Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 56 links (prev: 50)","timestamp":"2026-02-10T19:11:51.065Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 54 links (prev: 48)","timestamp":"2026-02-10T19:11:51.148Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 56 links (prev: 56)","timestamp":"2026-02-10T19:11:52.276Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 54 links (prev: 54)","timestamp":"2026-02-10T19:11:52.359Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 56 links (prev: 56)","timestamp":"2026-02-10T19:11:53.493Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 54 links (prev: 54)","timestamp":"2026-02-10T19:11:53.568Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 56 links (prev: 56)","timestamp":"2026-02-10T19:11:54.711Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-10T19:11:54.711Z"}
+{"level":"info","message":"✅ Collected 54 unique links.","timestamp":"2026-02-10T19:11:54.714Z"}
+{"level":"info","message":"📋 Processing first 5 of 54 links...","timestamp":"2026-02-10T19:11:54.714Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:11:54.721Z"}
+{"level":"info","message":"🔄 Scroll attempt 13: Found 54 links (prev: 54)","timestamp":"2026-02-10T19:11:54.773Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-10T19:11:54.775Z"}
+{"level":"info","message":"✅ Collected 54 unique links.","timestamp":"2026-02-10T19:11:54.779Z"}
+{"level":"info","message":"📋 Processing first 5 of 54 links...","timestamp":"2026-02-10T19:11:54.780Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:11:54.787Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:11:58.263Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:11:58.417Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:01.236Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:01.253Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:04.280Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:04.365Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:06.831Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-10T19:12:07.210Z"}
+{"level":"info","message":"Summary: saved=0, duplicates=5, failed=0","timestamp":"2026-02-10T19:12:09.190Z"}
+{"level":"info","message":"Summary: saved=0, duplicates=4, failed=0","timestamp":"2026-02-10T19:12:09.590Z"}
