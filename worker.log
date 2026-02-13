@@ -184,3 +184,279 @@
 {"level":"warn","message":"⚠️  No website for Dental clinic Doctor Smile, marking FAILED.","timestamp":"2026-02-11T04:38:02.594Z"}
 {"level":"info","message":"👷 Processing: Anna Metreveli Dental Clinic | მეტრეველის სტომატოლოგიური კლინიკა (ID: 7fe79fad-03e2-4ba0-a629-0a63f179a729) - URL: http://www.metrevelidentalcenter.com/","timestamp":"2026-02-11T04:38:02.602Z"}
 {"level":"info","message":"✅ Found 3 emails for Anna Metreveli Dental Clinic | მეტრეველის სტომატოლოგიური კლინიკა: info@metrevelidental.com, vacancy@metrevelidental.com, marketing@metrevelidental.com","timestamp":"2026-02-11T04:38:17.706Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-10d41c35","timestamp":"2026-02-11T21:20:53.963Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-d47f7938","timestamp":"2026-02-11T21:20:53.962Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-11T21:20:54.054Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-11T21:20:54.067Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-11T21:20:56.213Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-11T21:20:56.215Z"}
+{"level":"info","message":"👷 Processing: Born Social (ID: 9440d059-8b54-492c-835b-8c9c176b6813) - URL: https://www.bornsocial.co/contact-offices-new-york","timestamp":"2026-02-11T21:21:11.616Z"}
+{"level":"info","message":"👷 Processing: Marketing Company Williamsburg | Online Marketing Company Williamsburg (ID: 9bebd85b-81af-4810-905d-993df60970a6) - URL: https://finetouchmarketing.com/","timestamp":"2026-02-11T21:21:11.619Z"}
+{"level":"info","message":"✅ Found 12 emails for Born Social: melbourne@bornsocial.co?subject=website%20enquiry%20-%20melbourne%20office, newyork@bornsocial.co?subject=website%20enquiry%20-%20new%20york%20office, melbourne@bornsocial.co?subject=website%20enquiry%20-%20new%20york%20office, hello@bornsocial.co, newyork@bornsocial.co, newyork@bornsocial.co?subject=born%20social%20-%20web%20enquiry, melbourne@bornsocial.cop, newyork@bornsocial.comelbournemelbourne, hello@bornsocial.co.what, 4667emailnewyork@bornsocial.coelevate, 7462emailnewyork@bornsocial.cowilliamsburg109, newyork@bornsocial.cofind","timestamp":"2026-02-11T21:21:30.461Z"}
+{"level":"info","message":"👷 Processing: RXM Creative (ID: 9e6d6dbb-bda2-4dea-8fdc-c224fe84dfd8) - URL: http://www.rxmcreative.com/","timestamp":"2026-02-11T21:21:30.737Z"}
+{"level":"info","message":"✅ Found 1 emails for Marketing Company Williamsburg | Online Marketing Company Williamsburg: in**@****************ng.com","timestamp":"2026-02-11T21:21:32.754Z"}
+{"level":"info","message":"👷 Processing: NYC Website Designers Local SEO Pros (ID: 19153abf-1d25-41f3-aa74-a908c8e0c025) - URL: https://nycwebsitedesignerseopros.com/","timestamp":"2026-02-11T21:21:32.798Z"}
+{"level":"info","message":"✅ Found 4 emails for RXM Creative: hello@rxmcreative.com, newbiz@rxmcreative.com, jobs@rxmcreative.com, jobs@rxmcreative.cominstagramlinkedinfacebooktwitteryoutubejoin","timestamp":"2026-02-11T21:21:43.177Z"}
+{"level":"info","message":"👷 Processing: RZ Web Media - Best Digital Marketing, Online Marketing, Website Design & Development App Development Company in Brooklyn (ID: 634a3bab-e068-4dae-8130-0f0c13a72e1c) - URL: https://rzwebmedia.com/","timestamp":"2026-02-11T21:21:43.213Z"}
+{"level":"info","message":"✅ Found 1 emails for NYC Website Designers Local SEO Pros: info@nycwebsitedesigners.com","timestamp":"2026-02-11T21:21:48.026Z"}
+{"level":"info","message":"👷 Processing: Teal Blue Media (ID: 000a4ea9-a57b-42b2-bd30-42450e770b30) - URL: https://www.instagram.com/tealbluemedia/","timestamp":"2026-02-11T21:21:48.062Z"}
+{"level":"info","message":"✅ Found 1 emails for RZ Web Media - Best Digital Marketing, Online Marketing, Website Design & Development App Development Company in Brooklyn: info@rzwebmedia.com","timestamp":"2026-02-11T21:21:55.250Z"}
+{"level":"info","message":"👷 Processing: Solocreative (ID: 5dfce097-14ac-4efb-8344-28a0d6ba99bf) - URL: https://www.solocreativeny.com/","timestamp":"2026-02-11T21:21:55.329Z"}
+{"level":"info","message":"🤷 No emails found for Teal Blue Media","timestamp":"2026-02-11T21:21:57.999Z"}
+{"level":"info","message":"👷 Processing: Social Circle Branding & Web Design (ID: 6eab36fd-3774-4ef5-ab22-e0c4ea6ac7bd) - URL: https://socialcircleinc.com/","timestamp":"2026-02-11T21:21:58.018Z"}
+{"level":"info","message":"🤷 No emails found for Social Circle Branding & Web Design","timestamp":"2026-02-11T21:22:10.705Z"}
+{"level":"info","message":"👷 Processing: Azai Studios (ID: bfd5ab4c-3043-4d25-b49b-88d89c8df01b) - URL: http://www.azaistudios.com/","timestamp":"2026-02-11T21:22:10.742Z"}
+{"level":"info","message":"✅ Found 1 emails for Solocreative: hello@solocreativeny.com","timestamp":"2026-02-11T21:22:22.195Z"}
+{"level":"info","message":"👷 Processing: DPDK - Brand innovation agency for the bold (ID: 821d48b4-66c0-4506-9997-86ce32a8a0f5) - URL: https://dpdk.com/contact/brand-innovation-agency-new-york?utm_source=google&utm_medium=my-business&utm_campaign=newyork","timestamp":"2026-02-11T21:22:22.227Z"}
+{"level":"info","message":"✅ Found 2 emails for Azai Studios: info@azaistudios.com?subject=pitch%20azai%20ventures, info@azaistudios.com?subject=contact%20from%20website","timestamp":"2026-02-11T21:22:26.355Z"}
+{"level":"info","message":"👷 Processing: MarketSmiths (ID: b38be8f4-6bcd-4685-b7cc-90245c44b5bb) - URL: http://www.marketsmiths.com/","timestamp":"2026-02-11T21:22:26.385Z"}
+{"level":"info","message":"🤷 No emails found for DPDK - Brand innovation agency for the bold","timestamp":"2026-02-11T21:22:39.300Z"}
+{"level":"info","message":"👷 Processing: Mind & Metrics | A Full-Service Digital Agency Focused On Growth (ID: 6a2b96b6-8cfc-4004-a17d-730615e46f54) - URL: http://mindandmetrics.com/","timestamp":"2026-02-11T21:22:39.404Z"}
+{"level":"info","message":"✅ Found 1 emails for MarketSmiths: info@marketsmiths.com","timestamp":"2026-02-11T21:23:08.803Z"}
+{"level":"info","message":"👷 Processing: Lemon Digital Marketing Agency (ID: 0d541a86-6921-4171-b6ac-38e28b6f539d) - URL: null","timestamp":"2026-02-11T21:23:08.849Z"}
+{"level":"warn","message":"⚠️  No website for Lemon Digital Marketing Agency, marking FAILED.","timestamp":"2026-02-11T21:23:08.852Z"}
+{"level":"info","message":"👷 Processing: DAVID.MARKET - Digital Marketing Agency (ID: 909c21a9-260a-4734-a922-6e5f6da2edcb) - URL: https://david.market/?keywordutm_source=gmb","timestamp":"2026-02-11T21:23:08.870Z"}
+{"level":"info","message":"🤷 No emails found for DAVID.MARKET - Digital Marketing Agency","timestamp":"2026-02-11T21:23:21.243Z"}
+{"level":"info","message":"👷 Processing: Think Work Media - Digital Marketing Agency (ID: a830b7d4-c9ae-4c8e-985d-ccc5df3811e7) - URL: https://thinkworkmedia.com/?utm_source=local-listings&utm_medium=local-listings&utm_campaign=Local%20Listings","timestamp":"2026-02-11T21:23:21.264Z"}
+{"level":"info","message":"🤷 No emails found for Think Work Media - Digital Marketing Agency","timestamp":"2026-02-11T21:23:28.934Z"}
+{"level":"info","message":"👷 Processing: Chadwick Creative (ID: efab02bb-18dc-4f40-99e6-20437d830425) - URL: http://chadwickcreative.com/","timestamp":"2026-02-11T21:23:28.955Z"}
+{"level":"info","message":"✅ Found 5 emails for Chadwick Creative: info@chadwickcreative.comaddress, info@chadwickcreative.com, employment@chadwickcreative.comsocial, 347.391.6263info@chadwickcreative.com, employment@chadwickcreative.comstudio","timestamp":"2026-02-11T21:23:48.140Z"}
+{"level":"info","message":"👷 Processing: MOTG (ID: df708ab0-7df7-4f43-b6c5-79c342484caa) - URL: https://motg.com/","timestamp":"2026-02-11T21:23:48.167Z"}
+{"level":"info","message":"✅ Found 3 emails for MOTG: info@motg.com, 1-718-875-1808info@motg.comisrael, 2-560-9687info@motg.comsociallinkedininstagramfacebookxm","timestamp":"2026-02-11T21:23:58.969Z"}
+{"level":"info","message":"👷 Processing: Sturm Media LLC (ID: 219e6e9e-4252-47c0-ae5e-dd0cfe22504d) - URL: https://edwardsturm.com/services/","timestamp":"2026-02-11T21:23:58.997Z"}
+{"level":"info","message":"🤷 No emails found for Sturm Media LLC","timestamp":"2026-02-11T21:24:12.062Z"}
+{"level":"info","message":"👷 Processing: Vab Media Digital Agency, LLC (ID: af39dbc4-0fc9-4a21-81e3-09fc1195ab7a) - URL: http://www.vabulous.com/","timestamp":"2026-02-11T21:24:12.081Z"}
+{"level":"info","message":"🤷 No emails found for Vab Media Digital Agency, LLC","timestamp":"2026-02-11T21:24:28.911Z"}
+{"level":"info","message":"👷 Processing: CSM Agency - Digital Marketing (ID: afc4abc8-4f44-40fc-8562-a477904ad7ee) - URL: https://csmagency.ie/","timestamp":"2026-02-11T21:24:28.928Z"}
+{"level":"info","message":"✅ Found 1 emails for Mind & Metrics | A Full-Service Digital Agency Focused On Growth: info@mindandmetrics.com","timestamp":"2026-02-11T21:24:32.277Z"}
+{"level":"info","message":"👷 Processing: Social Sensei (ID: e6df4450-751d-49c4-a3db-b6be02127b2b) - URL: https://socialsensei.co/","timestamp":"2026-02-11T21:24:32.303Z"}
+{"level":"info","message":"✅ Found 1 emails for CSM Agency - Digital Marketing: linee-mailhello@csmagency.ielet","timestamp":"2026-02-11T21:24:37.859Z"}
+{"level":"info","message":"👷 Processing: Bizadmark LLC (ID: e209bf9e-ac22-4045-8ec9-c054b2114ef0) - URL: https://www.bizadmark.com/","timestamp":"2026-02-11T21:24:37.889Z"}
+{"level":"info","message":"🤷 No emails found for Bizadmark LLC","timestamp":"2026-02-11T21:24:44.804Z"}
+{"level":"info","message":"👷 Processing: Big Apple Media (ID: 8b31290e-aaf3-4f8e-8aad-a17ac79eacea) - URL: https://bigapplemedia.com/","timestamp":"2026-02-11T21:24:44.821Z"}
+{"level":"info","message":"✅ Found 2 emails for Social Sensei: support@socialsensei.co, support@socialsensei.co.","timestamp":"2026-02-11T21:24:46.128Z"}
+{"level":"info","message":"👷 Processing: LVS Digital Marketing (ID: 242ffcfe-f4ea-47e8-876c-1619b96b7858) - URL: http://lvsdigital.com/","timestamp":"2026-02-11T21:24:46.152Z"}
+{"level":"info","message":"✅ Found 1 emails for LVS Digital Marketing: marketing@lvsdigital.com","timestamp":"2026-02-11T21:24:57.269Z"}
+{"level":"info","message":"👷 Processing: Imprint Media (ID: 43be4393-0304-4a01-8979-872b89d1e653) - URL: null","timestamp":"2026-02-11T21:24:57.294Z"}
+{"level":"warn","message":"⚠️  No website for Imprint Media, marking FAILED.","timestamp":"2026-02-11T21:24:57.294Z"}
+{"level":"info","message":"👷 Processing: Moving Image & Content (ID: 9387d3a8-45b2-4123-bc34-a3e99ce06023) - URL: http://www.movingimageandcontent.com/","timestamp":"2026-02-11T21:24:57.305Z"}
+{"level":"info","message":"🤷 No emails found for Big Apple Media","timestamp":"2026-02-11T21:25:01.475Z"}
+{"level":"info","message":"👷 Processing: Creative Marketing NY (ID: 2251c06a-7779-4f74-b2eb-4c6d7e080d02) - URL: http://creativemarketingny.com/","timestamp":"2026-02-11T21:25:01.495Z"}
+{"level":"info","message":"✅ Found 1 emails for Moving Image & Content: info@qulture.agency","timestamp":"2026-02-11T21:25:09.002Z"}
+{"level":"info","message":"👷 Processing: Flow Digital (ID: 13a3c0a7-e865-48cb-9380-93779ba46ed0) - URL: https://flow.digital/","timestamp":"2026-02-11T21:25:09.026Z"}
+{"level":"info","message":"🤷 No emails found for Flow Digital","timestamp":"2026-02-11T21:25:17.009Z"}
+{"level":"info","message":"👷 Processing: Dialogue New York (ID: bd479007-808d-4508-ac71-4907d91b6e46) - URL: http://www.dialoguenyc.com/","timestamp":"2026-02-11T21:25:17.028Z"}
+{"level":"info","message":"🤷 No emails found for Creative Marketing NY","timestamp":"2026-02-11T21:25:17.110Z"}
+{"level":"info","message":"👷 Processing: Invisible North (ID: 6b8fb612-78fd-40cb-9911-b871a39942ec) - URL: http://www.invisiblenorth.com/","timestamp":"2026-02-11T21:25:17.149Z"}
+{"level":"info","message":"✅ Found 2 emails for Invisible North: jobs@invisiblenorth.com, hello@invisiblenorth.com","timestamp":"2026-02-11T21:25:26.189Z"}
+{"level":"info","message":"👷 Processing: Twigeo (ID: c2d87b65-bbf3-4a17-b89b-78f4190462f3) - URL: http://www.twigeo.com/","timestamp":"2026-02-11T21:25:26.212Z"}
+{"level":"info","message":"✅ Found 1 emails for Dialogue New York: info@dialoguenyc.com","timestamp":"2026-02-11T21:25:26.692Z"}
+{"level":"info","message":"👷 Processing: The Spark Group Brooklyn (ID: 4d0cc635-919b-4397-815f-e44eac908b81) - URL: null","timestamp":"2026-02-11T21:25:26.715Z"}
+{"level":"warn","message":"⚠️  No website for The Spark Group Brooklyn, marking FAILED.","timestamp":"2026-02-11T21:25:26.716Z"}
+{"level":"info","message":"👷 Processing: Microscope Marketing (ID: c970db7b-356f-4413-85e1-9f8361c86f1c) - URL: https://www.microscopemarketing.com/contact","timestamp":"2026-02-11T21:25:26.725Z"}
+{"level":"info","message":"✅ Found 2 emails for Microscope Marketing: info@microscopemarketing.com, info@microscopemarketing.comclients","timestamp":"2026-02-11T21:25:36.286Z"}
+{"level":"info","message":"👷 Processing: The Creative Exchange (ID: 8e7c9d97-1c99-404d-9ab0-5c352116f2f4) - URL: http://thecreativeexchange.co/","timestamp":"2026-02-11T21:25:36.315Z"}
+{"level":"info","message":"✅ Found 2 emails for Twigeo: hello@twigeo.com?subject=hello%20twigeo, hello@twigeo.com","timestamp":"2026-02-11T21:25:47.377Z"}
+{"level":"info","message":"👷 Processing: Operator (ID: d31fb34a-1aaa-46b8-84f4-f3d93307d4ab) - URL: http://yesoperator.com/","timestamp":"2026-02-11T21:25:47.406Z"}
+{"level":"info","message":"✅ Found 2 emails for The Creative Exchange: hello@thecreativeexchange.co?, hello@thecreativeexchange.colinkedin","timestamp":"2026-02-11T21:25:49.297Z"}
+{"level":"info","message":"👷 Processing: Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York (ID: d83a1ed8-20da-416a-a588-d85908360fbf) - URL: https://hunterdigitalmarketing.com/","timestamp":"2026-02-11T21:25:49.321Z"}
+{"level":"info","message":"🤷 No emails found for Operator","timestamp":"2026-02-11T21:25:56.546Z"}
+{"level":"info","message":"👷 Processing: Website Design Company Brooklyn | Social Media Marketing Agency Brooklyn (ID: c42a0568-b373-449c-96ac-1d624a548164) - URL: https://finetouchmarketing.com/","timestamp":"2026-02-11T21:25:56.626Z"}
+{"level":"info","message":"🤷 No emails found for Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York","timestamp":"2026-02-11T21:26:05.761Z"}
+{"level":"info","message":"👷 Processing: Get The People (ID: aad9ce5e-75e0-4ddb-80b4-cf67b5b9edb0) - URL: null","timestamp":"2026-02-11T21:26:05.828Z"}
+{"level":"warn","message":"⚠️  No website for Get The People, marking FAILED.","timestamp":"2026-02-11T21:26:05.828Z"}
+{"level":"info","message":"👷 Processing: Elevate Marketing Group (ID: f934fd95-9aa9-40cb-b293-5ec298982531) - URL: http://www.elevatemarketgroup.com/","timestamp":"2026-02-11T21:26:05.836Z"}
+{"level":"info","message":"✅ Found 1 emails for Website Design Company Brooklyn | Social Media Marketing Agency Brooklyn: in**@****************ng.com","timestamp":"2026-02-11T21:26:10.714Z"}
+{"level":"info","message":"👷 Processing: Upclicks Media (ID: 4cd59fee-2bba-4307-89d1-75ecebb09a72) - URL: http://www.upclicksmedia.com/","timestamp":"2026-02-11T21:26:10.742Z"}
+{"level":"info","message":"✅ Found 3 emails for Elevate Marketing Group: info@elevatemarketgroup.com, info@elevatemarketgroup.comtel, info@mysite.com","timestamp":"2026-02-11T21:26:18.083Z"}
+{"level":"info","message":"👷 Processing: AdVenture Media Group (ID: efff0864-a704-4447-8e30-949b402d6414) - URL: http://www.adventureppc.com/","timestamp":"2026-02-11T21:26:18.109Z"}
+{"level":"info","message":"✅ Found 1 emails for Upclicks Media: joel@upclicksmedia.com","timestamp":"2026-02-11T21:26:23.570Z"}
+{"level":"info","message":"👷 Processing: Starfish Branding Agency (ID: 704ce584-7818-4afc-a395-4e967988197a) - URL: https://www.starfishco.com/","timestamp":"2026-02-11T21:26:23.598Z"}
+{"level":"info","message":"✅ Found 1 emails for AdVenture Media Group: 218-3722info@adventureppc.comour","timestamp":"2026-02-11T21:26:26.905Z"}
+{"level":"info","message":"👷 Processing: Websites Depot (ID: a8fd99f5-a993-4115-96dd-3031f049d20c) - URL: https://websitedepot.com/brooklyn-digital-marketing/","timestamp":"2026-02-11T21:26:26.934Z"}
+{"level":"info","message":"🤷 No emails found for Starfish Branding Agency","timestamp":"2026-02-11T21:26:37.569Z"}
+{"level":"info","message":"👷 Processing: CX3 Digital Marketing (ID: 8380127a-0015-4ef3-affc-5e8c11bafe85) - URL: https://www.cx3digital.com/","timestamp":"2026-02-11T21:26:37.587Z"}
+{"level":"info","message":"✅ Found 3 emails for Websites Depot: contact@websitedepot.com, teamcontact@websitedepot.com, contact@websitedepot.comwebsite","timestamp":"2026-02-11T21:26:37.912Z"}
+{"level":"info","message":"👷 Processing: Gain SEO Agency (ID: 1aba0597-4375-49a2-88e7-870a8c3807bc) - URL: https://gainseoagency.com/","timestamp":"2026-02-11T21:26:37.938Z"}
+{"level":"info","message":"✅ Found 1 emails for Gain SEO Agency: lisa@hummingbirddigitalsolutions.com","timestamp":"2026-02-11T21:26:50.361Z"}
+{"level":"info","message":"👷 Processing: Big Picture Media (ID: abad0bef-39d0-4653-a458-a8fa33ce4b0c) - URL: https://bigpicturemediaonline.com/","timestamp":"2026-02-11T21:26:50.385Z"}
+{"level":"info","message":"✅ Found 1 emails for Big Picture Media: dayna@bigpicturemediaonline.com","timestamp":"2026-02-11T21:27:02.199Z"}
+{"level":"info","message":"🤷 No emails found for CX3 Digital Marketing","timestamp":"2026-02-11T21:27:02.224Z"}
+{"level":"info","message":"👷 Processing: Rank Higher Agency (ID: ef2522f1-7b33-469c-9733-49ad1025cd03) - URL: https://rankhigheragency.com/","timestamp":"2026-02-11T21:27:02.226Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Agency Brooklyn | Adwords Agency Brooklyn (ID: ff4cd9cf-7fc0-4970-9f01-4831bf4ee958) - URL: http://finetouchmarketing.com/","timestamp":"2026-02-11T21:27:02.245Z"}
+{"level":"info","message":"✅ Found 1 emails for Digital Marketing Agency Brooklyn | Adwords Agency Brooklyn: in**@****************ng.com","timestamp":"2026-02-11T21:27:14.123Z"}
+{"level":"info","message":"👷 Processing: 5Boro Digital (ID: 6382149c-cb54-4ed3-8a37-aa3a95f522e1) - URL: https://5borodigital.com/","timestamp":"2026-02-11T21:27:14.159Z"}
+{"level":"info","message":"🤷 No emails found for Rank Higher Agency","timestamp":"2026-02-11T21:27:25.810Z"}
+{"level":"info","message":"👷 Processing: Red Rise Digital (ID: 32890300-9c42-4ced-a512-d52f4f3e5bcc) - URL: http://redrisedigital.com/","timestamp":"2026-02-11T21:27:25.828Z"}
+{"level":"info","message":"✅ Found 2 emails for 5Boro Digital: info@5borodigital.com, info@5borodigital.com​","timestamp":"2026-02-11T21:27:26.748Z"}
+{"level":"info","message":"👷 Processing: 3rd Impression (ID: 5d3485e6-f201-4862-889d-cccabaa2c286) - URL: https://www.3rdimpression.com/","timestamp":"2026-02-11T21:27:26.778Z"}
+{"level":"info","message":"🤷 No emails found for 3rd Impression","timestamp":"2026-02-11T21:27:35.129Z"}
+{"level":"info","message":"👷 Processing: Green Marketing Digital (ID: 1f577abf-158e-4b0b-aea7-361a546ef90a) - URL: null","timestamp":"2026-02-11T21:27:35.147Z"}
+{"level":"warn","message":"⚠️  No website for Green Marketing Digital, marking FAILED.","timestamp":"2026-02-11T21:27:35.148Z"}
+{"level":"info","message":"👷 Processing: agency - Mobiwebmedia (ID: 6cfa4faa-6ed2-4715-b147-01ff3af04654) - URL: http://mobiwebmediasystem.com/","timestamp":"2026-02-11T21:27:35.158Z"}
+{"level":"info","message":"✅ Found 1 emails for Red Rise Digital: hello@sixtysixten.com","timestamp":"2026-02-11T21:27:35.585Z"}
+{"level":"info","message":"👷 Processing: Digital NYC Agency (ID: 7ba3b1e1-6f22-4bcb-819a-f361c9467388) - URL: https://www.digitalnycagency.com/","timestamp":"2026-02-11T21:27:35.609Z"}
+{"level":"info","message":"🤷 No emails found for agency - Mobiwebmedia","timestamp":"2026-02-11T21:27:44.451Z"}
+{"level":"info","message":"👷 Processing: Genie Jar Digital (ID: 4df1891d-dce6-4e7c-91a5-5e741cdab57c) - URL: https://www.geniejarmarketing.com/","timestamp":"2026-02-11T21:27:44.469Z"}
+{"level":"info","message":"✅ Found 5 emails for Digital NYC Agency: info@digitalnycagency.com?subject=call%20request, info@digitalnycagency.com?subject=marketing%20audit%20request, info@digitalnycagency.com, info@digitalnycagency.com?subject=strategy%20call%20request, again.phone212.301.0575emailinfo@digitalnycagency.comoffice157","timestamp":"2026-02-11T21:27:46.712Z"}
+{"level":"info","message":"👷 Processing: OLEX Digital. Branding. Photography (ID: 713b8672-69ff-4d94-a4a0-3bcfc89330d1) - URL: http://olex-design.com/","timestamp":"2026-02-11T21:27:46.739Z"}
+{"level":"info","message":"✅ Found 1 emails for Genie Jar Digital: getstarted@geniejar.net?subject=marketing%20questions","timestamp":"2026-02-11T21:27:54.974Z"}
+{"level":"info","message":"👷 Processing: Olive Web Studio (ID: ab8b59bd-e83e-4b92-b82a-864de2f332da) - URL: null","timestamp":"2026-02-11T21:27:55.004Z"}
+{"level":"warn","message":"⚠️  No website for Olive Web Studio, marking FAILED.","timestamp":"2026-02-11T21:27:55.005Z"}
+{"level":"info","message":"👷 Processing: We are Social Media (ID: 4723d793-bd25-4f86-9e34-55c409974106) - URL: https://wersm.com/","timestamp":"2026-02-11T21:27:55.015Z"}
+{"level":"info","message":"✅ Found 4 emails for OLEX Digital. Branding. Photography: info@olex-design.com, oliver@olex-design.com, sarah@olex-design.com, info@olex-design.at","timestamp":"2026-02-11T21:28:02.014Z"}
+{"level":"info","message":"👷 Processing: NJ Digital (ID: 20cbb310-2ca7-4411-b8de-425960d95f5d) - URL: null","timestamp":"2026-02-11T21:28:02.039Z"}
+{"level":"warn","message":"⚠️  No website for NJ Digital, marking FAILED.","timestamp":"2026-02-11T21:28:02.040Z"}
+{"level":"info","message":"👷 Processing: Oppizi USA (ID: f4b2dd8f-e76f-432d-b55e-8dfc33ef9a44) - URL: https://www.oppizi.com/flyering-united-states","timestamp":"2026-02-11T21:28:02.050Z"}
+{"level":"info","message":"🤷 No emails found for We are Social Media","timestamp":"2026-02-11T21:28:06.138Z"}
+{"level":"info","message":"👷 Processing: SEM (Search Engine Marketing) (ID: 70147ce5-541f-4c2b-b8ad-fd53c208626e) - URL: https://semnewyork.com/","timestamp":"2026-02-11T21:28:06.156Z"}
+{"level":"info","message":"🤷 No emails found for Oppizi USA","timestamp":"2026-02-11T21:28:13.939Z"}
+{"level":"info","message":"👷 Processing: AFM AGENCY (ID: 859213f6-1a15-459d-aac7-ba1477412457) - URL: https://www.afmagency.net/","timestamp":"2026-02-11T21:28:13.956Z"}
+{"level":"info","message":"🤷 No emails found for SEM (Search Engine Marketing)","timestamp":"2026-02-11T21:28:34.404Z"}
+{"level":"info","message":"👷 Processing: EdgeDNA (ID: 43d5159c-7335-487c-816b-194a6b0adc28) - URL: http://www.edgedna.co/","timestamp":"2026-02-11T21:28:34.421Z"}
+{"level":"info","message":"✅ Found 1 emails for AFM AGENCY: team@afmagency.net","timestamp":"2026-02-11T21:28:39.711Z"}
+{"level":"info","message":"👷 Processing: DigiFlow (ID: 95d87b96-5f31-490c-b638-f839efc84fdb) - URL: https://www.digiflow.nyc/","timestamp":"2026-02-11T21:28:39.742Z"}
+{"level":"info","message":"🤷 No emails found for EdgeDNA","timestamp":"2026-02-11T21:28:44.241Z"}
+{"level":"info","message":"👷 Processing: WMA (ID: 801f408b-d050-4a4c-b97a-fc9db052b3f5) - URL: http://wma.agency/","timestamp":"2026-02-11T21:28:44.257Z"}
+{"level":"info","message":"✅ Found 1 emails for DigiFlow: contact@digiflow.nyc","timestamp":"2026-02-11T21:28:48.101Z"}
+{"level":"info","message":"👷 Processing: NoLie Communications (ID: 2a80d78b-6405-44b9-87d5-be8ce44aa4e2) - URL: http://noliecommunications.com/","timestamp":"2026-02-11T21:28:48.125Z"}
+{"level":"info","message":"🤷 No emails found for WMA","timestamp":"2026-02-11T21:28:57.087Z"}
+{"level":"info","message":"👷 Processing: Immediate Marketing & Business Consulting (ID: 2591d063-cf05-4779-ad2b-4f433fb27440) - URL: http://www.immediatemarketing.com/","timestamp":"2026-02-11T21:28:57.104Z"}
+{"level":"info","message":"🤷 No emails found for NoLie Communications","timestamp":"2026-02-11T21:28:58.586Z"}
+{"level":"info","message":"👷 Processing: SEARCH WEBLISTINGS (ID: cd9730d1-97f3-4a35-943d-b967c85455ad) - URL: http://searchweblistings.com/","timestamp":"2026-02-11T21:28:58.613Z"}
+{"level":"info","message":"✅ Found 1 emails for Immediate Marketing & Business Consulting: info@immediatemarketing.com","timestamp":"2026-02-11T21:29:07.562Z"}
+{"level":"info","message":"👷 Processing: Digital Izzy (ID: 21e2f155-b5f2-4b4d-9847-95482832908c) - URL: null","timestamp":"2026-02-11T21:29:07.586Z"}
+{"level":"warn","message":"⚠️  No website for Digital Izzy, marking FAILED.","timestamp":"2026-02-11T21:29:07.586Z"}
+{"level":"info","message":"👷 Processing: Numberly (ID: cfa2870b-59d7-4473-bb68-39f37d31f58a) - URL: https://numberly.com/","timestamp":"2026-02-11T21:29:07.595Z"}
+{"level":"info","message":"🤷 No emails found for SEARCH WEBLISTINGS","timestamp":"2026-02-11T21:29:10.509Z"}
+{"level":"info","message":"👷 Processing: Altimate Marketing (ID: de2b97f5-199d-4c4d-85ae-9da9a8643d41) - URL: https://altimatemarketing.com/index.php/about-us/","timestamp":"2026-02-11T21:29:10.525Z"}
+{"level":"info","message":"✅ Found 2 emails for Numberly: dpo@numberly.com, dpo@numberly.com.","timestamp":"2026-02-11T21:29:17.075Z"}
+{"level":"info","message":"👷 Processing: CHIPS (ID: c4660b21-89bc-41fe-9a84-66cbaa335e9a) - URL: http://www.chips.nyc/","timestamp":"2026-02-11T21:29:17.098Z"}
+{"level":"info","message":"🤷 No emails found for Altimate Marketing","timestamp":"2026-02-11T21:29:18.126Z"}
+{"level":"info","message":"👷 Processing: Design Brooklyn (ID: 5d005ea9-7f4e-4adb-9d56-380069285cd6) - URL: https://www.designbrooklyn.com/","timestamp":"2026-02-11T21:29:18.143Z"}
+{"level":"info","message":"🤷 No emails found for CHIPS","timestamp":"2026-02-11T21:29:27.500Z"}
+{"level":"info","message":"👷 Processing: Infogies (ID: d391bafe-c1cd-4725-931a-a53c7f31d2d6) - URL: https://infogies.ueniweb.com/?utm_campaign=gmb","timestamp":"2026-02-11T21:29:27.515Z"}
+{"level":"info","message":"✅ Found 1 emails for Design Brooklyn: info@designbrooklyn.com","timestamp":"2026-02-11T21:29:28.789Z"}
+{"level":"info","message":"👷 Processing: Creative Visions Digital Media Group (ID: 78aff579-74b2-45d1-a45f-84d03b0f1f2c) - URL: http://www.cvdmg.com/","timestamp":"2026-02-11T21:29:28.812Z"}
+{"level":"info","message":"✅ Found 2 emails for Infogies: reactivations@ueni.com, reactivations@ueni.com.","timestamp":"2026-02-11T21:29:35.854Z"}
+{"level":"info","message":"👷 Processing: Agency (ID: f6a4c14f-a96d-471e-b9cb-e4a6e928c788) - URL: http://just-businessmarketing.com/","timestamp":"2026-02-11T21:29:35.879Z"}
+{"level":"info","message":"🤷 No emails found for Creative Visions Digital Media Group","timestamp":"2026-02-11T21:29:42.032Z"}
+{"level":"info","message":"👷 Processing: The Gathery (ID: 5fc6d163-59e9-49e6-90a9-0d2f337de76c) - URL: http://www.thegathery.com/","timestamp":"2026-02-11T21:29:42.050Z"}
+{"level":"info","message":"🤷 No emails found for Agency","timestamp":"2026-02-11T21:29:49.098Z"}
+{"level":"info","message":"👷 Processing: Red Octopus (ID: c6a59cff-0088-4c03-b189-e638b1f333c2) - URL: https://redoctopus-eg.com/","timestamp":"2026-02-11T21:29:49.116Z"}
+{"level":"info","message":"✅ Found 1 emails for The Gathery: careers@thegathery.com","timestamp":"2026-02-11T21:29:51.913Z"}
+{"level":"info","message":"👷 Processing: Want Studio (ID: e5700c44-00cd-4c5a-8e2b-bc4e1a822746) - URL: http://www.want.studio/","timestamp":"2026-02-11T21:29:51.936Z"}
+{"level":"info","message":"🤷 No emails found for Red Octopus","timestamp":"2026-02-11T21:29:58.843Z"}
+{"level":"info","message":"👷 Processing: WEBWAY 360 - Print Shop, Graphic Design & Online Marketing (ID: 4630f01e-f298-4ad5-bbd1-823034174a26) - URL: https://webway360.com/","timestamp":"2026-02-11T21:29:58.865Z"}
+{"level":"info","message":"✅ Found 2 emails for Want Studio: justin@want.studio, emailjustin@want.studio","timestamp":"2026-02-11T21:30:05.095Z"}
+{"level":"info","message":"👷 Processing: The Vaan Group (ID: c4336b91-b4cd-4b56-8d7b-53c549df3625) - URL: null","timestamp":"2026-02-11T21:30:05.122Z"}
+{"level":"warn","message":"⚠️  No website for The Vaan Group, marking FAILED.","timestamp":"2026-02-11T21:30:05.122Z"}
+{"level":"info","message":"👷 Processing: Artex Group (ID: 43c5f976-c5cc-4a65-a8e8-5498de762cc0) - URL: http://artexadvertising.com/about-us/","timestamp":"2026-02-11T21:30:05.132Z"}
+{"level":"info","message":"✅ Found 1 emails for Artex Group: usinfo@artexadvertising.com","timestamp":"2026-02-11T21:30:16.564Z"}
+{"level":"info","message":"🤷 No emails found for WEBWAY 360 - Print Shop, Graphic Design & Online Marketing","timestamp":"2026-02-11T21:30:28.440Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-7c29a3a8","timestamp":"2026-02-12T04:56:29.473Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-c62d4673","timestamp":"2026-02-12T04:56:29.472Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-12T04:56:29.540Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-12T04:56:29.541Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-12T04:56:31.554Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-12T04:56:31.574Z"}
+{"level":"info","message":"👷 Processing: Dream Digital Agency (ID: fc0c9395-004b-4341-9be0-08c5adb7e2fa) - URL: https://dreamdigital.agency/","timestamp":"2026-02-12T04:56:31.642Z"}
+{"level":"info","message":"👷 Processing: Aazz Seo Agency London (ID: 9344db6e-9613-4451-9def-50ed0239da69) - URL: https://aazzagency.co.uk/","timestamp":"2026-02-12T04:56:31.643Z"}
+{"level":"info","message":"✅ Found 1 emails for Aazz Seo Agency London: aazz.agency.pk@gmail.com","timestamp":"2026-02-12T04:56:46.673Z"}
+{"level":"info","message":"👷 Processing: Visionary Marketing | Digital Marketing Agency London (ID: 0172129a-85ce-4406-87a7-7e97893d6c93) - URL: https://visionary-marketing.co.uk/digital-marketing-agency-london","timestamp":"2026-02-12T04:56:46.820Z"}
+{"level":"info","message":"✅ Found 1 emails for Dream Digital Agency: enquiries@dreamdigital.agency","timestamp":"2026-02-12T04:56:50.799Z"}
+{"level":"info","message":"👷 Processing: Influence Digital (ID: 524b6469-54ae-4584-989a-a192c203b5f9) - URL: https://influence.digital/","timestamp":"2026-02-12T04:56:50.881Z"}
+{"level":"info","message":"🤷 No emails found for Visionary Marketing | Digital Marketing Agency London","timestamp":"2026-02-12T04:56:55.734Z"}
+{"level":"info","message":"👷 Processing: The Good Marketer | Digital Marketing Agency London (ID: 9146f08d-0293-450f-ba7e-14cace735483) - URL: https://www.thegoodmarketer.co.uk/","timestamp":"2026-02-12T04:56:55.833Z"}
+{"level":"info","message":"✅ Found 1 emails for Influence Digital: info@influence.digital","timestamp":"2026-02-12T04:57:03.402Z"}
+{"level":"info","message":"👷 Processing: PN Digital SEO Agency London (ID: 8c048915-3e98-49e6-b005-d87ccbb463be) - URL: https://pndigital.co.uk/?gmb","timestamp":"2026-02-12T04:57:03.534Z"}
+{"level":"info","message":"✅ Found 1 emails for PN Digital SEO Agency London: info@pndigital.co.uk","timestamp":"2026-02-12T04:57:17.255Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Agency in London (ID: 7f601fc7-0b39-440a-968e-5c1b6b5110b6) - URL: https://discovermybusiness.com/","timestamp":"2026-02-12T04:57:17.714Z"}
+{"level":"info","message":"✅ Found 3 emails for The Good Marketer | Digital Marketing Agency London: info@thegoodmarketer.co.uk, 1ewinfo@thegoodmarketer.co.ukstay, 1ewinfo@thegoodmarketer.co.uk","timestamp":"2026-02-12T04:57:19.061Z"}
+{"level":"info","message":"👷 Processing: Pearl Lemon (ID: 23de4b17-f1a3-40ad-b846-e2b9756f3fe2) - URL: https://pearllemon.com/","timestamp":"2026-02-12T04:57:19.097Z"}
+{"level":"info","message":"🤷 No emails found for Digital Marketing Agency in London","timestamp":"2026-02-12T04:57:36.704Z"}
+{"level":"info","message":"👷 Processing: Jain marketing Vista ltd// Best Digital Marketing Agency in London UK// 3D, CGI,VFX Video (ID: 7516e43d-4c17-42e7-a379-4aa4af769443) - URL: https://jainmarketingvistaltd.com/","timestamp":"2026-02-12T04:57:36.730Z"}
+{"level":"info","message":"✅ Found 4 emails for Pearl Lemon: info@pearllemongroup.com, dee@pearllemon.co?subject=hey%21%20i%20have%20a%20question%20about%20your%20seo%20service%21%20%3a%29%20, dee@pearllemon.co?subject=dee%21%20i%20would%20love%20to%20discuss%20a%20potential%20partnership%20with%20you&amp;body=hey%20dee%21, pm@pearllemon.com","timestamp":"2026-02-12T04:57:37.499Z"}
+{"level":"info","message":"👷 Processing: Immersive Media (ID: db539860-272f-4049-9615-8993bb5275ac) - URL: https://www.imwebdesignmarketing.co.uk/","timestamp":"2026-02-12T04:57:37.545Z"}
+{"level":"info","message":"✅ Found 1 emails for Immersive Media: hello@imwebdesignmarketing.co.uk","timestamp":"2026-02-12T04:57:49.480Z"}
+{"level":"info","message":"👷 Processing: CP Creative Ltd (ID: bb472295-cb67-4fd0-a456-f7a832189a5c) - URL: https://www.cpcreative.co.uk/","timestamp":"2026-02-12T04:57:49.529Z"}
+{"level":"info","message":"✅ Found 1 emails for Jain marketing Vista ltd// Best Digital Marketing Agency in London UK// 3D, CGI,VFX Video: jainmarketingvistaltd@gmail.com","timestamp":"2026-02-12T04:57:52.765Z"}
+{"level":"info","message":"👷 Processing: Aiba Technologies (ID: 6a13a574-317d-42b9-aa70-f47f6fd1c80d) - URL: https://www.aibatechnologies.com/","timestamp":"2026-02-12T04:57:52.790Z"}
+{"level":"info","message":"✅ Found 2 emails for CP Creative Ltd: sales@cpcreative.co.uk, sales@cpcreative.co.uklinksterms","timestamp":"2026-02-12T04:57:58.063Z"}
+{"level":"info","message":"👷 Processing: Perceive Digital- Digital Marketing Agency in London (ID: 6de054d5-cf25-411d-bb74-a1b9452ad04b) - URL: https://perceivedigital.com/","timestamp":"2026-02-12T04:57:58.089Z"}
+{"level":"info","message":"✅ Found 2 emails for Perceive Digital- Digital Marketing Agency in London: info@perceivedigital.com, info@perceivedigtal.com","timestamp":"2026-02-12T04:58:11.201Z"}
+{"level":"info","message":"👷 Processing: Make Agency (ID: d4edb91b-6cee-4eee-b4be-c9c7288dcf3b) - URL: http://makeagency.co.uk/","timestamp":"2026-02-12T04:58:11.310Z"}
+{"level":"info","message":"✅ Found 5 emails for Make Agency: hi@makeagency.co.uk, careers@makeagency.co.uk, hi@makeagency.co.ukemail, careers@makeagency.co.ukcurrent, 4hthi@makeagency.co.uk","timestamp":"2026-02-12T04:58:20.726Z"}
+{"level":"info","message":"👷 Processing: Almond Marketing - Digital Marketing Agency London (ID: 472c6a5e-e187-40f8-8322-d7a54ea498f0) - URL: https://www.almondmarketing.co.uk/?utm_source=google&utm_medium=london_organic&utm_campaign=gmb-listing","timestamp":"2026-02-12T04:58:20.753Z"}
+{"level":"info","message":"✅ Found 7 emails for Aiba Technologies: project@aibatechnologies.com, info@aibatechnologies.com, 6393project@aibatechnologies.comuk, usainfo@aibatechnologies.com, 2000project@aibatechnologies.com24, cainfo@aibatechnologies.com, 6393project@aibatechnologies.com3rd","timestamp":"2026-02-12T04:58:25.264Z"}
+{"level":"info","message":"👷 Processing: ClickDo Ltd. (ID: c5dc8da5-b407-466d-a6c2-b5b9ec76250f) - URL: https://www.clickdo.co.uk/","timestamp":"2026-02-12T04:58:25.300Z"}
+{"level":"info","message":"✅ Found 1 emails for Almond Marketing - Digital Marketing Agency London: marketing@almondmarketing.co.uk","timestamp":"2026-02-12T04:58:31.254Z"}
+{"level":"info","message":"👷 Processing: Lobo Digital (ID: a3e801b8-9c39-41d9-b152-3e12440b5b1c) - URL: https://www.lobodigital.ai/","timestamp":"2026-02-12T04:58:31.352Z"}
+{"level":"info","message":"✅ Found 1 emails for Lobo Digital: hello@lobodigital.co.uk","timestamp":"2026-02-12T04:58:42.324Z"}
+{"level":"info","message":"👷 Processing: Elevate Digital (ID: 4b899735-bf78-4b04-a034-a535b9350221) - URL: https://elevate-digital-solutions.com/","timestamp":"2026-02-12T04:58:42.352Z"}
+{"level":"info","message":"✅ Found 1 emails for ClickDo Ltd.: digital@clickdo.co.uk","timestamp":"2026-02-12T04:58:44.733Z"}
+{"level":"info","message":"👷 Processing: First Rate Marketing | London Web Design & Branding Agency (ID: d32d9844-6456-4fcd-a264-2bd9b3773255) - URL: https://firstratemarketing.com/","timestamp":"2026-02-12T04:58:44.782Z"}
+{"level":"info","message":"🤷 No emails found for First Rate Marketing | London Web Design & Branding Agency","timestamp":"2026-02-12T04:58:52.798Z"}
+{"level":"info","message":"👷 Processing: Flex Digital Agency - Shoreditch Office (ID: 8a22ff83-ccf9-4419-851a-2d98dce16fa4) - URL: null","timestamp":"2026-02-12T04:58:52.817Z"}
+{"level":"warn","message":"⚠️  No website for Flex Digital Agency - Shoreditch Office, marking FAILED.","timestamp":"2026-02-12T04:58:52.818Z"}
+{"level":"info","message":"👷 Processing: FDRY (ID: f5cbed66-70c3-408a-9723-c38de59a3317) - URL: https://www.fdry.com/","timestamp":"2026-02-12T04:58:52.829Z"}
+{"level":"info","message":"✅ Found 2 emails for Elevate Digital: %20info@elevate-digital-solutions.com, info@elevate-digital-solutions.com","timestamp":"2026-02-12T04:58:55.070Z"}
+{"level":"info","message":"👷 Processing: West London Studio (ID: ec45f2ce-c100-4b57-bbf9-9fb4f70001e8) - URL: https://www.westlondonstudio.co.uk/","timestamp":"2026-02-12T04:58:55.109Z"}
+{"level":"info","message":"✅ Found 1 emails for FDRY: studio@fdry.com","timestamp":"2026-02-12T04:59:05.613Z"}
+{"level":"info","message":"👷 Processing: Loving Social Media (ID: c195f87a-7929-45ac-9d95-f1136c2cd549) - URL: https://lovingsocialmedia.com/","timestamp":"2026-02-12T04:59:05.654Z"}
+{"level":"info","message":"✅ Found 2 emails for West London Studio: info@westlondonstudio.co.uk, 1405info@westlondonstudio.co.uk","timestamp":"2026-02-12T04:59:14.062Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Agency - Digi Instant - London (ID: df71eb84-fae4-4be4-abf1-c1a4b18fdd48) - URL: https://digiinstant.com/","timestamp":"2026-02-12T04:59:14.092Z"}
+{"level":"info","message":"✅ Found 2 emails for Loving Social Media: info@lovingsocialmedia.com, garry@lovingsocialmedia.com","timestamp":"2026-02-12T04:59:23.220Z"}
+{"level":"info","message":"👷 Processing: RVS Media - Ecommerce Web and Software Development Agency London (ID: e34a57eb-ea64-4555-bd96-ff2381656d4a) - URL: https://www.rvsmedia.co.uk/","timestamp":"2026-02-12T04:59:23.265Z"}
+{"level":"info","message":"✅ Found 1 emails for Digital Marketing Agency - Digi Instant - London: agent@digiinstant.com","timestamp":"2026-02-12T04:59:26.692Z"}
+{"level":"info","message":"👷 Processing: Target Digital Marketing Ltd (ID: 530f53ab-bab1-4ff2-8def-ab59442b44f8) - URL: http://www.targetdigitalmarketing.co.uk/","timestamp":"2026-02-12T04:59:26.717Z"}
+{"level":"info","message":"✅ Found 2 emails for Target Digital Marketing Ltd: hello@targetdigitalmarketing.co.ukaddress, hello@targetdigitalmarketing.co.uk","timestamp":"2026-02-12T04:59:41.056Z"}
+{"level":"info","message":"👷 Processing: Starlight Digital (ID: 8157e673-786c-4efd-861f-80f23e874909) - URL: http://starlight-digital.com/","timestamp":"2026-02-12T04:59:41.093Z"}
+{"level":"info","message":"✅ Found 1 emails for RVS Media - Ecommerce Web and Software Development Agency London: hello@rvsmedia.co.uk","timestamp":"2026-02-12T04:59:44.410Z"}
+{"level":"info","message":"👷 Processing: Finixio Digital (ID: 7aaf25c9-e5b0-436a-858d-791f3869f882) - URL: https://finixiodigital.com/","timestamp":"2026-02-12T04:59:44.437Z"}
+{"level":"info","message":"✅ Found 2 emails for Starlight Digital: hello@starlight-digital.com, 8677hello@starlight-digital.com","timestamp":"2026-02-12T04:59:50.313Z"}
+{"level":"info","message":"👷 Processing: MADX Digital (ID: f5e45c23-f35f-4df5-aaff-24005c869612) - URL: https://www.madx.digital/","timestamp":"2026-02-12T04:59:50.337Z"}
+{"level":"info","message":"✅ Found 1 emails for Finixio Digital: info@finixiodigital.com","timestamp":"2026-02-12T04:59:58.114Z"}
+{"level":"info","message":"👷 Processing: Shoreditch Design (ID: 868220f3-64cb-4720-bd61-4efb7d2edf2c) - URL: https://www.shoreditchdesign.com/","timestamp":"2026-02-12T04:59:58.139Z"}
+{"level":"info","message":"✅ Found 1 emails for MADX Digital: perry@madx.digital","timestamp":"2026-02-12T04:59:59.717Z"}
+{"level":"info","message":"👷 Processing: MR GREAT LTD (ID: 719acfe6-78bf-4a1a-be48-93164f6c70e4) - URL: https://mrgreat.co.uk/","timestamp":"2026-02-12T04:59:59.749Z"}
+{"level":"info","message":"✅ Found 1 emails for Shoreditch Design: hello@shoreditchdesign.com","timestamp":"2026-02-12T05:00:09.638Z"}
+{"level":"info","message":"👷 Processing: ClickSlice (ID: 6b174b68-1d4c-4edd-845b-9e2f2dfc59c9) - URL: https://www.clickslice.co.uk/","timestamp":"2026-02-12T05:00:09.667Z"}
+{"level":"info","message":"✅ Found 1 emails for MR GREAT LTD: meetingcontactphone07404526677emailhello@mrgreat.co.ukvisit","timestamp":"2026-02-12T05:00:17.375Z"}
+{"level":"info","message":"👷 Processing: Itineris (ID: fa9256d1-a6ad-4519-b9ba-12113d5843cd) - URL: https://www.itineris.co.uk/?utm_source=maps&utm_medium=referral&utm_campaign=london","timestamp":"2026-02-12T05:00:17.564Z"}
+{"level":"info","message":"✅ Found 1 emails for Itineris: hello@itineris.co.uk","timestamp":"2026-02-12T05:00:26.981Z"}
+{"level":"info","message":"👷 Processing: Jives Media (ID: 4ddfce73-b4ba-46ac-908a-80d1df3348dd) - URL: https://www.jivesmedia.com/digital-marketing-agency-in-london/","timestamp":"2026-02-12T05:00:27.093Z"}
+{"level":"info","message":"✅ Found 2 emails for ClickSlice: hello@clickslice.co.uk, 3638hello@clickslice.co.uk","timestamp":"2026-02-12T05:00:27.800Z"}
+{"level":"info","message":"👷 Processing: PPC Marketing Agency for SaaS | London | Two Spouts (ID: 554db909-b7e6-4330-b30d-f220a790fc4d) - URL: https://www.twospouts.com/","timestamp":"2026-02-12T05:00:27.828Z"}
+{"level":"info","message":"✅ Found 1 emails for Jives Media: info@jivesmedia.com","timestamp":"2026-02-12T05:00:39.702Z"}
+{"level":"info","message":"👷 Processing: Forge (ID: 2890f9eb-4ea6-4add-99a4-5e1aae92abd8) - URL: https://www.forge.uk/","timestamp":"2026-02-12T05:00:39.724Z"}
+{"level":"info","message":"✅ Found 1 emails for PPC Marketing Agency for SaaS | London | Two Spouts: hello@twopouts.com","timestamp":"2026-02-12T05:00:43.712Z"}
+{"level":"info","message":"👷 Processing: Aesthetic Works | Branding Agency in Cambridge & London (ID: cd845034-b7db-4a9b-a4dc-1693bdeac777) - URL: https://aesthetic.works/","timestamp":"2026-02-12T05:00:43.739Z"}
+{"level":"info","message":"✅ Found 2 emails for Forge: hello@forge.uk, touchhello@forge.ukfind","timestamp":"2026-02-12T05:00:56.179Z"}
+{"level":"info","message":"👷 Processing: Digital Aesthetics (ID: 81392ab8-fdd8-4c9b-99a6-77dbd7ee0812) - URL: https://digitalaesthetics.co.uk/","timestamp":"2026-02-12T05:00:56.204Z"}
+{"level":"info","message":"✅ Found 5 emails for Aesthetic Works | Branding Agency in Cambridge & London: info@aesthetic.works, chris@aesthetic.works, jobs@aesthetic.works, usinfo@aesthetic.works, goddardpartnerchris@aesthetic.works","timestamp":"2026-02-12T05:00:56.516Z"}
+{"level":"info","message":"👷 Processing: Diffusion Digital (ID: c06fabd5-9142-4939-aa80-7fce8e341050) - URL: https://www.diffusion.digital/","timestamp":"2026-02-12T05:00:56.545Z"}
+{"level":"info","message":"🤷 No emails found for Digital Aesthetics","timestamp":"2026-02-12T05:01:07.963Z"}
+{"level":"info","message":"👷 Processing: Bird Marketing (ID: 4c838f0f-1137-45a7-9498-c0e1e5ff810d) - URL: https://bird.co.uk/?utm_source=GMBListing&utm_medium=Organic&utm_campaign=London","timestamp":"2026-02-12T05:01:07.977Z"}
+{"level":"info","message":"🤷 No emails found for Diffusion Digital","timestamp":"2026-02-12T05:01:19.780Z"}
+{"level":"info","message":"👷 Processing: Performance Marketing Agency | BARK.London (ID: 0b9c5199-28c4-45d5-b409-85f3e3db6d65) - URL: https://bark.london/","timestamp":"2026-02-12T05:01:19.799Z"}
+{"level":"info","message":"✅ Found 4 emails for Bird Marketing: london@bird.co.uk, essex@bird.co.uk, glasgow@bird.co.uk, support@bird.co.uk","timestamp":"2026-02-12T05:01:30.061Z"}
+{"level":"info","message":"👷 Processing: Grammatik Agency (ID: ae23d4ab-cd47-4c67-84a8-4a03b5151093) - URL: http://grammatikagency.com/","timestamp":"2026-02-12T05:01:30.154Z"}
+{"level":"info","message":"✅ Found 1 emails for Performance Marketing Agency | BARK.London: info@bark.london","timestamp":"2026-02-12T05:01:32.254Z"}
+{"level":"info","message":"👷 Processing: Smartunit (ID: e47e92fe-f128-4fb3-a817-b1b59f309514) - URL: null","timestamp":"2026-02-12T05:01:32.346Z"}
+{"level":"warn","message":"⚠️  No website for Smartunit, marking FAILED.","timestamp":"2026-02-12T05:01:32.347Z"}
+{"level":"info","message":"👷 Processing: Disturb Digital (ID: c1d892f9-ffe0-4651-af49-3fbcfd3a0f29) - URL: https://disturbdigital.com/","timestamp":"2026-02-12T05:01:32.359Z"}
+{"level":"info","message":"✅ Found 2 emails for Disturb Digital: hello@disturbdigital.com, hello@disturbdigital.com79","timestamp":"2026-02-12T05:01:42.954Z"}
+{"level":"info","message":"👷 Processing: DMi - Digital Marketing Agency (ID: f1d656a1-3936-43c1-af60-4c47bd7b9699) - URL: https://dmidigitalmarketing.com/","timestamp":"2026-02-12T05:01:42.979Z"}
+{"level":"info","message":"✅ Found 2 emails for Grammatik Agency: contact@grammatikagency.com, co*****@*************cy.com","timestamp":"2026-02-12T05:01:49.340Z"}
+{"level":"info","message":"👷 Processing: Hex Digital (ID: f1b6e244-41b7-49a6-9b09-9c5dd65a9f1b) - URL: https://hexdigital.com/","timestamp":"2026-02-12T05:01:49.369Z"}
+{"level":"info","message":"✅ Found 4 emails for Hex Digital: hello@hexdigital.com?subject=website%20enquiry, 2abhello@hexdigital.com, hello@hexdigital.com?subject=contact%20form, hello@hexdigital.comor","timestamp":"2026-02-12T05:01:58.346Z"}
+{"level":"info","message":"👷 Processing: SeventhElement Agency (ID: 44a81427-8918-415a-91cd-1497b2b895f3) - URL: https://seventhelement.agency/","timestamp":"2026-02-12T05:01:58.373Z"}
+{"level":"info","message":"✅ Found 3 emails for DMi - Digital Marketing Agency: info@dmidigitalmarketing.com, dmiagency50@gmail.com, info@dmidigitalmarketing.comdmiagency50","timestamp":"2026-02-12T05:01:59.196Z"}
+{"level":"info","message":"👷 Processing: KOTA Design Agency (ID: 0a44dd3e-9469-4d79-b823-d73439187d4b) - URL: https://www.kota.co.uk/","timestamp":"2026-02-12T05:01:59.222Z"}
+{"level":"info","message":"✅ Found 5 emails for KOTA Design Agency: yearsexplorehello@kota.co.ukcopy, kotageneralhello@kota.co.ukcopy, businessnewbiz@kota.co.ukcopy, uscareers@kota.co.ukcopy, homepagehello@kota.co.ukcopy","timestamp":"2026-02-12T05:02:10.793Z"}
+{"level":"info","message":"👷 Processing: Linx Digital Ltd (ID: 2a2c6788-76cd-4eb4-ad7d-4a0e421371dc) - URL: https://www.linxdigital.co.uk/","timestamp":"2026-02-12T05:02:10.821Z"}
+{"level":"info","message":"✅ Found 1 emails for SeventhElement Agency: hello@seventhelement.agency","timestamp":"2026-02-12T05:02:18.597Z"}
+{"level":"info","message":"👷 Processing: StudioHawk (ID: cfdaaf9a-ebfe-4198-9a65-7dacf9943f8e) - URL: https://studiohawk.co.uk/","timestamp":"2026-02-12T05:02:18.626Z"}
+{"level":"info","message":"✅ Found 1 emails for Linx Digital Ltd: john@linxdigital.co.uk","timestamp":"2026-02-12T05:02:25.304Z"}
+{"level":"info","message":"✅ Found 2 emails for StudioHawk: contact@studiohawk.co.uk, contact@studiohawk.com.au","timestamp":"2026-02-12T05:02:49.589Z"}

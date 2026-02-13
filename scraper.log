@@ -1267,3 +1267,302 @@
 {"level":"info","message":"✅ Queued: Dental clinic Doctor Smile","timestamp":"2026-02-11T04:26:12.278Z"}
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Anna+Metreveli+Dental+Clinic+%7C+%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%94%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x4044737b9dc4eb99:0xfe1b51516a3e9abb!8m2!3d41.7186773!4d44.7798754!16s%2Fg%2F11hrydq9w_!19sChIJmevEnXtzREARu5o-alFRG_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T04:26:12.278Z"}
 {"level":"info","message":"✅ Queued: Anna Metreveli Dental Clinic | მეტრეველის სტომატოლოგიური კლინიკა","timestamp":"2026-02-11T04:26:13.474Z"}
+{"level":"info","message":"🚀 Launching Job Producer...","timestamp":"2026-02-11T21:20:38.103Z"}
+{"level":"info","message":"📝 Query: \"Digital Marketing Agencies in Williamsburg 11211\"","timestamp":"2026-02-11T21:20:38.107Z"}
+{"level":"info","message":"🎯 Max Results: 100","timestamp":"2026-02-11T21:20:38.108Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-11T21:20:38.862Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/Digital+Marketing+Agencies+in+Williamsburg+11211?hl=en","timestamp":"2026-02-11T21:20:47.906Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-11T21:20:49.440Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links","timestamp":"2026-02-11T21:20:53.096Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 35 links","timestamp":"2026-02-11T21:20:54.482Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links","timestamp":"2026-02-11T21:20:56.291Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links","timestamp":"2026-02-11T21:20:57.507Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 57 links","timestamp":"2026-02-11T21:20:58.722Z"}
+{"level":"info","message":"🔄 Scroll attempt 6: Found 64 links","timestamp":"2026-02-11T21:20:59.951Z"}
+{"level":"info","message":"🔄 Scroll attempt 7: Found 64 links","timestamp":"2026-02-11T21:21:01.168Z"}
+{"level":"info","message":"🔄 Scroll attempt 8: Found 77 links","timestamp":"2026-02-11T21:21:02.390Z"}
+{"level":"info","message":"🔄 Scroll attempt 9: Found 84 links","timestamp":"2026-02-11T21:21:03.703Z"}
+{"level":"info","message":"🔄 Scroll attempt 10: Found 84 links","timestamp":"2026-02-11T21:21:04.918Z"}
+{"level":"info","message":"🔄 Scroll attempt 11: Found 84 links","timestamp":"2026-02-11T21:21:06.124Z"}
+{"level":"info","message":"🔄 Scroll attempt 12: Found 84 links","timestamp":"2026-02-11T21:21:07.330Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-11T21:21:07.331Z"}
+{"level":"info","message":"✅ Collected 83 unique links.","timestamp":"2026-02-11T21:21:07.334Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Born+Social/data=!4m7!3m6!1s0x6d8c5e4a5610dfeb:0x180db339a7b1a15a!8m2!3d40.7222958!4d-73.9568885!16s%2Fg%2F11kpl2_d9d!19sChIJ698QVkpejG0RWqGxpzmzDRg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:07.335Z"}
+{"level":"info","message":"✅ Queued: Born Social","timestamp":"2026-02-11T21:21:09.137Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Marketing+Company+Williamsburg+%7C+Online+Marketing+Company+Williamsburg/data=!4m7!3m6!1s0x89c25b09bdf1f0a3:0x88a04df1ba566195!8m2!3d40.6452314!4d-73.9448356!16s%2Fg%2F11h_btpw0l!19sChIJo_DxvQlbwokRlWFWuvFNoIg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:09.138Z"}
+{"level":"info","message":"✅ Queued: Marketing Company Williamsburg | Online Marketing Company Williamsburg","timestamp":"2026-02-11T21:21:10.595Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/RXM+Creative/data=!4m7!3m6!1s0x89c259a66e714491:0x709d453df7205de1!8m2!3d40.7180815!4d-73.961806!16s%2Fg%2F11cmdrn76w!19sChIJkURxbqZZwokR4V0g9z1FnXA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:10.596Z"}
+{"level":"info","message":"✅ Queued: RXM Creative","timestamp":"2026-02-11T21:21:11.573Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NYC+Website+Designers+Local+SEO+Pros/data=!4m7!3m6!1s0xacc7c78bf8e33abb:0xb274867694697c28!8m2!3d40.714647!4d-73.9622932!16s%2Fg%2F11vzrtpns_!19sChIJuzrj-IvHx6wRKHxplHaGdLI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:11.573Z"}
+{"level":"info","message":"✅ Queued: NYC Website Designers Local SEO Pros","timestamp":"2026-02-11T21:21:12.637Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/RZ+Web+Media+-+Best+Digital+Marketing,+Online+Marketing,+Website+Design+%26+Development+App+Development+Company+in+Brooklyn/data=!4m7!3m6!1s0x89c25c80cd8bffff:0xccb35238bfb7dd66!8m2!3d40.6674043!4d-73.937977!16s%2Fg%2F11nnwgdw13!19sChIJ__-LzYBcwokRZt23vzhSs8w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:12.638Z"}
+{"level":"info","message":"✅ Queued: RZ Web Media - Best Digital Marketing, Online Marketing, Website Design & Development App Development Company in Brooklyn","timestamp":"2026-02-11T21:21:14.110Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Teal+Blue+Media/data=!4m7!3m6!1s0x89c25bdd72576d75:0x7465143c24e1ad6c!8m2!3d40.7000326!4d-73.9599385!16s%2Fg%2F11c7hfckpp!19sChIJdW1Xct1bwokRbK3hJDwUZXQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:14.111Z"}
+{"level":"info","message":"✅ Queued: Teal Blue Media","timestamp":"2026-02-11T21:21:15.345Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Solocreative/data=!4m7!3m6!1s0x89c25ba5933fffff:0x587bcbbad7bcec3f!8m2!3d40.702155!4d-73.9556941!16s%2Fg%2F11hy_y_tlc!19sChIJ__8_k6VbwokRP-y817rLe1g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:15.346Z"}
+{"level":"info","message":"✅ Queued: Solocreative","timestamp":"2026-02-11T21:21:19.285Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Social+Circle+Branding+%26+Web+Design/data=!4m7!3m6!1s0x89c25920c57fd48f:0x1f84d5f7a0336e89!8m2!3d40.7146666!4d-73.9586418!16s%2Fg%2F11rn2986_1!19sChIJj9R_xSBZwokRiW4zoPfVhB8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:19.285Z"}
+{"level":"info","message":"✅ Queued: Social Circle Branding & Web Design","timestamp":"2026-02-11T21:21:21.624Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Azai+Studios/data=!4m7!3m6!1s0x89c2598f57e61d5d:0x69b9f90c3d4b8e0d!8m2!3d40.7184423!4d-73.9552843!16s%2Fg%2F11h93tgt_h!19sChIJXR3mV49ZwokRDY5LPQz5uWk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:21.625Z"}
+{"level":"info","message":"✅ Queued: Azai Studios","timestamp":"2026-02-11T21:21:27.052Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DPDK+-+Brand+innovation+agency+for+the+bold/data=!4m7!3m6!1s0x89c25902c92c67df:0x5b3ee4d6938c150e!8m2!3d40.7180815!4d-73.961806!16s%2Fg%2F11c6cgzx74!19sChIJ32csyQJZwokRDhWMk9bkPls?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:27.054Z"}
+{"level":"info","message":"✅ Queued: DPDK - Brand innovation agency for the bold","timestamp":"2026-02-11T21:21:28.134Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MarketSmiths/data=!4m7!3m6!1s0x89c2595f8ebd609f:0x174869b3f738af1b!8m2!3d40.7088025!4d-73.9611585!16s%2Fg%2F1tjds7gz!19sChIJn2C9jl9ZwokRG68497NpSBc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:28.135Z"}
+{"level":"info","message":"✅ Queued: MarketSmiths","timestamp":"2026-02-11T21:21:29.504Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Mind+%26+Metrics+%7C+A+Full-Service+Digital+Agency+Focused+On+Growth/data=!4m7!3m6!1s0x89c25963e1652761:0x426dcd2e70e1e7f0!8m2!3d40.7170066!4d-73.9656929!16s%2Fg%2F11bwkdthxl!19sChIJYSdl4WNZwokR8OfhcC7NbUI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:29.505Z"}
+{"level":"info","message":"✅ Queued: Mind & Metrics | A Full-Service Digital Agency Focused On Growth","timestamp":"2026-02-11T21:21:30.529Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lemon+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89c2596167900001:0x59b2e05ef32c09d9!8m2!3d40.7166444!4d-73.9647745!16s%2Fg%2F11vhf_j670!19sChIJAQCQZ2FZwokR2Qks817gslk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:30.536Z"}
+{"level":"info","message":"✅ Queued: Lemon Digital Marketing Agency","timestamp":"2026-02-11T21:21:31.870Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DAVID.MARKET+-+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89c25ab49495200d:0xabfe399a0eb02774!8m2!3d40.656606!4d-74.007835!16s%2Fg%2F11hbbs3nrg!19sChIJDSCVlLRawokRdCewDpo5_qs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:31.870Z"}
+{"level":"info","message":"✅ Queued: DAVID.MARKET - Digital Marketing Agency","timestamp":"2026-02-11T21:21:33.062Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Think+Work+Media+-+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89c25a33cf5eea0b:0xf4590e1465e24f22!8m2!3d40.6852048!4d-73.9479344!16s%2Fg%2F1q6j207kh!19sChIJC-pezzNawokRIk_iZRQOWfQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:33.063Z"}
+{"level":"info","message":"✅ Queued: Think Work Media - Digital Marketing Agency","timestamp":"2026-02-11T21:21:34.756Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Chadwick+Creative/data=!4m7!3m6!1s0x89c25963e1217515:0x73541cd196d43374!8m2!3d40.7170066!4d-73.9656929!16s%2Fg%2F11fy1ld3dc!19sChIJFXUh4WNZwokRdDPUltEcVHM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:34.757Z"}
+{"level":"info","message":"✅ Queued: Chadwick Creative","timestamp":"2026-02-11T21:21:36.111Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MOTG/data=!4m7!3m6!1s0x89c25beb0ad7a6fd:0x1b80b81ceb9bccc7!8m2!3d40.6985065!4d-73.960789!16s%2Fg%2F1ptx4kcxm!19sChIJ_abXCutbwokRx8yb6xy4gBs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:36.112Z"}
+{"level":"info","message":"✅ Queued: MOTG","timestamp":"2026-02-11T21:21:37.566Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sturm+Media+LLC/data=!4m7!3m6!1s0x89c25961bcfedc05:0x38ebecc68adc02bb!8m2!3d40.7144699!4d-73.9636849!16s%2Fg%2F11fzwn0tc3!19sChIJBdz-vGFZwokRuwLcisbs6zg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:37.567Z"}
+{"level":"info","message":"✅ Queued: Sturm Media LLC","timestamp":"2026-02-11T21:21:39.028Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vab+Media+Digital+Agency,+LLC/data=!4m7!3m6!1s0x89c2598a7672325f:0xa13a4a00919176c2!8m2!3d40.7182981!4d-74.0022812!16s%2Fg%2F11bccmbbrk!19sChIJXzJydopZwokRwnaRkQBKOqE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:39.029Z"}
+{"level":"info","message":"✅ Queued: Vab Media Digital Agency, LLC","timestamp":"2026-02-11T21:21:40.240Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CSM+Agency+-+Digital+Marketing/data=!4m7!3m6!1s0x89c25932bf9b9847:0xf3e345bf8b9ddbb4!8m2!3d40.7165012!4d-73.9603136!16s%2Fg%2F11tbtth459!19sChIJR5ibvzJZwokRtNudi79F4_M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:40.246Z"}
+{"level":"info","message":"✅ Queued: CSM Agency - Digital Marketing","timestamp":"2026-02-11T21:21:41.259Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Social+Sensei/data=!4m7!3m6!1s0x89c25bb2a5305057:0xa1b1c97809686dc5!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11gscyb3qc!19sChIJV1AwpbJbwokRxW1oCXjJsaE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:41.259Z"}
+{"level":"info","message":"✅ Queued: Social Sensei","timestamp":"2026-02-11T21:21:42.343Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bizadmark+LLC/data=!4m7!3m6!1s0x89c25b8a8cee6e4b:0xc31b90c8bce8b120!8m2!3d40.7071395!4d-73.9474418!16s%2Fg%2F11h3yk9410!19sChIJS27ujIpbwokRILHovMiQG8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:42.352Z"}
+{"level":"info","message":"✅ Queued: Bizadmark LLC","timestamp":"2026-02-11T21:21:43.732Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Big+Apple+Media/data=!4m7!3m6!1s0x89c25be6a66b86e3:0x1cc5756d6fc92882!8m2!3d40.6971415!4d-73.979506!16s%2Fg%2F1tf5r4cb!19sChIJ44ZrpuZbwokRgijJb211xRw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:43.732Z"}
+{"level":"info","message":"✅ Queued: Big Apple Media","timestamp":"2026-02-11T21:21:45.257Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LVS+Digital+Marketing/data=!4m7!3m6!1s0x89c259ea2f071849:0x553d46d914641cca!8m2!3d40.7168652!4d-73.9657847!16s%2Fg%2F11f73mw55m!19sChIJSRgHL-pZwokRyhxkFNlGPVU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:45.257Z"}
+{"level":"info","message":"✅ Queued: LVS Digital Marketing","timestamp":"2026-02-11T21:21:46.274Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Imprint+Media/data=!4m7!3m6!1s0x89c259ea487ecb75:0xa471a0d6e4b98f64!8m2!3d40.7132747!4d-73.9512067!16s%2Fg%2F11t4ccj_m_!19sChIJdct-SOpZwokRZI-55NagcaQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:46.275Z"}
+{"level":"info","message":"✅ Queued: Imprint Media","timestamp":"2026-02-11T21:21:47.699Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Moving+Image+%26+Content/data=!4m7!3m6!1s0x89c25f7aed9671e7:0xfdadab69ad8e77c9!8m2!3d40.7090451!4d-73.9352977!16s%2Fg%2F11bwn956gf!19sChIJ53GW7XpfwokRyXeOrWmrrf0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:47.699Z"}
+{"level":"info","message":"✅ Queued: Moving Image & Content","timestamp":"2026-02-11T21:21:49.142Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Creative+Marketing+NY/data=!4m7!3m6!1s0x89c245cec26a90ad:0x9f546ca9332163ff!8m2!3d40.6292113!4d-73.9744689!16s%2Fg%2F11h0zhzk7q!19sChIJrZBqws5FwokR_2MhM6lsVJ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:49.143Z"}
+{"level":"info","message":"✅ Queued: Creative Marketing NY","timestamp":"2026-02-11T21:21:52.778Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Flow+Digital/data=!4m7!3m6!1s0x686f1aaf895d2c8d:0xd8563d45b34ccdb8!8m2!3d40.714371!4d-73.9670788!16s%2Fg%2F11sq57txx7!19sChIJjSxdia8ab2gRuM1Ms0U9Vtg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:52.780Z"}
+{"level":"info","message":"✅ Queued: Flow Digital","timestamp":"2026-02-11T21:21:54.304Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dialogue+New+York/data=!4m7!3m6!1s0x89c2595d40aeb7ff:0xce0113bf30103be0!8m2!3d40.7210019!4d-73.9580849!16s%2Fg%2F11ggbw7f3t!19sChIJ_7euQF1ZwokR4DsQML8TAc4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:54.305Z"}
+{"level":"info","message":"✅ Queued: Dialogue New York","timestamp":"2026-02-11T21:21:55.928Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Invisible+North/data=!4m7!3m6!1s0x89c2598920069729:0x2b732a29e58d7bc2!8m2!3d40.7026493!4d-73.9893241!16s%2Fg%2F11c58p4jdj!19sChIJKZcGIIlZwokRwnuN5Skqcys?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:55.928Z"}
+{"level":"info","message":"✅ Queued: Invisible North","timestamp":"2026-02-11T21:21:56.926Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Twigeo/data=!4m7!3m6!1s0x89c2593dc4010dcb:0x87801aab389bdedd!8m2!3d40.720336!4d-73.9605404!16s%2Fg%2F11f_4t367q!19sChIJyw0BxD1ZwokR3d6bOKsagIc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:56.927Z"}
+{"level":"info","message":"✅ Queued: Twigeo","timestamp":"2026-02-11T21:21:58.161Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Spark+Group+Brooklyn/data=!4m7!3m6!1s0x89c25b95f7602ac1:0xd239ec94aee2ebb3!8m2!3d40.7000326!4d-73.9599385!16s%2Fg%2F11hjf329nn!19sChIJwSpg95VbwokRs-virpTsOdI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:58.161Z"}
+{"level":"info","message":"✅ Queued: The Spark Group Brooklyn","timestamp":"2026-02-11T21:21:59.156Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Microscope+Marketing/data=!4m7!3m6!1s0x89c25958f40396d1:0x4244d11a4191d67e!8m2!3d40.7125486!4d-73.951014!16s%2Fg%2F11hy_y_tkd!19sChIJ0ZYD9FhZwokRftaRQRrRREI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:21:59.156Z"}
+{"level":"info","message":"✅ Queued: Microscope Marketing","timestamp":"2026-02-11T21:22:00.410Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Creative+Exchange/data=!4m7!3m6!1s0x89c25bb2de337df3:0x187bcbed30a20d38!8m2!3d40.7100129!4d-73.9348832!16s%2Fg%2F11hdnk_h_6!19sChIJ830z3rJbwokROA2iMO3Lexg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:00.410Z"}
+{"level":"info","message":"✅ Queued: The Creative Exchange","timestamp":"2026-02-11T21:22:01.934Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Operator/data=!4m7!3m6!1s0x89c25be20661ce89:0x6530125460f24aef!8m2!3d40.7111933!4d-73.9531365!16s%2Fg%2F11m0pz12sw!19sChIJic5hBuJbwokR70ryYFQSMGU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:01.934Z"}
+{"level":"info","message":"✅ Queued: Operator","timestamp":"2026-02-11T21:22:03.881Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hunter+Digital+Marketing+Agency+-+Social+Media+%26+Search+Marketing+Agency+in+New+York/data=!4m7!3m6!1s0x89c288c707ca5129:0xb4c46c0ddce1cc86!8m2!3d40.7450692!4d-73.9934267!16s%2Fg%2F1td4l13m!19sChIJKVHKB8eIwokRhszh3A1sxLQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:03.882Z"}
+{"level":"info","message":"✅ Queued: Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York","timestamp":"2026-02-11T21:22:06.841Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Website+Design+Company+Brooklyn+%7C+Social+Media+Marketing+Agency+Brooklyn/data=!4m7!3m6!1s0x89c25b6036344a9b:0x4c863ef308d4c5d7!8m2!3d40.6452314!4d-73.9448356!16s%2Fg%2F11p66fylr7!19sChIJm0o0NmBbwokR18XUCPM-hkw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:06.842Z"}
+{"level":"info","message":"✅ Queued: Website Design Company Brooklyn | Social Media Marketing Agency Brooklyn","timestamp":"2026-02-11T21:22:09.648Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Get+The+People/data=!4m7!3m6!1s0x89c25a29ce0a2ad9:0x9777f6f0ac22d45f!8m2!3d40.7164093!4d-73.960285!16s%2Fg%2F11b86v50z1!19sChIJ2SoKzilawokRX9QirPD2d5c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:09.649Z"}
+{"level":"info","message":"✅ Queued: Get The People","timestamp":"2026-02-11T21:22:11.020Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Elevate+Marketing+Group/data=!4m7!3m6!1s0x89b08dcab5f91f55:0x95aff74b8b16975!8m2!3d37.3104515!4d-76.7102126!16s%2Fg%2F11hffcs0n0!19sChIJVR_5tcqNsIkRdWmxuHT_Wgk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:11.020Z"}
+{"level":"info","message":"✅ Queued: Elevate Marketing Group","timestamp":"2026-02-11T21:22:12.537Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Upclicks+Media/data=!4m7!3m6!1s0x89c25be9c071d849:0x877fc11bc597ccf9!8m2!3d40.7102174!4d-73.9656767!16s%2Fg%2F11b7vzwmjd!19sChIJSdhxwOlbwokR-cyXxRvBf4c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:12.539Z"}
+{"level":"info","message":"✅ Queued: Upclicks Media","timestamp":"2026-02-11T21:22:14.301Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AdVenture+Media+Group/data=!4m7!3m6!1s0x89c265c02837d0bd:0x79cafd562781151!8m2!3d40.632502!4d-73.706833!16s%2Fg%2F11b6jh0t3s!19sChIJvdA3KMBlwokRURF4YtWvnAc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:14.302Z"}
+{"level":"info","message":"✅ Queued: AdVenture Media Group","timestamp":"2026-02-11T21:22:15.517Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Starfish+Branding+Agency/data=!4m7!3m6!1s0x89c259734b57bae1:0xd0a991fa23b29c2b!8m2!3d40.744738!4d-73.993674!16s%2Fg%2F11jtvvmh2g!19sChIJ4bpXS3NZwokRK5yyI_qRqdA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:15.518Z"}
+{"level":"info","message":"✅ Queued: Starfish Branding Agency","timestamp":"2026-02-11T21:22:16.894Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Websites+Depot/data=!4m7!3m6!1s0x89c25bc16d3c70c7:0x1976d8f78e57076a!8m2!3d40.7116869!4d-73.963812!16s%2Fg%2F11h033p0cy!19sChIJx3A8bcFbwokRagdXjvfYdhk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:16.894Z"}
+{"level":"info","message":"✅ Queued: Websites Depot","timestamp":"2026-02-11T21:22:18.153Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CX3+Digital+Marketing/data=!4m7!3m6!1s0x89b088928e41d905:0x865abb0047b55932!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11bvt39t7n!19sChIJBdlBjpKIsIkRMlm1RwC7WoY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:18.154Z"}
+{"level":"info","message":"✅ Queued: CX3 Digital Marketing","timestamp":"2026-02-11T21:22:19.229Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gain+SEO+Agency/data=!4m7!3m6!1s0x89b08bc34fa8e701:0x69b5f97891242bb2!8m2!3d37.2667504!4d-76.9813916!16s%2Fg%2F11t2cm4x1d!19sChIJAeeoT8OLsIkRsiskkXj5tWk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:19.230Z"}
+{"level":"info","message":"✅ Queued: Gain SEO Agency","timestamp":"2026-02-11T21:22:20.646Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Big+Picture+Media/data=!4m7!3m6!1s0x89c259a5d4b190b3:0x9f4da48508e7c8f7!8m2!3d40.7100239!4d-73.961801!16s%2Fg%2F1tjfc574!19sChIJs5Cx1KVZwokR98jnCIWkTZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:20.646Z"}
+{"level":"info","message":"✅ Queued: Big Picture Media","timestamp":"2026-02-11T21:22:21.768Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Rank+Higher+Agency/data=!4m7!3m6!1s0x89c2593fd9391b89:0x72b7e641520aee43!8m2!3d40.7198938!4d-73.9627522!16s%2Fg%2F11rb4ss79g!19sChIJiRs52T9ZwokRQ-4KUkHmt3I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:21.768Z"}
+{"level":"info","message":"✅ Queued: Rank Higher Agency","timestamp":"2026-02-11T21:22:23.001Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadige+Media+Group/data=!4m7!3m6!1s0x89c25854e6aa136f:0x20cf9222f820b1e6!8m2!3d40.757068!4d-73.986446!16s%2Fg%2F12lkcfsch!19sChIJbxOq5lRYwokR5rEg-CKSzyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:23.001Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+Brooklyn+%7C+Adwords+Agency+Brooklyn/data=!4m7!3m6!1s0x89c25b5c9606f4cd:0x925c7ec1e1b21be7!8m2!3d40.6452314!4d-73.9448356!16s%2Fg%2F11p5rqtp_g!19sChIJzfQGllxbwokR5xuy4cF-XJI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:24.882Z"}
+{"level":"info","message":"✅ Queued: Digital Marketing Agency Brooklyn | Adwords Agency Brooklyn","timestamp":"2026-02-11T21:22:26.034Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/5Boro+Digital/data=!4m7!3m6!1s0x89c25b10d53dbae9:0xff3a26d42d5d8c33!8m2!3d40.7049014!4d-74.0072444!16s%2Fg%2F11jclfjpwy!19sChIJ6bo91RBbwokRM4xdLdQmOv8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:26.034Z"}
+{"level":"info","message":"✅ Queued: 5Boro Digital","timestamp":"2026-02-11T21:22:27.227Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Red+Rise+Digital/data=!4m7!3m6!1s0x89c25bdf6a953175:0x72b3c56cf379a214!8m2!3d40.7116869!4d-73.963812!16s%2Fg%2F11q4d6jzg6!19sChIJdTGVat9bwokRFKJ582zFs3I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:27.228Z"}
+{"level":"info","message":"✅ Queued: Red Rise Digital","timestamp":"2026-02-11T21:22:29.077Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/3rd+Impression/data=!4m7!3m6!1s0x89c259d33bd17aab:0xc36476e2a97be4da!8m2!3d40.7170066!4d-73.9656929!16s%2Fg%2F11y2nhldkr!19sChIJq3rRO9NZwokR2uR7qeJ2ZMM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:29.078Z"}
+{"level":"info","message":"✅ Queued: 3rd Impression","timestamp":"2026-02-11T21:22:30.315Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Green+Marketing+Digital/data=!4m7!3m6!1s0x89c25bfccc0c2f65:0x5ccbeffd83e44590!8m2!3d40.7071395!4d-73.9474418!16s%2Fg%2F11rxhzwy2_!19sChIJZS8MzPxbwokRkEXkg_3vy1w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:30.316Z"}
+{"level":"info","message":"✅ Queued: Green Marketing Digital","timestamp":"2026-02-11T21:22:31.723Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/agency+-+Mobiwebmedia/data=!4m7!3m6!1s0x89c25eab5ced0dd1:0x1335b917c81d297c!8m2!3d40.7131325!4d-73.9348249!16s%2Fg%2F11rsbbwz03!19sChIJ0Q3tXKtewokRfCkdyBe5NRM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:31.724Z"}
+{"level":"info","message":"✅ Queued: agency - Mobiwebmedia","timestamp":"2026-02-11T21:22:39.728Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+NYC+Agency/data=!4m7!3m6!1s0x89c258f52d8a984f:0xf2bb8451229cd7c3!8m2!3d40.774285!4d-73.9807173!16s%2Fg%2F11kc8mrw7r!19sChIJT5iKLfVYwokRw9ecIlGEu_I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:39.729Z"}
+{"level":"info","message":"✅ Queued: Digital NYC Agency","timestamp":"2026-02-11T21:22:41.642Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Genie+Jar+Digital/data=!4m7!3m6!1s0x89b08bea656958d1:0xa0d953ae3655094c!8m2!3d37.2428465!4d-76.7596375!16s%2Fg%2F11j4y3z7w8!19sChIJ0VhpZeqLsIkRTAlVNq5T2aA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:22:41.643Z"}
+{"level":"warn","message":"⚠️ Header not found, extraction might be partial.","timestamp":"2026-02-11T21:22:53.997Z"}
+{"level":"info","message":"✅ Queued: Genie Jar Digital","timestamp":"2026-02-11T21:23:01.404Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/OLEX+Digital.+Branding.+Photography/data=!4m7!3m6!1s0x89c2595e1ceb637b:0xbaf77f153ded8f22!8m2!3d40.7129157!4d-73.9620424!16s%2Fg%2F11gcztv_nh!19sChIJe2PrHF5ZwokRIo_tPRV_97o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:01.404Z"}
+{"level":"info","message":"✅ Queued: OLEX Digital. Branding. Photography","timestamp":"2026-02-11T21:23:04.302Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Olive+Web+Studio/data=!4m7!3m6!1s0x89c2595fc3dc31cd:0x6c7dd34e5dd4d745!8m2!3d40.7134974!4d-73.958466!16s%2Fg%2F11h75_pbrt!19sChIJzTHcw19ZwokRRdfUXU7TfWw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:04.303Z"}
+{"level":"info","message":"✅ Queued: Olive Web Studio","timestamp":"2026-02-11T21:23:07.101Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/We+are+Social+Media/data=!4m7!3m6!1s0x89c25b1a30f36f33:0xa08b492ac4b8304a!8m2!3d40.7100239!4d-73.961801!16s%2Fg%2F11kgllt_3t!19sChIJM2_zMBpbwokRSjC4xCpJi6A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:07.101Z"}
+{"level":"info","message":"✅ Queued: We are Social Media","timestamp":"2026-02-11T21:23:08.043Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NJ+Digital/data=!4m7!3m6!1s0x89c259861a1b6d5f:0x625fef2248913998!8m2!3d40.7173327!4d-73.9504309!16s%2Fg%2F11w3m3s7vy!19sChIJX20bGoZZwokRmDmRSCLvX2I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:08.044Z"}
+{"level":"info","message":"✅ Queued: NJ Digital","timestamp":"2026-02-11T21:23:09.417Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oppizi+USA/data=!4m7!3m6!1s0x89c259c0fcb5de97:0xcde37ab9325ba1aa!8m2!3d40.7132684!4d-73.9512331!16s%2Fg%2F11smk50wc5!19sChIJl961_MBZwokRqqFbMrl6480?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:09.417Z"}
+{"level":"info","message":"✅ Queued: Oppizi USA","timestamp":"2026-02-11T21:23:10.930Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEM+%28Search+Engine+Marketing%29/data=!4m7!3m6!1s0x89c259615f790817:0x5eed8869120e344a!8m2!3d40.7168734!4d-73.9655796!16s%2Fg%2F1yg4fcdyl!19sChIJFwh5X2FZwokRSjQOEmmI7V4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:10.930Z"}
+{"level":"info","message":"✅ Queued: SEM (Search Engine Marketing)","timestamp":"2026-02-11T21:23:12.189Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AFM+AGENCY/data=!4m7!3m6!1s0x89c259847c9253a3:0x3fc46e8769c99a06!8m2!3d40.753378!4d-73.993118!16s%2Fg%2F11w7d1dy0v!19sChIJo1OSfIRZwokRBprJaYduxD8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:12.190Z"}
+{"level":"info","message":"✅ Queued: AFM AGENCY","timestamp":"2026-02-11T21:23:13.713Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EdgeDNA/data=!4m7!3m6!1s0x89c2598fb7563bf9:0xafc7d5f69ef904bf!8m2!3d40.7168726!4d-73.9657912!16s%2Fg%2F11c52y0h93!19sChIJ-TtWt49ZwokRvwT5nvbVx68?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:13.713Z"}
+{"level":"info","message":"✅ Queued: EdgeDNA","timestamp":"2026-02-11T21:23:15.480Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DigiFlow/data=!4m7!3m6!1s0x89c259c4126b6f8b:0x8a61c15ef37308ef!8m2!3d40.7170066!4d-73.9656929!16s%2Fg%2F11k61q4g16!19sChIJi29rEsRZwokR7whz817BYYo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:15.480Z"}
+{"level":"info","message":"✅ Queued: DigiFlow","timestamp":"2026-02-11T21:23:19.635Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/WMA/data=!4m7!3m6!1s0x89c2593fe09acab5:0x155ac895cc409065!8m2!3d40.7165549!4d-73.9604109!16s%2Fg%2F11c1p6hnln!19sChIJtcqa4D9ZwokRZZBAzJXIWhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:19.636Z"}
+{"level":"info","message":"✅ Queued: WMA","timestamp":"2026-02-11T21:23:20.956Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NoLie+Communications/data=!4m7!3m6!1s0x89c25999024e3a5d:0xc2a51dc683ca4536!8m2!3d40.7180815!4d-73.961806!16s%2Fg%2F11n5d10hr9!19sChIJXTpOAplZwokRNkXKg8YdpcI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:20.956Z"}
+{"level":"info","message":"✅ Queued: NoLie Communications","timestamp":"2026-02-11T21:23:22.221Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Immediate+Marketing+%26+Business+Consulting/data=!4m7!3m6!1s0x89c25be6f2f16981:0x88138ce8ae41f83e!8m2!3d40.7092083!4d-73.9587817!16s%2Fg%2F1thzvqb2!19sChIJgWnx8uZbwokRPvhBruiME4g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:22.221Z"}
+{"level":"info","message":"✅ Queued: Immediate Marketing & Business Consulting","timestamp":"2026-02-11T21:23:23.297Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEARCH+WEBLISTINGS/data=!4m7!3m6!1s0x89c2595bed9e0b17:0xec3b9a32fb56fe38!8m2!3d40.7173323!4d-73.9528344!16s%2Fg%2F11qmbs3cb7!19sChIJFwue7VtZwokROP5W-zKaO-w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:23.297Z"}
+{"level":"info","message":"✅ Queued: SEARCH WEBLISTINGS","timestamp":"2026-02-11T21:23:24.839Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Izzy/data=!4m7!3m6!1s0x89c25bb2696d9d93:0x1fe40734a6a0b9e8!8m2!3d40.7048509!4d-73.9448453!16s%2Fg%2F11mw5hkhq2!19sChIJk51tabJbwokR6LmgpjQH5B8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:24.839Z"}
+{"level":"info","message":"✅ Queued: Digital Izzy","timestamp":"2026-02-11T21:23:26.112Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Numberly/data=!4m7!3m6!1s0x89c25ba280381ef5:0x176844b209a13a6!8m2!3d40.7116869!4d-73.963812!16s%2Fg%2F11k6zf23py!19sChIJ9R44gKJbwokRphOaIEuEdgE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:26.112Z"}
+{"level":"info","message":"✅ Queued: Numberly","timestamp":"2026-02-11T21:23:27.289Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Altimate+Marketing/data=!4m7!3m6!1s0x89c2596069bd4291:0x5a3ffaa203ffb715!8m2!3d40.714059!4d-73.9608486!16s%2Fg%2F11vm7gjn1r!19sChIJkUK9aWBZwokRFbf_A6L6P1o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:27.289Z"}
+{"level":"info","message":"✅ Queued: Altimate Marketing","timestamp":"2026-02-11T21:23:28.397Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CHIPS/data=!4m7!3m6!1s0x89c25bdedfd7e29b:0xd6db50deb97dadfd!8m2!3d40.7106216!4d-73.9638837!16s%2Fg%2F1hm2py2zk!19sChIJm-LX395bwokR_a19ud5Q29Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:28.397Z"}
+{"level":"info","message":"✅ Queued: CHIPS","timestamp":"2026-02-11T21:23:29.558Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Design+Brooklyn/data=!4m7!3m6!1s0x89c2595e656134b7:0xf628b1edb877b9bc!8m2!3d40.7170066!4d-73.9656929!16s%2Fg%2F1tfvtvyq!19sChIJtzRhZV5ZwokRvLl3uO2xKPY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:29.559Z"}
+{"level":"info","message":"✅ Queued: Design Brooklyn","timestamp":"2026-02-11T21:23:30.535Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Infogies/data=!4m7!3m6!1s0x89c2590d478df833:0xafda0abcdd78bf4f!8m2!3d40.7114712!4d-73.9527638!16s%2Fg%2F11w56ckn9g!19sChIJM_iNRw1ZwokRT7943bwK2q8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:30.536Z"}
+{"level":"info","message":"✅ Queued: Infogies","timestamp":"2026-02-11T21:23:32.023Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Creative+Visions+Digital+Media+Group/data=!4m7!3m6!1s0x89c2437865e80127:0x9583c5c618cbc93d!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11qnlh088j!19sChIJJwHoZXhDwokRPcnLGMbFg5U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:32.024Z"}
+{"level":"info","message":"✅ Queued: Creative Visions Digital Media Group","timestamp":"2026-02-11T21:23:33.211Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Agency/data=!4m7!3m6!1s0x89c25eac842f965b:0xaa0a438d6cf85d45!8m2!3d40.7138918!4d-73.9334486!16s%2Fg%2F11vqzp_j3p!19sChIJW5YvhKxewokRRV34bI1DCqo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:33.212Z"}
+{"level":"info","message":"✅ Queued: Agency","timestamp":"2026-02-11T21:23:34.585Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Gathery/data=!4m7!3m6!1s0x89c25944850a0d67:0x923511d804f990f4!8m2!3d40.7140319!4d-73.9654757!16s%2Fg%2F11cl_fwb61!19sChIJZw0KhURZwokR9JD5BNgRNZI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:34.586Z"}
+{"level":"info","message":"✅ Queued: The Gathery","timestamp":"2026-02-11T21:23:36.451Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Red+Octopus/data=!4m7!3m6!1s0x89c259610eb15555:0x6a332dbb996dcecd!8m2!3d40.7155896!4d-73.963466!16s%2Fg%2F11srgjz69r!19sChIJVVWxDmFZwokRzc5tmbstM2o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:36.451Z"}
+{"level":"info","message":"✅ Queued: Red Octopus","timestamp":"2026-02-11T21:23:37.890Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Want+Studio/data=!4m7!3m6!1s0x89c259d20624d25f:0x7f696d363324c421!8m2!3d40.7113593!4d-73.9524005!16s%2Fg%2F11snwvb65q!19sChIJX9IkBtJZwokRIcQkMzZtaX8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:37.891Z"}
+{"level":"info","message":"✅ Queued: Want Studio","timestamp":"2026-02-11T21:23:39.094Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/WEBWAY+360+-+Print+Shop,+Graphic+Design+%26+Online+Marketing/data=!4m7!3m6!1s0x89c25baccb28a72f:0x4d1e55a473012eb3!8m2!3d40.7116869!4d-73.963812!16s%2Fg%2F11smkzp7bj!19sChIJL6coy6xbwokRsy4Bc6RVHk0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:39.094Z"}
+{"level":"info","message":"✅ Queued: WEBWAY 360 - Print Shop, Graphic Design & Online Marketing","timestamp":"2026-02-11T21:23:40.365Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Vaan+Group/data=!4m7!3m6!1s0x89c25958fc640001:0x3b424899db092d0b!8m2!3d40.7132747!4d-73.9512067!16s%2Fg%2F11ghr11bkp!19sChIJAQBk_FhZwokRCy0J25lIQjs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:40.366Z"}
+{"level":"info","message":"✅ Queued: The Vaan Group","timestamp":"2026-02-11T21:23:41.468Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Artex+Group/data=!4m7!3m6!1s0x89c259610eb15555:0xcd51d36596f13e7b!8m2!3d40.7155896!4d-73.9634659!16s%2Fg%2F11sh5x5v9_!19sChIJVVWxDmFZwokRez7xlmXTUc0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-11T21:23:41.468Z"}
+{"level":"info","message":"✅ Queued: Artex Group","timestamp":"2026-02-11T21:23:43.083Z"}
+{"level":"info","message":"🚀 Launching Job Producer...","timestamp":"2026-02-12T04:55:42.440Z"}
+{"level":"info","message":"📝 Query: \"Digital Marketing Agencies in Shoreditch London\"","timestamp":"2026-02-12T04:55:42.444Z"}
+{"level":"info","message":"🎯 Max Results: 50","timestamp":"2026-02-12T04:55:42.445Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-12T04:55:42.757Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/Digital+Marketing+Agencies+in+Shoreditch+London?hl=en","timestamp":"2026-02-12T04:55:46.662Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-12T04:55:48.726Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links","timestamp":"2026-02-12T04:55:51.946Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 35 links","timestamp":"2026-02-12T04:55:53.345Z"}
+{"level":"info","message":"🔄 Scroll attempt 3: Found 44 links","timestamp":"2026-02-12T04:55:54.957Z"}
+{"level":"info","message":"🔄 Scroll attempt 4: Found 44 links","timestamp":"2026-02-12T04:55:56.175Z"}
+{"level":"info","message":"🔄 Scroll attempt 5: Found 57 links","timestamp":"2026-02-12T04:55:57.393Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-12T04:55:57.393Z"}
+{"level":"info","message":"✅ Collected 55 unique links.","timestamp":"2026-02-12T04:55:57.396Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Digital+Agency/data=!4m7!3m6!1s0x2ac6c5a11580c909:0x143fc1c2f9ee956e!8m2!3d51.5272357!4d-0.0886604!16s%2Fg%2F11pd_pyccd!19sChIJCcmAFaHFxioRbpXu-cLBPxQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:55:57.398Z"}
+{"level":"info","message":"✅ Queued: Dream Digital Agency","timestamp":"2026-02-12T04:55:59.467Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aazz+Seo+Agency+London/data=!4m7!3m6!1s0x48761d63142ef587:0x9c525dc32a0b5ffb!8m2!3d51.5326251!4d-0.0768086!16s%2Fg%2F11lv7mmq5m!19sChIJh_UuFGMddkgR-18LKsNdUpw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:55:59.468Z"}
+{"level":"info","message":"✅ Queued: Aazz Seo Agency London","timestamp":"2026-02-12T04:56:01.176Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Visionary+Marketing+%7C+Digital+Marketing+Agency+London/data=!4m7!3m6!1s0x48761d9c56661ca1:0xe85e1d72a57054b4!8m2!3d51.5227003!4d-0.0869551!16s%2Fg%2F11wv2jn943!19sChIJoRxmVpwddkgRtFRwpXIdXug?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:01.178Z"}
+{"level":"info","message":"✅ Queued: Visionary Marketing | Digital Marketing Agency London","timestamp":"2026-02-12T04:56:02.628Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Influence+Digital/data=!4m7!3m6!1s0x48761b292e45619f:0x9aca541f20fc060!8m2!3d51.5200292!4d-0.0703168!16s%2Fg%2F11btm9p_tl!19sChIJn2FFLikbdkgRYMAP8kGlrAk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:02.629Z"}
+{"level":"info","message":"✅ Queued: Influence Digital","timestamp":"2026-02-12T04:56:03.871Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Good+Marketer+%7C+Digital+Marketing+Agency+London/data=!4m7!3m6!1s0x47d8a1419b07cfa7:0xb1b1e60c34b3f26f!8m2!3d51.5167608!4d-0.0673869!16s%2Fg%2F11f042ss_d!19sChIJp88Hm0Gh2EcRb_KzNAzmsbE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:03.872Z"}
+{"level":"info","message":"✅ Queued: The Good Marketer | Digital Marketing Agency London","timestamp":"2026-02-12T04:56:05.397Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PN+Digital+SEO+Agency+London/data=!4m7!3m6!1s0x48769b1096e9fb0f:0x20bb84479f26b7fe!8m2!3d51.5270735!4d-0.0886128!16s%2Fg%2F11ddx6f4jm!19sChIJD_vplhCbdkgR_rcmn0eEuyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:05.399Z"}
+{"level":"info","message":"✅ Queued: PN Digital SEO Agency London","timestamp":"2026-02-12T04:56:06.644Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+in+London/data=!4m7!3m6!1s0xa3198059bebd9f97:0xfcd827854617568c!8m2!3d51.5286416!4d-0.1015987!16s%2Fg%2F11t369mjd6!19sChIJl5-9vlmAGaMRjFYXRoUn2Pw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:06.644Z"}
+{"level":"info","message":"✅ Queued: Digital Marketing Agency in London","timestamp":"2026-02-12T04:56:07.985Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pearl+Lemon/data=!4m7!3m6!1s0x487604cfb336698f:0xa2f0c34a77caff33!8m2!3d51.5273851!4d-0.0891169!16s%2Fg%2F11cs3zlrvr!19sChIJj2k2s88EdkgRM__Kd0rD8KI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:07.985Z"}
+{"level":"info","message":"✅ Queued: Pearl Lemon","timestamp":"2026-02-12T04:56:09.281Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jain+marketing+Vista+ltd%2F%2F+Best+Digital+Marketing+Agency+in+London+UK%2F%2F+3D,+CGI,VFX+Video/data=!4m7!3m6!1s0x47d8a7092a447799:0xa0b7f81d1a30e2b3!8m2!3d51.5408829!4d0.0305237!16s%2Fg%2F11wbkbqfvx!19sChIJmXdEKgmn2EcRs-IwGh34t6A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:09.283Z"}
+{"level":"info","message":"✅ Queued: Jain marketing Vista ltd// Best Digital Marketing Agency in London UK// 3D, CGI,VFX Video","timestamp":"2026-02-12T04:56:10.854Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Immersive+Media/data=!4m7!3m6!1s0x48610b8f99b1fed9:0x1fd4322c9d7fac!8m2!3d51.5198906!4d-0.0863953!16s%2Fg%2F11vspkm2l3!19sChIJ2f6xmY8LYUgRrH-dLDLUHwA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:10.854Z"}
+{"level":"info","message":"✅ Queued: Immersive Media","timestamp":"2026-02-12T04:56:12.047Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CP+Creative+Ltd/data=!4m7!3m6!1s0x48761dd88ce80a03:0x8b99f270aed69e7d!8m2!3d51.5254491!4d-0.0778773!16s%2Fg%2F11h8m9nrvr!19sChIJAwrojNgddkgRfZ7WrnDymYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:12.048Z"}
+{"level":"info","message":"✅ Queued: CP Creative Ltd","timestamp":"2026-02-12T04:56:13.530Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aiba+Technologies/data=!4m7!3m6!1s0x48761cb0cf2508d9:0x4fb88d52f2364c61!8m2!3d51.5238052!4d-0.0769164!16s%2Fg%2F11vbgpjrb_!19sChIJ2Qglz7AcdkgRYUw28lKNuE8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:13.532Z"}
+{"level":"info","message":"✅ Queued: Aiba Technologies","timestamp":"2026-02-12T04:56:14.865Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perceive+Digital-+Digital+Marketing+Agency+in+London/data=!4m7!3m6!1s0x487601eac1f6d1eb:0x42aab7b2342f6e64!8m2!3d51.525626!4d-0.0836196!16s%2Fg%2F11nnqd737q!19sChIJ69H2weoBdkgRZG4vNLK3qkI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:14.865Z"}
+{"level":"info","message":"✅ Queued: Perceive Digital- Digital Marketing Agency in London","timestamp":"2026-02-12T04:56:16.601Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Make+Agency/data=!4m7!3m6!1s0x48761cd0645b826b:0x31bb39a98980dbcf!8m2!3d51.5238339!4d-0.0829043!16s%2Fg%2F1q6jcm5y5!19sChIJa4JbZNAcdkgRz9uAiak5uzE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:16.601Z"}
+{"level":"info","message":"✅ Queued: Make Agency","timestamp":"2026-02-12T04:56:18.070Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Almond+Marketing+-+Digital+Marketing+Agency+London/data=!4m7!3m6!1s0x48761b2db53cfd6d:0x7fc961df6a271f38!8m2!3d51.5266571!4d-0.0883027!16s%2Fg%2F11cn5p8k8p!19sChIJbf08tS0bdkgROB8nat9hyX8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:18.071Z"}
+{"level":"info","message":"✅ Queued: Almond Marketing - Digital Marketing Agency London","timestamp":"2026-02-12T04:56:20.566Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ClickDo+Ltd./data=!4m7!3m6!1s0x487613fcf6b765f1:0x704faf50fb2aa88e!8m2!3d47.73855!4d12.5088275!16s%2Fg%2F1yj4k3n_l!19sChIJ8WW39vwTdkgRjqgq-1CvT3A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:20.567Z"}
+{"level":"info","message":"✅ Queued: ClickDo Ltd.","timestamp":"2026-02-12T04:56:22.110Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lobo+Digital/data=!4m7!3m6!1s0x6ecd7f5352b3b925:0x5613370c0eb9a887!8m2!3d51.5272357!4d-0.0886604!16s%2Fg%2F11trx25m3c!19sChIJJbmzUlN_zW4Rh6i5Dgw3E1Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:22.110Z"}
+{"level":"info","message":"✅ Queued: Lobo Digital","timestamp":"2026-02-12T04:56:23.384Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Elevate+Digital/data=!4m7!3m6!1s0x4876035b9876a589:0xa87b47af2d726fb3!8m2!3d51.5081761!4d-0.0595714!16s%2Fg%2F11gvtr2jb8!19sChIJiaV2mFsDdkgRs29yLa9He6g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:23.385Z"}
+{"level":"info","message":"✅ Queued: Elevate Digital","timestamp":"2026-02-12T04:56:24.805Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/First+Rate+Marketing+%7C+London+Web+Design+%26+Branding+Agency/data=!4m7!3m6!1s0x48761d36f96c345b:0x6295e13db3e6ab38!8m2!3d51.5158089!4d-0.081531!16s%2Fg%2F11snrnf4_b!19sChIJWzRs-TYddkgROKvmsz3hlWI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:24.805Z"}
+{"level":"info","message":"✅ Queued: First Rate Marketing | London Web Design & Branding Agency","timestamp":"2026-02-12T04:56:26.155Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Flex+Digital+Agency+-+Shoreditch+Office/data=!4m7!3m6!1s0x48761d9e8d992f35:0xb247c7d1f0cc3b87!8m2!3d51.525626!4d-0.0836196!16s%2Fg%2F11rc45dl__!19sChIJNS-ZjZ4ddkgRhzvM8NHHR7I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:26.156Z"}
+{"level":"info","message":"✅ Queued: Flex Digital Agency - Shoreditch Office","timestamp":"2026-02-12T04:56:27.391Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FDRY/data=!4m7!3m6!1s0x487604008864abb3:0xc046fd59414836bc!8m2!3d51.49377!4d-0.146386!16s%2Fg%2F1pp2vhz88!19sChIJs6tkiAAEdkgRvDZIQVn9RsA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:27.392Z"}
+{"level":"info","message":"✅ Queued: FDRY","timestamp":"2026-02-12T04:56:28.880Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/West+London+Studio/data=!4m7!3m6!1s0x48761024ec1f9e73:0x2af4156605c29e6b!8m2!3d51.523714!4d-0.219625!16s%2Fg%2F11b6_jvqnm!19sChIJc54f7CQQdkgRa57CBWYV9Co?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:28.881Z"}
+{"level":"info","message":"✅ Queued: West London Studio","timestamp":"2026-02-12T04:56:32.194Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Loving+Social+Media/data=!4m7!3m6!1s0x48761f24d4771c95:0xf019ad79303fac42!8m2!3d51.6568789!4d-0.0682313!16s%2Fg%2F1td4d0s8!19sChIJlRx31CQfdkgRQqw_MHmtGfA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:32.195Z"}
+{"level":"info","message":"✅ Queued: Loving Social Media","timestamp":"2026-02-12T04:56:35.419Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+-+Digi+Instant+-+London/data=!4m7!3m6!1s0x4018ca34a748f877:0x93b09e5769e02674!8m2!3d51.5168478!4d-0.1103918!16s%2Fg%2F11tp67jd54!19sChIJd_hIpzTKGEARdCbgaVeesJM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:35.420Z"}
+{"level":"info","message":"✅ Queued: Digital Marketing Agency - Digi Instant - London","timestamp":"2026-02-12T04:56:37.066Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/RVS+Media+-+Ecommerce+Web+and+Software+Development+Agency+London/data=!4m7!3m6!1s0x4876109b9f2748e1:0x13e3592409d8047!8m2!3d51.5254385!4d-0.0881694!16s%2Fg%2F12mkw97lw!19sChIJ4Ugnn5sQdkgRR4CdQJI1PgE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:37.067Z"}
+{"level":"info","message":"✅ Queued: RVS Media - Ecommerce Web and Software Development Agency London","timestamp":"2026-02-12T04:56:39.251Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Target+Digital+Marketing+Ltd/data=!4m7!3m6!1s0x286bdeba95d456b7:0xbe5546c501bf35b9!8m2!3d51.5469193!4d0.0320759!16s%2Fg%2F11rscm929r!19sChIJt1bUlbreaygRuTW_AcVGVb4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:39.252Z"}
+{"level":"info","message":"✅ Queued: Target Digital Marketing Ltd","timestamp":"2026-02-12T04:56:40.370Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Starlight+Digital/data=!4m7!3m6!1s0x48761ca55fd39f3d:0x26198d4272932225!8m2!3d51.5256447!4d-0.083653!16s%2Fg%2F11vy3zkm9x!19sChIJPZ_TX6UcdkgRJSKTckKNGSY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:40.370Z"}
+{"level":"info","message":"✅ Queued: Starlight Digital","timestamp":"2026-02-12T04:56:42.031Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Finixio+Digital/data=!4m7!3m6!1s0x47d8a70ade97dd49:0x528d96adbb560e1b!8m2!3d51.5387023!4d0.0520481!16s%2Fg%2F11w1ttqdwf!19sChIJSd2X3gqn2EcRGw5Wu62WjVI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:42.031Z"}
+{"level":"info","message":"✅ Queued: Finixio Digital","timestamp":"2026-02-12T04:56:43.580Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MADX+Digital/data=!4m7!3m6!1s0x48761b4155fac60f:0x7ef60696e417373f!8m2!3d51.5235448!4d-0.0769243!16s%2Fg%2F11qps1c5yf!19sChIJD8b6VUEbdkgRPzcX5JYG9n4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:43.592Z"}
+{"level":"info","message":"✅ Queued: MADX Digital","timestamp":"2026-02-12T04:56:45.297Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Shoreditch+Design/data=!4m7!3m6!1s0x48761d99553a4c8b:0x17daf6c1af43acec!8m2!3d51.5239497!4d-0.0833672!16s%2Fg%2F11n5krgl0v!19sChIJi0w6VZkddkgR7KxDr8H22hc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:45.297Z"}
+{"level":"info","message":"✅ Queued: Shoreditch Design","timestamp":"2026-02-12T04:56:47.265Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MR+GREAT+LTD/data=!4m7!3m6!1s0x48761d0d97d90e11:0xbe0424c473b096bd!8m2!3d51.5272357!4d-0.0886605!16s%2Fg%2F11gw2jd4kf!19sChIJEQ7Zlw0ddkgRvZawc8QkBL4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:47.265Z"}
+{"level":"info","message":"✅ Queued: MR GREAT LTD","timestamp":"2026-02-12T04:56:51.416Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ClickSlice/data=!4m7!3m6!1s0x48761cbc24100001:0x9467ab97c750970b!8m2!3d51.532438!4d-0.076767!16s%2Fg%2F11hd6wzt4g!19sChIJAQAQJLwcdkgRC5dQx5erZ5Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:51.417Z"}
+{"level":"info","message":"✅ Queued: ClickSlice","timestamp":"2026-02-12T04:56:54.997Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Itineris/data=!4m7!3m6!1s0x47d9a0aa431d43df:0x9d4b49acf7d4313b!8m2!3d51.5244232!4d-0.0774237!16s%2Fg%2F1tg5bcmz!19sChIJ30MdQ6qg2UcROzHU96xJS50?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:54.997Z"}
+{"level":"info","message":"✅ Queued: Itineris","timestamp":"2026-02-12T04:56:56.560Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jives+Media/data=!4m7!3m6!1s0x4876031e14c02251:0x611ee2a424aba5ce!8m2!3d51.503627!4d-0.015056!16s%2Fg%2F11rc0m34l9!19sChIJUSLAFB4DdkgRzqWrJKTiHmE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:56:56.560Z"}
+{"level":"info","message":"✅ Queued: Jives Media","timestamp":"2026-02-12T04:57:00.188Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PPC+Marketing+Agency+for+SaaS+%7C+London+%7C+Two+Spouts/data=!4m7!3m6!1s0x4876057e987138e5:0xe1f1029b6a2392ca!8m2!3d51.5137949!4d-0.1021517!16s%2Fg%2F11h1fz9cfg!19sChIJ5ThxmH4FdkgRypIjapsC8eE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:00.190Z"}
+{"level":"info","message":"✅ Queued: PPC Marketing Agency for SaaS | London | Two Spouts","timestamp":"2026-02-12T04:57:06.235Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Forge/data=!4m7!3m6!1s0x4876271c9dad5add:0x8331e282bec808f!8m2!3d51.52402!4d-0.081501!16s%2Fg%2F1tcv0y16!19sChIJ3VqtnRwndkgRj4DsKygeMwg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:06.236Z"}
+{"level":"info","message":"✅ Queued: Forge","timestamp":"2026-02-12T04:57:07.818Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetic+Works+%7C+Branding+Agency+in+Cambridge+%26+London/data=!4m7!3m6!1s0x487604d4a395cda7:0xf02caa796c760849!8m2!3d51.5241548!4d-0.076041!16s%2Fg%2F12qfy7bsv!19sChIJp82Vo9QEdkgRSQh2bHmqLPA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:07.820Z"}
+{"level":"info","message":"✅ Queued: Aesthetic Works | Branding Agency in Cambridge & London","timestamp":"2026-02-12T04:57:11.536Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Aesthetics/data=!4m7!3m6!1s0x48761b516d1f1731:0xd6627a9479d23f6c!8m2!3d51.5270693!4d-0.0885572!16s%2Fg%2F11cs3q95mx!19sChIJMRcfbVEbdkgRbD_SeZR6YtY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:11.542Z"}
+{"level":"info","message":"✅ Queued: Digital Aesthetics","timestamp":"2026-02-12T04:57:13.084Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Diffusion+Digital/data=!4m7!3m6!1s0x48761caf718f1943:0x14bbf7013090d329!8m2!3d51.5247198!4d-0.0776252!16s%2Fg%2F11bw2_ddpm!19sChIJQxmPca8cdkgRKdOQMAH3uxQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:13.084Z"}
+{"level":"info","message":"✅ Queued: Diffusion Digital","timestamp":"2026-02-12T04:57:14.604Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bird+Marketing/data=!4m7!3m6!1s0x48761cacdbbfa669:0xfc743d0e286f2803!8m2!3d51.5158708!4d-0.0855879!16s%2Fg%2F11gb3yttd0!19sChIJaaa_26wcdkgRAyhvKA49dPw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:14.606Z"}
+{"level":"info","message":"✅ Queued: Bird Marketing","timestamp":"2026-02-12T04:57:16.105Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Performance+Marketing+Agency+%7C+BARK.London/data=!4m7!3m6!1s0x48761d29f0a265bd:0xb50d00abe1e6754!8m2!3d51.5258649!4d-0.0851961!16s%2Fg%2F11mtd7h8tb!19sChIJvWWi8CkddkgRVGcevgrQUAs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:16.105Z"}
+{"level":"info","message":"✅ Queued: Performance Marketing Agency | BARK.London","timestamp":"2026-02-12T04:57:18.873Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Grammatik+Agency/data=!4m7!3m6!1s0x48761cd00b6ffff9:0xfaae748cbd5eec72!8m2!3d51.5299889!4d-0.0755952!16s%2Fg%2F11g8ygns05!19sChIJ-f9vC9AcdkgRcuxevYx0rvo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:18.874Z"}
+{"level":"info","message":"✅ Queued: Grammatik Agency","timestamp":"2026-02-12T04:57:23.876Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smartunit/data=!4m7!3m6!1s0x48761ea47352b389:0xca8e3806607f6c76!8m2!3d51.5256126!4d-0.0836315!16s%2Fg%2F11r8q5v4g!19sChIJibNSc6QedkgRdmx_YAY4jso?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:23.882Z"}
+{"level":"info","message":"✅ Queued: Smartunit","timestamp":"2026-02-12T04:57:30.184Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Disturb+Digital/data=!4m7!3m6!1s0x4876137370ba9f75:0xeea2f30281b283bd!8m2!3d51.5800049!4d-0.3369108!16s%2Fg%2F11gtg9qjwg!19sChIJdZ-6cHMTdkgRvYOygQLzou4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:30.185Z"}
+{"level":"info","message":"✅ Queued: Disturb Digital","timestamp":"2026-02-12T04:57:32.261Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DMi+-+Digital+Marketing+Agency/data=!4m7!3m6!1s0x6b67f0e78b2e3dd5:0x6825cd5d370edc49!8m2!3d51.5272357!4d-0.0886604!16s%2Fg%2F11jzpm6xp8!19sChIJ1T0ui-fwZ2sRSdwON13NJWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:32.262Z"}
+{"level":"info","message":"✅ Queued: DMi - Digital Marketing Agency","timestamp":"2026-02-12T04:57:34.456Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hex+Digital/data=!4m7!3m6!1s0x487604a7b851580b:0xa6514a506a08a78b!8m2!3d51.5144749!4d-0.104898!16s%2Fg%2F1tlqpgb1!19sChIJC1hRuKcEdkgRi6cIalBKUaY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:34.457Z"}
+{"level":"info","message":"✅ Queued: Hex Digital","timestamp":"2026-02-12T04:57:36.633Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SeventhElement+Agency/data=!4m7!3m6!1s0x487604d4c8c0414b:0xd52c05f2a72d8d6!8m2!3d51.5274187!4d-0.0883247!16s%2Fg%2F1pp2vhz0d!19sChIJS0HAyNQEdkgR1thyKl_AUg0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:36.634Z"}
+{"level":"info","message":"✅ Queued: SeventhElement Agency","timestamp":"2026-02-12T04:57:37.885Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/KOTA+Design+Agency/data=!4m7!3m6!1s0x4876050a216d1fa3:0xb707536e55f4be4d!8m2!3d51.5231438!4d-0.0988209!16s%2Fg%2F1pp2x03fn!19sChIJox9tIQoFdkgRTb70VW5TB7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:37.933Z"}
+{"level":"info","message":"✅ Queued: KOTA Design Agency","timestamp":"2026-02-12T04:57:39.617Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Linx+Digital+Ltd/data=!4m7!3m6!1s0x48761d6112c8b3d3:0xd4f137b4420453c6!8m2!3d51.525626!4d-0.0836196!16s%2Fg%2F11sghnw7tp!19sChIJ07PIEmEddkgRxlMEQrQ38dQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:39.617Z"}
+{"level":"info","message":"✅ Queued: Linx Digital Ltd","timestamp":"2026-02-12T04:57:41.531Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/StudioHawk/data=!4m7!3m6!1s0x48761de25c678b8b:0x6252779aace3be61!8m2!3d51.5246781!4d-0.0782428!16s%2Fg%2F11nccdybp2!19sChIJi4tnXOIddkgRYb7jrJp3UmI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-12T04:57:41.532Z"}
+{"level":"info","message":"✅ Queued: StudioHawk","timestamp":"2026-02-12T04:57:42.843Z"}
