@@ -460,3 +460,330 @@
 {"level":"info","message":"👷 Processing: StudioHawk (ID: cfdaaf9a-ebfe-4198-9a65-7dacf9943f8e) - URL: https://studiohawk.co.uk/","timestamp":"2026-02-12T05:02:18.626Z"}
 {"level":"info","message":"✅ Found 1 emails for Linx Digital Ltd: john@linxdigital.co.uk","timestamp":"2026-02-12T05:02:25.304Z"}
 {"level":"info","message":"✅ Found 2 emails for StudioHawk: contact@studiohawk.co.uk, contact@studiohawk.com.au","timestamp":"2026-02-12T05:02:49.589Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-b55382b5","timestamp":"2026-02-13T21:24:11.046Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-13T21:24:11.111Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-13T21:24:11.906Z"}
+{"level":"info","message":"👷 Processing: August - აუგუსტი (ID: f9f72866-d38e-482a-b730-bf12c843be9b) - URL: http://august.ge/","timestamp":"2026-02-13T21:24:12.271Z"}
+{"level":"info","message":"✅ Found 5 emails for August - აუგუსტი: info@august.com, info@august.ge, 423info@august.ge, a.gabunia@august.ge, 808info@august.ge","timestamp":"2026-02-13T21:24:26.672Z"}
+{"level":"info","message":"👷 Processing: MO | Coffee Space (ID: 7081f1a0-cf1c-40fc-a85b-d65b23fdc53f) - URL: https://instagram.com/mo.coffeespace?igshid=MzRlODBiNWFlZA==","timestamp":"2026-02-13T21:24:26.847Z"}
+{"level":"info","message":"🤷 No emails found for MO | Coffee Space","timestamp":"2026-02-13T21:24:35.691Z"}
+{"level":"info","message":"👷 Processing: Coffee Point ყავა პოინთი (ID: 57148a68-7a82-4808-8961-832d54bea863) - URL: null","timestamp":"2026-02-13T21:24:35.709Z"}
+{"level":"warn","message":"⚠️  No website for Coffee Point ყავა პოინთი, marking FAILED.","timestamp":"2026-02-13T21:24:35.709Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-9cc27a8a","timestamp":"2026-02-15T17:57:39.064Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T17:57:39.149Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-012fcbdc","timestamp":"2026-02-15T17:57:39.064Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T17:57:39.149Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T17:57:40.507Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T17:57:40.522Z"}
+{"level":"info","message":"👷 Processing: SUFFIX ARCHITECT | New York (ID: d53fa548-bf45-4eb7-997f-d99ce366cb5d) - URL: https://www.suffixarchitect.com/projects","timestamp":"2026-02-15T17:57:40.656Z"}
+{"level":"info","message":"👷 Processing: Heritage Architecture (ID: eea89388-8c98-44c6-a065-c86e58b2cd59) - URL: http://www.heritagearch.com/","timestamp":"2026-02-15T17:57:40.657Z"}
+{"level":"info","message":"✅ Found 1 emails for Heritage Architecture: admin@heritagearch.com","timestamp":"2026-02-15T17:57:50.385Z"}
+{"level":"info","message":"👷 Processing: New York Architect (ID: 584cb782-da54-4389-8993-970f7cbf1f97) - URL: null","timestamp":"2026-02-15T17:57:50.585Z"}
+{"level":"warn","message":"⚠️  No website for New York Architect, marking FAILED.","timestamp":"2026-02-15T17:57:50.586Z"}
+{"level":"info","message":"👷 Processing: Building Studio Architects (ID: 9d0fea31-52d3-4a19-9cbb-0f2b1dc8204f) - URL: https://buildingstudio.com/","timestamp":"2026-02-15T17:57:50.597Z"}
+{"level":"info","message":"✅ Found 1 emails for SUFFIX ARCHITECT | New York: info@suffixarchitect.comcell","timestamp":"2026-02-15T17:57:51.513Z"}
+{"level":"info","message":"👷 Processing: George Ranalli Architect (ID: 6a4a494e-e47f-41c0-8ec3-a04e3a1a2390) - URL: http://georgeranalli.com/","timestamp":"2026-02-15T17:57:51.547Z"}
+{"level":"info","message":"🤷 No emails found for George Ranalli Architect","timestamp":"2026-02-15T17:57:58.192Z"}
+{"level":"info","message":"👷 Processing: Dattner Architects (ID: 28436c7f-7efc-4b72-bf91-fc40ec58771d) - URL: http://www.dattner.com/","timestamp":"2026-02-15T17:57:58.212Z"}
+{"level":"info","message":"✅ Found 3 emails for Building Studio Architects: office@buildingstudio.com?subject=inquiry, office@buildingstudio.com, office@buildingstudio.com?subject=website%20response","timestamp":"2026-02-15T17:58:02.479Z"}
+{"level":"info","message":"👷 Processing: Studio ST Architects (ID: 56cfdf21-72a0-4d83-8d43-b3a6a84817cd) - URL: http://www.studio-st.com/","timestamp":"2026-02-15T17:58:02.516Z"}
+{"level":"info","message":"✅ Found 1 emails for Dattner Architects: info@dattner.com","timestamp":"2026-02-15T17:58:08.083Z"}
+{"level":"info","message":"👷 Processing: Fontan Architecture PLLC (ID: 380fa117-31ee-4992-8ba4-25ed0f509021) - URL: https://fontanarchitecture.com/","timestamp":"2026-02-15T17:58:08.126Z"}
+{"level":"info","message":"✅ Found 7 emails for Studio ST Architects: esther@studio-st.com, 2600esther@studio-st.com, info@studio-st.com, press@studio-st.com, inquiriesinfo@studio-st.compress, inquirespress@studio-st.comspeaking, opportunitiesesther@studio-st.comfollow","timestamp":"2026-02-15T17:58:15.882Z"}
+{"level":"info","message":"👷 Processing: Marin Architects (ID: 53892526-5947-493e-b88a-1ce8b290a3ad) - URL: http://marinarchitects.com/","timestamp":"2026-02-15T17:58:15.913Z"}
+{"level":"info","message":"✅ Found 1 emails for Fontan Architecture PLLC: info@fontanarchitecture.com","timestamp":"2026-02-15T17:58:16.987Z"}
+{"level":"info","message":"👷 Processing: Chelsea West Architects (ID: 5837780a-6e99-415c-bb96-221c56ff5790) - URL: http://www.cwany.com/","timestamp":"2026-02-15T17:58:17.034Z"}
+{"level":"info","message":"✅ Found 1 emails for Chelsea West Architects: mail@cwany.com","timestamp":"2026-02-15T17:58:23.792Z"}
+{"level":"info","message":"👷 Processing: Architect NY (ID: f8f39675-f878-460d-9581-9db759494c6c) - URL: null","timestamp":"2026-02-15T17:58:23.818Z"}
+{"level":"warn","message":"⚠️  No website for Architect NY, marking FAILED.","timestamp":"2026-02-15T17:58:23.819Z"}
+{"level":"info","message":"👷 Processing: TPG Architecture, LLP (ID: 19cdddeb-5d90-4e8a-a2ce-4f5285b2faf6) - URL: http://www.tpgarchitecture.com/","timestamp":"2026-02-15T17:58:23.829Z"}
+{"level":"info","message":"✅ Found 3 emails for Marin Architects: info@marinarchitects.com, lhayward@marinarchitects.com, opportunities@marinarchitects.com","timestamp":"2026-02-15T17:58:27.257Z"}
+{"level":"info","message":"👷 Processing: Studio A + T Architects (ID: 59535fb2-0311-4636-9dd4-065698a509c8) - URL: http://www.satarchitects.com/","timestamp":"2026-02-15T17:58:27.287Z"}
+{"level":"info","message":"🤷 No emails found for TPG Architecture, LLP","timestamp":"2026-02-15T17:58:33.200Z"}
+{"level":"info","message":"👷 Processing: BKSK Architects LLP (ID: 8239d7fe-62b3-4842-8b44-929a349fcf1c) - URL: http://bksk.com/","timestamp":"2026-02-15T17:58:33.222Z"}
+{"level":"info","message":"✅ Found 1 emails for Studio A + T Architects: studioat@satarchitects.com","timestamp":"2026-02-15T17:58:45.627Z"}
+{"level":"info","message":"👷 Processing: Node Architecture, Engineering, and Consulting (ID: f3d4e194-a1ab-4678-a129-0d78dc0ccf5e) - URL: http://www.nodeaec.com/","timestamp":"2026-02-15T17:58:45.670Z"}
+{"level":"info","message":"✅ Found 4 emails for BKSK Architects LLP: bkskinfo@bkskarch.com, interiors@bkskarch.com, bkskinfo@bksk.com, interiors@bksk.com","timestamp":"2026-02-15T17:58:46.612Z"}
+{"level":"info","message":"👷 Processing: studio ai architects (ID: 911d645d-5905-43bd-8c37-618eff7bbb4d) - URL: http://www.studioai.com/","timestamp":"2026-02-15T17:58:46.643Z"}
+{"level":"info","message":"✅ Found 1 emails for Node Architecture, Engineering, and Consulting: info@nodeaec.com","timestamp":"2026-02-15T17:58:55.283Z"}
+{"level":"info","message":"👷 Processing: New York Design Architects, LLP (ID: d2af6dc5-f42b-48ce-8d0c-597776f964e1) - URL: https://www.newyorkdesign.com/","timestamp":"2026-02-15T17:58:55.309Z"}
+{"level":"info","message":"🤷 No emails found for studio ai architects","timestamp":"2026-02-15T17:58:57.953Z"}
+{"level":"info","message":"👷 Processing: ODA (ID: 6a9b802d-ffa7-404c-b874-968066eab11f) - URL: http://www.oda-architecture.com/","timestamp":"2026-02-15T17:58:57.973Z"}
+{"level":"info","message":"✅ Found 6 emails for ODA: studio@oda-architecture.com, newbusiness@oda-architecture.com, oda@dadagoldberg.com, jobs@oda-architecture.com, businessnewbusiness@oda-architecture.compressoda, dadagoldberg.comemploymentjobs@oda-architecture.comnewslettervisit","timestamp":"2026-02-15T17:59:06.924Z"}
+{"level":"info","message":"👷 Processing: MJ Siano Architect (ID: f28c6f55-61ca-4203-890e-a6038d890d40) - URL: https://www.mjsarch.com/","timestamp":"2026-02-15T17:59:06.952Z"}
+{"level":"info","message":"✅ Found 3 emails for New York Design Architects, LLP: info@newyorkdesign.com, info@newyorkdesign.comcontact, info@newyorkdesign.com.","timestamp":"2026-02-15T17:59:08.434Z"}
+{"level":"info","message":"👷 Processing: J L Ramirez Architect (ID: ab9b9a0d-7592-40d9-bb05-2c9f834e78b9) - URL: http://jlra.co/","timestamp":"2026-02-15T17:59:08.461Z"}
+{"level":"info","message":"✅ Found 1 emails for MJ Siano Architect: info@mjsarch.com","timestamp":"2026-02-15T17:59:15.152Z"}
+{"level":"info","message":"👷 Processing: Architecture Studio (ID: ec3b0265-2976-4ac2-8cc4-f732c3d62f3e) - URL: https://www.architecturestudio.com/","timestamp":"2026-02-15T17:59:15.180Z"}
+{"level":"info","message":"🤷 No emails found for J L Ramirez Architect","timestamp":"2026-02-15T17:59:22.680Z"}
+{"level":"info","message":"👷 Processing: Kohn Architecture (ID: 9987861f-013b-4b57-8bd5-812161cdf36c) - URL: https://kohnarchitecture.nyc/","timestamp":"2026-02-15T17:59:22.696Z"}
+{"level":"info","message":"🤷 No emails found for Kohn Architecture","timestamp":"2026-02-15T17:59:34.260Z"}
+{"level":"info","message":"👷 Processing: Jack L. Gordon Architects (ID: 8ba3180e-480e-41d8-aaf3-c64d2187e4b2) - URL: http://www.jlgordon.com/","timestamp":"2026-02-15T17:59:34.278Z"}
+{"level":"info","message":"✅ Found 2 emails for Architecture Studio: info@architecturestudio.com, wgati@architecturestudio.us","timestamp":"2026-02-15T17:59:36.734Z"}
+{"level":"info","message":"👷 Processing: Slce Architects LLP (ID: d8e83949-8ca8-40a1-9e0e-5748b770a42d) - URL: http://www.slcearch.com/","timestamp":"2026-02-15T17:59:36.765Z"}
+{"level":"info","message":"✅ Found 10 emails for Jack L. Gordon Architects: info@office.com, adam@ratio.studio.com, jesica@ratio.studio.com, info@komplex.com, studio@komplex.com, info@komplex2.com, studio@komplex2.com, info@komplex3.com, studio@komplex3.com, communications@jlgordon.com","timestamp":"2026-02-15T17:59:45.743Z"}
+{"level":"info","message":"👷 Processing: Melone Architects (ID: 483478f4-0583-4682-8ac1-118900763667) - URL: https://www.melonearchitects.com/","timestamp":"2026-02-15T17:59:45.773Z"}
+{"level":"info","message":"✅ Found 2 emails for Slce Architects LLP: info@slcearch.com, info@slcearch.com.","timestamp":"2026-02-15T17:59:47.165Z"}
+{"level":"info","message":"👷 Processing: Oliver Cope Architect (ID: 51188f8b-5aa8-48ed-a6a0-f08e99de9996) - URL: http://www.olivercope.com/","timestamp":"2026-02-15T17:59:47.192Z"}
+{"level":"info","message":"✅ Found 8 emails for Melone Architects: nick@melonearchitects.com, eliot@melonearchitects.com, andrea@melonearchitects.com, info@melonearchitects.com, 206-0162nick@melonearchitects.com, 206-0162eliot@melonearchitects.com, 206-0162andrea@melonearchitects.com, info@melonearchitects.comphone","timestamp":"2026-02-15T17:59:55.884Z"}
+{"level":"info","message":"👷 Processing: Haute Architecture (ID: 3098bd28-0395-46f7-a985-7ec13b31ccc3) - URL: http://haute-architecture.com/","timestamp":"2026-02-15T17:59:55.924Z"}
+{"level":"info","message":"✅ Found 3 emails for Oliver Cope Architect: info@olivercope.com, employment@olivercope.com, detailing.employment@olivercope.com","timestamp":"2026-02-15T17:59:57.548Z"}
+{"level":"info","message":"👷 Processing: Urbahn Architects PLLC (ID: 2c2750ab-5d56-4c0e-88cb-34f4d0653be5) - URL: http://www.urbahn.com/","timestamp":"2026-02-15T17:59:57.573Z"}
+{"level":"info","message":"✅ Found 4 emails for Haute Architecture: 212.695.9638info@haute-architecture.com, info@haute-architecture.com, press@haute-architecture.com, work@haute-architecture.com","timestamp":"2026-02-15T18:00:04.534Z"}
+{"level":"info","message":"👷 Processing: Murdock Solon Architects (ID: a9431fa8-83d4-4920-a7f9-a6ce0f0dabad) - URL: http://www.murdocksolon.com/","timestamp":"2026-02-15T18:00:04.607Z"}
+{"level":"info","message":"✅ Found 2 emails for Urbahn Architects PLLC: careers@urbahn.com, steinr@urbahn.com","timestamp":"2026-02-15T18:00:19.000Z"}
+{"level":"info","message":"👷 Processing: Pelli Clarke Pelli Architects (ID: 101114ce-7be7-4a10-aa19-1908b2d75158) - URL: https://pcparch.com/","timestamp":"2026-02-15T18:00:19.030Z"}
+{"level":"info","message":"✅ Found 7 emails for Murdock Solon Architects: info@murdocksolon.com, info@murdocksolon.com508, 929-3336info@murdocksolon.com, info+project@murdocksolon.com, info+jobs@murdocksolon.com, project@murdocksolon.com, jobs@murdocksolon.com","timestamp":"2026-02-15T18:00:25.900Z"}
+{"level":"info","message":"👷 Processing: Zaskorski Architects (ID: 3e166cc6-94c8-426b-9c2c-c251410aa2f5) - URL: http://www.zaskorski.com/","timestamp":"2026-02-15T18:00:25.927Z"}
+{"level":"info","message":"✅ Found 8 emails for Pelli Clarke Pelli Architects: infonh@pcparch.com, infonyc@pcparch.com, newbusiness@pcparch.com, media@pcparch.com, employmentnh@pcparch.com, employmentnyc@pcparch.com, info_sh@pcparch.com, info_sz@pcparch.com","timestamp":"2026-02-15T18:00:27.002Z"}
+{"level":"info","message":"👷 Processing: Hoffmann Architects + Engineers (ID: 0babd498-df76-4e1e-9c65-733626ca7859) - URL: http://www.hoffarch.com/","timestamp":"2026-02-15T18:00:27.026Z"}
+{"level":"info","message":"🤷 No emails found for Hoffmann Architects + Engineers","timestamp":"2026-02-15T18:00:37.723Z"}
+{"level":"info","message":"👷 Processing: Ronnette Riley Architect (ID: 22742beb-625c-4ae9-8f9e-6b9701ef903c) - URL: http://ronnetteriley.com/","timestamp":"2026-02-15T18:00:37.743Z"}
+{"level":"info","message":"✅ Found 1 emails for Zaskorski Architects: info@zaskorski.com","timestamp":"2026-02-15T18:00:40.642Z"}
+{"level":"info","message":"👷 Processing: Dadras Architects (ID: 5c2e61f6-3cfd-4e5d-a5fe-6da96c6a59a5) - URL: http://www.dadrasarchitects.com/","timestamp":"2026-02-15T18:00:40.669Z"}
+{"level":"info","message":"✅ Found 1 emails for Ronnette Riley Architect: jg@ronnetteriley.comt","timestamp":"2026-02-15T18:00:47.796Z"}
+{"level":"info","message":"👷 Processing: RKTB Architects, P.C. (ID: 5ae6a5a3-1bc9-4381-891d-c2a96d07e8ee) - URL: http://www.rktb.com/","timestamp":"2026-02-15T18:00:47.829Z"}
+{"level":"info","message":"🤷 No emails found for Dadras Architects","timestamp":"2026-02-15T18:00:49.919Z"}
+{"level":"info","message":"👷 Processing: 1100 Architect (ID: 7ec07f61-dcfc-4243-9ed8-cb31f8cf68ba) - URL: http://www.1100architect.com/","timestamp":"2026-02-15T18:00:49.939Z"}
+{"level":"info","message":"✅ Found 2 emails for RKTB Architects, P.C.: info@rktb.com?subject=website%20contact, info@rktb.com","timestamp":"2026-02-15T18:00:57.611Z"}
+{"level":"info","message":"👷 Processing: CTA Architects P.C. (ID: 5aa990e9-cadb-45dc-ad31-4de0ca6be315) - URL: https://www.ctaarchitects.com/","timestamp":"2026-02-15T18:00:57.642Z"}
+{"level":"info","message":"✅ Found 5 emails for 1100 Architect: contact@1100architect.com, contact_de@1100architect.de, hr@1100architect.com, marketing@1100architect.com, jobs@1100architect.de","timestamp":"2026-02-15T18:01:02.264Z"}
+{"level":"info","message":"👷 Processing: Rauch Architecture D.P.C. - Architect (ID: 0db3f2ee-02f9-4fec-b93b-105a21c22077) - URL: http://raucharchitecture.com/","timestamp":"2026-02-15T18:01:02.291Z"}
+{"level":"info","message":"🤷 No emails found for CTA Architects P.C.","timestamp":"2026-02-15T18:01:07.479Z"}
+{"level":"info","message":"👷 Processing: Morali Architects (ID: 7ab566dc-2c83-47ef-8640-beee2cfda5ec) - URL: http://moraliarchitecture.com/","timestamp":"2026-02-15T18:01:07.496Z"}
+{"level":"info","message":"🤷 No emails found for Rauch Architecture D.P.C. - Architect","timestamp":"2026-02-15T18:01:12.530Z"}
+{"level":"info","message":"👷 Processing: NDNY Architecture + Design (ID: 6f744117-8395-4161-9ed8-2a11daef3c23) - URL: http://www.ndny.co/","timestamp":"2026-02-15T18:01:12.548Z"}
+{"level":"info","message":"✅ Found 1 emails for Morali Architects: jmorali@moraliarchitecture.com","timestamp":"2026-02-15T18:01:18.470Z"}
+{"level":"info","message":"👷 Processing: CREATE Architecture Planning and Design (ID: 4824fdb0-b733-4d38-8fa3-ad9858720833) - URL: http://www.createworldwide.com/","timestamp":"2026-02-15T18:01:18.497Z"}
+{"level":"info","message":"🤷 No emails found for NDNY Architecture + Design","timestamp":"2026-02-15T18:01:26.025Z"}
+{"level":"info","message":"👷 Processing: Gertler & Wente Architects LLP (ID: 84016343-f670-43d1-9cf6-b4259fc0bd97) - URL: https://www.gwarch.com/","timestamp":"2026-02-15T18:01:26.043Z"}
+{"level":"info","message":"✅ Found 1 emails for CREATE Architecture Planning and Design: info@createapd.com","timestamp":"2026-02-15T18:01:30.196Z"}
+{"level":"info","message":"👷 Processing: William Gati, AIA, Architect (ID: 5baf3148-3083-4216-8917-d79fe68cc39e) - URL: http://www.architecturestudio.com/","timestamp":"2026-02-15T18:01:30.220Z"}
+{"level":"info","message":"🤷 No emails found for Gertler & Wente Architects LLP","timestamp":"2026-02-15T18:01:37.328Z"}
+{"level":"info","message":"👷 Processing: PARK Architect PLLC (ID: dbc00a44-fec8-490a-94fe-0b3dc9b63710) - URL: http://parkarchitects.com/","timestamp":"2026-02-15T18:01:37.348Z"}
+{"level":"info","message":"🤷 No emails found for PARK Architect PLLC","timestamp":"2026-02-15T18:01:43.543Z"}
+{"level":"info","message":"👷 Processing: Susan T Rodriguez | Architecture • Design (ID: 3a5f5f76-ce84-434b-a812-2c5bbedb00c9) - URL: http://str-architecture.com/contact/","timestamp":"2026-02-15T18:01:43.561Z"}
+{"level":"info","message":"✅ Found 2 emails for William Gati, AIA, Architect: info@architecturestudio.com, wgati@architecturestudio.us","timestamp":"2026-02-15T18:01:43.662Z"}
+{"level":"info","message":"👷 Processing: RDS Architects (ID: 51152d96-3d81-4d5e-af04-fbab7932765a) - URL: null","timestamp":"2026-02-15T18:01:43.699Z"}
+{"level":"warn","message":"⚠️  No website for RDS Architects, marking FAILED.","timestamp":"2026-02-15T18:01:43.700Z"}
+{"level":"info","message":"👷 Processing: Robert Young Architects (ID: 8399cd58-5f9f-4b8b-8e63-300f8635e02e) - URL: http://www.ryarch.com/","timestamp":"2026-02-15T18:01:43.711Z"}
+{"level":"info","message":"✅ Found 1 emails for Susan T Rodriguez | Architecture • Design: info@str-architecture.com","timestamp":"2026-02-15T18:01:51.934Z"}
+{"level":"info","message":"👷 Processing: HTO Architect (ID: 61124f5f-15f6-4dc0-b44d-e6822f36ca96) - URL: http://www.hto-architect.com/","timestamp":"2026-02-15T18:01:51.960Z"}
+{"level":"info","message":"✅ Found 1 emails for Robert Young Architects: contact@ryarch.com","timestamp":"2026-02-15T18:01:55.784Z"}
+{"level":"info","message":"👷 Processing: JGArchitects PLLC (ID: 1e84cbb4-b5a6-44d8-be53-b41cf7613ab7) - URL: http://jgarc.com/","timestamp":"2026-02-15T18:01:55.814Z"}
+{"level":"info","message":"🤷 No emails found for HTO Architect","timestamp":"2026-02-15T18:02:01.079Z"}
+{"level":"info","message":"👷 Processing: Populous (ID: 64e6a8a6-d750-4be7-a39d-28d079fc9499) - URL: http://populous.com/office/new-york/","timestamp":"2026-02-15T18:02:01.097Z"}
+{"level":"info","message":"✅ Found 2 emails for JGArchitects PLLC: jgarchitects@jgarc.com, jgarchitects@jgarc.comtelephone","timestamp":"2026-02-15T18:02:04.059Z"}
+{"level":"info","message":"✅ Found 1 emails for Populous: careers@populous.com.","timestamp":"2026-02-15T18:02:12.463Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-9c1a4d24","timestamp":"2026-02-15T18:09:00.109Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T18:09:00.200Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T18:09:01.521Z"}
+{"level":"info","message":"👷 Processing: Kevin B. Sands, DDS - Cosmetic Dentistry Beverly Hills (ID: 064e3764-cca4-487c-b5b9-acdfa8c0a7ba) - URL: https://www.beverlyhillscosmeticdentist.com/","timestamp":"2026-02-15T18:09:01.585Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-54fc104f","timestamp":"2026-02-15T18:09:03.055Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T18:09:03.131Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T18:09:04.390Z"}
+{"level":"info","message":"👷 Processing: S&C Dental Beverly Hills (ID: f6e820fb-c767-4267-a5e7-c69c257084ec) - URL: https://sncdentalbh.com/","timestamp":"2026-02-15T18:09:04.492Z"}
+{"level":"info","message":"🤷 No emails found for Kevin B. Sands, DDS - Cosmetic Dentistry Beverly Hills","timestamp":"2026-02-15T18:09:17.458Z"}
+{"level":"info","message":"👷 Processing: Arthur Glosman Cosmetic and Restorative Dentistry (ID: db47dc79-9306-40b3-bf42-5a4a2c0e2e37) - URL: https://arthurglosmandds.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMB","timestamp":"2026-02-15T18:09:17.498Z"}
+{"level":"info","message":"🤷 No emails found for S&C Dental Beverly Hills","timestamp":"2026-02-15T18:09:18.977Z"}
+{"level":"info","message":"👷 Processing: TruGlo Modern Dental Beverly Hills (ID: f91e3d03-2169-4f3c-bd27-370da4741852) - URL: https://truglobeverlyhillsdentistry.com/?utm_source=gmb","timestamp":"2026-02-15T18:09:19.007Z"}
+{"level":"info","message":"🤷 No emails found for Arthur Glosman Cosmetic and Restorative Dentistry","timestamp":"2026-02-15T18:09:28.689Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dentist (ID: 40f29b9f-c869-43ad-9f44-6fd6e121c3f3) - URL: https://beverlyhillsdentist.com/","timestamp":"2026-02-15T18:09:28.714Z"}
+{"level":"info","message":"🤷 No emails found for TruGlo Modern Dental Beverly Hills","timestamp":"2026-02-15T18:09:32.184Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dentistry (ID: bfd6cc6a-ca9c-4737-9f0b-9c69dfc8cea5) - URL: https://beverlyhillsdentistry.com/","timestamp":"2026-02-15T18:09:32.202Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dentist","timestamp":"2026-02-15T18:09:41.232Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dental Arts (ID: 892d5c3e-a1f1-49ac-983a-026872eadcab) - URL: https://www.bhdentalarts.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing","timestamp":"2026-02-15T18:09:41.255Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dentistry","timestamp":"2026-02-15T18:09:55.265Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Center for Cosmetic & Laser Dentistry (ID: 399c5e5b-7950-4a89-a775-47553e3f1752) - URL: http://www.drmehrdds.com/","timestamp":"2026-02-15T18:09:55.291Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dental Arts","timestamp":"2026-02-15T18:09:57.487Z"}
+{"level":"info","message":"👷 Processing: Dr. Kourosh Maddahi, DDS | (ID: 950fbfdd-ec1f-46c1-9657-00ba4da68d31) - URL: https://www.drmaddahi.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb","timestamp":"2026-02-15T18:09:57.512Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Center for Cosmetic & Laser Dentistry","timestamp":"2026-02-15T18:10:06.644Z"}
+{"level":"info","message":"👷 Processing: Dr. Joseph Goodman - Beverly Hills Dentist (ID: 1c674016-d0a9-48ca-b1b1-6ff433a0009b) - URL: https://topbeverlyhillsdentist.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing","timestamp":"2026-02-15T18:10:06.662Z"}
+{"level":"info","message":"🤷 No emails found for Dr. Kourosh Maddahi, DDS |","timestamp":"2026-02-15T18:10:07.536Z"}
+{"level":"info","message":"👷 Processing: Dr. Joshua Ghiam Aesthetic Dentistry (ID: 76ac570d-7132-4098-bf72-8d126cd487eb) - URL: http://lasmiles.com/","timestamp":"2026-02-15T18:10:07.557Z"}
+{"level":"info","message":"🤷 No emails found for Dr. Joseph Goodman - Beverly Hills Dentist","timestamp":"2026-02-15T18:10:19.394Z"}
+{"level":"info","message":"👷 Processing: The Art of Dental Wellness (ID: 6ad0b2f1-04e1-49e1-9e8c-0934ef856c76) - URL: https://www.theartofdentalwellness.com/?utm_source=gmb&utm_medium=organic","timestamp":"2026-02-15T18:10:19.423Z"}
+{"level":"info","message":"🤷 No emails found for Dr. Joshua Ghiam Aesthetic Dentistry","timestamp":"2026-02-15T18:10:23.650Z"}
+{"level":"info","message":"👷 Processing: Smile Boutique Beverly Hills (ID: 2beca4b1-4335-40d1-bc85-7e128a046f95) - URL: https://www.smileboutiquegroup.com/beverly-hills-ca/","timestamp":"2026-02-15T18:10:23.677Z"}
+{"level":"info","message":"✅ Found 1 emails for The Art of Dental Wellness: concierge@theartofdentalwellness.com","timestamp":"2026-02-15T18:10:32.295Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Aesthetic Dentistry (ID: 2f3d53e3-5e0d-4a93-9272-b56c95f158d9) - URL: https://mybeverlyhillsdentist.com/","timestamp":"2026-02-15T18:10:32.352Z"}
+{"level":"info","message":"🤷 No emails found for Smile Boutique Beverly Hills","timestamp":"2026-02-15T18:10:43.153Z"}
+{"level":"info","message":"👷 Processing: Chirag Patel, D.M.D. (ID: 4df6909d-e4e3-4450-935e-781354b87741) - URL: http://smilesbydrp.com/","timestamp":"2026-02-15T18:10:43.181Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Aesthetic Dentistry","timestamp":"2026-02-15T18:10:46.939Z"}
+{"level":"info","message":"👷 Processing: Zakhor Dental Group- Beverly Hills cosmetic dentist (ID: cb0f40b6-4da2-4e9e-914b-a3c2fceea3cc) - URL: https://www.zakhordental.com/","timestamp":"2026-02-15T18:10:46.959Z"}
+{"level":"info","message":"🤷 No emails found for Zakhor Dental Group- Beverly Hills cosmetic dentist","timestamp":"2026-02-15T18:10:58.512Z"}
+{"level":"info","message":"👷 Processing: Song Cosmetic Dentistry (ID: d1905d15-4d88-4329-927b-0c3f70e2d631) - URL: https://www.songdentistryinc.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website","timestamp":"2026-02-15T18:10:58.534Z"}
+{"level":"info","message":"🤷 No emails found for Chirag Patel, D.M.D.","timestamp":"2026-02-15T18:11:00.397Z"}
+{"level":"info","message":"👷 Processing: Dr. Sam Saleh (ID: 3bb0e7fd-2f7b-4da6-9688-18cea6db7c79) - URL: http://drsamsaleh.com/","timestamp":"2026-02-15T18:11:00.418Z"}
+{"level":"info","message":"✅ Found 1 emails for Song Cosmetic Dentistry: he***@**************nc.com","timestamp":"2026-02-15T18:11:07.404Z"}
+{"level":"info","message":"👷 Processing: Cosmetic Dentists of Beverly Hills (ID: dc7b0653-f256-4db6-b55d-947fcaf6a451) - URL: null","timestamp":"2026-02-15T18:11:07.437Z"}
+{"level":"warn","message":"⚠️  No website for Cosmetic Dentists of Beverly Hills, marking FAILED.","timestamp":"2026-02-15T18:11:07.437Z"}
+{"level":"info","message":"👷 Processing: Rifkin Raanan Beverly Hills Cosmetic Dentistry (ID: df8da8cc-2fbe-4dcb-b3aa-892c0f3d7b60) - URL: https://www.rifkinraanan.com/?utm_source=GMBListing&utm_medium=organic","timestamp":"2026-02-15T18:11:07.451Z"}
+{"level":"info","message":"✅ Found 1 emails for Dr. Sam Saleh: info@drsamsaleh.com","timestamp":"2026-02-15T18:11:19.887Z"}
+{"level":"info","message":"👷 Processing: Pearline Health: Cosmetic and Implant Dentists (ID: e80e9f33-9d57-4886-ab5b-db15740520e6) - URL: https://pearlinehealth.com/","timestamp":"2026-02-15T18:11:19.920Z"}
+{"level":"info","message":"🤷 No emails found for Rifkin Raanan Beverly Hills Cosmetic Dentistry","timestamp":"2026-02-15T18:11:20.698Z"}
+{"level":"info","message":"👷 Processing: Rayhan & Marvizi, DDS (ID: 695cc6be-42fa-4dd7-b163-2f070b7c7a20) - URL: https://www.marvizicosmeticdentist.com/","timestamp":"2026-02-15T18:11:20.716Z"}
+{"level":"info","message":"✅ Found 2 emails for Rayhan & Marvizi, DDS: rayhanmarvizi@yahoo.com, rayhanmarvizi@yahoo.com.","timestamp":"2026-02-15T18:11:35.161Z"}
+{"level":"info","message":"👷 Processing: Perfect White Smile (ID: eb0afb49-a3f0-4188-ad07-3e133021b17f) - URL: https://www.perfectwhitesmile.com/?utm_campaign=gmb","timestamp":"2026-02-15T18:11:35.188Z"}
+{"level":"info","message":"✅ Found 1 emails for Pearline Health: Cosmetic and Implant Dentists: hello@pearlinehealth.com","timestamp":"2026-02-15T18:11:37.884Z"}
+{"level":"info","message":"👷 Processing: Bedford Dental Group (ID: dc24e8cc-8394-42f5-9e1b-942829503195) - URL: https://www.bhdentists.com/?utm_campaign=gmb","timestamp":"2026-02-15T18:11:37.917Z"}
+{"level":"info","message":"🤷 No emails found for Perfect White Smile","timestamp":"2026-02-15T18:11:44.100Z"}
+{"level":"info","message":"👷 Processing: Canon Cosmetic Dental Group (ID: 85f762d0-a06d-4b8c-90b9-900f5ba52796) - URL: https://canoncosmeticdental.com/","timestamp":"2026-02-15T18:11:44.115Z"}
+{"level":"info","message":"🤷 No emails found for Bedford Dental Group","timestamp":"2026-02-15T18:11:48.731Z"}
+{"level":"info","message":"👷 Processing: Implant Dentistry By Doc Rok - Beverly Hills (ID: 6cb7a7cb-03bc-44e0-ba8c-ff40bde1950f) - URL: http://www.thedocrok.com/","timestamp":"2026-02-15T18:11:48.749Z"}
+{"level":"info","message":"✅ Found 1 emails for Canon Cosmetic Dental Group: drdo@canoncosmeticdental.com","timestamp":"2026-02-15T18:11:54.845Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dental Arts Studio (ID: 60edf2e5-ad61-45ce-828b-8e4817c370f4) - URL: https://www.beverlyhillstopdentist.com/","timestamp":"2026-02-15T18:11:54.871Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dental Arts Studio","timestamp":"2026-02-15T18:12:00.221Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dentist - Ravon Dental (ID: 013756fb-070a-4036-ac1e-4cd1a32df618) - URL: https://ravondental.com/","timestamp":"2026-02-15T18:12:00.238Z"}
+{"level":"info","message":"✅ Found 1 emails for Implant Dentistry By Doc Rok - Beverly Hills: thedocrok@gmail.com","timestamp":"2026-02-15T18:12:00.606Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dental Health and Wellness - Holistic Dentist Los Angeles (ID: 57d7ba84-82ce-43d2-a4e5-e90770c4c785) - URL: https://www.beverlyhillsdentalhealth.com/holistic-dentist-los-angeles/","timestamp":"2026-02-15T18:12:00.634Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dentist - Ravon Dental","timestamp":"2026-02-15T18:12:08.002Z"}
+{"level":"info","message":"👷 Processing: Enzo Dentistry (ID: d986a57d-6232-4780-a248-7d3b6cd8dc52) - URL: https://enzodentistry.com/","timestamp":"2026-02-15T18:12:08.019Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Dental Health and Wellness - Holistic Dentist Los Angeles","timestamp":"2026-02-15T18:12:12.484Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Dental Center (ID: 3403b30d-fa18-419e-9df3-9ba330516135) - URL: https://bhdc.com/","timestamp":"2026-02-15T18:12:12.503Z"}
+{"level":"info","message":"✅ Found 2 emails for Enzo Dentistry: team@enzodentistry.com, 90210team@enzodentistry.com","timestamp":"2026-02-15T18:12:21.114Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Institute of Dental Esthetics- Cosmetic Dentist (ID: bd4876d1-b513-455d-aba0-bb2b803d1de9) - URL: https://cosmetic-dentistry.com/meet-dr-lesage.html?utm_source=google&utm_campaign=gmb","timestamp":"2026-02-15T18:12:21.143Z"}
+{"level":"info","message":"✅ Found 6 emails for Beverly Hills Dental Center: rogereshaghian@yahoo.com, pagerogereshaghian@yahoo.com, confidential.310-659-7063rogereshaghian@yahoo.com8920, requestcontact310-659-7063rogereshaghian@yahoo.com8920, contentrogereshaghian@yahoo.com, you.310-659-7063rogereshaghian@yahoo.com8920","timestamp":"2026-02-15T18:12:22.852Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Complete Dentistry (ID: 4fc3750e-95bd-4711-9499-1bc4884aea9c) - URL: https://beverlyhillscompletedentistry.com/?utm_source=GMB+Listing&utm_medium=organic","timestamp":"2026-02-15T18:12:22.899Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Institute of Dental Esthetics- Cosmetic Dentist","timestamp":"2026-02-15T18:12:29.512Z"}
+{"level":"info","message":"👷 Processing: One Dental Beverly Hills (ID: 3e09b7bb-d769-48a1-b6bc-557646352b80) - URL: https://www.onedentalbeverlyhills.com/","timestamp":"2026-02-15T18:12:29.529Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Complete Dentistry","timestamp":"2026-02-15T18:12:36.036Z"}
+{"level":"info","message":"👷 Processing: The Practice Beverly Hills Boutique Dental (ID: 034bf586-3596-4f15-b138-64a3b8585302) - URL: http://thepracticebh.com/","timestamp":"2026-02-15T18:12:36.054Z"}
+{"level":"info","message":"✅ Found 5 emails for One Dental Beverly Hills: info@onedentalbeverlyhills.com, 248-7344info@onedentalbeverlyhills.comone, 248-7344info@onedentalbeverlyhills.com, 273-7397info@onedentalbeverlyhills.comone, 248-7344info@onedentalbeverlyhills.comnameemailphoneaddresssubjectmessagesubmitthanks","timestamp":"2026-02-15T18:12:40.121Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Implant Center (ID: 90eacee3-7641-4083-893c-e7a5f05964fc) - URL: https://www.beverlyhillsimplants.com/","timestamp":"2026-02-15T18:12:40.151Z"}
+{"level":"info","message":"✅ Found 2 emails for Beverly Hills Implant Center: inquiries@beverlyhillsimplants.com, inquiries@beverlyhillsimplants.comfirst","timestamp":"2026-02-15T18:12:52.011Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills BioDental (ID: 9fdd8f0d-9bed-4f79-ba1c-032e995f83a3) - URL: https://beverlyhillsbiodental.com/","timestamp":"2026-02-15T18:12:52.058Z"}
+{"level":"info","message":"🤷 No emails found for The Practice Beverly Hills Boutique Dental","timestamp":"2026-02-15T18:12:59.037Z"}
+{"level":"info","message":"👷 Processing: Signature Dental Beverly Hills (ID: e2709018-ddad-404f-b53d-b46ac1cbd762) - URL: https://www.signaturedentalbh.com/contact-us/beverly-hills-location/","timestamp":"2026-02-15T18:12:59.057Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills BioDental","timestamp":"2026-02-15T18:12:59.745Z"}
+{"level":"info","message":"👷 Processing: NH Dentistry Beverly Hills (ID: b359ba06-c836-449d-bfae-1f5f9b73cf3e) - URL: http://nhdentistrybeverlyhills.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-15T18:12:59.763Z"}
+{"level":"info","message":"🤷 No emails found for NH Dentistry Beverly Hills","timestamp":"2026-02-15T18:13:11.030Z"}
+{"level":"info","message":"👷 Processing: Sanda Moldovan - Beverly Hills Dentist (ID: a89c6f68-9b20-4f2d-8af1-a4d55ecde28b) - URL: https://www.beverlyhillsdentalhealth.com/dr-sanda-moldovan/","timestamp":"2026-02-15T18:13:11.051Z"}
+{"level":"info","message":"🤷 No emails found for Signature Dental Beverly Hills","timestamp":"2026-02-15T18:13:11.110Z"}
+{"level":"info","message":"👷 Processing: Beverly Hills Prestige Dental Group (ID: f268ed54-00fc-4e0a-a59a-95933509df5c) - URL: https://www.beverlyhillsfamilydentalgroup.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website","timestamp":"2026-02-15T18:13:11.133Z"}
+{"level":"info","message":"🤷 No emails found for Beverly Hills Prestige Dental Group","timestamp":"2026-02-15T18:13:17.378Z"}
+{"level":"info","message":"👷 Processing: The Beverly Hills Center (ID: 44be7c17-b58d-4b7b-9096-f9ad9b9b5995) - URL: https://thebeverlyhillscenter.com/?utm_source=gmb&utm_medium=organic","timestamp":"2026-02-15T18:13:17.397Z"}
+{"level":"info","message":"🤷 No emails found for Sanda Moldovan - Beverly Hills Dentist","timestamp":"2026-02-15T18:13:21.744Z"}
+{"level":"info","message":"👷 Processing: George Bovili, DDS (ID: 7327a590-5243-4145-a826-b8ba7763138b) - URL: http://drgeorge90210.com/","timestamp":"2026-02-15T18:13:21.762Z"}
+{"level":"info","message":"✅ Found 3 emails for The Beverly Hills Center: info@thebeverlyhillscenter.com, 274-0456info@thebeverlyhillscenter.com9465, info@thebeverlyhillscenter.combook","timestamp":"2026-02-15T18:13:28.297Z"}
+{"level":"info","message":"👷 Processing: Comfy Dental Studio of Beverly Hills (ID: 884bf7be-ec73-49fa-bb69-aacdf2e67794) - URL: https://comfydentalstudios.com/","timestamp":"2026-02-15T18:13:28.330Z"}
+{"level":"info","message":"🤷 No emails found for George Bovili, DDS","timestamp":"2026-02-15T18:13:32.530Z"}
+{"level":"info","message":"👷 Processing: Cosmetic Dentistry Beverly Expert (ID: 0763fafb-cc1a-4584-b387-7ebfdc9e3f3c) - URL: http://cosmeticdentistrybeverlyhillsexpert.com/","timestamp":"2026-02-15T18:13:32.548Z"}
+{"level":"info","message":"🤷 No emails found for Cosmetic Dentistry Beverly Expert","timestamp":"2026-02-15T18:13:43.435Z"}
+{"level":"info","message":"👷 Processing: Saghi Parham D.D.S. - Beverly Hills Cosmetic & Restorative Dentistry (ID: 3db2e4c7-6bb3-4e02-916d-3d9c1eac92e4) - URL: https://cosmeticbeverlyhillsdentist.com/","timestamp":"2026-02-15T18:13:43.452Z"}
+{"level":"info","message":"✅ Found 2 emails for Comfy Dental Studio of Beverly Hills: concierge@comfydentalstudios.com, concierge@comfydentalstudios.comphone","timestamp":"2026-02-15T18:13:43.606Z"}
+{"level":"info","message":"👷 Processing: Dr. Albert Toubia, DDS INC - Beverly Hills Dental Excellence (ID: 96bba1b9-5cfe-40a9-9e73-1376a0eb8cd3) - URL: null","timestamp":"2026-02-15T18:13:43.632Z"}
+{"level":"warn","message":"⚠️  No website for Dr. Albert Toubia, DDS INC - Beverly Hills Dental Excellence, marking FAILED.","timestamp":"2026-02-15T18:13:43.633Z"}
+{"level":"info","message":"👷 Processing: Dr. Sep Pouresa, Beverly Hills Celebrity Cosmetic Dentist (ID: 18054f49-e12b-4736-99bd-2c6c06589757) - URL: https://www.drspouresa.com/","timestamp":"2026-02-15T18:13:43.642Z"}
+{"level":"info","message":"✅ Found 1 emails for Dr. Sep Pouresa, Beverly Hills Celebrity Cosmetic Dentist: dr.spouresa@gmail.com","timestamp":"2026-02-15T18:13:54.637Z"}
+{"level":"info","message":"👷 Processing: Dental Care of Beverly Hills (ID: e6002cb2-ebde-4b27-bcfd-1195f3ed5b18) - URL: https://dentalcareofbeverlyhills.com/","timestamp":"2026-02-15T18:13:54.662Z"}
+{"level":"info","message":"🤷 No emails found for Saghi Parham D.D.S. - Beverly Hills Cosmetic & Restorative Dentistry","timestamp":"2026-02-15T18:13:55.608Z"}
+{"level":"info","message":"👷 Processing: Dr. Joseph Stan, DDS - Dental Implants Dentist Beverly Hills (ID: 8dd33090-d293-4f51-aa07-192fccdb09df) - URL: https://www.drjosephstandds.com/","timestamp":"2026-02-15T18:13:55.626Z"}
+{"level":"info","message":"🤷 No emails found for Dental Care of Beverly Hills","timestamp":"2026-02-15T18:14:09.623Z"}
+{"level":"info","message":"🤷 No emails found for Dr. Joseph Stan, DDS - Dental Implants Dentist Beverly Hills","timestamp":"2026-02-15T18:14:11.614Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-718c0d9a","timestamp":"2026-02-15T18:22:15.469Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-688083d8","timestamp":"2026-02-15T18:22:15.468Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T18:22:15.556Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-15T18:22:15.582Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T18:22:17.097Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-15T18:22:17.434Z"}
+{"level":"info","message":"👷 Processing: achso! Digital Creative Agency (ID: 951b2727-b665-4638-86fa-bb73570fb872) - URL: http://achso.media/","timestamp":"2026-02-15T18:22:32.188Z"}
+{"level":"info","message":"👷 Processing: Creative Mind Agency (ID: 1aa4b6f7-16bb-4e43-9df3-b9f3b6579708) - URL: http://www.creativemind.agency/","timestamp":"2026-02-15T18:22:32.569Z"}
+{"level":"info","message":"🤷 No emails found for Creative Mind Agency","timestamp":"2026-02-15T18:22:36.135Z"}
+{"level":"info","message":"👷 Processing: Netzbekannt - Die Online-Marketing & SEO-Agentur Berlin (ID: b9aa8912-66c5-4e28-a6ed-a13d24854d25) - URL: https://netzbekannt.de/","timestamp":"2026-02-15T18:22:36.177Z"}
+{"level":"info","message":"🤷 No emails found for achso! Digital Creative Agency","timestamp":"2026-02-15T18:22:40.661Z"}
+{"level":"info","message":"👷 Processing: HY.AM STUDIOS (ID: df5c5185-7e1b-4065-aec2-5f8b33057149) - URL: https://www.hyam.de/","timestamp":"2026-02-15T18:22:40.690Z"}
+{"level":"info","message":"✅ Found 3 emails for Netzbekannt - Die Online-Marketing & SEO-Agentur Berlin: kontakt@netzbekannt.de, kontakt@netzbekannt.detelefon, 12083572kontakt@netzbekannt.de","timestamp":"2026-02-15T18:22:47.919Z"}
+{"level":"info","message":"👷 Processing: Fairplay SEO (ID: 9fc8cf9a-b156-4bd7-9c45-2e961c5210a5) - URL: https://fairplayseo.de/","timestamp":"2026-02-15T18:22:48.020Z"}
+{"level":"info","message":"✅ Found 2 emails for HY.AM STUDIOS: studio@hyam.de, hello@hyam.de","timestamp":"2026-02-15T18:22:51.068Z"}
+{"level":"info","message":"👷 Processing: SOHO Creative Group (ID: 3bcb783b-8149-43be-83e0-3fd5413811a2) - URL: https://sohocreativegroup.com/","timestamp":"2026-02-15T18:22:51.118Z"}
+{"level":"info","message":"✅ Found 1 emails for Fairplay SEO: info@fairplayseo.de","timestamp":"2026-02-15T18:22:58.288Z"}
+{"level":"info","message":"👷 Processing: 360 Agency Berlin (ID: 63dd409e-78de-4289-9232-c5f9a0e97fda) - URL: null","timestamp":"2026-02-15T18:22:58.337Z"}
+{"level":"warn","message":"⚠️  No website for 360 Agency Berlin, marking FAILED.","timestamp":"2026-02-15T18:22:58.338Z"}
+{"level":"info","message":"👷 Processing: GRID Agency (ID: a4d6d82a-3c06-4a0a-ad7b-8d2f0ff0b14f) - URL: http://www.grid-agency.de/","timestamp":"2026-02-15T18:22:58.351Z"}
+{"level":"info","message":"✅ Found 1 emails for SOHO Creative Group: info@sohocreativegroup.com","timestamp":"2026-02-15T18:23:04.263Z"}
+{"level":"info","message":"👷 Processing: OBSCURA - Digital Marketing GmbH / Werbeagentur & Social Media Agentur Berlin (ID: 40db9c5b-dd32-407f-a685-f289e935c99b) - URL: http://www.obscura-berlin.de/","timestamp":"2026-02-15T18:23:04.297Z"}
+{"level":"info","message":"🤷 No emails found for GRID Agency","timestamp":"2026-02-15T18:23:06.963Z"}
+{"level":"info","message":"👷 Processing: Berlin Digital Agency (ID: cf747274-a4d7-4a33-bd35-6d13829dab15) - URL: http://berlin-digital-agency.com/","timestamp":"2026-02-15T18:23:06.993Z"}
+{"level":"info","message":"🤷 No emails found for Berlin Digital Agency","timestamp":"2026-02-15T18:23:07.837Z"}
+{"level":"info","message":"👷 Processing: ODESEA Digital Creative - Berlin Online Marketing Agency (ID: 4bdc1058-48d9-4ae8-bd6c-1ef4f9483d15) - URL: https://ogno.io/","timestamp":"2026-02-15T18:23:07.875Z"}
+{"level":"info","message":"✅ Found 4 emails for OBSCURA - Digital Marketing GmbH / Werbeagentur & Social Media Agentur Berlin: info@obscura-berlin.de, info@obscura-berlin.deleistungenreferenzen, info@obscura-berlin.deanfrage, info@obscura-berlin.deweiterbildung","timestamp":"2026-02-15T18:23:16.103Z"}
+{"level":"info","message":"👷 Processing: dskom digital.marketing.agentur (ID: 9d126a3a-0427-42a7-933b-55b2c4a5616f) - URL: https://www.dskom.de/?utm_source=maps.google.com&utm_medium=organic&utm_campaign=google-business-profile","timestamp":"2026-02-15T18:23:16.161Z"}
+{"level":"info","message":"✅ Found 2 emails for ODESEA Digital Creative - Berlin Online Marketing Agency: hello@ogno.io, core.hello@ogno.iolet","timestamp":"2026-02-15T18:23:17.765Z"}
+{"level":"info","message":"👷 Processing: fokus digital GmbH | Die Digitalagentur der Pflege- und Sozialwirtschaft (ID: d5c2ed49-2903-417b-93e7-9c629df5b944) - URL: https://fokus-d.de/","timestamp":"2026-02-15T18:23:17.793Z"}
+{"level":"info","message":"✅ Found 1 emails for dskom digital.marketing.agentur: info@dskom.de","timestamp":"2026-02-15T18:23:25.882Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Agency (ID: ab9600fb-8573-4574-b94f-1eb608f19933) - URL: null","timestamp":"2026-02-15T18:23:25.911Z"}
+{"level":"warn","message":"⚠️  No website for Digital Marketing Agency, marking FAILED.","timestamp":"2026-02-15T18:23:25.912Z"}
+{"level":"info","message":"👷 Processing: Radyant Digital GmbH (ID: b70bb173-3548-4888-a480-10266bce4adb) - URL: https://radyant.io/","timestamp":"2026-02-15T18:23:25.925Z"}
+{"level":"info","message":"✅ Found 3 emails for fokus digital GmbH | Die Digitalagentur der Pflege- und Sozialwirtschaft: bruno@fokus-d.de, hallo@fokus-d.de, 936hallo@fokus-d.de","timestamp":"2026-02-15T18:23:29.929Z"}
+{"level":"info","message":"👷 Processing: Digital Drops | Web- & SEO-Agentur Berlin (ID: a674d249-65a3-411f-a3a2-5a5b6110b64b) - URL: https://seo-texte.xyz/","timestamp":"2026-02-15T18:23:29.956Z"}
+{"level":"info","message":"🤷 No emails found for Radyant Digital GmbH","timestamp":"2026-02-15T18:23:34.994Z"}
+{"level":"info","message":"👷 Processing: Buzzwoo | Online Marketing Agentur Berlin (ID: 54b67634-94d1-43a4-be2d-5ed74b111c63) - URL: https://www.buzzwoo.de/","timestamp":"2026-02-15T18:23:35.050Z"}
+{"level":"info","message":"✅ Found 1 emails for Digital Drops | Web- & SEO-Agentur Berlin: info@seo-texte.xyz","timestamp":"2026-02-15T18:23:40.700Z"}
+{"level":"info","message":"👷 Processing: Berliner Digitalbüro (ID: 2fbefbc4-c2b3-4e4f-8373-3614e3da1d7a) - URL: https://www.berliner-digitalbuero.de/","timestamp":"2026-02-15T18:23:40.726Z"}
+{"level":"info","message":"✅ Found 3 emails for Buzzwoo | Online Marketing Agentur Berlin: kontakt@buzzwoo.de, jobs@buzzwoo.de, job@buzzwoo.de","timestamp":"2026-02-15T18:23:46.252Z"}
+{"level":"info","message":"👷 Processing: GX Digital (ID: ee64f3c3-abf5-400d-9ae8-464eadb434d5) - URL: https://galaxonic.com/","timestamp":"2026-02-15T18:23:46.282Z"}
+{"level":"info","message":"✅ Found 1 emails for Berliner Digitalbüro: hallo@berliner-digitalbuero.de","timestamp":"2026-02-15T18:23:51.095Z"}
+{"level":"info","message":"👷 Processing: We like Social Media - Online-Marketing & Webdesign-Agentur Berlin (ID: 76c433b8-c4b8-41d5-83d4-835e7e88f0d7) - URL: https://www.welikesocialmedia.de/","timestamp":"2026-02-15T18:23:51.123Z"}
+{"level":"info","message":"✅ Found 1 emails for GX Digital: info@galaxonic.com","timestamp":"2026-02-15T18:23:57.675Z"}
+{"level":"info","message":"👷 Processing: Dasch Marketing - Online-Marketing & Seo Agentur Berlin (ID: 1989817e-4920-4b0c-9164-71b332a133d5) - URL: https://www.dasch-marketing.de/","timestamp":"2026-02-15T18:23:57.703Z"}
+{"level":"info","message":"🤷 No emails found for Dasch Marketing - Online-Marketing & Seo Agentur Berlin","timestamp":"2026-02-15T18:24:05.940Z"}
+{"level":"info","message":"👷 Processing: SEO Agentur Digitaleffects GmbH (ID: d2232c00-8bd8-4c0a-92b5-6a3fc1450a1d) - URL: https://digitaleffects.de/","timestamp":"2026-02-15T18:24:05.958Z"}
+{"level":"info","message":"✅ Found 1 emails for SEO Agentur Digitaleffects GmbH: christian@digitaleffects.de","timestamp":"2026-02-15T18:24:13.387Z"}
+{"level":"info","message":"👷 Processing: ABCD Agency (ID: fe4dcbf9-e45a-44a2-a49c-d4e9fb2d3250) - URL: http://www.abcd.agency/","timestamp":"2026-02-15T18:24:13.414Z"}
+{"level":"info","message":"✅ Found 1 emails for We like Social Media - Online-Marketing & Webdesign-Agentur Berlin: info@welikesocialmedia.de","timestamp":"2026-02-15T18:24:14.316Z"}
+{"level":"info","message":"👷 Processing: mimosa agency (ID: 4b572472-3b7f-4188-9b33-22c7fe22954c) - URL: https://mimosaagency.com/","timestamp":"2026-02-15T18:24:14.342Z"}
+{"level":"info","message":"✅ Found 1 emails for ABCD Agency: contact@abcd.agency","timestamp":"2026-02-15T18:24:21.831Z"}
+{"level":"info","message":"👷 Processing: Uhura Digital GmbH (ID: 8393cef1-e0bf-4efe-8059-cff0d7344a21) - URL: http://www.uhura.de/","timestamp":"2026-02-15T18:24:21.857Z"}
+{"level":"info","message":"✅ Found 1 emails for mimosa agency: hello@mimosaagency.commimosa","timestamp":"2026-02-15T18:24:22.480Z"}
+{"level":"info","message":"👷 Processing: uberSEM Online Marketing Agency (ID: 2b190076-22b1-437b-b837-0aea181ea57e) - URL: http://ubersem.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb","timestamp":"2026-02-15T18:24:22.510Z"}
+{"level":"info","message":"✅ Found 1 emails for uberSEM Online Marketing Agency: info@ubersem.com","timestamp":"2026-02-15T18:24:33.189Z"}
+{"level":"info","message":"👷 Processing: Happy Heroes Online Marketing Agentur GmbH (ID: 63897e8d-793e-4e83-a9b6-ca0ae9cb8c33) - URL: https://www.happyheroes.de/","timestamp":"2026-02-15T18:24:33.222Z"}
+{"level":"info","message":"✅ Found 2 emails for Uhura Digital GmbH: post@uhura.de?subject=email%20from%20uhura.de, 3644409-50post@uhura.deweydemeyer","timestamp":"2026-02-15T18:24:34.081Z"}
+{"level":"info","message":"👷 Processing: 𝗦𝗼𝗰𝗶𝗮𝗹𝗦𝗰𝗵𝗺𝗶𝗲𝗱𝗲 - 𝗢𝗻𝗹𝗶𝗻𝗲 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗔𝗴𝗲𝗻𝘁𝘂𝗿 𝗕𝗲𝗿𝗹𝗶𝗻 (ID: 8a8ddc57-c8a4-4c38-8755-d7697bc323d2) - URL: https://socialschmiede.de/","timestamp":"2026-02-15T18:24:34.108Z"}
+{"level":"info","message":"✅ Found 2 emails for Happy Heroes Online Marketing Agentur GmbH: hello@happyheroes.de, hello@happyidiots.nl","timestamp":"2026-02-15T18:24:44.995Z"}
+{"level":"info","message":"👷 Processing: LEAP/ Digital Marketing GmbH (ID: ace6a69e-d647-4728-a305-3fe1504857e7) - URL: https://leap.de/","timestamp":"2026-02-15T18:24:45.023Z"}
+{"level":"info","message":"✅ Found 2 emails for 𝗦𝗼𝗰𝗶𝗮𝗹𝗦𝗰𝗵𝗺𝗶𝗲𝗱𝗲 - 𝗢𝗻𝗹𝗶𝗻𝗲 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗔𝗴𝗲𝗻𝘁𝘂𝗿 𝗕𝗲𝗿𝗹𝗶𝗻: %20info@socialschmiede.de, info@socialschmiede.de","timestamp":"2026-02-15T18:24:46.547Z"}
+{"level":"info","message":"👷 Processing: suxeedo GmbH (ID: dbffc7e2-1841-4517-a580-f76361a04064) - URL: https://www.suxeedo.de/","timestamp":"2026-02-15T18:24:46.576Z"}
+{"level":"info","message":"✅ Found 1 emails for LEAP/ Digital Marketing GmbH: 34649-1111info@leap.desprechen","timestamp":"2026-02-15T18:24:54.577Z"}
+{"level":"info","message":"👷 Processing: MONSOON GmbH - Online Marketing Agency (ID: 63299977-0679-40ad-b6df-c74625055fc9) - URL: https://monsoon.agency/","timestamp":"2026-02-15T18:24:54.604Z"}
+{"level":"info","message":"✅ Found 4 emails for suxeedo GmbH: bestellung@suxeedo.de, bestellung@suxeedo.de., hello@suxeedo.de, contact@suxeedo.de","timestamp":"2026-02-15T18:24:56.424Z"}
+{"level":"info","message":"👷 Processing: Pixup Media GmbH (ID: a7f36785-addd-488b-ae6f-30abd8626606) - URL: https://www.pixupmedia.com/","timestamp":"2026-02-15T18:24:56.452Z"}
+{"level":"info","message":"✅ Found 2 emails for Pixup Media GmbH: info@mysite.com, gmbhkontaktinfo@pixupmedia.com","timestamp":"2026-02-15T18:25:06.119Z"}
+{"level":"info","message":"👷 Processing: Locally Visible - Agentur für lokales SEO - Atlas Marketing GmbH (ID: 17ed9321-5239-401f-926e-52d0a8828488) - URL: https://locally-visible.de/","timestamp":"2026-02-15T18:25:06.144Z"}
+{"level":"info","message":"✅ Found 2 emails for Locally Visible - Agentur für lokales SEO - Atlas Marketing GmbH: hallo@locally-visible.de, schreibenhallo@locally-visible.de","timestamp":"2026-02-15T18:25:19.438Z"}
+{"level":"info","message":"👷 Processing: BAROIAN Werbeagentur (ID: 377bf103-bbde-42c3-9ed3-30806db16b00) - URL: https://baroian.com/","timestamp":"2026-02-15T18:25:19.478Z"}
+{"level":"info","message":"🤷 No emails found for MONSOON GmbH - Online Marketing Agency","timestamp":"2026-02-15T18:25:24.784Z"}
+{"level":"info","message":"👷 Processing: Kronos Marketing (ID: e2ce9e66-fb5d-49df-8ad2-493778da6c71) - URL: https://kronosmkt.com/","timestamp":"2026-02-15T18:25:24.808Z"}
+{"level":"info","message":"✅ Found 1 emails for BAROIAN Werbeagentur: info@baroian.com","timestamp":"2026-02-15T18:25:30.158Z"}
+{"level":"info","message":"👷 Processing: SPUTNIK FLOYD GmbH (ID: bd672ece-a68d-4978-91dc-1c22f6b216e0) - URL: https://sputnikfloyd.com/","timestamp":"2026-02-15T18:25:30.181Z"}
+{"level":"info","message":"🤷 No emails found for Kronos Marketing","timestamp":"2026-02-15T18:25:35.556Z"}
+{"level":"info","message":"👷 Processing: united communications GmbH - Digital Marketing & PR Agency Berlin (ID: 8c738d98-7998-4343-adac-7a03cdfd8b57) - URL: https://www.united.de/","timestamp":"2026-02-15T18:25:35.577Z"}
+{"level":"info","message":"✅ Found 2 emails for SPUTNIK FLOYD GmbH: %20info@sputnikfloyd.com, info@sputnikfloyd.com","timestamp":"2026-02-15T18:25:45.818Z"}
+{"level":"info","message":"👷 Processing: TIM Company GmbH (ID: d3bc30d2-15ea-40a3-8a0a-eb77445654d3) - URL: https://timcompany.de/","timestamp":"2026-02-15T18:25:45.854Z"}
+{"level":"info","message":"✅ Found 1 emails for united communications GmbH - Digital Marketing & PR Agency Berlin: to@united.de","timestamp":"2026-02-15T18:25:48.694Z"}
+{"level":"info","message":"👷 Processing: Weydinger (ID: 0b91803d-23e6-4f20-8815-e6ca31929007) - URL: https://www.weydinger.com/berlin-seo/","timestamp":"2026-02-15T18:25:48.731Z"}
+{"level":"info","message":"✅ Found 1 emails for TIM Company GmbH: info@timcompany.de","timestamp":"2026-02-15T18:25:57.139Z"}
+{"level":"info","message":"👷 Processing: digitalagenten GmbH - Consulting Agentur für digitales Marketing (ID: 1afed6d7-736c-4cb1-a326-fa27cf8ea289) - URL: https://digitalagenten.com/","timestamp":"2026-02-15T18:25:57.164Z"}
+{"level":"info","message":"✅ Found 1 emails for Weydinger: contact@weydinger.com","timestamp":"2026-02-15T18:26:04.923Z"}
+{"level":"info","message":"👷 Processing: Digital Performance GmbH (ID: 05cff348-55d5-4696-91f1-bceb279573d8) - URL: https://www.digitalperformance.de/","timestamp":"2026-02-15T18:26:04.949Z"}
+{"level":"info","message":"✅ Found 3 emails for digitalagenten GmbH - Consulting Agentur für digitales Marketing: offering@digitalagenten.com, contact@digitalagenten.com, hr@digitalagenten.com.","timestamp":"2026-02-15T18:26:07.251Z"}
+{"level":"info","message":"👷 Processing: Agentur Teichmann - Marketingagentur (ID: 4bb3180c-d9d6-4af7-8e89-fa199850c994) - URL: http://www.agentur-teichmann.com/","timestamp":"2026-02-15T18:26:07.278Z"}
+{"level":"info","message":"✅ Found 1 emails for Digital Performance GmbH: info@digitalperformance.de","timestamp":"2026-02-15T18:26:10.460Z"}
+{"level":"info","message":"👷 Processing: Deutsche Stadtmarketing GmbH - NL Berlin (ID: 117c4cd5-9a4d-4ea2-b554-79503037f1a7) - URL: http://www.deutsche-stadtmarketing.de/","timestamp":"2026-02-15T18:26:10.482Z"}
+{"level":"info","message":"✅ Found 1 emails for Agentur Teichmann - Marketingagentur: info@agentur-teichmann.com","timestamp":"2026-02-15T18:26:18.157Z"}
+{"level":"info","message":"👷 Processing: We Are Marketing Digital marketing agency Berlin (ID: 3f2b79d5-5995-4c99-bc50-b27ea3be6787) - URL: https://www.wearemarketing.com/our-offices/berlin.html?utm_source=google&utm_medium=organic&utm_campaign=gmb","timestamp":"2026-02-15T18:26:18.184Z"}
+{"level":"info","message":"✅ Found 1 emails for Deutsche Stadtmarketing GmbH - NL Berlin: info@deutsche-stadtmarketing.de","timestamp":"2026-02-15T18:26:25.605Z"}
+{"level":"info","message":"👷 Processing: eArt Digital Marketing & SEO Agency (ID: 27724aa1-2a64-457b-a61d-99cde4067cc0) - URL: https://www.eartdigital.com/","timestamp":"2026-02-15T18:26:25.655Z"}
+{"level":"info","message":"✅ Found 1 emails for We Are Marketing Digital marketing agency Berlin: info@wam.global","timestamp":"2026-02-15T18:26:31.225Z"}
+{"level":"info","message":"👷 Processing: digitalgrafik24 | Online Marketing Agentur Berlin (ID: fb5cf410-f4d0-46d5-8721-6bf7c862f4ad) - URL: https://www.digitalgrafik24.de/","timestamp":"2026-02-15T18:26:31.250Z"}
+{"level":"info","message":"🤷 No emails found for eArt Digital Marketing & SEO Agency","timestamp":"2026-02-15T18:26:39.662Z"}
+{"level":"info","message":"👷 Processing: Online Marketing Berater - Kai Rauch (ID: c002246d-a4c4-4640-ade6-65e8edba00f9) - URL: http://kai-rauch.de/","timestamp":"2026-02-15T18:26:39.677Z"}
+{"level":"info","message":"✅ Found 1 emails for digitalgrafik24 | Online Marketing Agentur Berlin: email@digitalgrafik24.de","timestamp":"2026-02-15T18:26:39.852Z"}
+{"level":"info","message":"👷 Processing: Digital Growth GmbH (ID: 2bd5a35c-03af-4aa6-a01f-3d220cd9932e) - URL: https://digital-growth.de/","timestamp":"2026-02-15T18:26:39.875Z"}
+{"level":"info","message":"🤷 No emails found for Digital Growth GmbH","timestamp":"2026-02-15T18:26:48.870Z"}
+{"level":"info","message":"👷 Processing: Online Marketing Bass (ID: 92f0c5b1-926e-4afe-9568-753f3762ed6a) - URL: http://www.onlinemarketingbass.com/","timestamp":"2026-02-15T18:26:48.892Z"}
+{"level":"info","message":"✅ Found 2 emails for Online Marketing Bass: info@onlinemarketingbass.com?subject=anfrage&nbsp;über&nbsp;www.onlinemarketingbass.com, info@onlinemarketingbass.com","timestamp":"2026-02-15T18:26:56.572Z"}
+{"level":"info","message":"👷 Processing: PR ON THE GO (ID: a1932e77-ee45-4c0e-8115-fc9bf446abea) - URL: http://www.pronthego.com/","timestamp":"2026-02-15T18:26:56.595Z"}
+{"level":"info","message":"🤷 No emails found for Online Marketing Berater - Kai Rauch","timestamp":"2026-02-15T18:27:06.162Z"}
+{"level":"info","message":"🤷 No emails found for PR ON THE GO","timestamp":"2026-02-15T18:27:08.197Z"}
