@@ -1969,3 +1969,154 @@
 {"level":"info","message":"✅ Queued: Online Marketing Bass","timestamp":"2026-02-15T18:23:44.024Z"}
 {"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PR+ON+THE+GO/data=!4m7!3m6!1s0x47a84fd8224d3843:0xa2cca17078fc5b56!8m2!3d52.5366302!4d13.3949577!16s%2Fg%2F11g07sz6ys!19sChIJQzhNIthPqEcRVlv8eHChzKI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-15T18:23:44.032Z"}
 {"level":"info","message":"✅ Queued: PR ON THE GO","timestamp":"2026-02-15T18:23:45.188Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-16T18:37:16.657Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-16T18:37:16.662Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in tbilisi (396efdba-11c5-4ea4-8e80-982e03a4351e)","timestamp":"2026-02-16T18:37:21.698Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-16T18:37:25.772Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in tbilisi (09acf2d4-d3a5-4027-b301-49109af79866)","timestamp":"2026-02-16T18:37:26.686Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T18:37:26.846Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-16T18:37:28.604Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T18:37:30.756Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links","timestamp":"2026-02-16T18:37:35.498Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T18:37:35.500Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-16T18:37:36.489Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-16T18:37:36.504Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Denta-Class/data=!4m7!3m6!1s0x40440d1873b21657:0x47b4ad28e1100bde!8m2!3d41.70784!4d44.773438!16s%2Fg%2F11jds4q7py!19sChIJVxaycxgNREAR3gsQ4SittEc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:36.506Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links","timestamp":"2026-02-16T18:37:37.664Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T18:37:37.664Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-16T18:37:37.667Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-16T18:37:37.680Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Denta-Class/data=!4m7!3m6!1s0x40440d1873b21657:0x47b4ad28e1100bde!8m2!3d41.70784!4d44.773438!16s%2Fg%2F11jds4q7py!19sChIJVxaycxgNREAR3gsQ4SittEc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:37.681Z"}
+{"level":"info","message":"✅ Added: Denta-Class","timestamp":"2026-02-16T18:37:39.226Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Astra+Dental+Clinic/data=!4m7!3m6!1s0x404473863394c1c9:0xf1e8b0b16f5bf691!8m2!3d41.772666!4d44.734618!16s%2Fg%2F11vqn3r1t9!19sChIJycGUM4ZzREARkfZbb7Gw6PE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:39.229Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Astra+Dental+Clinic/data=!4m7!3m6!1s0x404473863394c1c9:0xf1e8b0b16f5bf691!8m2!3d41.772666!4d44.734618!16s%2Fg%2F11vqn3r1t9!19sChIJycGUM4ZzREARkfZbb7Gw6PE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:40.378Z"}
+{"level":"info","message":"✅ Added: Astra Dental Clinic","timestamp":"2026-02-16T18:37:47.633Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentist-Ge/data=!4m7!3m6!1s0x40440d2648ff337d:0xcf4c8bed27d656f2!8m2!3d41.7105515!4d44.7993905!16s%2Fg%2F1q5gl9nkh!19sChIJfTP_SCYNREAR8lbWJ-2LTM8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:47.634Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentist-Ge/data=!4m7!3m6!1s0x40440d2648ff337d:0xcf4c8bed27d656f2!8m2!3d41.7105515!4d44.7993905!16s%2Fg%2F1q5gl9nkh!19sChIJfTP_SCYNREAR8lbWJ-2LTM8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:47.771Z"}
+{"level":"info","message":"✅ Added: Dentist-Ge","timestamp":"2026-02-16T18:37:51.002Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DENTEFFECT/data=!4m7!3m6!1s0x40440dc1856a796f:0x4146aadc475464b0!8m2!3d41.712799!4d44.7944794!16s%2Fg%2F11gm8vnjwg!19sChIJb3lqhcENREARsGRUR9yqRkE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:51.003Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DENTEFFECT/data=!4m7!3m6!1s0x40440dc1856a796f:0x4146aadc475464b0!8m2!3d41.712799!4d44.7944794!16s%2Fg%2F11gm8vnjwg!19sChIJb3lqhcENREARsGRUR9yqRkE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:51.082Z"}
+{"level":"info","message":"✅ Added: DENTEFFECT","timestamp":"2026-02-16T18:37:52.775Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Albius+Dental+Center/data=!4m7!3m6!1s0x40440cddc480646d:0x3c00da0ed66cdab!8m2!3d41.7019535!4d44.7976047!16s%2Fg%2F11b5phxqy9!19sChIJbWSAxN0MREARq81m7aANwAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:52.776Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Albius+Dental+Center/data=!4m7!3m6!1s0x40440cddc480646d:0x3c00da0ed66cdab!8m2!3d41.7019535!4d44.7976047!16s%2Fg%2F11b5phxqy9!19sChIJbWSAxN0MREARq81m7aANwAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:37:52.808Z"}
+{"level":"info","message":"✅ Added: Albius Dental Center","timestamp":"2026-02-16T18:38:01.103Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zara+Dent/data=!4m7!3m6!1s0x4044733679b12971:0x740024fa90faff00!8m2!3d41.7190907!4d44.8024353!16s%2Fg%2F11vsypqjb8!19sChIJcSmxeTZzREARAP_6kPokAHQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:01.104Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zara+Dent/data=!4m7!3m6!1s0x4044733679b12971:0x740024fa90faff00!8m2!3d41.7190907!4d44.8024353!16s%2Fg%2F11vsypqjb8!19sChIJcSmxeTZzREARAP_6kPokAHQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:01.242Z"}
+{"level":"info","message":"✅ Added: Zara Dent","timestamp":"2026-02-16T18:38:08.430Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:08.430Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Dental+%26+Aesthetic+Group/data=!4m7!3m6!1s0x40440ce459de1c6f:0xb61cf141bfeefbe!8m2!3d41.6968658!4d44.8059267!16s%2Fg%2F1pxwsnv4b!19sChIJbxzeWeQMREARvu_-GxTPYQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:08.552Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SHORENA+KARCHAVA+DENTAL+CLINIC%2F+%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%94%E1%83%9C%E1%83%90+%E1%83%A5%E1%83%90%E1%83%A0%E1%83%A9%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x40446d4dd5ecc133:0x9d6546c082e9d4c2!8m2!3d41.7141329!4d44.7973715!16s%2Fg%2F11q4989n2g!19sChIJM8Hs1U1tREARwtTpgsBGZZ0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:09.861Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SHORENA+KARCHAVA+DENTAL+CLINIC%2F+%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%94%E1%83%9C%E1%83%90+%E1%83%A5%E1%83%90%E1%83%A0%E1%83%A9%E1%83%90%E1%83%95%E1%83%90%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x40446d4dd5ecc133:0x9d6546c082e9d4c2!8m2!3d41.7141329!4d44.7973715!16s%2Fg%2F11q4989n2g!19sChIJM8Hs1U1tREARwtTpgsBGZZ0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:10.586Z"}
+{"level":"info","message":"✅ Added: SHORENA KARCHAVA DENTAL CLINIC/ შორენა ქარჩავას სტომატოლოგიური კლინიკა","timestamp":"2026-02-16T18:38:13.243Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Blits+Dental+-+Kakhaber+Kharebava+Dental+Clinic+%7C+%E1%83%91%E1%83%9A%E1%83%98%E1%83%AA+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98+-+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x40440da817a7274b:0xd5496f48e0337e8a!8m2!3d41.7094138!4d44.7828147!16s%2Fg%2F11fl499p_z!19sChIJSyenF6gNREARin4z4EhvSdU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:13.243Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Blits+Dental+-+Kakhaber+Kharebava+Dental+Clinic+%7C+%E1%83%91%E1%83%9A%E1%83%98%E1%83%AA+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98+-+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x40440da817a7274b:0xd5496f48e0337e8a!8m2!3d41.7094138!4d44.7828147!16s%2Fg%2F11fl499p_z!19sChIJSyenF6gNREARin4z4EhvSdU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:13.436Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Anna+Metreveli+Dental+Clinic+%7C+%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%94%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x4044737b9dc4eb99:0xfe1b51516a3e9abb!8m2!3d41.7186773!4d44.7798754!16s%2Fg%2F11hrydq9w_!19sChIJmevEnXtzREARu5o-alFRG_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:15.756Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Anna+Metreveli+Dental+Clinic+%7C+%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%94%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90/data=!4m7!3m6!1s0x4044737b9dc4eb99:0xfe1b51516a3e9abb!8m2!3d41.7186773!4d44.7798754!16s%2Fg%2F11hrydq9w_!19sChIJmevEnXtzREARu5o-alFRG_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:16.804Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Indigo+Dental+Clinics/data=!4m7!3m6!1s0x404472d31cf66e2f:0xcd3cff1ce099e9ce!8m2!3d41.7200411!4d44.7897265!16s%2Fg%2F11bwkj61jr!19sChIJL272HNNyREARzumZ4Bz_PM0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:18.713Z"}
+{"level":"info","message":"✅ Added: Indigo Dental Clinics","timestamp":"2026-02-16T18:38:22.065Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Solo+Clinic/data=!4m7!3m6!1s0x40440de7f3957a73:0xf55be75e61ce3026!8m2!3d41.6920032!4d44.7985653!16s%2Fg%2F11ljxfwpf8!19sChIJc3qV8-cNREARJjDOYV7nW_U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:22.066Z"}
+{"level":"info","message":"🏁 Job 09acf2d4-d3a5-4027-b301-49109af79866 Completed. Added: 4, Skipped: 6","timestamp":"2026-02-16T18:38:24.628Z"}
+{"level":"info","message":"✅ Added: Solo Clinic","timestamp":"2026-02-16T18:38:25.852Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentex+95/data=!4m7!3m6!1s0x40440cddd2749007:0xac1830df078118dc!8m2!3d41.7025477!4d44.7970249!16s%2Fg%2F11c7_wmq38!19sChIJB5B00t0MREAR3BiBB98wGKw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:25.853Z"}
+{"level":"info","message":"✅ Added: Dentex 95","timestamp":"2026-02-16T18:38:27.655Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/A1/data=!4m7!3m6!1s0x40440d13f7304ae3:0x6f57300ba5744a4f!8m2!3d41.7082104!4d44.7746983!16s%2Fg%2F11p0h9q1_t!19sChIJ40ow9xMNREART0p0pQswV28?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:27.655Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Optimus+Dental+Studio/data=!4m7!3m6!1s0x4044739059acf517:0xe40fbe1ec963cbf1!8m2!3d41.7201762!4d44.7755707!16s%2Fg%2F11kr_p6v_6!19sChIJF_WsWZBzREAR8ctjyR6-D-Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:28.870Z"}
+{"level":"info","message":"✅ Added: Optimus Dental Studio","timestamp":"2026-02-16T18:38:30.672Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vera+Dent/data=!4m7!3m6!1s0x40440cd16a870677:0x7cf1c1ce5a782a13!8m2!3d41.7083925!4d44.7837345!16s%2Fg%2F11c5s5n6dw!19sChIJdwaHatEMREAREyp4Ws7B8Xw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:30.672Z"}
+{"level":"info","message":"✅ Added: Vera Dent","timestamp":"2026-02-16T18:38:32.208Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:32.208Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dent+Office/data=!4m7!3m6!1s0x404473293a5f4823:0x4236adbb1cc1ea53!8m2!3d41.7163031!4d44.7721316!16s%2Fg%2F11cmsp13cw!19sChIJI0hfOilzREARU-rBHLutNkI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:33.626Z"}
+{"level":"info","message":"✅ Added: Dent Office","timestamp":"2026-02-16T18:38:35.178Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Total+Charm+Dental+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x406ede874945f52b:0xc3978ec9d4306869!8m2!3d41.7069642!4d44.7667472!16s%2Fg%2F11tggd4sw4!19sChIJK_VFSYfebkARaWgw1MmOl8M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:35.180Z"}
+{"level":"info","message":"✅ Added: Total Charm Dental and Aesthetic Clinic","timestamp":"2026-02-16T18:38:36.493Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Diadenti+Dental+Clinic/data=!4m7!3m6!1s0x40440cd3dae046ed:0xc061d5e6232539a5!8m2!3d41.7093408!4d44.7817127!16s%2Fg%2F11cjhq_g78!19sChIJ7Ubg2tMMREARpTklI-bVYcA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:38:36.495Z"}
+{"level":"info","message":"✅ Added: Diadenti Dental Clinic","timestamp":"2026-02-16T18:38:37.742Z"}
+{"level":"info","message":"🏁 Job 396efdba-11c5-4ea4-8e80-982e03a4351e Completed. Added: 11, Skipped: 9","timestamp":"2026-02-16T18:38:37.748Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-16T18:47:03.168Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-16T18:47:03.174Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in oslo (fcfe89a2-7539-4c9e-baa7-48287197e69f)","timestamp":"2026-02-16T18:47:38.267Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+oslo?hl=en","timestamp":"2026-02-16T18:47:40.010Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T18:47:41.408Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 20 links","timestamp":"2026-02-16T18:47:44.990Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T18:47:44.990Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-16T18:47:44.995Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-16T18:47:45.005Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smil+Tannlegesenter+-+Tannlege+og+tannlegevakt+Nationaltheatret/data=!4m7!3m6!1s0x46416e877cc0befd:0x58e0854019daca84!8m2!3d59.912823!4d10.7359645!16s%2Fg%2F11g8k8csq8!19sChIJ_b7AfIduQUYRhMraGUCF4Fg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:47:45.811Z"}
+{"level":"info","message":"✅ Added: Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret","timestamp":"2026-02-16T18:47:47.343Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.smiltannlegesenter.no/...","timestamp":"2026-02-16T18:47:47.345Z"}
+{"level":"info","message":"📧 Found 2 emails for Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret","timestamp":"2026-02-16T18:47:58.162Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Tannlegesenter/data=!4m7!3m6!1s0x46416e877a88f865:0x4f8d51f31a6839ad!8m2!3d59.9134684!4d10.7306141!16s%2Fg%2F1hg4vj6x8!19sChIJZfiIeoduQUYRrTloGvNRjU8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:47:58.162Z"}
+{"level":"info","message":"✅ Added: Oslo Tannlegesenter","timestamp":"2026-02-16T18:47:59.771Z"}
+{"level":"info","message":"🔍 Deep crawling: https://oslotannlegesenter.no/...","timestamp":"2026-02-16T18:47:59.772Z"}
+{"level":"info","message":"📧 Found 4 emails for Oslo Tannlegesenter","timestamp":"2026-02-16T18:48:09.030Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Christiania+tannlegesenter+%7C+MALO+CLINIC/data=!4m7!3m6!1s0x46416e606ff19531:0xdfcb0740b0a28012!8m2!3d59.9158116!4d10.7093112!16s%2Fg%2F1thg90w_!19sChIJMZXxb2BuQUYREoCisEAHy98?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:48:09.036Z"}
+{"level":"info","message":"✅ Added: Christiania tannlegesenter | MALO CLINIC","timestamp":"2026-02-16T18:48:10.123Z"}
+{"level":"info","message":"🔍 Deep crawling: https://christiania-tannlegesenter.no/...","timestamp":"2026-02-16T18:48:10.126Z"}
+{"level":"info","message":"📧 Found 5 emails for Christiania tannlegesenter | MALO CLINIC","timestamp":"2026-02-16T18:48:20.444Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Odontia+Tannlegene+Oslo+Sentrum/data=!4m7!3m6!1s0x46416e8a076d4dcf:0x5d1d014d00b289b5!8m2!3d59.9126665!4d10.7493409!16s%2Fg%2F11c20q7bw6!19sChIJz01tB4puQUYRtYmyAE0BHV0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:48:20.445Z"}
+{"level":"info","message":"✅ Added: Odontia Tannlegene Oslo Sentrum","timestamp":"2026-02-16T18:48:21.473Z"}
+{"level":"info","message":"🔍 Deep crawling: https://odontia.no/tannlege/oslo-sentrum/?od=pb25...","timestamp":"2026-02-16T18:48:21.473Z"}
+{"level":"info","message":"📧 Found 2 emails for Odontia Tannlegene Oslo Sentrum","timestamp":"2026-02-16T18:48:39.978Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+Nordic+AS/data=!4m7!3m6!1s0x46416fe31fb7bb2b:0x9fa429d38a48f2c0!8m2!3d59.9090343!4d10.7452416!16s%2Fg%2F11l77hgt65!19sChIJK7u3H-NvQUYRwPJIitMppJ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:48:39.980Z"}
+{"level":"info","message":"✅ Added: Smile Nordic AS","timestamp":"2026-02-16T18:48:40.976Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.smilenordic.no/...","timestamp":"2026-02-16T18:48:40.976Z"}
+{"level":"info","message":"📧 Found 1 emails for Smile Nordic AS","timestamp":"2026-02-16T18:48:47.899Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Senses+Oslo/data=!4m7!3m6!1s0x46416ff710a20ae7:0xdb5dfb76418c5a48!8m2!3d59.9118638!4d10.8084733!16s%2Fg%2F11j53f8229!19sChIJ5wqiEPdvQUYRSFqMQXb7Xds?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:48:47.900Z"}
+{"level":"info","message":"✅ Added: Dental Senses Oslo","timestamp":"2026-02-16T18:48:49.091Z"}
+{"level":"info","message":"🔍 Deep crawling: http://dsoslo.no/...","timestamp":"2026-02-16T18:48:49.091Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental/data=!4m7!3m6!1s0x46416e602ec48cd9:0x97ec0bab1022a50a!8m2!3d59.9119122!4d10.7564422!16s%2Fg%2F1trxc8t3!19sChIJ2YzELmBuQUYRCqUiEKsL7Jc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:48:55.814Z"}
+{"level":"info","message":"✅ Added: Oris Dental","timestamp":"2026-02-16T18:48:57.759Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/galleri-oslo/?utm_source=google-business&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-16T18:48:57.759Z"}
+{"level":"info","message":"📧 Found 14 emails for Oris Dental","timestamp":"2026-02-16T18:49:07.709Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+City+Tannlege/data=!4m7!3m6!1s0x46416e619e89ea3b:0x433f887f556708d6!8m2!3d59.914556!4d10.7537472!16s%2Fg%2F11bzqhfgyz!19sChIJO-qJnmFuQUYR1ghnVX-IP0M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:49:07.709Z"}
+{"level":"info","message":"✅ Added: Oslo City Tannlege","timestamp":"2026-02-16T18:49:08.958Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.oslocitytannlege.no/...","timestamp":"2026-02-16T18:49:08.958Z"}
+{"level":"info","message":"📧 Found 1 emails for Oslo City Tannlege","timestamp":"2026-02-16T18:49:23.087Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Orbdent+Oslo+AS/data=!4m7!3m6!1s0x46416e62ae453e4f:0x4ffe8b005a3e29b7!8m2!3d59.9131745!4d10.7428686!16s%2Fg%2F1v9l9c5n!19sChIJTz5FrmJuQUYRtyk-WgCL_k8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:49:23.088Z"}
+{"level":"info","message":"✅ Added: Orbdent Oslo AS","timestamp":"2026-02-16T18:49:24.396Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orbdent.no/...","timestamp":"2026-02-16T18:49:24.397Z"}
+{"level":"info","message":"📧 Found 1 emails for Orbdent Oslo AS","timestamp":"2026-02-16T18:49:33.216Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Sentrum+Tannklinikk/data=!4m7!3m6!1s0x46416f2c1a714047:0x366fd8f0f2001974!8m2!3d59.9165949!4d10.7387527!16s%2Fg%2F11grc15lmc!19sChIJR0BxGixvQUYRdBkA8vDYbzY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:49:33.216Z"}
+{"level":"info","message":"✅ Added: Oslo Sentrum Tannklinikk","timestamp":"2026-02-16T18:49:34.985Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.oslosentrumtannklinikk.no/...","timestamp":"2026-02-16T18:49:34.986Z"}
+{"level":"info","message":"📧 Found 1 emails for Oslo Sentrum Tannklinikk","timestamp":"2026-02-16T18:49:46.382Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Optimal+Dental/data=!4m7!3m6!1s0x46416e877cc0befd:0x9ff000b842471444!8m2!3d59.9128085!4d10.7360236!16s%2Fg%2F11df0scb2_!19sChIJ_b7AfIduQUYRRBRHQrgA8J8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:49:46.387Z"}
+{"level":"info","message":"✅ Added: Optimal Dental","timestamp":"2026-02-16T18:49:47.853Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.optimaldentaloslo.no/...","timestamp":"2026-02-16T18:49:47.855Z"}
+{"level":"info","message":"📧 Found 1 emails for Optimal Dental","timestamp":"2026-02-16T18:50:03.748Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Dental/data=!4m7!3m6!1s0x464794e782588a6d:0x9806656c5b9e60e0!8m2!3d58.4717837!4d8.8177818!16s%2Fg%2F12mkw0g8q!19sChIJbYpYgueUR0YR4GCeW2xlBpg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:50:03.749Z"}
+{"level":"info","message":"✅ Added: Oslo Dental","timestamp":"2026-02-16T18:50:05.147Z"}
+{"level":"info","message":"🔍 Deep crawling: https://oslodental.com/...","timestamp":"2026-02-16T18:50:05.147Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sanner+Tannklinikk+%2F+Tannlegevakt/data=!4m7!3m6!1s0x46416f307099c5f9:0xe9a498f2025549fc!8m2!3d59.9288432!4d10.7667687!16s%2Fg%2F11tnk4x16g!19sChIJ-cWZcDBvQUYR_ElVAvKYpOk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:50:14.128Z"}
+{"level":"info","message":"✅ Added: Sanner Tannklinikk / Tannlegevakt","timestamp":"2026-02-16T18:50:15.769Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sannertannklinikk.no/...","timestamp":"2026-02-16T18:50:15.770Z"}
+{"level":"info","message":"📧 Found 2 emails for Sanner Tannklinikk / Tannlegevakt","timestamp":"2026-02-16T18:50:24.014Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tannlegene+p%C3%A5+Sinsen+%7C+Tannlege+%26+Tannlegevakt+Oslo/data=!4m7!3m6!1s0x46416e4755796539:0x74675cd1e2a6749!8m2!3d59.9329426!4d10.7791534!16s%2Fg%2F1tmxd4c4!19sChIJOWV5VUduQUYRSWcqHs11Rgc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:50:24.015Z"}
+{"level":"info","message":"✅ Added: Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo","timestamp":"2026-02-16T18:50:25.773Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.tannlegesinsen.no/?UTM_source=GMB_listing&UTM_medium=organic...","timestamp":"2026-02-16T18:50:25.774Z"}
+{"level":"info","message":"📧 Found 1 emails for Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo","timestamp":"2026-02-16T18:50:36.814Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tannlege+Oslo+AS/data=!4m7!3m6!1s0x46416e5d19f28745:0x5055ce51eeb1d300!8m2!3d59.9184246!4d10.7620367!16s%2Fg%2F11bzqdrc6x!19sChIJRYfyGV1uQUYRANOx7lHOVVA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:50:36.814Z"}
+{"level":"info","message":"✅ Added: Tannlege Oslo AS","timestamp":"2026-02-16T18:50:38.385Z"}
+{"level":"info","message":"🔍 Deep crawling: http://oslotannlegeklinikk.no/...","timestamp":"2026-02-16T18:50:38.386Z"}
+{"level":"info","message":"📧 Found 2 emails for Tannlege Oslo AS","timestamp":"2026-02-16T18:50:49.572Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sentrum+Tannlegesenter/data=!4m7!3m6!1s0x46416e60786c70bf:0x336a1c8592764c7!8m2!3d59.9132264!4d10.7604736!16s%2Fg%2F1tlw7nsb!19sChIJv3BseGBuQUYRx2QnWcihNgM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:50:49.573Z"}
+{"level":"info","message":"✅ Added: Sentrum Tannlegesenter","timestamp":"2026-02-16T18:50:50.908Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.sentrumtannlegesenter.no/...","timestamp":"2026-02-16T18:50:50.910Z"}
+{"level":"info","message":"📧 Found 1 emails for Sentrum Tannlegesenter","timestamp":"2026-02-16T18:51:02.916Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental/data=!4m7!3m6!1s0x46417aa4032532a7:0xdb0d23c39de9e45b!8m2!3d59.9624689!4d10.9063655!16s%2Fg%2F1tdlswct!19sChIJpzIlA6R6QUYRW-TpncMjDds?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:51:02.917Z"}
+{"level":"info","message":"✅ Added: Oris Dental","timestamp":"2026-02-16T18:51:03.993Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/rommen/?utm_source=google-business&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-16T18:51:03.997Z"}
+{"level":"info","message":"📧 Found 8 emails for Oris Dental","timestamp":"2026-02-16T18:51:12.641Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Park/data=!4m7!3m6!1s0x46416e78eae9da35:0x26c4977078391240!8m2!3d59.9210042!4d10.7288282!16s%2Fg%2F1vfwbf9c!19sChIJNdrp6nhuQUYRQBI5eHCXxCY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:51:12.641Z"}
+{"level":"info","message":"✅ Added: Dental Park","timestamp":"2026-02-16T18:51:13.863Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dentalpark.no/...","timestamp":"2026-02-16T18:51:13.863Z"}
+{"level":"info","message":"📧 Found 1 emails for Dental Park","timestamp":"2026-02-16T18:51:28.165Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental+Homansbyen/data=!4m7!3m6!1s0x46416e7887b1cb15:0xf0d02121d9e0ee01!8m2!3d59.9223239!4d10.7281872!16s%2Fg%2F12mkvmtlm!19sChIJFcuxh3huQUYRAe7g2SEh0PA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:51:28.166Z"}
+{"level":"info","message":"✅ Added: Oris Dental Homansbyen","timestamp":"2026-02-16T18:51:29.440Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/homansbyen/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-16T18:51:29.475Z"}
+{"level":"info","message":"📧 Found 8 emails for Oris Dental Homansbyen","timestamp":"2026-02-16T18:51:35.583Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Eurodent+Oslo+tannklinikk+og+oralkirurgi/data=!4m7!3m6!1s0x46416e87e56521df:0xb7ff9c03d96efc3e!8m2!3d59.9118915!4d10.7403955!16s%2Fg%2F1tfrqhxk!19sChIJ3yFl5YduQUYRPvxu2QOc_7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T18:51:35.583Z"}
+{"level":"info","message":"✅ Added: Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-16T18:51:36.961Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.eurodent.no/tannlege-oslo?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-16T18:51:36.962Z"}
+{"level":"info","message":"📧 Found 1 emails for Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-16T18:51:44.138Z"}
+{"level":"info","message":"🏁 Job fcfe89a2-7539-4c9e-baa7-48287197e69f Completed. Added: 20, Skipped: 0","timestamp":"2026-02-16T18:51:44.145Z"}
