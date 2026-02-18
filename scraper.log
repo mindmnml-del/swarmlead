@@ -2120,3 +2120,548 @@
 {"level":"info","message":"🔍 Deep crawling: https://www.eurodent.no/tannlege-oslo?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-16T18:51:36.962Z"}
 {"level":"info","message":"📧 Found 1 emails for Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-16T18:51:44.138Z"}
 {"level":"info","message":"🏁 Job fcfe89a2-7539-4c9e-baa7-48287197e69f Completed. Added: 20, Skipped: 0","timestamp":"2026-02-16T18:51:44.145Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-16T19:09:44.247Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-16T19:09:44.253Z"}
+{"level":"info","message":"🚀 Processing Job: beer restorants in budapest (a1ac5dc8-9639-4896-b597-ace89ef20585)","timestamp":"2026-02-16T19:10:39.403Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants+in+budapest?hl=en","timestamp":"2026-02-16T19:10:44.046Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T19:10:45.224Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-16T19:10:49.065Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T19:10:49.069Z"}
+{"level":"info","message":"✅ Collected 18 unique links.","timestamp":"2026-02-16T19:10:49.770Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-16T19:10:49.780Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hot+Stone+Steakhouse+Budapest/data=!4m7!3m6!1s0x4741dc1547da02d5:0x9de801a01c3e83f7!8m2!3d47.50025!4d19.051249!16s%2Fg%2F11c2nsvl2_!19sChIJ1QLaRxXcQUcR94M-HKAB6J0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:10:51.727Z"}
+{"level":"info","message":"✅ Added: Hot Stone Steakhouse Budapest","timestamp":"2026-02-16T19:10:54.149Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.hotstone.hu/...","timestamp":"2026-02-16T19:10:54.150Z"}
+{"level":"info","message":"📧 Found 1 emails for Hot Stone Steakhouse Budapest","timestamp":"2026-02-16T19:11:06.989Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.496562!4d19.059592!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:06.990Z"}
+{"level":"info","message":"✅ Added: FIRST Craft Beer & BBQ","timestamp":"2026-02-16T19:11:08.967Z"}
+{"level":"info","message":"🔍 Deep crawling: https://firstbbq.hu/...","timestamp":"2026-02-16T19:11:08.967Z"}
+{"level":"info","message":"📧 Found 1 emails for FIRST Craft Beer & BBQ","timestamp":"2026-02-16T19:11:17.616Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPS+BEER+BAR+BUDAPEST/data=!4m7!3m6!1s0x4741dc68210fa841:0xe1e81b04a52f4689!8m2!3d47.4973031!4d19.0628638!16s%2Fg%2F11b75nr1rv!19sChIJQagPIWjcQUcRiUYvpQQb6OE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:17.616Z"}
+{"level":"info","message":"✅ Added: HOPS BEER BAR BUDAPEST","timestamp":"2026-02-16T19:11:18.710Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/hopsbeerbar/...","timestamp":"2026-02-16T19:11:18.716Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Brothers/data=!4m7!3m6!1s0x4741dc43a72a101f:0x8b591697203ffe6d!8m2!3d47.4942502!4d19.0590581!16s%2Fg%2F11gf9g0bxq!19sChIJHxAqp0PcQUcRbf4_IJcWWYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:24.008Z"}
+{"level":"info","message":"✅ Added: Beer Brothers","timestamp":"2026-02-16T19:11:25.457Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/beerbrothersbudapest/...","timestamp":"2026-02-16T19:11:25.458Z"}
+{"level":"info","message":"📧 Found 1 emails for Beer Brothers","timestamp":"2026-02-16T19:11:33.974Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Bars+Budapest/data=!4m7!3m6!1s0x4741dc71889976c1:0x153e5fff6252fa00!8m2!3d47.4968701!4d19.0628444!16s%2Fg%2F11bwnb1341!19sChIJwXaZiHHcQUcRAPpSYv9fPhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:33.975Z"}
+{"level":"info","message":"✅ Added: Ruin Bars Budapest","timestamp":"2026-02-16T19:11:35.387Z"}
+{"level":"info","message":"🔍 Deep crawling: http://ruinbarsbudapest.hu/?utm_source=gmb_ruinpubcrawl&utm_medium=website...","timestamp":"2026-02-16T19:11:35.399Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gravity+Brewing/data=!4m7!3m6!1s0x4741dc5d6fdf6b0d:0x88961a8a39c290ce!8m2!3d47.4858463!4d19.0622232!16s%2Fg%2F11f3ss4v3d!19sChIJDWvfb13cQUcRzpDCOYoalog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:36.681Z"}
+{"level":"info","message":"✅ Added: Gravity Brewing","timestamp":"2026-02-16T19:11:37.795Z"}
+{"level":"info","message":"🔍 Deep crawling: https://gravitybp.com/...","timestamp":"2026-02-16T19:11:37.796Z"}
+{"level":"info","message":"📧 Found 9 emails for Gravity Brewing","timestamp":"2026-02-16T19:11:49.844Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.4965619!4d19.0595916!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:49.844Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Brew:+Brunch+%26+Beer/data=!4m7!3m6!1s0x4741dd5b0061a0c7:0x2bf8e62bca27b65!8m2!3d47.5011424!4d19.0642807!16s%2Fg%2F11jnbyn69d!19sChIJx6BhAFvdQUcRZXuivGKOvwI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:51.333Z"}
+{"level":"info","message":"✅ Added: Ruin Brew: Brunch & Beer","timestamp":"2026-02-16T19:11:52.900Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/ruinbrew...","timestamp":"2026-02-16T19:11:52.900Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sp%C3%ADler+Biergarten/data=!4m7!3m6!1s0x4741dd06761ef609:0x6ce91081a11a1a9d!8m2!3d47.4997787!4d19.0350234!16s%2Fg%2F11vspzm22l!19sChIJCfYedgbdQUcRnRoaoYEQ6Ww?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:11:59.851Z"}
+{"level":"info","message":"✅ Added: Spíler Biergarten","timestamp":"2026-02-16T19:12:01.417Z"}
+{"level":"info","message":"🔍 Deep crawling: https://spilerbiergarten.hu/...","timestamp":"2026-02-16T19:12:01.418Z"}
+{"level":"info","message":"📧 Found 5 emails for Spíler Biergarten","timestamp":"2026-02-16T19:12:11.465Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bajor+S%C3%B6r-H%C3%A1z+-+HB+Traunstein+Beer+House+Budapest/data=!4m7!3m6!1s0x4741dd57ac870ff1:0xf4d64835edb6a0dd!8m2!3d47.5013609!4d19.0620399!16s%2Fg%2F11l75tg8rz!19sChIJ8Q-HrFfdQUcR3aC27TVI1vQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T19:12:11.467Z"}
+{"level":"info","message":"✅ Added: Bajor Sör-Ház - HB Traunstein Beer House Budapest","timestamp":"2026-02-16T19:12:12.754Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.bierhaus.hu/...","timestamp":"2026-02-16T19:12:12.755Z"}
+{"level":"info","message":"🏁 Job a1ac5dc8-9639-4896-b597-ace89ef20585 Completed. Added: 9, Skipped: 1","timestamp":"2026-02-16T19:12:22.952Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-16T23:23:31.498Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-16T23:23:31.505Z"}
+{"level":"info","message":"🚀 Processing Job: beer restourants in tbilisi (e30defab-1be3-4f26-852f-3a62551dbd00)","timestamp":"2026-02-16T23:24:09.472Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restourants+in+tbilisi?hl=en","timestamp":"2026-02-16T23:24:11.432Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T23:24:12.986Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-16T23:24:17.068Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T23:24:17.068Z"}
+{"level":"info","message":"✅ Collected 18 unique links.","timestamp":"2026-02-16T23:24:17.070Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-16T23:24:17.079Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Maharajah+Restaurant+Tbilisi/data=!4m7!3m6!1s0x40440cd0a94d3f03:0xb8d96d765d0ff281!8m2!3d41.689944!4d44.808548!16s%2Fg%2F1hm5k03qx!19sChIJAz9NqdAMREARgfIPXXZt2bg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:17.079Z"}
+{"level":"info","message":"✅ Added: Maharajah Restaurant Tbilisi","timestamp":"2026-02-16T23:24:19.276Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Khinkali+Pub/data=!4m7!3m6!1s0x40440d0f2de374e7:0xc4a59a4b271a0c30!8m2!3d41.689816!4d44.80948!16s%2Fg%2F11jcnwxqzd!19sChIJ53TjLQ8NREARMAwaJ0uapcQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:19.276Z"}
+{"level":"info","message":"✅ Added: Khinkali Pub","timestamp":"2026-02-16T23:24:21.459Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Corner+Chinese+Restaurant/data=!4m7!3m6!1s0x40440d1f0e841cf9:0x4f823f8b3f7997bc!8m2!3d41.7108481!4d44.8005336!16s%2Fg%2F11k9hf5t58!19sChIJ-RyEDh8NREARvJd5P4s_gk8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:21.460Z"}
+{"level":"info","message":"✅ Added: Corner Chinese Restaurant","timestamp":"2026-02-16T23:24:22.714Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Kade/data=!4m7!3m6!1s0x40440d0039481f1f:0xd950cba78ca68cda!8m2!3d41.7114323!4d44.7990837!16s%2Fg%2F11wqybcy3l!19sChIJHx9IOQANREAR2oymjKfLUNk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:22.715Z"}
+{"level":"info","message":"✅ Added: Kade","timestamp":"2026-02-16T23:24:23.821Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Seven+Roads/data=!4m7!3m6!1s0x40440d62bf480bd3:0x2f077a1999d54726!8m2!3d41.7103761!4d44.8035821!16s%2Fg%2F11ssfn6176!19sChIJ0wtIv2INREARJkfVmRl6By8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:23.823Z"}
+{"level":"info","message":"✅ Added: Seven Roads","timestamp":"2026-02-16T23:24:24.876Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PIPES+Burger+Joint/data=!4m7!3m6!1s0x40440cda11b0010f:0x9e6a15b526b3fa16!8m2!3d41.7092616!4d44.8025726!16s%2Fg%2F11c3j5cxfw!19sChIJDwGwEdoMREARFvqzJrUVap4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:24.877Z"}
+{"level":"info","message":"✅ Added: PIPES Burger Joint","timestamp":"2026-02-16T23:24:25.976Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Khana+khazana+indian+restaurant+tbilisi/data=!4m7!3m6!1s0x40440d457fe78cc1:0x58bad27ac6e30db1!8m2!3d41.7110123!4d44.8004168!16s%2Fg%2F11xlscfm5g!19sChIJwYznf0UNREARsQ3jxnrSulg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:25.978Z"}
+{"level":"info","message":"✅ Added: Khana khazana indian restaurant tbilisi","timestamp":"2026-02-16T23:24:27.150Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Craft+Wine+Restaurant/data=!4m7!3m6!1s0x40440d8fed401459:0x4bd0de356584f239!8m2!3d41.7156582!4d44.7982556!16s%2Fg%2F11rd9gcvgf!19sChIJWRRA7Y8NREAROfKEZTXe0Es?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:27.150Z"}
+{"level":"info","message":"✅ Added: Craft Wine Restaurant","timestamp":"2026-02-16T23:24:28.252Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Khash-Khash/data=!4m7!3m6!1s0x40440d6ebfcc8db3:0x136cfeb7ba0bc190!8m2!3d41.7087679!4d44.8034662!16s%2Fg%2F11v67rztkw!19sChIJs43Mv24NREARkMELurf-bBM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:28.253Z"}
+{"level":"info","message":"✅ Added: Khash-Khash","timestamp":"2026-02-16T23:24:29.434Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Weller/data=!4m7!3m6!1s0x40440d51e059b2cd:0xb7b53d2bc1733292!8m2!3d41.7158293!4d44.7983037!16s%2Fg%2F11pgz44blq!19sChIJzbJZ4FENREARkjJzwSs9tbc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:24:29.462Z"}
+{"level":"info","message":"✅ Added: Weller","timestamp":"2026-02-16T23:24:30.545Z"}
+{"level":"info","message":"🏁 Job e30defab-1be3-4f26-852f-3a62551dbd00 Completed. Added: 10, Skipped: 0","timestamp":"2026-02-16T23:24:30.561Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-16T23:26:37.963Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-16T23:26:37.969Z"}
+{"level":"info","message":"🚀 Processing Job: dentist in new  york (a789ca22-230d-4c4c-b7e8-637632682f2b)","timestamp":"2026-02-16T23:27:43.089Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentist+in+new++york?hl=en","timestamp":"2026-02-16T23:27:46.972Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-16T23:27:48.227Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-16T23:27:52.105Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-16T23:27:52.105Z"}
+{"level":"info","message":"✅ Collected 18 unique links.","timestamp":"2026-02-16T23:27:52.108Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-16T23:27:52.117Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Rise+Dental+Studio+-+Dr.+Justin+Rashbaum/data=!4m7!3m6!1s0x89c259ab083dfebd:0xf4cd0bb1d003cdb1!8m2!3d40.753219!4d-73.986769!16s%2Fg%2F1tdym3m3!19sChIJvf49CKtZwokRsc0D0LELzfQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:27:52.889Z"}
+{"level":"info","message":"✅ Added: Rise Dental Studio - Dr. Justin Rashbaum","timestamp":"2026-02-16T23:27:55.166Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.risedentalstudio.com/...","timestamp":"2026-02-16T23:27:55.166Z"}
+{"level":"info","message":"📧 Found 1 emails for Rise Dental Studio - Dr. Justin Rashbaum","timestamp":"2026-02-16T23:28:11.980Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sky+Dental/data=!4m7!3m6!1s0x89c25a114bb310d1:0x32089f56608289a0!8m2!3d40.708685!4d-74.011549!16s%2Fg%2F11b6j71zg0!19sChIJ0RCzSxFawokRoImCYFafCDI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:28:11.981Z"}
+{"level":"info","message":"✅ Added: Sky Dental","timestamp":"2026-02-16T23:28:13.658Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skydentalnyc.com/?utm_campaign=gmb...","timestamp":"2026-02-16T23:28:13.659Z"}
+{"level":"info","message":"📧 Found 2 emails for Sky Dental","timestamp":"2026-02-16T23:28:26.443Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/209+NYC+Dental/data=!4m7!3m6!1s0x89c258e446e4e16f:0x278f5e2c13ac9a17!8m2!3d40.7594146!4d-73.9671025!16s%2Fg%2F1thqbs3j!19sChIJb-HkRuRYwokRF5qsEyxejyc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:28:26.443Z"}
+{"level":"info","message":"✅ Added: 209 NYC Dental","timestamp":"2026-02-16T23:28:27.378Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.209nycdental.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb...","timestamp":"2026-02-16T23:28:27.380Z"}
+{"level":"info","message":"📧 Found 1 emails for 209 NYC Dental","timestamp":"2026-02-16T23:28:34.357Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Maiden+Lane+Dental+-+Financial+District+NYC/data=!4m7!3m6!1s0x89c25a17cf5696eb:0xb89b6f2e45251731!8m2!3d40.7071307!4d-74.0077735!16s%2Fg%2F1vhq4ml6!19sChIJ65ZWzxdawokRMRclRS5vm7g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:28:34.358Z"}
+{"level":"info","message":"✅ Added: Maiden Lane Dental - Financial District NYC","timestamp":"2026-02-16T23:28:35.335Z"}
+{"level":"info","message":"🔍 Deep crawling: https://maidenlanedental.com/...","timestamp":"2026-02-16T23:28:35.335Z"}
+{"level":"info","message":"📧 Found 1 emails for Maiden Lane Dental - Financial District NYC","timestamp":"2026-02-16T23:28:52.816Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/New+York+Dental+Office/data=!4m7!3m6!1s0x89c258e88b4e0167:0x9c508f23a2d16155!8m2!3d40.7633351!4d-73.9627181!16s%2Fg%2F1ptw8sq8y!19sChIJZwFOi-hYwokRVWHRoiOPUJw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:28:52.817Z"}
+{"level":"info","message":"✅ Added: New York Dental Office","timestamp":"2026-02-16T23:28:54.162Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.newyorkdentaloffice.com/...","timestamp":"2026-02-16T23:28:54.164Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pearl+Dental+NYC/data=!4m7!3m6!1s0x89c25a1641854965:0x8614cbb7c017c162!8m2!3d40.7123834!4d-74.0079386!16s%2Fg%2F1yg6nr6fw!19sChIJZUmFQRZawokRYsEXwLfLFIY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:29:05.889Z"}
+{"level":"info","message":"✅ Added: Pearl Dental NYC","timestamp":"2026-02-16T23:29:07.276Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.pearldentalnyc.com/...","timestamp":"2026-02-16T23:29:07.277Z"}
+{"level":"info","message":"📧 Found 1 emails for Pearl Dental NYC","timestamp":"2026-02-16T23:29:18.573Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ORAL+Dental+Studio+NYC/data=!4m7!3m6!1s0x89c259be1eec0c97:0xa620e0249f67aba1!8m2!3d40.7200496!4d-73.9876236!16s%2Fg%2F11vrmwrp4g!19sChIJlwzsHr5ZwokRoatnnyTgIKY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:29:18.574Z"}
+{"level":"info","message":"✅ Added: ORAL Dental Studio NYC","timestamp":"2026-02-16T23:29:20.400Z"}
+{"level":"info","message":"🔍 Deep crawling: https://oraldentalstudio.com/...","timestamp":"2026-02-16T23:29:20.406Z"}
+{"level":"info","message":"📧 Found 1 emails for ORAL Dental Studio NYC","timestamp":"2026-02-16T23:29:42.162Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/New+York+General+Dentistry/data=!4m7!3m6!1s0x89c258e5a66f638f:0x4f9c91e71b92d9f9!8m2!3d40.7619525!4d-73.9689326!16s%2Fg%2F1tgny3v1!19sChIJj2NvpuVYwokR-dmSG-eRnE8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:29:42.163Z"}
+{"level":"info","message":"✅ Added: New York General Dentistry","timestamp":"2026-02-16T23:29:43.710Z"}
+{"level":"info","message":"🔍 Deep crawling: https://newyorkgeneraldentistry.com/?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-16T23:29:43.710Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sky+Dental/data=!4m7!3m6!1s0x89c25a114bb310d1:0x32089f56608289a0!8m2!3d40.7086853!4d-74.0115487!16s%2Fg%2F11b6j71zg0!19sChIJ0RCzSxFawokRoImCYFafCDI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:29:55.328Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/My+NYC+Dentist+-+Hudson+Street+Dental/data=!4m7!3m6!1s0x89c259af08078d97:0xeca9313f12dc29be!8m2!3d40.7265687!4d-74.0081224!16s%2Fg%2F11fsx99wgt!19sChIJl40HCK9ZwokRvincEj8xqew?authuser=0&hl=en&rclk=1","timestamp":"2026-02-16T23:29:56.435Z"}
+{"level":"info","message":"✅ Added: My NYC Dentist - Hudson Street Dental","timestamp":"2026-02-16T23:29:57.526Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.mynyc-dentist.com/...","timestamp":"2026-02-16T23:29:57.532Z"}
+{"level":"info","message":"🏁 Job a789ca22-230d-4c4c-b7e8-637632682f2b Completed. Added: 9, Skipped: 1","timestamp":"2026-02-16T23:30:07.501Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-17T01:39:26.935Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-17T01:39:26.941Z"}
+{"level":"info","message":"🚀 Processing Job: beer restorants in budapest (572ff941-497e-49cd-a458-a1da9fb82139)","timestamp":"2026-02-17T01:45:17.521Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants+in+budapest?hl=en","timestamp":"2026-02-17T01:45:19.578Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-17T01:45:20.998Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-17T01:45:25.516Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links","timestamp":"2026-02-17T01:45:26.850Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-17T01:45:26.851Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-17T01:45:26.856Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-17T01:45:26.866Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.496562!4d19.059592!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:27.817Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hot+Stone+Steakhouse+Budapest/data=!4m7!3m6!1s0x4741dc1547da02d5:0x9de801a01c3e83f7!8m2!3d47.50025!4d19.051249!16s%2Fg%2F11c2nsvl2_!19sChIJ1QLaRxXcQUcR94M-HKAB6J0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:29.577Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Brothers/data=!4m7!3m6!1s0x4741dc43a72a101f:0x8b591697203ffe6d!8m2!3d47.4942502!4d19.0590581!16s%2Fg%2F11gf9g0bxq!19sChIJHxAqp0PcQUcRbf4_IJcWWYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:31.755Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPS+BEER+BAR+BUDAPEST/data=!4m7!3m6!1s0x4741dc68210fa841:0xe1e81b04a52f4689!8m2!3d47.4973031!4d19.0628638!16s%2Fg%2F11b75nr1rv!19sChIJQagPIWjcQUcRiUYvpQQb6OE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:33.256Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.4965619!4d19.0595916!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:34.481Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gravity+Brewing/data=!4m7!3m6!1s0x4741dc5d6fdf6b0d:0x88961a8a39c290ce!8m2!3d47.4858463!4d19.0622232!16s%2Fg%2F11f3ss4v3d!19sChIJDWvfb13cQUcRzpDCOYoalog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:35.740Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Bars+Budapest/data=!4m7!3m6!1s0x4741dc71889976c1:0x153e5fff6252fa00!8m2!3d47.4968701!4d19.0628444!16s%2Fg%2F11bwnb1341!19sChIJwXaZiHHcQUcRAPpSYv9fPhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:37.404Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Brew:+Brunch+%26+Beer/data=!4m7!3m6!1s0x4741dd5b0061a0c7:0x2bf8e62bca27b65!8m2!3d47.5011424!4d19.0642807!16s%2Fg%2F11jnbyn69d!19sChIJx6BhAFvdQUcRZXuivGKOvwI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:38.643Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bajor+S%C3%B6r-H%C3%A1z+-+HB+Traunstein+Beer+House+Budapest/data=!4m7!3m6!1s0x4741dd57ac870ff1:0xf4d64835edb6a0dd!8m2!3d47.5013609!4d19.0620399!16s%2Fg%2F11l75tg8rz!19sChIJ8Q-HrFfdQUcR3aC27TVI1vQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:40.454Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Kandall%C3%B3+Craft+Beer+%26+Burger+Pub/data=!4m7!3m6!1s0x4741dc68cb3c8495:0x645b988bf2660672!8m2!3d47.5015235!4d19.0659663!16s%2Fg%2F1hhw0r31r!19sChIJlYQ8y2jcQUcRcgZm8ouYW2Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:45:41.841Z"}
+{"level":"info","message":"✅ Added: Kandalló Craft Beer & Burger Pub","timestamp":"2026-02-17T01:45:43.385Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.kandallopub.hu/...","timestamp":"2026-02-17T01:45:43.387Z"}
+{"level":"info","message":"📧 Found 1 emails for Kandalló Craft Beer & Burger Pub","timestamp":"2026-02-17T01:46:04.267Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sp%C3%ADler+Biergarten/data=!4m7!3m6!1s0x4741dd06761ef609:0x6ce91081a11a1a9d!8m2!3d47.4997787!4d19.0350234!16s%2Fg%2F11vspzm22l!19sChIJCfYedgbdQUcRnRoaoYEQ6Ww?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:46:04.268Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%C3%89leszt%C5%91+k%C3%A9zm%C5%B1ves+s%C3%B6r%C3%B6z%C5%91/data=!4m7!3m6!1s0x4741dcf84387a775:0x7f4b347df65ff60d!8m2!3d47.4835732!4d19.0726474!16s%2Fg%2F12hlgyhpk!19sChIJdaeHQ_jcQUcRDfZf9n00S38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:46:06.729Z"}
+{"level":"info","message":"✅ Added: Élesztő kézműves söröző","timestamp":"2026-02-17T01:46:08.373Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.elesztohaz.hu/...","timestamp":"2026-02-17T01:46:08.374Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ugar+Brewpub/data=!4m7!3m6!1s0x4741dd0078a779bf:0x7ecabc6d3f7ab65a!8m2!3d47.4885356!4d19.0702493!16s%2Fg%2F11m6xjy4jn!19sChIJv3mneADdQUcRWrZ6P228yn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:46:29.302Z"}
+{"level":"info","message":"✅ Added: Ugar Brewpub","timestamp":"2026-02-17T01:46:31.196Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.instagram.com/ugar_brewpub/...","timestamp":"2026-02-17T01:46:31.198Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MADHOUSE+BISTRO+%26+BAR/data=!4m7!3m6!1s0x4741ddca1098f237:0x1d46c50843d1dd90!8m2!3d47.4980617!4d19.0555071!16s%2Fg%2F11ly7x_9_l!19sChIJN_KYEMrdQUcRkN3RQwjFRh0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:46:39.670Z"}
+{"level":"info","message":"✅ Added: MADHOUSE BISTRO & BAR","timestamp":"2026-02-17T01:46:41.268Z"}
+{"level":"info","message":"🔍 Deep crawling: https://madhousebudapest.hu/...","timestamp":"2026-02-17T01:46:41.271Z"}
+{"level":"info","message":"📧 Found 1 emails for MADHOUSE BISTRO & BAR","timestamp":"2026-02-17T01:46:55.903Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPAHOLIC+Craft+Beer+Bar+%26+Food+Budapest/data=!4m7!3m6!1s0x4741dc6891b0c259:0x6bba71fbdf021a8c!8m2!3d47.4998936!4d19.0656611!16s%2Fg%2F11bxdz25rr!19sChIJWcKwkWjcQUcRjBoC3_txums?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:46:55.904Z"}
+{"level":"info","message":"✅ Added: HOPAHOLIC Craft Beer Bar & Food Budapest","timestamp":"2026-02-17T01:46:57.232Z"}
+{"level":"info","message":"🔍 Deep crawling: http://hopaholic.hu/...","timestamp":"2026-02-17T01:46:57.236Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Point+Budapest/data=!4m7!3m6!1s0x4741dc6610158337:0x223901d0e9fc38b1!8m2!3d47.5004772!4d19.0685036!16s%2Fg%2F11c5__jgwt!19sChIJN4MVEGbcQUcRsTj86dABOSI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:47:02.849Z"}
+{"level":"info","message":"✅ Added: Beer Point Budapest","timestamp":"2026-02-17T01:47:04.039Z"}
+{"level":"info","message":"🔍 Deep crawling: https://beerpointbp.hu/...","timestamp":"2026-02-17T01:47:04.039Z"}
+{"level":"info","message":"📧 Found 3 emails for Beer Point Budapest","timestamp":"2026-02-17T01:47:13.353Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beerstro14+Steak+House+Restaurant/data=!4m7!3m6!1s0x4741dc5ec1b9597b:0xf6a7ba7c84a0cb15!8m2!3d47.4920187!4d19.0572676!16s%2Fg%2F11hc_tc9ft!19sChIJe1m5wV7cQUcRFcughHy6p_Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-17T01:47:13.354Z"}
+{"level":"info","message":"✅ Added: Beerstro14 Steak House Restaurant","timestamp":"2026-02-17T01:47:15.040Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.beerstro14.hu/...","timestamp":"2026-02-17T01:47:15.041Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T05:37:06.622Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T05:37:06.629Z"}
+{"level":"info","message":"🚀 Processing Job: 20 coffeshops in barcelona (baa9ba87-9e8b-4b7f-9582-520a28e59fc3)","timestamp":"2026-02-18T05:37:11.663Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/20+coffeshops+in+barcelona?hl=en","timestamp":"2026-02-18T05:37:16.010Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T05:37:17.956Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-18T05:37:22.279Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links","timestamp":"2026-02-18T05:37:23.534Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T05:37:23.549Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-18T05:37:23.566Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T05:37:23.574Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hidden+Coffee+Roasters+-+El+Born/data=!4m7!3m6!1s0x12a4a34d817a17fd:0x6f7bc0b4b5b494a6!8m2!3d41.3827882!4d2.1824279!16s%2Fg%2F11lf_9wbwd!19sChIJ_Rd6gU2jpBIRppS0tbTAe28?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:37:24.587Z"}
+{"level":"info","message":"✅ Added: Hidden Coffee Roasters - El Born","timestamp":"2026-02-18T05:37:29.754Z"}
+{"level":"info","message":"🔍 Deep crawling: http://hiddencoffeeroasters.com/...","timestamp":"2026-02-18T05:37:29.756Z"}
+{"level":"info","message":"📧 Found 1 emails for Hidden Coffee Roasters - El Born","timestamp":"2026-02-18T05:37:46.442Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee+House+Barcelona/data=!4m7!3m6!1s0x12a4a3c79e7fc369:0xd3ff7bf703b16712!8m2!3d41.3858413!4d2.1567454!16s%2Fg%2F11tx0d5hc0!19sChIJacN_nsejpBIREmexA_d7_9M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:37:46.442Z"}
+{"level":"info","message":"✅ Added: The Coffee House Barcelona","timestamp":"2026-02-18T05:37:48.450Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.thecoffeehousebcn.com/...","timestamp":"2026-02-18T05:37:48.451Z"}
+{"level":"info","message":"📧 Found 2 emails for The Coffee House Barcelona","timestamp":"2026-02-18T05:37:53.752Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ONIS+COFFEE/data=!4m7!3m6!1s0x12a4a3ced40c3195:0x8439b0ac4885638c!8m2!3d41.3951256!4d2.1660258!16s%2Fg%2F11kj442prs!19sChIJlTEM1M6jpBIRjGOFSKywOYQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:37:53.768Z"}
+{"level":"info","message":"✅ Added: ONIS COFFEE","timestamp":"2026-02-18T05:37:54.967Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.instagram.com/oniscoffee/...","timestamp":"2026-02-18T05:37:54.970Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/paradero+%7C+Barcelona/data=!4m7!3m6!1s0x12a4a262180cd603:0x7c2fc16070e98b56!8m2!3d41.3797222!4d2.1591667!16s%2Fg%2F11rr23gx66!19sChIJA9YMGGKipBIRVovpcGDBL3w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:03.898Z"}
+{"level":"info","message":"✅ Added: paradero | Barcelona","timestamp":"2026-02-18T05:38:05.056Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.paradero.eu/...","timestamp":"2026-02-18T05:38:05.056Z"}
+{"level":"info","message":"📧 Found 1 emails for paradero | Barcelona","timestamp":"2026-02-18T05:38:11.217Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ripa+Coffee+-+Eixample/data=!4m7!3m6!1s0x12a4a3982abbdb8d:0xe665cf028f1db1fd!8m2!3d41.3884941!4d2.1620439!16s%2Fg%2F11v0nqx_39!19sChIJjdu7KpijpBIR_bEdjwLPZeY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:11.217Z"}
+{"level":"info","message":"✅ Added: Ripa Coffee - Eixample","timestamp":"2026-02-18T05:38:12.518Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Departure+Coffee+Co./data=!4m7!3m6!1s0x12a4a2f4d5d4b4ef:0xfb1bab9a689e3c14!8m2!3d41.3836145!4d2.1649125!16s%2Fg%2F11fx2v16v1!19sChIJ77TU1fSipBIRFDyeaJqrG_s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:12.519Z"}
+{"level":"info","message":"✅ Added: Departure Coffee Co.","timestamp":"2026-02-18T05:38:13.641Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Maison+coffee/data=!4m7!3m6!1s0x12a4a3075ed37a19:0xd5e965020354cf7a!8m2!3d41.3878719!4d2.1526312!16s%2Fg%2F11v0l7n7jw!19sChIJGXrTXgejpBIRes9UAwJl6dU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:13.642Z"}
+{"level":"info","message":"✅ Added: Maison coffee","timestamp":"2026-02-18T05:38:14.882Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee+House+Barcelona/data=!4m7!3m6!1s0x12a4a34822945e47:0x10691842d5ec90b3!8m2!3d41.3872639!4d2.1559371!16s%2Fg%2F11hdvl_zg7!19sChIJR16UIkijpBIRs5Ds1UIYaRA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:14.887Z"}
+{"level":"info","message":"✅ Added: The Coffee House Barcelona","timestamp":"2026-02-18T05:38:16.212Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.thecoffeehousebcn.com/...","timestamp":"2026-02-18T05:38:16.213Z"}
+{"level":"info","message":"📧 Found 2 emails for The Coffee House Barcelona","timestamp":"2026-02-18T05:38:21.357Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/D+Origen+Coffee+Roasters/data=!4m7!3m6!1s0x12a4a3631686c587:0x1c82cb0922b19424!8m2!3d41.3909501!4d2.1730171!16s%2Fg%2F11vyg52lg_!19sChIJh8WGFmOjpBIRJJSxIgnLghw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:21.358Z"}
+{"level":"info","message":"✅ Added: D Origen Coffee Roasters","timestamp":"2026-02-18T05:38:25.414Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.dorigencoffee.es/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_barcelona...","timestamp":"2026-02-18T05:38:25.414Z"}
+{"level":"info","message":"📧 Found 2 emails for D Origen Coffee Roasters","timestamp":"2026-02-18T05:38:38.640Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lodetto+Caf%C3%A9/data=!4m7!3m6!1s0x12a4a33947a9b0c9:0x1aeee8de52c5c7af!8m2!3d41.3836169!4d2.1651743!16s%2Fg%2F11t0w3j_63!19sChIJybCpRzmjpBIRr8fFUt7o7ho?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:38.641Z"}
+{"level":"info","message":"✅ Added: Lodetto Café","timestamp":"2026-02-18T05:38:40.245Z"}
+{"level":"info","message":"🔍 Deep crawling: https://instagram.com/lodettocafe?igshid=YmMyMTA2M2Y=...","timestamp":"2026-02-18T05:38:40.245Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Motiko+Barcelona+-+Specialty+Coffee+%26+Matcha/data=!4m7!3m6!1s0x12a4a31a4d3bb06f:0x6a3edad703794333!8m2!3d41.3865654!4d2.1591776!16s%2Fg%2F11mks29jpx!19sChIJb7A7TRqjpBIRM0N5A9faPmo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:49.348Z"}
+{"level":"info","message":"✅ Added: Motiko Barcelona - Specialty Coffee & Matcha","timestamp":"2026-02-18T05:38:50.857Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Syra+Coffee/data=!4m7!3m6!1s0x12a4a37089fe231f:0x5aee3dd039b729b3!8m2!3d41.3865587!4d2.1667481!16s%2Fg%2F11pvct6nn4!19sChIJHyP-iXCjpBIRsym3OdA97lo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:38:50.860Z"}
+{"level":"info","message":"✅ Added: Syra Coffee","timestamp":"2026-02-18T05:38:52.159Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.syra.coffee/...","timestamp":"2026-02-18T05:38:52.159Z"}
+{"level":"info","message":"📧 Found 2 emails for Syra Coffee","timestamp":"2026-02-18T05:39:02.099Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hidden+Coffee+Roasters+-+Les+Corts/data=!4m7!3m6!1s0x12a4987b300da145:0x5b31f791ae4eabee!8m2!3d41.3883431!4d2.1358581!16s%2Fg%2F11by_zbqdg!19sChIJRaENMHuYpBIR7qtOrpH3MVs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:02.100Z"}
+{"level":"info","message":"✅ Added: Hidden Coffee Roasters - Les Corts","timestamp":"2026-02-18T05:39:03.324Z"}
+{"level":"info","message":"🔍 Deep crawling: http://hiddencoffeeroasters.com/...","timestamp":"2026-02-18T05:39:03.325Z"}
+{"level":"info","message":"📧 Found 1 emails for Hidden Coffee Roasters - Les Corts","timestamp":"2026-02-18T05:39:09.783Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee/data=!4m7!3m6!1s0x12a4a320875b0201:0xfa013fb5d2321339!8m2!3d41.3792683!4d2.1603743!16s%2Fg%2F11rgdchkp8!19sChIJAQJbhyCjpBIRORMy0rU_Afo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:09.784Z"}
+{"level":"info","message":"✅ Added: The Coffee","timestamp":"2026-02-18T05:39:10.899Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vera+Caf%C3%A8/data=!4m7!3m6!1s0x12a4a2fb0be6e20b:0x1c22ef762dd33051!8m2!3d41.3884151!4d2.1779033!16s%2Fg%2F11gbksc_dr!19sChIJC-LmC_uipBIRUTDTLXbvIhw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:10.899Z"}
+{"level":"info","message":"✅ Added: Vera Cafè","timestamp":"2026-02-18T05:39:12.592Z"}
+{"level":"info","message":"🔍 Deep crawling: http://veraacafe.com/...","timestamp":"2026-02-18T05:39:12.594Z"}
+{"level":"info","message":"📧 Found 1 emails for Vera Cafè","timestamp":"2026-02-18T05:39:20.146Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dalston+Coffee+Barcelona+-+Caf%C3%A8+d%27especialitat+-+Coffee+Roasters/data=!4m7!3m6!1s0x12a4a2f43fc53b19:0xa077fd28eb4fca76!8m2!3d41.3845342!4d2.1684743!16s%2Fg%2F11b69bm4mh!19sChIJGTvFP_SipBIRdspP6yj9d6A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:20.147Z"}
+{"level":"info","message":"✅ Added: Dalston Coffee Barcelona - Cafè d'especialitat - Coffee Roasters","timestamp":"2026-02-18T05:39:21.394Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.dalstoncoffee.com/...","timestamp":"2026-02-18T05:39:21.397Z"}
+{"level":"info","message":"📧 Found 1 emails for Dalston Coffee Barcelona - Cafè d'especialitat - Coffee Roasters","timestamp":"2026-02-18T05:39:33.655Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Nomad+Coffee+Bar+%28ex+Coffee+Lab%29/data=!4m7!3m6!1s0x12a4a2fae7bd7d17:0xaca3bd2eb93f1f15!8m2!3d41.3889218!4d2.1770391!16s%2Fg%2F11b620zksj!19sChIJF3295_qipBIRFR8_uS69o6w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:33.656Z"}
+{"level":"info","message":"✅ Added: Nomad Coffee Bar (ex Coffee Lab)","timestamp":"2026-02-18T05:39:36.211Z"}
+{"level":"info","message":"🔍 Deep crawling: http://nomadcoffee.es/...","timestamp":"2026-02-18T05:39:36.213Z"}
+{"level":"info","message":"📧 Found 1 emails for Nomad Coffee Bar (ex Coffee Lab)","timestamp":"2026-02-18T05:39:49.549Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Right+Side+Coffee+Bar/data=!4m7!3m6!1s0x12a4a2f8307dbf7d:0x5e2880c1e5eb6e46!8m2!3d41.3826099!4d2.1752634!16s%2Fg%2F11b620cyxf!19sChIJfb99MPiipBIRRm7r5cGAKF4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:39:49.549Z"}
+{"level":"info","message":"✅ Added: Right Side Coffee Bar","timestamp":"2026-02-18T05:39:50.896Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.rightsidecoffee.com/...","timestamp":"2026-02-18T05:39:50.897Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Wow+Coffee/data=!4m7!3m6!1s0x12a4a3456a10c993:0xdf049f29256c8bf2!8m2!3d41.3948592!4d2.1573568!16s%2Fg%2F11y1nyt3fy!19sChIJk8kQakWjpBIR8otsJSmfBN8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:40:00.734Z"}
+{"level":"info","message":"✅ Added: Wow Coffee","timestamp":"2026-02-18T05:40:02.002Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.instagram.com/wow.coffeee/...","timestamp":"2026-02-18T05:40:02.006Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Morrow+Coffee/data=!4m7!3m6!1s0x12a4a27c6b6ede8d:0x22eeac1b92e84870!8m2!3d41.3771887!4d2.1512728!16s%2Fg%2F11f158htqr!19sChIJjd5ua3yipBIRcEjokhus7iI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:40:07.450Z"}
+{"level":"info","message":"✅ Added: Morrow Coffee","timestamp":"2026-02-18T05:40:08.727Z"}
+{"level":"info","message":"🔍 Deep crawling: http://morrowcoffee.com/...","timestamp":"2026-02-18T05:40:08.727Z"}
+{"level":"info","message":"📧 Found 1 emails for Morrow Coffee","timestamp":"2026-02-18T05:40:16.361Z"}
+{"level":"info","message":"🏁 Job baa9ba87-9e8b-4b7f-9582-520a28e59fc3 Completed. Added: 20, Skipped: 0","timestamp":"2026-02-18T05:40:16.370Z"}
+{"level":"info","message":"🚀 Processing Job: beer restorants in budapest (87235f33-85f5-4dc3-920f-eec937c77953)","timestamp":"2026-02-18T05:44:22.860Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants+in+budapest?hl=en","timestamp":"2026-02-18T05:44:24.321Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T05:44:25.643Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-18T05:44:30.579Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links","timestamp":"2026-02-18T05:44:31.816Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T05:44:31.818Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-18T05:44:31.853Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T05:44:31.885Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hot+Stone+Steakhouse+Budapest/data=!4m7!3m6!1s0x4741dc1547da02d5:0x9de801a01c3e83f7!8m2!3d47.50025!4d19.051249!16s%2Fg%2F11c2nsvl2_!19sChIJ1QLaRxXcQUcR94M-HKAB6J0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:44:32.909Z"}
+{"level":"info","message":"✅ Added: Hot Stone Steakhouse Budapest","timestamp":"2026-02-18T05:44:35.993Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.hotstone.hu/...","timestamp":"2026-02-18T05:44:36.002Z"}
+{"level":"info","message":"📧 Found 1 emails for Hot Stone Steakhouse Budapest","timestamp":"2026-02-18T05:44:49.420Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.496562!4d19.059592!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:44:49.421Z"}
+{"level":"info","message":"✅ Added: FIRST Craft Beer & BBQ","timestamp":"2026-02-18T05:44:51.650Z"}
+{"level":"info","message":"🔍 Deep crawling: https://firstbbq.hu/...","timestamp":"2026-02-18T05:44:51.651Z"}
+{"level":"info","message":"📧 Found 1 emails for FIRST Craft Beer & BBQ","timestamp":"2026-02-18T05:45:02.369Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Brothers/data=!4m7!3m6!1s0x4741dc43a72a101f:0x8b591697203ffe6d!8m2!3d47.4942502!4d19.0590581!16s%2Fg%2F11gf9g0bxq!19sChIJHxAqp0PcQUcRbf4_IJcWWYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:02.370Z"}
+{"level":"info","message":"✅ Added: Beer Brothers","timestamp":"2026-02-18T05:45:03.832Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/beerbrothersbudapest/...","timestamp":"2026-02-18T05:45:03.833Z"}
+{"level":"info","message":"📧 Found 1 emails for Beer Brothers","timestamp":"2026-02-18T05:45:15.552Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPS+BEER+BAR+BUDAPEST/data=!4m7!3m6!1s0x4741dc68210fa841:0xe1e81b04a52f4689!8m2!3d47.4973031!4d19.0628638!16s%2Fg%2F11b75nr1rv!19sChIJQagPIWjcQUcRiUYvpQQb6OE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:15.553Z"}
+{"level":"info","message":"✅ Added: HOPS BEER BAR BUDAPEST","timestamp":"2026-02-18T05:45:16.781Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/hopsbeerbar/...","timestamp":"2026-02-18T05:45:16.784Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Bars+Budapest/data=!4m7!3m6!1s0x4741dc71889976c1:0x153e5fff6252fa00!8m2!3d47.4968701!4d19.0628444!16s%2Fg%2F11bwnb1341!19sChIJwXaZiHHcQUcRAPpSYv9fPhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:22.537Z"}
+{"level":"info","message":"✅ Added: Ruin Bars Budapest","timestamp":"2026-02-18T05:45:23.833Z"}
+{"level":"info","message":"🔍 Deep crawling: http://ruinbarsbudapest.hu/?utm_source=gmb_ruinpubcrawl&utm_medium=website...","timestamp":"2026-02-18T05:45:23.835Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.4965619!4d19.0595916!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:24.995Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gravity+Brewing/data=!4m7!3m6!1s0x4741dc5d6fdf6b0d:0x88961a8a39c290ce!8m2!3d47.4858463!4d19.0622232!16s%2Fg%2F11f3ss4v3d!19sChIJDWvfb13cQUcRzpDCOYoalog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:26.359Z"}
+{"level":"info","message":"✅ Added: Gravity Brewing","timestamp":"2026-02-18T05:45:28.003Z"}
+{"level":"info","message":"🔍 Deep crawling: https://gravitybp.com/...","timestamp":"2026-02-18T05:45:28.003Z"}
+{"level":"info","message":"📧 Found 9 emails for Gravity Brewing","timestamp":"2026-02-18T05:45:40.164Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Brew:+Brunch+%26+Beer/data=!4m7!3m6!1s0x4741dd5b0061a0c7:0x2bf8e62bca27b65!8m2!3d47.5011424!4d19.0642807!16s%2Fg%2F11jnbyn69d!19sChIJx6BhAFvdQUcRZXuivGKOvwI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:40.165Z"}
+{"level":"info","message":"✅ Added: Ruin Brew: Brunch & Beer","timestamp":"2026-02-18T05:45:41.946Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/ruinbrew...","timestamp":"2026-02-18T05:45:41.951Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MADHOUSE+BISTRO+%26+BAR/data=!4m7!3m6!1s0x4741ddca1098f237:0x1d46c50843d1dd90!8m2!3d47.4980617!4d19.0555071!16s%2Fg%2F11ly7x_9_l!19sChIJN_KYEMrdQUcRkN3RQwjFRh0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:45:48.993Z"}
+{"level":"info","message":"✅ Added: MADHOUSE BISTRO & BAR","timestamp":"2026-02-18T05:45:50.235Z"}
+{"level":"info","message":"🔍 Deep crawling: https://madhousebudapest.hu/...","timestamp":"2026-02-18T05:45:50.236Z"}
+{"level":"info","message":"📧 Found 1 emails for MADHOUSE BISTRO & BAR","timestamp":"2026-02-18T05:46:02.803Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Point+Budapest/data=!4m7!3m6!1s0x4741dc6610158337:0x223901d0e9fc38b1!8m2!3d47.5004772!4d19.0685036!16s%2Fg%2F11c5__jgwt!19sChIJN4MVEGbcQUcRsTj86dABOSI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:46:02.804Z"}
+{"level":"info","message":"✅ Added: Beer Point Budapest","timestamp":"2026-02-18T05:46:05.040Z"}
+{"level":"info","message":"🔍 Deep crawling: https://beerpointbp.hu/...","timestamp":"2026-02-18T05:46:05.040Z"}
+{"level":"info","message":"📧 Found 3 emails for Beer Point Budapest","timestamp":"2026-02-18T05:46:17.142Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Kandall%C3%B3+Craft+Beer+%26+Burger+Pub/data=!4m7!3m6!1s0x4741dc68cb3c8495:0x645b988bf2660672!8m2!3d47.5015235!4d19.0659663!16s%2Fg%2F1hhw0r31r!19sChIJlYQ8y2jcQUcRcgZm8ouYW2Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:46:17.147Z"}
+{"level":"info","message":"✅ Added: Kandalló Craft Beer & Burger Pub","timestamp":"2026-02-18T05:46:18.648Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.kandallopub.hu/...","timestamp":"2026-02-18T05:46:18.650Z"}
+{"level":"info","message":"📧 Found 1 emails for Kandalló Craft Beer & Burger Pub","timestamp":"2026-02-18T05:46:31.401Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%C3%89leszt%C5%91+k%C3%A9zm%C5%B1ves+s%C3%B6r%C3%B6z%C5%91/data=!4m7!3m6!1s0x4741dcf84387a775:0x7f4b347df65ff60d!8m2!3d47.4835732!4d19.0726474!16s%2Fg%2F12hlgyhpk!19sChIJdaeHQ_jcQUcRDfZf9n00S38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T05:46:31.401Z"}
+{"level":"info","message":"✅ Added: Élesztő kézműves söröző","timestamp":"2026-02-18T05:46:33.068Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.elesztohaz.hu/...","timestamp":"2026-02-18T05:46:33.070Z"}
+{"clientVersion":"5.22.0","errorCode":"P1001","level":"error","message":"❌ Fatal Error: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.","name":"PrismaClientInitializationError","stack":"PrismaClientInitializationError: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.\n    at t (D:\\LEADS2\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:112:2488)\n    at async connectDB (file:///D:/LEADS2/swarm-lead-scraper/dist/db/company.js:94:5)\n    at async main (file:///D:/LEADS2/swarm-lead-scraper/dist/index.js:27:9)","timestamp":"2026-02-18T05:56:32.114Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T05:56:50.449Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T05:56:50.455Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:06:04.485Z"}
+{"level":"info","message":"🚀 Launching CLI Job: \"test log\"","timestamp":"2026-02-18T06:06:04.491Z"}
+{"level":"info","message":"🚀 Processing Job: test log (e0c54562-2e61-4776-8f72-fe501dda824c) for User: admin","timestamp":"2026-02-18T06:06:04.623Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/test+log?hl=en","timestamp":"2026-02-18T06:06:10.486Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:06:11.570Z"}
+{"level":"warn","message":"⚠️ Feed or results container not found immediately.","timestamp":"2026-02-18T06:06:26.579Z"}
+{"level":"info","message":"📋 Found 0 leads. Extracting...","timestamp":"2026-02-18T06:06:26.589Z"}
+{"level":"info","message":"🏁 Job e0c54562-2e61-4776-8f72-fe501dda824c Completed. Added: 0, Skipped: 0","timestamp":"2026-02-18T06:06:27.275Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:07:17.719Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:07:17.728Z"}
+{"level":"info","message":"🚀 Processing Job: beer restourants in tbilisi (2f76e357-6b87-4e00-8a3a-ca6ead9daffe)","timestamp":"2026-02-18T06:08:12.833Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restourants+in+tbilisi?hl=en","timestamp":"2026-02-18T06:08:14.438Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:08:15.472Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 22 links","timestamp":"2026-02-18T06:08:20.144Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T06:08:20.145Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-18T06:08:20.147Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-18T06:08:20.157Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oxygen+Bar/data=!4m7!3m6!1s0x40440dd1be76201f:0x87da3dddf04b8bf6!8m2!3d41.703827!4d44.793885!16s%2Fg%2F11fly82myn!19sChIJHyB2vtENREAR9otL8N092oc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:08:21.309Z"}
+{"level":"info","message":"✅ Added: Oxygen Bar","timestamp":"2026-02-18T06:08:23.554Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.radissonblu.com/hotel-tbilisi...","timestamp":"2026-02-18T06:08:23.555Z"}
+{"level":"info","message":"📧 Found 3 emails for Oxygen Bar","timestamp":"2026-02-18T06:08:34.950Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Maharajah+Restaurant+Tbilisi/data=!4m7!3m6!1s0x40440cd0a94d3f03:0xb8d96d765d0ff281!8m2!3d41.689944!4d44.808548!16s%2Fg%2F1hm5k03qx!19sChIJAz9NqdAMREARgfIPXXZt2bg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:08:34.950Z"}
+{"level":"info","message":"✅ Added: Maharajah Restaurant Tbilisi","timestamp":"2026-02-18T06:08:36.942Z"}
+{"level":"info","message":"🔍 Deep crawling: https://maharajah.ge/...","timestamp":"2026-02-18T06:08:36.943Z"}
+{"level":"info","message":"📧 Found 1 emails for Maharajah Restaurant Tbilisi","timestamp":"2026-02-18T06:08:48.158Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Square/data=!4m7!3m6!1s0x40446d91e08c513d:0xc287aa006f062b96!8m2!3d41.7711967!4d44.7796615!16s%2Fg%2F1hdzs16z4!19sChIJPVGM4JFtREARlisGbwCqh8I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:08:48.159Z"}
+{"level":"info","message":"✅ Added: Beer Square","timestamp":"2026-02-18T06:08:49.645Z"}
+{"level":"info","message":"🔍 Deep crawling: https://tsiskvili.ge/...","timestamp":"2026-02-18T06:08:49.647Z"}
+{"level":"info","message":"📧 Found 1 emails for Beer Square","timestamp":"2026-02-18T06:08:56.878Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Craft+Grill+and+Beer+%E2%80%A2+%E1%83%99%E1%83%A0%E1%83%90%E1%83%A4%E1%83%A2+%E1%83%92%E1%83%A0%E1%83%98%E1%83%9A%E1%83%98+%E1%83%93%E1%83%90+%E1%83%9A%E1%83%A3%E1%83%93%E1%83%98/data=!4m7!3m6!1s0x40446d04424b693d:0xc8e4a352ae94f56!8m2!3d41.7727004!4d44.780039!16s%2Fg%2F11xdg3jdh9!19sChIJPWlLQgRtREARVk_pKjVKjgw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:08:56.878Z"}
+{"level":"info","message":"✅ Added: Craft Grill and Beer • კრაფტ გრილი და ლუდი","timestamp":"2026-02-18T06:08:57.889Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.craftfood.ge/...","timestamp":"2026-02-18T06:08:57.893Z"}
+{"level":"info","message":"📧 Found 2 emails for Craft Grill and Beer • კრაფტ გრილი და ლუდი","timestamp":"2026-02-18T06:09:04.161Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ethnographer+restaurant/data=!4m7!3m6!1s0x40446dab2d6e8d71:0xacaa58d35c3d9af1!8m2!3d41.7732491!4d44.780296!16s%2Fg%2F11rcgn8v4z!19sChIJcY1uLattREAR8Zo9XNNYqqw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:04.161Z"}
+{"level":"info","message":"✅ Added: Ethnographer restaurant","timestamp":"2026-02-18T06:09:05.037Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/ethnographer.ge/...","timestamp":"2026-02-18T06:09:05.038Z"}
+{"level":"info","message":"📧 Found 1 emails for Ethnographer restaurant","timestamp":"2026-02-18T06:09:11.703Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ethno+Tsiskvili/data=!4m7!3m6!1s0x40446d91e60380ed:0x43e7896ceb2cc479!8m2!3d41.771287!4d44.779815!16s%2Fg%2F1hf4f1gxh!19sChIJ7YAD5pFtREARecQs62yJ50M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:11.704Z"}
+{"level":"info","message":"✅ Added: Ethno Tsiskvili","timestamp":"2026-02-18T06:09:12.781Z"}
+{"level":"info","message":"🔍 Deep crawling: https://tsiskvili.ge/...","timestamp":"2026-02-18T06:09:12.782Z"}
+{"level":"info","message":"📧 Found 1 emails for Ethno Tsiskvili","timestamp":"2026-02-18T06:09:19.077Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sharbati+%E2%80%A2+Restaurant+%26+Beer+Garden/data=!4m7!3m6!1s0x40446de777b353dd:0x324c5ca20975668c!8m2!3d41.7850976!4d44.7683535!16s%2Fg%2F1q67kzd34!19sChIJ3VOzd-dtREARjGZ1CaJcTDI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:19.077Z"}
+{"level":"info","message":"✅ Added: Sharbati • Restaurant & Beer Garden","timestamp":"2026-02-18T06:09:20.137Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sharbati.ge/...","timestamp":"2026-02-18T06:09:20.140Z"}
+{"level":"info","message":"📧 Found 1 emails for Sharbati • Restaurant & Beer Garden","timestamp":"2026-02-18T06:09:40.382Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Riverside+Babilo/data=!4m7!3m6!1s0x40446d858fe928f3:0xe843a9167a2e736a!8m2!3d41.7667746!4d44.7806966!16s%2Fg%2F11c54cztxb!19sChIJ8yjpj4VtREARanMuehapQ-g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:40.382Z"}
+{"level":"info","message":"✅ Added: Riverside Babilo","timestamp":"2026-02-18T06:09:41.542Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Alkhanaidze+Beer+Restaurant+%E2%80%A2+%E1%83%90%E1%83%9A%E1%83%AE%E1%83%90%E1%83%9C%E1%83%90%E1%83%98%E1%83%AB%E1%83%94+%E1%83%9A%E1%83%A3%E1%83%93%E1%83%98%E1%83%A1+%E1%83%A0%E1%83%94%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%90%E1%83%9C%E1%83%98/data=!4m7!3m6!1s0x4044738047193da1:0xe340602707d15b7!8m2!3d41.7263757!4d44.757214!16s%2Fg%2F11vll38rq1!19sChIJoT0ZR4BzREARtxV9cAIGNA4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:41.542Z"}
+{"level":"info","message":"✅ Added: Alkhanaidze Beer Restaurant • ალხანაიძე ლუდის რესტორანი","timestamp":"2026-02-18T06:09:42.471Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Restaurant+Tbilisi/data=!4m7!3m6!1s0x40446d434a22bfbd:0x53943495ad2ed721!8m2!3d41.7790391!4d44.7693726!16s%2Fg%2F11c3_9lmjn!19sChIJvb8iSkNtREARIdcurZU0lFM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:09:42.475Z"}
+{"level":"info","message":"✅ Added: Restaurant Tbilisi","timestamp":"2026-02-18T06:09:43.445Z"}
+{"level":"info","message":"🏁 Job 2f76e357-6b87-4e00-8a3a-ca6ead9daffe Completed. Added: 10, Skipped: 0","timestamp":"2026-02-18T06:09:43.460Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:17:52.440Z"}
+{"level":"info","message":"🚀 Launching CLI Job: \"test validation\"","timestamp":"2026-02-18T06:17:52.446Z"}
+{"level":"info","message":"🚀 Processing Job: test validation (80d746e4-5dc4-4dd5-9100-e4d6731433c4) for User: admin","timestamp":"2026-02-18T06:17:52.470Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/test+validation?hl=en","timestamp":"2026-02-18T06:17:53.721Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:17:54.704Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:18:41.980Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:18:41.989Z"}
+{"level":"info","message":"🚀 Processing Job: beer restorants in budapest (383d81eb-0d21-4cb8-88b3-0d5a4b6f2ada)","timestamp":"2026-02-18T06:19:32.096Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants+in+budapest?hl=en","timestamp":"2026-02-18T06:19:33.506Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:19:35.114Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-18T06:19:38.255Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T06:19:38.256Z"}
+{"level":"info","message":"✅ Collected 18 unique links.","timestamp":"2026-02-18T06:19:38.260Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-18T06:19:38.270Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.496562!4d19.059592!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:39.192Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hot+Stone+Steakhouse+Budapest/data=!4m7!3m6!1s0x4741dc1547da02d5:0x9de801a01c3e83f7!8m2!3d47.50025!4d19.051249!16s%2Fg%2F11c2nsvl2_!19sChIJ1QLaRxXcQUcR94M-HKAB6J0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:41.092Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Brothers/data=!4m7!3m6!1s0x4741dc43a72a101f:0x8b591697203ffe6d!8m2!3d47.4942502!4d19.0590581!16s%2Fg%2F11gf9g0bxq!19sChIJHxAqp0PcQUcRbf4_IJcWWYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:43.445Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPS+BEER+BAR+BUDAPEST/data=!4m7!3m6!1s0x4741dc68210fa841:0xe1e81b04a52f4689!8m2!3d47.4973031!4d19.0628638!16s%2Fg%2F11b75nr1rv!19sChIJQagPIWjcQUcRiUYvpQQb6OE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:44.818Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Bars+Budapest/data=!4m7!3m6!1s0x4741dc71889976c1:0x153e5fff6252fa00!8m2!3d47.4968701!4d19.0628444!16s%2Fg%2F11bwnb1341!19sChIJwXaZiHHcQUcRAPpSYv9fPhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:46.304Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.4965619!4d19.0595916!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:47.533Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gravity+Brewing/data=!4m7!3m6!1s0x4741dc5d6fdf6b0d:0x88961a8a39c290ce!8m2!3d47.4858463!4d19.0622232!16s%2Fg%2F11f3ss4v3d!19sChIJDWvfb13cQUcRzpDCOYoalog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:48.739Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Brew:+Brunch+%26+Beer/data=!4m7!3m6!1s0x4741dd5b0061a0c7:0x2bf8e62bca27b65!8m2!3d47.5011424!4d19.0642807!16s%2Fg%2F11jnbyn69d!19sChIJx6BhAFvdQUcRZXuivGKOvwI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:50.004Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MADHOUSE+BISTRO+%26+BAR/data=!4m7!3m6!1s0x4741ddca1098f237:0x1d46c50843d1dd90!8m2!3d47.4980617!4d19.0555071!16s%2Fg%2F11ly7x_9_l!19sChIJN_KYEMrdQUcRkN3RQwjFRh0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:51.304Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Point+Budapest/data=!4m7!3m6!1s0x4741dc6610158337:0x223901d0e9fc38b1!8m2!3d47.5004772!4d19.0685036!16s%2Fg%2F11c5__jgwt!19sChIJN4MVEGbcQUcRsTj86dABOSI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:19:52.609Z"}
+{"level":"info","message":"🏁 Job 383d81eb-0d21-4cb8-88b3-0d5a4b6f2ada Completed. Added: 0, Skipped: 10","timestamp":"2026-02-18T06:19:54.376Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:24:35.459Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:24:35.466Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:31:35.194Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:31:35.201Z"}
+{"level":"info","message":"🚀 Processing Job: beer restorants in budapest (ed98204e-9533-472d-a5cf-1e9991930752)","timestamp":"2026-02-18T06:32:10.285Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants+in+budapest?hl=en","timestamp":"2026-02-18T06:32:12.272Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:32:13.551Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-18T06:32:18.423Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 22 links","timestamp":"2026-02-18T06:32:19.645Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T06:32:19.645Z"}
+{"level":"info","message":"✅ Collected 22 unique links.","timestamp":"2026-02-18T06:32:19.656Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T06:32:19.666Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hot+Stone+Steakhouse+Budapest/data=!4m7!3m6!1s0x4741dc1547da02d5:0x9de801a01c3e83f7!8m2!3d47.50025!4d19.051249!16s%2Fg%2F11c2nsvl2_!19sChIJ1QLaRxXcQUcR94M-HKAB6J0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:20.566Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bambuszliget+Jap%C3%A1n+%C3%89tterem+%26+Sushi+B%C3%A1r/data=!4m7!3m6!1s0x4741dc45edcdc41f:0xcf4a4baba6c9da4c!8m2!3d47.489264!4d19.053867!16s%2Fg%2F1v_z335p!19sChIJH8TN7UXcQUcRTNrJpqtLSs8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:22.629Z"}
+{"level":"info","message":"✅ Added: Bambuszliget Japán Étterem & Sushi Bár","timestamp":"2026-02-18T06:32:24.779Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.bambuszliget.hu/...","timestamp":"2026-02-18T06:32:24.781Z"}
+{"level":"info","message":"📧 Found 1 emails for Bambuszliget Japán Étterem & Sushi Bár","timestamp":"2026-02-18T06:32:36.298Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Brothers/data=!4m7!3m6!1s0x4741dc43a72a101f:0x8b591697203ffe6d!8m2!3d47.4942502!4d19.0590581!16s%2Fg%2F11gf9g0bxq!19sChIJHxAqp0PcQUcRbf4_IJcWWYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:36.300Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPS+BEER+BAR+BUDAPEST/data=!4m7!3m6!1s0x4741dc68210fa841:0xe1e81b04a52f4689!8m2!3d47.4973031!4d19.0628638!16s%2Fg%2F11b75nr1rv!19sChIJQagPIWjcQUcRiUYvpQQb6OE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:37.617Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Craft+Beer+%26+BBQ/data=!4m7!3m6!1s0x4741dc4269abecdb:0x6f007951ed851984!8m2!3d47.4965619!4d19.0595916!16s%2Fg%2F11gdbp448r!19sChIJ2-yraULcQUcRhBmF7VF5AG8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:38.990Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Bars+Budapest/data=!4m7!3m6!1s0x4741dc71889976c1:0x153e5fff6252fa00!8m2!3d47.4968701!4d19.0628444!16s%2Fg%2F11bwnb1341!19sChIJwXaZiHHcQUcRAPpSYv9fPhU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:40.224Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gravity+Brewing/data=!4m7!3m6!1s0x4741dc5d6fdf6b0d:0x88961a8a39c290ce!8m2!3d47.4858463!4d19.0622232!16s%2Fg%2F11f3ss4v3d!19sChIJDWvfb13cQUcRzpDCOYoalog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:41.941Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruin+Brew:+Brunch+%26+Beer/data=!4m7!3m6!1s0x4741dd5b0061a0c7:0x2bf8e62bca27b65!8m2!3d47.5011424!4d19.0642807!16s%2Fg%2F11jnbyn69d!19sChIJx6BhAFvdQUcRZXuivGKOvwI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:43.384Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MADHOUSE+BISTRO+%26+BAR/data=!4m7!3m6!1s0x4741ddca1098f237:0x1d46c50843d1dd90!8m2!3d47.4980617!4d19.0555071!16s%2Fg%2F11ly7x_9_l!19sChIJN_KYEMrdQUcRkN3RQwjFRh0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:44.763Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+Point+Budapest/data=!4m7!3m6!1s0x4741dc6610158337:0x223901d0e9fc38b1!8m2!3d47.5004772!4d19.0685036!16s%2Fg%2F11c5__jgwt!19sChIJN4MVEGbcQUcRsTj86dABOSI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:46.204Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Kandall%C3%B3+Craft+Beer+%26+Burger+Pub/data=!4m7!3m6!1s0x4741dc68cb3c8495:0x645b988bf2660672!8m2!3d47.5015235!4d19.0659663!16s%2Fg%2F1hhw0r31r!19sChIJlYQ8y2jcQUcRcgZm8ouYW2Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:47.539Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%C3%89leszt%C5%91+k%C3%A9zm%C5%B1ves+s%C3%B6r%C3%B6z%C5%91/data=!4m7!3m6!1s0x4741dcf84387a775:0x7f4b347df65ff60d!8m2!3d47.4835732!4d19.0726474!16s%2Fg%2F12hlgyhpk!19sChIJdaeHQ_jcQUcRDfZf9n00S38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:49.187Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bajor+S%C3%B6r-H%C3%A1z+-+HB+Traunstein+Beer+House+Budapest/data=!4m7!3m6!1s0x4741dd57ac870ff1:0xf4d64835edb6a0dd!8m2!3d47.5013609!4d19.0620399!16s%2Fg%2F11l75tg8rz!19sChIJ8Q-HrFfdQUcR3aC27TVI1vQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:32:50.882Z"}
+{"level":"info","message":"✅ Added: Bajor Sör-Ház - HB Traunstein Beer House Budapest","timestamp":"2026-02-18T06:32:52.041Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.bierhaus.hu/...","timestamp":"2026-02-18T06:32:52.044Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HOPAHOLIC+Craft+Beer+Bar+%26+Food+Budapest/data=!4m7!3m6!1s0x4741dc6891b0c259:0x6bba71fbdf021a8c!8m2!3d47.4998936!4d19.0656611!16s%2Fg%2F11bxdz25rr!19sChIJWcKwkWjcQUcRjBoC3_txums?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:03.219Z"}
+{"level":"info","message":"✅ Added: HOPAHOLIC Craft Beer Bar & Food Budapest","timestamp":"2026-02-18T06:33:04.455Z"}
+{"level":"info","message":"🔍 Deep crawling: http://hopaholic.hu/...","timestamp":"2026-02-18T06:33:04.455Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beerstro14+Steak+House+Restaurant/data=!4m7!3m6!1s0x4741dc5ec1b9597b:0xf6a7ba7c84a0cb15!8m2!3d47.4920187!4d19.0572676!16s%2Fg%2F11hc_tc9ft!19sChIJe1m5wV7cQUcRFcughHy6p_Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:11.431Z"}
+{"level":"info","message":"✅ Added: Beerstro14 Steak House Restaurant","timestamp":"2026-02-18T06:33:12.698Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.beerstro14.hu/...","timestamp":"2026-02-18T06:33:12.706Z"}
+{"level":"info","message":"📧 Found 3 emails for Beerstro14 Steak House Restaurant","timestamp":"2026-02-18T06:33:22.167Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ugar+Brewpub/data=!4m7!3m6!1s0x4741dd0078a779bf:0x7ecabc6d3f7ab65a!8m2!3d47.4885356!4d19.0702493!16s%2Fg%2F11m6xjy4jn!19sChIJv3mneADdQUcRWrZ6P228yn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:22.168Z"}
+{"level":"info","message":"✅ Added: Ugar Brewpub","timestamp":"2026-02-18T06:33:23.619Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.instagram.com/ugar_brewpub/...","timestamp":"2026-02-18T06:33:23.620Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pater+Marcus+Ap%C3%A1ts%C3%A1gi+Pub/data=!4m7!3m6!1s0x4741dc3d0e720795:0x885a8064202ce7e2!8m2!3d47.4994776!4d19.0397137!16s%2Fg%2F1tj29sqf!19sChIJlQdyDj3cQUcR4ucsIGSAWog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:31.787Z"}
+{"level":"info","message":"✅ Added: Pater Marcus Apátsági Pub","timestamp":"2026-02-18T06:33:33.572Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.patermarcus.hu/...","timestamp":"2026-02-18T06:33:33.572Z"}
+{"level":"info","message":"📧 Found 1 emails for Pater Marcus Apátsági Pub","timestamp":"2026-02-18T06:33:47.301Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PORT+beer%26food/data=!4m7!3m6!1s0x4741dd3e4be2a153:0xaac90bf8942ddd32!8m2!3d47.5020781!4d19.0394681!16s%2Fg%2F11fj6jmp6z!19sChIJU6HiSz7dQUcRMt0tlPgLyao?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:47.302Z"}
+{"level":"info","message":"✅ Added: PORT beer&food","timestamp":"2026-02-18T06:33:48.957Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.portbeerandfood.hu/...","timestamp":"2026-02-18T06:33:48.957Z"}
+{"level":"info","message":"📧 Found 1 emails for PORT beer&food","timestamp":"2026-02-18T06:33:56.054Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bors+Gastro+Bar/data=!4m7!3m6!1s0x4741dc42af54fc5b:0x26b4cf0a55b2f7f9!8m2!3d47.4967267!4d19.0635487!16s%2Fg%2F1yg4vbhw5!19sChIJW_xUr0LcQUcR-feyVQrPtCY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:33:56.054Z"}
+{"level":"info","message":"✅ Added: Bors Gastro Bar","timestamp":"2026-02-18T06:33:57.627Z"}
+{"level":"info","message":"🔍 Deep crawling: https://facebook.com/BorsGasztroBar...","timestamp":"2026-02-18T06:33:57.628Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beer+People+-+Bar+and+Specialty+Beer+Store/data=!4m7!3m6!1s0x4741dd000f24b783:0xe96f8e3dc17c71b5!8m2!3d47.5021279!4d19.0560466!16s%2Fg%2F11vwkhwdvz!19sChIJg7ckDwDdQUcRtXF8wT2Ob-k?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:34:04.610Z"}
+{"level":"info","message":"✅ Added: Beer People - Bar and Specialty Beer Store","timestamp":"2026-02-18T06:34:06.040Z"}
+{"level":"info","message":"🔍 Deep crawling: http://beerpeoplebudapest.com/...","timestamp":"2026-02-18T06:34:06.041Z"}
+{"level":"info","message":"📧 Found 1 emails for Beer People - Bar and Specialty Beer Store","timestamp":"2026-02-18T06:34:16.094Z"}
+{"level":"info","message":"🏁 Job ed98204e-9533-472d-a5cf-1e9991930752 Completed. Added: 9, Skipped: 11","timestamp":"2026-02-18T06:34:16.101Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:38:48.221Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:38:48.228Z"}
+{"level":"info","message":"🚀 Processing Job: 20 coffeshops in barcelona (02595d3c-d06c-4d65-87b6-e2b95386fc4c) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-18T06:40:38.444Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/20+coffeshops+in+barcelona?hl=en","timestamp":"2026-02-18T06:40:39.774Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:40:41.792Z"}
+{"level":"info","message":"🔄 Scroll attempt 1: Found 18 links","timestamp":"2026-02-18T06:40:45.330Z"}
+{"level":"info","message":"🔄 Scroll attempt 2: Found 20 links","timestamp":"2026-02-18T06:40:46.545Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T06:40:46.546Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-18T06:40:46.549Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T06:40:46.558Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hidden+Coffee+Roasters+-+El+Born/data=!4m7!3m6!1s0x12a4a34d817a17fd:0x6f7bc0b4b5b494a6!8m2!3d41.3827882!4d2.1824279!16s%2Fg%2F11lf_9wbwd!19sChIJ_Rd6gU2jpBIRppS0tbTAe28?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:47.167Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee+House+Barcelona/data=!4m7!3m6!1s0x12a4a3c79e7fc369:0xd3ff7bf703b16712!8m2!3d41.3858413!4d2.1567454!16s%2Fg%2F11tx0d5hc0!19sChIJacN_nsejpBIREmexA_d7_9M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:48.624Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ONIS+COFFEE/data=!4m7!3m6!1s0x12a4a3ced40c3195:0x8439b0ac4885638c!8m2!3d41.3951256!4d2.1660258!16s%2Fg%2F11kj442prs!19sChIJlTEM1M6jpBIRjGOFSKywOYQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:50.575Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ripa+Coffee+-+Eixample/data=!4m7!3m6!1s0x12a4a3982abbdb8d:0xe665cf028f1db1fd!8m2!3d41.3884941!4d2.1620439!16s%2Fg%2F11v0nqx_39!19sChIJjdu7KpijpBIR_bEdjwLPZeY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:51.851Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Departure+Coffee+Co./data=!4m7!3m6!1s0x12a4a2f4d5d4b4ef:0xfb1bab9a689e3c14!8m2!3d41.3836145!4d2.1649125!16s%2Fg%2F11fx2v16v1!19sChIJ77TU1fSipBIRFDyeaJqrG_s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:53.007Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/paradero+%7C+Barcelona/data=!4m7!3m6!1s0x12a4a262180cd603:0x7c2fc16070e98b56!8m2!3d41.3797222!4d2.1591667!16s%2Fg%2F11rr23gx66!19sChIJA9YMGGKipBIRVovpcGDBL3w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:54.536Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Syra+Coffee+%7C+H%26M/data=!4m7!3m6!1s0x12a4a3995164189b:0x17a73a4acf2d558c!8m2!3d41.3890301!4d2.1682424!16s%2Fg%2F11v5z0b09c!19sChIJmxhkUZmjpBIRjFUtz0o6pxc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:40:56.167Z"}
+{"level":"info","message":"✅ Added: Syra Coffee | H&M","timestamp":"2026-02-18T06:40:58.016Z"}
+{"level":"info","message":"🔍 Deep crawling: https://syra.coffee/...","timestamp":"2026-02-18T06:40:58.019Z"}
+{"level":"info","message":"📧 Found 2 emails for Syra Coffee | H&M","timestamp":"2026-02-18T06:41:06.425Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee+House+Barcelona/data=!4m7!3m6!1s0x12a4a34822945e47:0x10691842d5ec90b3!8m2!3d41.3872639!4d2.1559371!16s%2Fg%2F11hdvl_zg7!19sChIJR16UIkijpBIRs5Ds1UIYaRA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:06.426Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lodetto+Caf%C3%A9/data=!4m7!3m6!1s0x12a4a33947a9b0c9:0x1aeee8de52c5c7af!8m2!3d41.3836169!4d2.1651743!16s%2Fg%2F11t0w3j_63!19sChIJybCpRzmjpBIRr8fFUt7o7ho?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:07.803Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/D+Origen+Coffee+Roasters/data=!4m7!3m6!1s0x12a4a3631686c587:0x1c82cb0922b19424!8m2!3d41.3909501!4d2.1730171!16s%2Fg%2F11vyg52lg_!19sChIJh8WGFmOjpBIRJJSxIgnLghw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:09.286Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Motiko+Barcelona+-+Specialty+Coffee+%26+Matcha/data=!4m7!3m6!1s0x12a4a31a4d3bb06f:0x6a3edad703794333!8m2!3d41.3865654!4d2.1591776!16s%2Fg%2F11mks29jpx!19sChIJb7A7TRqjpBIRM0N5A9faPmo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:10.489Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dalston+Coffee+Barcelona+-+Caf%C3%A8+d%27especialitat+-+Coffee+Roasters/data=!4m7!3m6!1s0x12a4a2f43fc53b19:0xa077fd28eb4fca76!8m2!3d41.3845342!4d2.1684743!16s%2Fg%2F11b69bm4mh!19sChIJGTvFP_SipBIRdspP6yj9d6A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:11.844Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Nomad+Coffee+Bar+%28ex+Coffee+Lab%29/data=!4m7!3m6!1s0x12a4a2fae7bd7d17:0xaca3bd2eb93f1f15!8m2!3d41.3889218!4d2.1770391!16s%2Fg%2F11b620zksj!19sChIJF3295_qipBIRFR8_uS69o6w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:13.105Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Syra+Coffee/data=!4m7!3m6!1s0x12a4a37089fe231f:0x5aee3dd039b729b3!8m2!3d41.3865587!4d2.1667481!16s%2Fg%2F11pvct6nn4!19sChIJHyP-iXCjpBIRsym3OdA97lo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:14.302Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Right+Side+Coffee+Bar/data=!4m7!3m6!1s0x12a4a2f8307dbf7d:0x5e2880c1e5eb6e46!8m2!3d41.3826099!4d2.1752634!16s%2Fg%2F11b620cyxf!19sChIJfb99MPiipBIRRm7r5cGAKF4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:15.472Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hidden+Coffee+Roasters+-+Les+Corts/data=!4m7!3m6!1s0x12a4987b300da145:0x5b31f791ae4eabee!8m2!3d41.3883431!4d2.1358581!16s%2Fg%2F11by_zbqdg!19sChIJRaENMHuYpBIR7qtOrpH3MVs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:16.945Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Coffee/data=!4m7!3m6!1s0x12a4a320875b0201:0xfa013fb5d2321339!8m2!3d41.3792683!4d2.1603743!16s%2Fg%2F11rgdchkp8!19sChIJAQJbhyCjpBIRORMy0rU_Afo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:18.226Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vera+Caf%C3%A8/data=!4m7!3m6!1s0x12a4a2fb0be6e20b:0x1c22ef762dd33051!8m2!3d41.3884151!4d2.1779033!16s%2Fg%2F11gbksc_dr!19sChIJC-LmC_uipBIRUTDTLXbvIhw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:19.503Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Wow+Coffee/data=!4m7!3m6!1s0x12a4a3456a10c993:0xdf049f29256c8bf2!8m2!3d41.3948592!4d2.1573568!16s%2Fg%2F11y1nyt3fy!19sChIJk8kQakWjpBIR8otsJSmfBN8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:21.108Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Morrow+Coffee/data=!4m7!3m6!1s0x12a4a27c6b6ede8d:0x22eeac1b92e84870!8m2!3d41.3771887!4d2.1512728!16s%2Fg%2F11f158htqr!19sChIJjd5ua3yipBIRcEjokhus7iI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:41:22.418Z"}
+{"level":"info","message":"🏁 Job 02595d3c-d06c-4d65-87b6-e2b95386fc4c Completed. Added: 1, Skipped: 19","timestamp":"2026-02-18T06:41:24.146Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T06:51:53.762Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T06:51:53.771Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in oslo (c5525282-b333-49bd-a4d1-c4c6630c10d2) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-18T06:52:23.835Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+oslo?hl=en","timestamp":"2026-02-18T06:52:25.582Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T06:52:27.341Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 20 (attempt 1/30)","timestamp":"2026-02-18T06:52:30.831Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T06:52:30.834Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-18T06:52:30.838Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T06:52:30.853Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smil+Tannlegesenter+-+Tannlege+og+tannlegevakt+Nationaltheatret/data=!4m7!3m6!1s0x46416e877cc0befd:0x58e0854019daca84!8m2!3d59.912823!4d10.7359645!16s%2Fg%2F11g8k8csq8!19sChIJ_b7AfIduQUYRhMraGUCF4Fg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:52:31.832Z"}
+{"level":"info","message":"✅ Added: Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret","timestamp":"2026-02-18T06:52:34.025Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.smiltannlegesenter.no/...","timestamp":"2026-02-18T06:52:34.026Z"}
+{"level":"info","message":"📧 Found 2 emails for Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret","timestamp":"2026-02-18T06:52:49.337Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Tannlegesenter/data=!4m7!3m6!1s0x46416e877a88f865:0x4f8d51f31a6839ad!8m2!3d59.9134684!4d10.7306141!16s%2Fg%2F1hg4vj6x8!19sChIJZfiIeoduQUYRrTloGvNRjU8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:52:49.338Z"}
+{"level":"info","message":"✅ Added: Oslo Tannlegesenter","timestamp":"2026-02-18T06:52:51.574Z"}
+{"level":"info","message":"🔍 Deep crawling: https://oslotannlegesenter.no/...","timestamp":"2026-02-18T06:52:51.575Z"}
+{"level":"info","message":"📧 Found 4 emails for Oslo Tannlegesenter","timestamp":"2026-02-18T06:53:00.324Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Christiania+tannlegesenter+%7C+MALO+CLINIC/data=!4m7!3m6!1s0x46416e606ff19531:0xdfcb0740b0a28012!8m2!3d59.9158116!4d10.7093112!16s%2Fg%2F1thg90w_!19sChIJMZXxb2BuQUYREoCisEAHy98?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:00.326Z"}
+{"level":"info","message":"✅ Added: Christiania tannlegesenter | MALO CLINIC","timestamp":"2026-02-18T06:53:02.061Z"}
+{"level":"info","message":"🔍 Deep crawling: https://christiania-tannlegesenter.no/...","timestamp":"2026-02-18T06:53:02.062Z"}
+{"level":"info","message":"📧 Found 5 emails for Christiania tannlegesenter | MALO CLINIC","timestamp":"2026-02-18T06:53:10.031Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Odontia+Tannlegene+Oslo+Sentrum/data=!4m7!3m6!1s0x46416e8a076d4dcf:0x5d1d014d00b289b5!8m2!3d59.9126665!4d10.7493409!16s%2Fg%2F11c20q7bw6!19sChIJz01tB4puQUYRtYmyAE0BHV0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:10.033Z"}
+{"level":"info","message":"✅ Added: Odontia Tannlegene Oslo Sentrum","timestamp":"2026-02-18T06:53:11.274Z"}
+{"level":"info","message":"🔍 Deep crawling: https://odontia.no/tannlege/oslo-sentrum/?od=pb25...","timestamp":"2026-02-18T06:53:11.277Z"}
+{"level":"info","message":"📧 Found 2 emails for Odontia Tannlegene Oslo Sentrum","timestamp":"2026-02-18T06:53:25.699Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Senses+Oslo/data=!4m7!3m6!1s0x46416ff710a20ae7:0xdb5dfb76418c5a48!8m2!3d59.9118638!4d10.8084733!16s%2Fg%2F11j53f8229!19sChIJ5wqiEPdvQUYRSFqMQXb7Xds?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:25.700Z"}
+{"level":"info","message":"✅ Added: Dental Senses Oslo","timestamp":"2026-02-18T06:53:26.799Z"}
+{"level":"info","message":"🔍 Deep crawling: http://dsoslo.no/...","timestamp":"2026-02-18T06:53:26.799Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+Nordic+AS/data=!4m7!3m6!1s0x46416fe31fb7bb2b:0x9fa429d38a48f2c0!8m2!3d59.9090343!4d10.7452416!16s%2Fg%2F11l77hgt65!19sChIJK7u3H-NvQUYRwPJIitMppJ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:35.646Z"}
+{"level":"info","message":"✅ Added: Smile Nordic AS","timestamp":"2026-02-18T06:53:36.725Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.smilenordic.no/...","timestamp":"2026-02-18T06:53:36.726Z"}
+{"level":"info","message":"📧 Found 1 emails for Smile Nordic AS","timestamp":"2026-02-18T06:53:43.669Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental/data=!4m7!3m6!1s0x46416e602ec48cd9:0x97ec0bab1022a50a!8m2!3d59.9119122!4d10.7564422!16s%2Fg%2F1trxc8t3!19sChIJ2YzELmBuQUYRCqUiEKsL7Jc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:43.669Z"}
+{"level":"info","message":"✅ Added: Oris Dental","timestamp":"2026-02-18T06:53:45.295Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/galleri-oslo/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-18T06:53:45.296Z"}
+{"level":"info","message":"📧 Found 14 emails for Oris Dental","timestamp":"2026-02-18T06:53:52.658Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sentrum+Tannlegesenter/data=!4m7!3m6!1s0x46416e60786c70bf:0x336a1c8592764c7!8m2!3d59.9132264!4d10.7604736!16s%2Fg%2F1tlw7nsb!19sChIJv3BseGBuQUYRx2QnWcihNgM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:53:52.658Z"}
+{"level":"info","message":"✅ Added: Sentrum Tannlegesenter","timestamp":"2026-02-18T06:53:53.834Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.sentrumtannlegesenter.no/...","timestamp":"2026-02-18T06:53:53.842Z"}
+{"level":"info","message":"📧 Found 1 emails for Sentrum Tannlegesenter","timestamp":"2026-02-18T06:54:04.567Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Dental/data=!4m7!3m6!1s0x464794e782588a6d:0x9806656c5b9e60e0!8m2!3d58.4717837!4d8.8177818!16s%2Fg%2F12mkw0g8q!19sChIJbYpYgueUR0YR4GCeW2xlBpg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:54:04.567Z"}
+{"level":"info","message":"✅ Added: Oslo Dental","timestamp":"2026-02-18T06:54:05.747Z"}
+{"level":"info","message":"🔍 Deep crawling: https://oslodental.com/...","timestamp":"2026-02-18T06:54:05.748Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Orbdent+Oslo+AS/data=!4m7!3m6!1s0x46416e62ae453e4f:0x4ffe8b005a3e29b7!8m2!3d59.9131745!4d10.7428686!16s%2Fg%2F1v9l9c5n!19sChIJTz5FrmJuQUYRtyk-WgCL_k8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:54:13.490Z"}
+{"level":"info","message":"✅ Added: Orbdent Oslo AS","timestamp":"2026-02-18T06:54:14.644Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orbdent.no/...","timestamp":"2026-02-18T06:54:14.649Z"}
+{"level":"info","message":"📧 Found 1 emails for Orbdent Oslo AS","timestamp":"2026-02-18T06:54:22.181Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Optimal+Dental/data=!4m7!3m6!1s0x46416e877cc0befd:0x9ff000b842471444!8m2!3d59.9128085!4d10.7360236!16s%2Fg%2F11df0scb2_!19sChIJ_b7AfIduQUYRRBRHQrgA8J8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:54:22.182Z"}
+{"level":"info","message":"✅ Added: Optimal Dental","timestamp":"2026-02-18T06:54:23.374Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.optimaldentaloslo.no/...","timestamp":"2026-02-18T06:54:23.396Z"}
+{"level":"info","message":"📧 Found 1 emails for Optimal Dental","timestamp":"2026-02-18T06:54:38.624Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+City+Tannlege/data=!4m7!3m6!1s0x46416e619e89ea3b:0x433f887f556708d6!8m2!3d59.914556!4d10.7537472!16s%2Fg%2F11bzqhfgyz!19sChIJO-qJnmFuQUYR1ghnVX-IP0M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:54:38.625Z"}
+{"level":"info","message":"✅ Added: Oslo City Tannlege","timestamp":"2026-02-18T06:54:40.477Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.oslocitytannlege.no/...","timestamp":"2026-02-18T06:54:40.477Z"}
+{"level":"info","message":"📧 Found 1 emails for Oslo City Tannlege","timestamp":"2026-02-18T06:54:52.352Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oslo+Sentrum+Tannklinikk/data=!4m7!3m6!1s0x46416f2c1a714047:0x366fd8f0f2001974!8m2!3d59.9165949!4d10.7387527!16s%2Fg%2F11grc15lmc!19sChIJR0BxGixvQUYRdBkA8vDYbzY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:54:52.352Z"}
+{"level":"info","message":"✅ Added: Oslo Sentrum Tannklinikk","timestamp":"2026-02-18T06:54:53.476Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.oslosentrumtannklinikk.no/...","timestamp":"2026-02-18T06:54:53.486Z"}
+{"level":"info","message":"📧 Found 1 emails for Oslo Sentrum Tannklinikk","timestamp":"2026-02-18T06:55:02.452Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental/data=!4m7!3m6!1s0x46417aa4032532a7:0xdb0d23c39de9e45b!8m2!3d59.9624689!4d10.9063655!16s%2Fg%2F1tdlswct!19sChIJpzIlA6R6QUYRW-TpncMjDds?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:02.452Z"}
+{"level":"info","message":"✅ Added: Oris Dental","timestamp":"2026-02-18T06:55:04.253Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/rommen/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-18T06:55:04.255Z"}
+{"level":"info","message":"📧 Found 8 emails for Oris Dental","timestamp":"2026-02-18T06:55:11.387Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tannlege+Oslo+AS/data=!4m7!3m6!1s0x46416e5d19f28745:0x5055ce51eeb1d300!8m2!3d59.9184246!4d10.7620367!16s%2Fg%2F11bzqdrc6x!19sChIJRYfyGV1uQUYRANOx7lHOVVA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:11.387Z"}
+{"level":"info","message":"✅ Added: Tannlege Oslo AS","timestamp":"2026-02-18T06:55:12.458Z"}
+{"level":"info","message":"🔍 Deep crawling: http://oslotannlegeklinikk.no/...","timestamp":"2026-02-18T06:55:12.470Z"}
+{"level":"info","message":"📧 Found 2 emails for Tannlege Oslo AS","timestamp":"2026-02-18T06:55:19.827Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tannlegene+p%C3%A5+Sinsen+%7C+Tannlege+%26+Tannlegevakt+Oslo/data=!4m7!3m6!1s0x46416e4755796539:0x74675cd1e2a6749!8m2!3d59.9329426!4d10.7791534!16s%2Fg%2F1tmxd4c4!19sChIJOWV5VUduQUYRSWcqHs11Rgc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:19.828Z"}
+{"level":"info","message":"✅ Added: Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo","timestamp":"2026-02-18T06:55:21.311Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.tannlegesinsen.no/?UTM_source=GMB_listing&UTM_medium=organic...","timestamp":"2026-02-18T06:55:21.311Z"}
+{"level":"info","message":"📧 Found 1 emails for Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo","timestamp":"2026-02-18T06:55:30.830Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sanner+Tannklinikk+%2F+Tannlegevakt/data=!4m7!3m6!1s0x46416f307099c5f9:0xe9a498f2025549fc!8m2!3d59.9288432!4d10.7667687!16s%2Fg%2F11tnk4x16g!19sChIJ-cWZcDBvQUYR_ElVAvKYpOk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:30.830Z"}
+{"level":"info","message":"✅ Added: Sanner Tannklinikk / Tannlegevakt","timestamp":"2026-02-18T06:55:32.315Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sannertannklinikk.no/...","timestamp":"2026-02-18T06:55:32.315Z"}
+{"level":"info","message":"📧 Found 2 emails for Sanner Tannklinikk / Tannlegevakt","timestamp":"2026-02-18T06:55:38.420Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Park/data=!4m7!3m6!1s0x46416e78eae9da35:0x26c4977078391240!8m2!3d59.9210042!4d10.7288282!16s%2Fg%2F1vfwbf9c!19sChIJNdrp6nhuQUYRQBI5eHCXxCY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:38.420Z"}
+{"level":"info","message":"✅ Added: Dental Park","timestamp":"2026-02-18T06:55:39.590Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dentalpark.no/...","timestamp":"2026-02-18T06:55:39.594Z"}
+{"level":"info","message":"📧 Found 1 emails for Dental Park","timestamp":"2026-02-18T06:55:51.236Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Oris+Dental+Homansbyen/data=!4m7!3m6!1s0x46416e7887b1cb15:0xf0d02121d9e0ee01!8m2!3d59.9223239!4d10.7281872!16s%2Fg%2F12mkvmtlm!19sChIJFcuxh3huQUYRAe7g2SEh0PA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:51.237Z"}
+{"level":"info","message":"✅ Added: Oris Dental Homansbyen","timestamp":"2026-02-18T06:55:52.985Z"}
+{"level":"info","message":"🔍 Deep crawling: https://orisdental.no/klinikker/homansbyen/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside...","timestamp":"2026-02-18T06:55:52.985Z"}
+{"level":"info","message":"📧 Found 8 emails for Oris Dental Homansbyen","timestamp":"2026-02-18T06:55:59.037Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Eurodent+Oslo+tannklinikk+og+oralkirurgi/data=!4m7!3m6!1s0x46416e87e56521df:0xb7ff9c03d96efc3e!8m2!3d59.9118915!4d10.7403955!16s%2Fg%2F1tfrqhxk!19sChIJ3yFl5YduQUYRPvxu2QOc_7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T06:55:59.037Z"}
+{"level":"info","message":"✅ Added: Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-18T06:56:00.678Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.eurodent.no/tannlege-oslo?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-18T06:56:00.679Z"}
+{"level":"info","message":"📧 Found 1 emails for Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-18T06:56:06.070Z"}
+{"level":"info","message":"🏁 Job c5525282-b333-49bd-a4d1-c4c6630c10d2 Completed. Added: 20, Skipped: 0","timestamp":"2026-02-18T06:56:06.076Z"}
