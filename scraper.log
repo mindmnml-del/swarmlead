@@ -2665,3 +2665,72 @@
 {"level":"info","message":"🔍 Deep crawling: https://www.eurodent.no/tannlege-oslo?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-18T06:56:00.679Z"}
 {"level":"info","message":"📧 Found 1 emails for Eurodent Oslo tannklinikk og oralkirurgi","timestamp":"2026-02-18T06:56:06.070Z"}
 {"level":"info","message":"🏁 Job c5525282-b333-49bd-a4d1-c4c6630c10d2 Completed. Added: 20, Skipped: 0","timestamp":"2026-02-18T06:56:06.076Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-18T07:12:36.660Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-18T07:12:36.666Z"}
+{"level":"info","message":"🚀 Processing Job: soccer fields in barcelona  (c65c3e92-3ab9-4a3c-9452-6a84548bdd0f) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-18T07:18:02.233Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/soccer+fields+in+barcelona+?hl=en","timestamp":"2026-02-18T07:18:03.641Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-18T07:18:05.202Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 20 (attempt 1/30)","timestamp":"2026-02-18T07:18:08.812Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-18T07:18:08.814Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-18T07:18:08.820Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-18T07:18:08.833Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Spotify+Camp+Nou/data=!4m7!3m6!1s0x12a498f576297baf:0x44f65330fe1b04b9!8m2!3d41.380896!4d2.1228198!16zL20vMDFnZ2ps!19sChIJr3spdvWYpBIRuQQb_jBT9kQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:18:09.510Z"}
+{"level":"info","message":"✅ Added: Spotify Camp Nou","timestamp":"2026-02-18T07:18:11.379Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 99","timestamp":"2026-02-18T07:18:11.386Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.fcbarcelona.cat/ca/club/installacions/spotify-camp-nou...","timestamp":"2026-02-18T07:18:11.387Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Satalia+Municipal+Soccer+Field/data=!4m7!3m6!1s0x12a4a2688f4706d3:0x67400efcdf0c961a!8m2!3d41.3703383!4d2.1625445!16s%2Fg%2F11r930tff!19sChIJ0wZHj2iipBIRGpYM3_wOQGc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:18:21.235Z"}
+{"level":"info","message":"✅ Added: Satalia Municipal Soccer Field","timestamp":"2026-02-18T07:18:23.238Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 98","timestamp":"2026-02-18T07:18:23.245Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.apapoblesec.com/...","timestamp":"2026-02-18T07:18:23.246Z"}
+{"level":"info","message":"📧 Found 2 emails for Satalia Municipal Soccer Field","timestamp":"2026-02-18T07:18:41.987Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Nou+Sardenya+Municipal+Stadium/data=!4m7!3m6!1s0x12a4a2b76fdc7f43:0xbbd7c40003f77103!8m2!3d41.4117301!4d2.1615738!16s%2Fm%2F0tkgq83!19sChIJQ3_cb7eipBIRA3H3AwDE17s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:18:41.988Z"}
+{"level":"info","message":"✅ Added: Nou Sardenya Municipal Stadium","timestamp":"2026-02-18T07:18:43.092Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 97","timestamp":"2026-02-18T07:18:43.102Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.ceeuropa.cat/...","timestamp":"2026-02-18T07:18:43.107Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Futbol+7+Barcelona/data=!4m7!3m6!1s0x12a4bcc95bad1049:0x5e3c498540202bb8!8m2!3d41.4257916!4d2.1970336!16s%2Fg%2F11bw8d_z__!19sChIJSRCtW8m8pBIRuCsgQIVJPF4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:18:52.136Z"}
+{"level":"info","message":"✅ Added: Futbol 7 Barcelona","timestamp":"2026-02-18T07:18:53.238Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 96","timestamp":"2026-02-18T07:18:53.244Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.futbol7barcelona.com/...","timestamp":"2026-02-18T07:18:53.245Z"}
+{"level":"info","message":"📧 Found 1 emails for Futbol 7 Barcelona","timestamp":"2026-02-18T07:18:58.937Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CeleBreak+Barceloneta/data=!4m7!3m6!1s0x12a4a35037db5b95:0xaf630f6f93289439!8m2!3d41.3826147!4d2.1914528!16s%2Fg%2F11vq0x7fq7!19sChIJlVvbN1CjpBIROZQok28PY68?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:18:58.938Z"}
+{"level":"info","message":"✅ Added: CeleBreak Barceloneta","timestamp":"2026-02-18T07:18:59.979Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 95","timestamp":"2026-02-18T07:18:59.989Z"}
+{"level":"info","message":"🔍 Deep crawling: https://celebreak.com/...","timestamp":"2026-02-18T07:18:59.989Z"}
+{"level":"info","message":"📧 Found 1 emails for CeleBreak Barceloneta","timestamp":"2026-02-18T07:19:13.897Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Camp+de+futbol/data=!4m7!3m6!1s0x12a4a3e0fd85550d:0xe3f03ea661e0a5c4!8m2!3d41.3606282!4d2.1537153!16s%2Fg%2F11k54blrms!19sChIJDVWF_eCjpBIRxKXgYaY-8OM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:19:13.897Z"}
+{"level":"info","message":"✅ Added: Camp de futbol","timestamp":"2026-02-18T07:19:14.882Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 94","timestamp":"2026-02-18T07:19:14.886Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Camp+de+Futbol+Municipal+Ib%C3%A8ria+PreviousNext/data=!4m7!3m6!1s0x12a498a0ac94c815:0x9dce0ada5ae4c7ee!8m2!3d41.3563272!4d2.144643!16s%2Fg%2F11c7_x209d!19sChIJFciUrKCYpBIR7sfkWtoKzp0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:19:14.887Z"}
+{"level":"info","message":"✅ Added: Camp de Futbol Municipal Ibèria PreviousNext","timestamp":"2026-02-18T07:19:15.912Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 93","timestamp":"2026-02-18T07:19:15.924Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Mini+campo+de+f%C3%BAtbol+para+aficionados/data=!4m7!3m6!1s0x12a4a31de5e4d043:0xec67308bd9a8e24f!8m2!3d41.3809372!4d2.1248587!16s%2Fg%2F11v5xtmf9v!19sChIJQ9Dk5R2jpBIRT-Ko2YswZ-w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:19:15.927Z"}
+{"level":"info","message":"✅ Added: Mini campo de fútbol para aficionados","timestamp":"2026-02-18T07:19:17.386Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 92","timestamp":"2026-02-18T07:19:17.392Z"}
+{"level":"info","message":"🔍 Deep crawling: http://uriel2023pc.wordpress.com/...","timestamp":"2026-02-18T07:19:17.392Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Barcelona+World+Soccer+Academy+Sant+Antoni/data=!4m7!3m6!1s0x12a4a306436d5785:0xa3ed4f2e9d8236db!8m2!3d41.3773831!4d2.156848!16s%2Fg%2F11yk3963ks!19sChIJhVdtQwajpBIR2zaCnS5P7aM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:21:07.605Z"}
+{"level":"info","message":"✅ Added: Barcelona World Soccer Academy Sant Antoni","timestamp":"2026-02-18T07:21:08.646Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 91","timestamp":"2026-02-18T07:21:08.653Z"}
+{"level":"info","message":"🔍 Deep crawling: https://90worldexperience.com/barcelona-world-academy/...","timestamp":"2026-02-18T07:21:08.653Z"}
+{"level":"info","message":"📧 Found 1 emails for Barcelona World Soccer Academy Sant Antoni","timestamp":"2026-02-18T07:21:28.863Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CeleBreak+Park+G%C3%BCell/data=!4m7!3m6!1s0x12a4a3467547a389:0x472f112347ee16be!8m2!3d41.416199!4d2.154385!16s%2Fg%2F11vs68jljh!19sChIJiaNHdUajpBIRvhbuRyMRL0c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:21:28.863Z"}
+{"level":"info","message":"✅ Added: CeleBreak Park Güell","timestamp":"2026-02-18T07:21:29.916Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 90","timestamp":"2026-02-18T07:21:29.931Z"}
+{"level":"info","message":"🔍 Deep crawling: https://celebreak.com/...","timestamp":"2026-02-18T07:21:29.935Z"}
+{"level":"info","message":"📧 Found 1 emails for CeleBreak Park Güell","timestamp":"2026-02-18T07:21:37.771Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ciutat+Esportiva+Dani+Jarque/data=!4m7!3m6!1s0x12a4bcb19bde3467:0x4ca81badfccbfb5c!8m2!3d41.4261665!4d2.2121362!16s%2Fm%2F013228x0!19sChIJZzTem7G8pBIRXPvL_K0bqEw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:21:37.772Z"}
+{"level":"info","message":"✅ Added: Ciutat Esportiva Dani Jarque","timestamp":"2026-02-18T07:21:38.860Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 89","timestamp":"2026-02-18T07:21:38.875Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.rcdespanyol.com/...","timestamp":"2026-02-18T07:21:38.881Z"}
+{"level":"info","message":"📧 Found 1 emails for Ciutat Esportiva Dani Jarque","timestamp":"2026-02-18T07:21:48.304Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Futbol+Club+Barcelona/data=!4m7!3m6!1s0x12a498f686557863:0xea04cbc8c764131d!8m2!3d41.3790659!4d2.120015!16s%2Fg%2F11jp7252t6!19sChIJY3hVhvaYpBIRHRNkx8jLBOo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:21:48.305Z"}
+{"level":"info","message":"✅ Added: Futbol Club Barcelona","timestamp":"2026-02-18T07:21:49.253Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 88","timestamp":"2026-02-18T07:21:49.275Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/C.E+Vincit/data=!4m7!3m6!1s0x12a4a3883f5fdf0d:0x434f70d47e1d3115!8m2!3d41.3942906!4d2.1798702!16s%2Fg%2F11p5znr3d6!19sChIJDd9fP4ijpBIRFTEdftRwT0M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:21:49.277Z"}
+{"level":"info","message":"✅ Added: C.E Vincit","timestamp":"2026-02-18T07:21:50.377Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 87","timestamp":"2026-02-18T07:21:50.384Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.cevincit.cat/...","timestamp":"2026-02-18T07:21:50.385Z"}
+{"level":"info","message":"📧 Found 1 emails for C.E Vincit","timestamp":"2026-02-18T07:22:03.427Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Camp+de+futbol+Municipal+Narc%C3%ADs+Sala/data=!4m7!3m6!1s0x12a4bcd04cd88023:0x977df016436367c7!8m2!3d41.4288822!4d2.1930871!16s%2Fm%2F05zpk3x!19sChIJI4DYTNC8pBIRx2djQxbwfZc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-18T07:22:03.427Z"}
+{"level":"info","message":"✅ Added: Camp de futbol Municipal Narcís Sala","timestamp":"2026-02-18T07:22:04.593Z"}
+{"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 86","timestamp":"2026-02-18T07:22:04.606Z"}
+{"level":"info","message":"🔍 Deep crawling: http://uesantandreu.cat/...","timestamp":"2026-02-18T07:22:04.616Z"}
