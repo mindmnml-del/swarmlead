@@ -787,3 +787,65 @@
 {"level":"info","message":"👷 Processing: PR ON THE GO (ID: a1932e77-ee45-4c0e-8115-fc9bf446abea) - URL: http://www.pronthego.com/","timestamp":"2026-02-15T18:26:56.595Z"}
 {"level":"info","message":"🤷 No emails found for Online Marketing Berater - Kai Rauch","timestamp":"2026-02-15T18:27:06.162Z"}
 {"level":"info","message":"🤷 No emails found for PR ON THE GO","timestamp":"2026-02-15T18:27:08.197Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-ef196ba1","timestamp":"2026-02-21T06:49:43.565Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T06:49:44.428Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T06:49:50.328Z"}
+{"level":"info","message":"👷 Processing: Hidden Coffee Roasters - El Born (ID: 2116897f-4b70-439e-974c-844d934092e8) - URL: http://hiddencoffeeroasters.com/","timestamp":"2026-02-21T06:49:50.508Z"}
+{"level":"info","message":"✅ Found 1 emails for Hidden Coffee Roasters - El Born: info@hiddencoffeeroasters.com","timestamp":"2026-02-21T06:50:06.735Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-21T06:50:06.895Z"}
+{"level":"info","message":"👷 Processing: The Coffee House Barcelona (ID: ca007061-e746-424d-a831-978bb19c984f) - URL: https://www.thecoffeehousebcn.com/","timestamp":"2026-02-21T06:50:06.903Z"}
+{"level":"info","message":"✅ Found 2 emails for The Coffee House Barcelona: thecoffeehousebcn@gmail.com, thecoffeehousebcn@gmail.comdejanos","timestamp":"2026-02-21T06:50:17.124Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-21T06:50:17.148Z"}
+{"level":"info","message":"👷 Processing: ONIS COFFEE (ID: 4ea827f4-4fc5-46e4-b73a-23157f05ffd1) - URL: https://www.instagram.com/oniscoffee/","timestamp":"2026-02-21T06:50:17.155Z"}
+{"level":"info","message":"🤷 No emails found for ONIS COFFEE","timestamp":"2026-02-21T06:50:26.407Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-21T06:50:26.503Z"}
+{"level":"info","message":"👷 Processing: paradero | Barcelona (ID: c975f201-a284-4ac7-8783-45f7e77e9d4c) - URL: http://www.paradero.eu/","timestamp":"2026-02-21T06:50:26.535Z"}
+{"level":"info","message":"✅ Found 1 emails for paradero | Barcelona: info@paradero.eu","timestamp":"2026-02-21T06:50:33.809Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-21T06:50:33.838Z"}
+{"level":"info","message":"👷 Processing: Ripa Coffee - Eixample (ID: a2ced88e-ea50-42e4-ad7a-ba383c6f74ef) - URL: null","timestamp":"2026-02-21T06:50:33.845Z"}
+{"level":"warn","message":"⚠️  No website for Ripa Coffee - Eixample, marking FAILED.","timestamp":"2026-02-21T06:50:33.846Z"}
+{"level":"info","message":"👷 Processing: Departure Coffee Co. (ID: 9ed1feee-34de-42ca-9874-1967db367c6c) - URL: null","timestamp":"2026-02-21T06:50:33.869Z"}
+{"level":"warn","message":"⚠️  No website for Departure Coffee Co., marking FAILED.","timestamp":"2026-02-21T06:50:33.870Z"}
+{"level":"info","message":"👷 Processing: Maison coffee (ID: 4e3ea238-5c28-4fac-8a34-89e24abd3467) - URL: null","timestamp":"2026-02-21T06:50:34.041Z"}
+{"level":"warn","message":"⚠️  No website for Maison coffee, marking FAILED.","timestamp":"2026-02-21T06:50:34.042Z"}
+{"level":"info","message":"👷 Processing: The Coffee House Barcelona (ID: a344355d-2d69-4c6b-b5ee-f0833e896b61) - URL: https://www.thecoffeehousebcn.com/","timestamp":"2026-02-21T06:50:34.057Z"}
+{"level":"info","message":"✅ Found 2 emails for The Coffee House Barcelona: thecoffeehousebcn@gmail.com, thecoffeehousebcn@gmail.comdejanos","timestamp":"2026-02-21T06:50:39.568Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-21T06:50:39.594Z"}
+{"level":"info","message":"👷 Processing: D Origen Coffee Roasters (ID: b60bd533-84a7-42d2-b3a8-5425a2a3b780) - URL: https://www.dorigencoffee.es/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_barcelona","timestamp":"2026-02-21T06:50:39.600Z"}
+{"level":"info","message":"✅ Found 2 emails for D Origen Coffee Roasters: info@dorigencoffee.es, hinfo@dorigencoffee.es","timestamp":"2026-02-21T06:50:51.791Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-21T06:50:51.816Z"}
+{"level":"info","message":"👷 Processing: Lodetto Café (ID: 15724a48-d834-4b5e-bf7b-1747a349b752) - URL: https://instagram.com/lodettocafe?igshid=YmMyMTA2M2Y=","timestamp":"2026-02-21T06:50:51.824Z"}
+{"level":"info","message":"🤷 No emails found for Lodetto Café","timestamp":"2026-02-21T06:51:02.910Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-21T06:51:02.929Z"}
+{"level":"info","message":"👷 Processing: Motiko Barcelona - Specialty Coffee & Matcha (ID: 20c036e3-bbd5-4819-989d-909dd98c7c1f) - URL: null","timestamp":"2026-02-21T06:51:02.938Z"}
+{"level":"warn","message":"⚠️  No website for Motiko Barcelona - Specialty Coffee & Matcha, marking FAILED.","timestamp":"2026-02-21T06:51:02.997Z"}
+{"level":"info","message":"👷 Processing: Syra Coffee (ID: b0b31b00-fcb3-495e-b1da-0ad4de7c3fb3) - URL: http://www.syra.coffee/","timestamp":"2026-02-21T06:51:03.033Z"}
+{"level":"info","message":"✅ Found 2 emails for Syra Coffee: info@syra.coffee, orders@syra.coffee","timestamp":"2026-02-21T06:51:13.092Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-21T06:51:13.127Z"}
+{"level":"info","message":"👷 Processing: Hidden Coffee Roasters - Les Corts (ID: d1902fb6-80ef-43fa-8a6b-8cb93fd04bec) - URL: http://hiddencoffeeroasters.com/","timestamp":"2026-02-21T06:51:13.138Z"}
+{"level":"info","message":"✅ Found 1 emails for Hidden Coffee Roasters - Les Corts: info@hiddencoffeeroasters.com","timestamp":"2026-02-21T06:51:22.643Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-21T06:51:22.674Z"}
+{"level":"info","message":"👷 Processing: The Coffee (ID: 2a839a93-3cd4-48a5-b672-6503f237fc76) - URL: null","timestamp":"2026-02-21T06:51:22.680Z"}
+{"level":"warn","message":"⚠️  No website for The Coffee, marking FAILED.","timestamp":"2026-02-21T06:51:22.681Z"}
+{"level":"info","message":"👷 Processing: Vera Cafè (ID: 3b00aa2e-7927-4ea4-a997-57cbadb907b5) - URL: http://veraacafe.com/","timestamp":"2026-02-21T06:51:22.693Z"}
+{"level":"info","message":"✅ Found 1 emails for Vera Cafè: veraacoffee@gmail.com","timestamp":"2026-02-21T06:51:29.750Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-21T06:51:29.789Z"}
+{"level":"info","message":"👷 Processing: Dalston Coffee Barcelona - Cafè d'especialitat - Coffee Roasters (ID: 7bc5d3b8-b339-405f-a111-05758a442f1e) - URL: http://www.dalstoncoffee.com/","timestamp":"2026-02-21T06:51:29.796Z"}
+{"level":"info","message":"✅ Found 1 emails for Dalston Coffee Barcelona - Cafè d'especialitat - Coffee Roasters: garrigainfo@dalstoncoffee.com","timestamp":"2026-02-21T06:51:40.541Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-21T06:51:40.565Z"}
+{"level":"info","message":"👷 Processing: Nomad Coffee Bar (ex Coffee Lab) (ID: 9ec27bad-84e9-45b0-9f38-fb669b77ee62) - URL: http://nomadcoffee.es/","timestamp":"2026-02-21T06:51:40.572Z"}
+{"level":"info","message":"✅ Found 1 emails for Nomad Coffee Bar (ex Coffee Lab): info@nomadcoffee.es","timestamp":"2026-02-21T06:51:48.201Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-21T06:51:48.231Z"}
+{"level":"info","message":"👷 Processing: Right Side Coffee Bar (ID: d9c2ebf2-42d1-4982-abd0-4fd4910eca5b) - URL: http://www.rightsidecoffee.com/","timestamp":"2026-02-21T06:51:48.236Z"}
+{"level":"info","message":"🤷 No emails found for Right Side Coffee Bar","timestamp":"2026-02-21T06:51:59.929Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-21T06:51:59.943Z"}
+{"level":"info","message":"👷 Processing: Wow Coffee (ID: ef7ee773-d546-4d1f-8425-4144685062ef) - URL: https://www.instagram.com/wow.coffeee/","timestamp":"2026-02-21T06:51:59.951Z"}
+{"level":"info","message":"🤷 No emails found for Wow Coffee","timestamp":"2026-02-21T06:52:06.247Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-21T06:52:06.265Z"}
+{"level":"info","message":"👷 Processing: Morrow Coffee (ID: 8ccfc3a1-1304-410f-8424-331dc713c09f) - URL: http://morrowcoffee.com/","timestamp":"2026-02-21T06:52:06.271Z"}
+{"level":"info","message":"✅ Found 1 emails for Morrow Coffee: info@morrowcoffee.com","timestamp":"2026-02-21T06:52:13.312Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-21T06:52:13.340Z"}
+{"level":"info","message":"👷 Processing: Hot Stone Steakhouse Budapest (ID: 60344809-eb88-4261-8da1-40177bf4a8da) - URL: http://www.hotstone.hu/","timestamp":"2026-02-21T06:52:13.347Z"}
+{"level":"info","message":"✅ Found 1 emails for Hot Stone Steakhouse Budapest: hotstonebudapest@gmail.com","timestamp":"2026-02-21T06:52:25.651Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-21T06:52:25.677Z"}
+{"level":"info","message":"👷 Processing: FIRST Craft Beer & BBQ (ID: 07216a6a-c14a-4a4a-8cd8-449eef8e2927) - URL: https://firstbbq.hu/","timestamp":"2026-02-21T06:52:25.683Z"}
