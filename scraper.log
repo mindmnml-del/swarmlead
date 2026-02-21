@@ -2734,3 +2734,743 @@
 {"level":"info","message":"✅ Added: Camp de futbol Municipal Narcís Sala","timestamp":"2026-02-18T07:22:04.593Z"}
 {"level":"info","message":"💳 Credit deducted. Remaining for user user_39ngUXatmJLpOmAMTchFOsYCpPc: 86","timestamp":"2026-02-18T07:22:04.606Z"}
 {"level":"info","message":"🔍 Deep crawling: http://uesantandreu.cat/...","timestamp":"2026-02-18T07:22:04.616Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-21T07:43:47.784Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-21T07:43:47.789Z"}
+{"level":"info","message":"🚀 Processing Job: test log (e0c54562-2e61-4776-8f72-fe501dda824c) for User: admin","timestamp":"2026-02-21T07:43:48.044Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T07:43:48.915Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/test+log?hl=en","timestamp":"2026-02-21T07:43:49.082Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T07:43:50.043Z"}
+{"level":"warn","message":"⚠️ Feed or results container not found immediately.","timestamp":"2026-02-21T07:44:50.059Z"}
+{"level":"info","message":"📋 Found 0 leads. Extracting...","timestamp":"2026-02-21T07:44:50.068Z"}
+{"level":"info","message":"🏁 Job e0c54562-2e61-4776-8f72-fe501dda824c Completed. Added: 0, Skipped: 0","timestamp":"2026-02-21T07:44:50.077Z"}
+{"level":"info","message":"🚀 Processing Job: test validation (80d746e4-5dc4-4dd5-9100-e4d6731433c4) for User: admin","timestamp":"2026-02-21T07:44:55.397Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T07:44:55.969Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/test+validation?hl=en","timestamp":"2026-02-21T07:44:56.154Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T07:44:57.507Z"}
+{"level":"warn","message":"⚠️ Feed or results container not found immediately.","timestamp":"2026-02-21T07:45:57.516Z"}
+{"level":"info","message":"📋 Found 0 leads. Extracting...","timestamp":"2026-02-21T07:45:57.524Z"}
+{"level":"info","message":"🏁 Job 80d746e4-5dc4-4dd5-9100-e4d6731433c4 Completed. Added: 0, Skipped: 0","timestamp":"2026-02-21T07:45:57.531Z"}
+{"level":"info","message":"🚀 Processing Job: digital marketing agencies New York (b24397b7-daf1-4351-b08e-52dfca66eda5) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-21T07:46:02.843Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T07:46:03.508Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/digital+marketing+agencies+New+York?hl=en","timestamp":"2026-02-21T07:46:03.701Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T07:46:04.730Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 19 (attempt 1/30)","timestamp":"2026-02-21T07:46:07.822Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 20 (attempt 2/30)","timestamp":"2026-02-21T07:46:09.096Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 29 (attempt 3/30)","timestamp":"2026-02-21T07:46:10.334Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 38 (attempt 4/30)","timestamp":"2026-02-21T07:46:11.542Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 5/30)","timestamp":"2026-02-21T07:46:12.757Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 49 (attempt 6/30)","timestamp":"2026-02-21T07:46:13.977Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 58 (attempt 7/30)","timestamp":"2026-02-21T07:46:15.190Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 60 (attempt 8/30)","timestamp":"2026-02-21T07:46:16.398Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 69 (attempt 9/30)","timestamp":"2026-02-21T07:46:17.615Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 78 (attempt 10/30)","timestamp":"2026-02-21T07:46:18.837Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 80 (attempt 11/30)","timestamp":"2026-02-21T07:46:20.054Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 89 (attempt 12/30)","timestamp":"2026-02-21T07:46:21.265Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 98 (attempt 13/30)","timestamp":"2026-02-21T07:46:22.484Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 98 (attempt 14/30)","timestamp":"2026-02-21T07:46:23.694Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 98 (attempt 15/30)","timestamp":"2026-02-21T07:46:24.909Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 98 (attempt 16/30)","timestamp":"2026-02-21T07:46:26.123Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-21T07:46:26.123Z"}
+{"level":"info","message":"✅ Collected 98 unique links.","timestamp":"2026-02-21T07:46:26.126Z"}
+{"level":"info","message":"📋 Found 98 leads. Extracting...","timestamp":"2026-02-21T07:46:26.134Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+NYC+Agency/data=!4m7!3m6!1s0x89c258f52d8a984f:0xf2bb8451229cd7c3!8m2!3d40.774285!4d-73.9807173!16s%2Fg%2F11kc8mrw7r!19sChIJT5iKLfVYwokRw9ecIlGEu_I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:46:26.135Z"}
+{"level":"info","message":"✅ Added: Digital NYC Agency","timestamp":"2026-02-21T07:46:27.861Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.digitalnycagency.com/...","timestamp":"2026-02-21T07:46:27.861Z"}
+{"level":"info","message":"📧 Found 5 emails for Digital NYC Agency","timestamp":"2026-02-21T07:46:34.395Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jives+Media/data=!4m7!3m6!1s0x89c259869319e7af:0x54953953a5ede7bb!8m2!3d40.7453911!4d-73.9904866!16s%2Fg%2F11jtxfx3x2!19sChIJr-cZk4ZZwokRu-ftpVM5lVQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:46:34.396Z"}
+{"level":"info","message":"✅ Added: Jives Media","timestamp":"2026-02-21T07:46:36.495Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/...","timestamp":"2026-02-21T07:46:36.495Z"}
+{"level":"info","message":"📧 Found 1 emails for Jives Media","timestamp":"2026-02-21T07:46:46.990Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clickmen%E2%84%A2+Digital+Marketing+Agency/data=!4m7!3m6!1s0x2565cd107814b3cd:0x7fb95772890dcdd7!8m2!3d40.7591523!4d-73.9777136!16s%2Fg%2F11w43n2yct!19sChIJzbMUeBDNZSUR180NiXJXuX8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:46:46.991Z"}
+{"level":"info","message":"✅ Added: Clickmen™ Digital Marketing Agency","timestamp":"2026-02-21T07:46:48.190Z"}
+{"level":"info","message":"🔍 Deep crawling: https://clickmen.us/en/digital-marketing-agency-in-nyc-new-york-ny/...","timestamp":"2026-02-21T07:46:48.191Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hunter+Digital+Marketing+Agency+-+Social+Media+%26+Search+Marketing+Agency+in+New+York/data=!4m7!3m6!1s0x89c288c707ca5129:0xb4c46c0ddce1cc86!8m2!3d40.7450692!4d-73.9934267!16s%2Fg%2F1td4l13m!19sChIJKVHKB8eIwokRhszh3A1sxLQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:47:00.884Z"}
+{"level":"info","message":"✅ Added: Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York","timestamp":"2026-02-21T07:47:01.992Z"}
+{"level":"info","message":"🔍 Deep crawling: https://hunterdigitalmarketing.com/...","timestamp":"2026-02-21T07:47:01.993Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vab+Media+Digital+Agency,+LLC/data=!4m7!3m6!1s0x89c2598a7672325f:0xa13a4a00919176c2!8m2!3d40.7182981!4d-74.0022812!16s%2Fg%2F11bccmbbrk!19sChIJXzJydopZwokRwnaRkQBKOqE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:47:15.564Z"}
+{"level":"info","message":"✅ Added: Vab Media Digital Agency, LLC","timestamp":"2026-02-21T07:47:17.135Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.vabulous.com/...","timestamp":"2026-02-21T07:47:17.136Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Drew+SEM/data=!4m7!3m6!1s0x89c258c741910ab1:0x7b88198b45022808!8m2!3d40.7429246!4d-73.9834751!16s%2Fg%2F11f24vg3gh!19sChIJsQqRQcdYwokRCCgCRYsZiHs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:47:34.204Z"}
+{"level":"info","message":"✅ Added: Digital Drew SEM","timestamp":"2026-02-21T07:47:35.298Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.digitaldrewsem.com/...","timestamp":"2026-02-21T07:47:35.298Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/inBeat+Agency/data=!4m7!3m6!1s0x89c25ba3a6cddb8b:0xcc9bfdeda918203d!8m2!3d40.7037765!4d-74.0119032!16s%2Fg%2F11nftss620!19sChIJi9vNpqNbwokRPSAYqe39m8w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:47:44.678Z"}
+{"level":"info","message":"✅ Added: inBeat Agency","timestamp":"2026-02-21T07:47:45.787Z"}
+{"level":"info","message":"🔍 Deep crawling: https://inbeat.agency/locations/new-york/influencer-marketing...","timestamp":"2026-02-21T07:47:45.788Z"}
+{"level":"info","message":"📧 Found 2 emails for inBeat Agency","timestamp":"2026-02-21T07:47:53.724Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Star+Tech+SEO+-+Digital+Marketing+Agency+New+York/data=!4m7!3m6!1s0xaadd292c748e9771:0x5f50b98bce59c6d3!8m2!3d40.752697!4d-73.9935515!16s%2Fg%2F11wmy6p_dg!19sChIJcZeOdCwp3aoR08ZZzou5UF8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:47:53.725Z"}
+{"level":"info","message":"✅ Added: Star Tech SEO - Digital Marketing Agency New York","timestamp":"2026-02-21T07:47:54.852Z"}
+{"level":"info","message":"🔍 Deep crawling: https://startechseo.com/?utm_source=google&utm_medium=gmb&utm_campaign=organic...","timestamp":"2026-02-21T07:47:54.853Z"}
+{"level":"info","message":"📧 Found 1 emails for Star Tech SEO - Digital Marketing Agency New York","timestamp":"2026-02-21T07:48:03.463Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MeanPug+Digital/data=!4m7!3m6!1s0x89c258c0a3b14cf5:0x86c79fe751305875!8m2!3d40.7514661!4d-73.9806798!16s%2Fg%2F11ddzl9ypb!19sChIJ9Uyxo8BYwokRdVgwUeefx4Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:03.463Z"}
+{"level":"info","message":"✅ Added: MeanPug Digital","timestamp":"2026-02-21T07:48:04.618Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.meanpug.com/...","timestamp":"2026-02-21T07:48:04.620Z"}
+{"level":"info","message":"📧 Found 26 emails for MeanPug Digital","timestamp":"2026-02-21T07:48:11.257Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadige+Media+Group/data=!4m7!3m6!1s0x89c25854e6aa136f:0x20cf9222f820b1e6!8m2!3d40.757068!4d-73.986446!16s%2Fg%2F12lkcfsch!19sChIJbxOq5lRYwokR5rEg-CKSzyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:11.258Z"}
+{"level":"info","message":"✅ Added: Leadige Media Group","timestamp":"2026-02-21T07:48:12.755Z"}
+{"level":"info","message":"🔍 Deep crawling: https://leadige.agency/...","timestamp":"2026-02-21T07:48:12.756Z"}
+{"level":"info","message":"📧 Found 3 emails for Leadige Media Group","timestamp":"2026-02-21T07:48:18.086Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DD.NYC%C2%AE/data=!4m7!3m6!1s0x89c259f5999cf0ab:0x620bebb9ec5f2f32!8m2!3d40.7040881!4d-74.0112022!16s%2Fg%2F11fjtqg_7x!19sChIJq_CcmfVZwokRMi9f7LnrC2I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:18.090Z"}
+{"level":"info","message":"✅ Added: DD.NYC®","timestamp":"2026-02-21T07:48:19.754Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dd.nyc/?utm_source=gmb&utm_medium=google&utm_campaign=gmb-oo...","timestamp":"2026-02-21T07:48:19.755Z"}
+{"level":"info","message":"📧 Found 3 emails for DD.NYC®","timestamp":"2026-02-21T07:48:33.256Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DS%26P+Digital+Marketing+%26+PR+Agency/data=!4m7!3m6!1s0x89c2599a9eb4b881:0xa23129af8e50424f!8m2!3d40.7621698!4d-73.9728933!16s%2Fg%2F11spmcg4_6!19sChIJgbi0nppZwokRT0JQjq8pMaI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:33.256Z"}
+{"level":"info","message":"✅ Added: DS&P Digital Marketing & PR Agency","timestamp":"2026-02-21T07:48:35.029Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.dial911fordesign.com/...","timestamp":"2026-02-21T07:48:35.053Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Main+Street+ROI/data=!4m7!3m6!1s0x89c2585f5fee55e7:0xd5f7cbbf19e2368e!8m2!3d40.778052!4d-73.5683375!16s%2Fg%2F12qgm74j4!19sChIJ51XuX19YwokRjjbiGb_L99U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:40.918Z"}
+{"level":"info","message":"✅ Added: Main Street ROI","timestamp":"2026-02-21T07:48:42.853Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.mainstreetroi.com/?utm_source=google&utm_medium=google%20my%20business...","timestamp":"2026-02-21T07:48:42.854Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Succeedo+-+Digital+Marketing,+SEO,+Web+Development+Agency+in+New+York,+NYC/data=!4m7!3m6!1s0x89c25911791db3a7:0xaaf0c1812f1f3318!8m2!3d40.7619555!4d-73.9784759!16s%2Fg%2F11v6f9pk69!19sChIJp7MdeRFZwokRGDMfL4HB8Ko?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:48:51.629Z"}
+{"level":"info","message":"✅ Added: Succeedo - Digital Marketing, SEO, Web Development Agency in New York, NYC","timestamp":"2026-02-21T07:48:53.422Z"}
+{"level":"info","message":"🔍 Deep crawling: https://succeedodm.com/...","timestamp":"2026-02-21T07:48:53.422Z"}
+{"level":"info","message":"📧 Found 1 emails for Succeedo - Digital Marketing, SEO, Web Development Agency in New York, NYC","timestamp":"2026-02-21T07:49:03.921Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aumcore/data=!4m7!3m6!1s0x89c259cdd583d39f:0xbb6b0028c2ab8586!8m2!3d40.735083!4d-73.9881983!16s%2Fg%2F11h5vz78my!19sChIJn9OD1c1ZwokRhoWrwigAa7s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:03.921Z"}
+{"level":"info","message":"✅ Added: Aumcore","timestamp":"2026-02-21T07:49:05.209Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.aumcore.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB...","timestamp":"2026-02-21T07:49:05.209Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+NYC/data=!4m7!3m6!1s0x89c2598b59558eb3:0xe3e2c81226d46a32!8m2!3d40.72833!4d-73.992139!16s%2Fg%2F11dylx3g8z!19sChIJs45VWYtZwokRMmrUJhLI4uM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:16.077Z"}
+{"level":"info","message":"✅ Added: Digital Marketing Agency NYC","timestamp":"2026-02-21T07:49:17.386Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Organic+Digital+Marketing/data=!4m7!3m6!1s0x89c25988509b84b7:0xd56e5c5df962c777!8m2!3d40.7759725!4d-73.9478532!16s%2Fg%2F11h39lwhx0!19sChIJt4SbUIhZwokRd8di-V1cbtU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:17.387Z"}
+{"level":"info","message":"✅ Added: Organic Digital Marketing","timestamp":"2026-02-21T07:49:18.751Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.digital-marketing-usa.com/...","timestamp":"2026-02-21T07:49:18.752Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+1on1+SEO/data=!4m7!3m6!1s0x89c259635be0ddaf:0x49a85dcc3f9bf967!8m2!3d40.7622973!4d-73.9797344!16s%2Fg%2F11t13swrwj!19sChIJr93gW2NZwokRZ_mbP8xdqEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:28.322Z"}
+{"level":"info","message":"✅ Added: Digital Marketing 1on1 SEO","timestamp":"2026-02-21T07:49:29.634Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.marketing1on1.com/seo-company-new-york/...","timestamp":"2026-02-21T07:49:29.635Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Branding+New+York+City/data=!4m7!3m6!1s0x89c2596289995447:0x91e3323bbc8c9bed!8m2!3d40.756935!4d-73.978799!16s%2Fg%2F11qg99ywzn!19sChIJR1SZiWJZwokR7ZuMvDsy45E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:38.242Z"}
+{"level":"info","message":"✅ Added: Branding New York City","timestamp":"2026-02-21T07:49:39.985Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.brandingnycity.com/...","timestamp":"2026-02-21T07:49:39.985Z"}
+{"level":"info","message":"📧 Found 1 emails for Branding New York City","timestamp":"2026-02-21T07:49:53.376Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadflow+NYC+-+Lead+Gen+Agency+for+Nonprofits+%26+Entrepreneurs/data=!4m7!3m6!1s0x89c259a85859daef:0x40aa5b69542218f6!8m2!3d40.7370087!4d-73.9794227!16s%2Fg%2F11fsxc1yxq!19sChIJ79pZWKhZwokR9hgiVGlbqkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:49:53.380Z"}
+{"level":"info","message":"✅ Added: Leadflow NYC - Lead Gen Agency for Nonprofits & Entrepreneurs","timestamp":"2026-02-21T07:49:55.230Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.leadflow.nyc/...","timestamp":"2026-02-21T07:49:55.230Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JH+SEO+Agency+%7C+New+York+SEO+Experts+-+Digital+Marketing,+Ads+Management,+%26+Web+Development/data=!4m7!3m6!1s0x89c259d9e5d0f3a7:0x3b2e77cebd0bb826!8m2!3d40.7461093!4d-74.0038825!16s%2Fg%2F11hzpl1_vs!19sChIJp_PQ5dlZwokRJrgLvc53Ljs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:54:45.838Z"}
+{"level":"info","message":"✅ Added: JH SEO Agency | New York SEO Experts - Digital Marketing, Ads Management, & Web Development","timestamp":"2026-02-21T07:54:48.172Z"}
+{"level":"info","message":"🔍 Deep crawling: https://jhseoagency.com/...","timestamp":"2026-02-21T07:54:48.173Z"}
+{"level":"info","message":"📧 Found 1 emails for JH SEO Agency | New York SEO Experts - Digital Marketing, Ads Management, & Web Development","timestamp":"2026-02-21T07:54:57.926Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+Marketing+Nerds+New+York+NYC/data=!4m7!3m6!1s0x89c2593b3d733a13:0xc2700a6e57a8671f!8m2!3d40.7202773!4d-73.9842591!16s%2Fg%2F11t7_dk605!19sChIJEzpzPTtZwokRH2eoV24KcMI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:54:57.927Z"}
+{"level":"info","message":"✅ Added: SEO Marketing Nerds New York NYC","timestamp":"2026-02-21T07:55:00.336Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.seomarketingnerds.com/seo-new-york/...","timestamp":"2026-02-21T07:55:00.337Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JUICE:+Full+Service+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89c259a9a9aab5c9:0xeb9d8cfa6bff29e7!8m2!3d40.7249946!4d-74.0072895!16s%2Fg%2F11gf0w78xs!19sChIJybWqqalZwokR5yn_a_qMnes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:55:14.911Z"}
+{"level":"info","message":"✅ Added: JUICE: Full Service Digital Marketing Agency","timestamp":"2026-02-21T07:55:16.692Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.thinkjuice.com/...","timestamp":"2026-02-21T07:55:16.695Z"}
+{"level":"info","message":"📧 Found 1 emails for JUICE: Full Service Digital Marketing Agency","timestamp":"2026-02-21T07:55:27.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Swarm+Digital+Marketing/data=!4m7!3m6!1s0x89c259fbf103ba79:0x1ee241ecba15312b!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11h54m6_yk!19sChIJeboD8ftZwokRKzEVuuxB4h4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:55:27.547Z"}
+{"level":"info","message":"✅ Added: Swarm Digital Marketing","timestamp":"2026-02-21T07:55:28.897Z"}
+{"level":"info","message":"🔍 Deep crawling: https://swarmdigital.io/...","timestamp":"2026-02-21T07:55:28.899Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BusySeed/data=!4m7!3m6!1s0x89c2f716ec1978ed:0x7d1ea29a8aa1d80c!8m2!3d40.7452353!4d-73.9881912!16s%2Fg%2F11k__7f41m!19sChIJ7XgZ7Bb3wokRDNihipqiHn0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:55:43.211Z"}
+{"level":"info","message":"✅ Added: BusySeed","timestamp":"2026-02-21T07:55:44.969Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.busyseed.com/...","timestamp":"2026-02-21T07:55:44.971Z"}
+{"level":"info","message":"📧 Found 1 emails for BusySeed","timestamp":"2026-02-21T07:55:52.601Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Earn+SEO+-+New+York+SEO+Company+%26+Brooklyn+NYC+Marketing+Agency/data=!4m7!3m6!1s0x89c24561fb523bb5:0xf45d878897aaeefd!8m2!3d40.618895!4d-74.029581!16s%2Fg%2F1th1dmrs!19sChIJtTtS-2FFwokR_e6ql4iHXfQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:55:52.603Z"}
+{"level":"info","message":"✅ Added: Earn SEO - New York SEO Company & Brooklyn NYC Marketing Agency","timestamp":"2026-02-21T07:55:53.921Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.earnseo.com/local-seo/?utm_source=google&utm_medium=organic&utm_campaign=gmblisting...","timestamp":"2026-02-21T07:55:53.922Z"}
+{"level":"info","message":"📧 Found 1 emails for Earn SEO - New York SEO Company & Brooklyn NYC Marketing Agency","timestamp":"2026-02-21T07:56:03.267Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NoGood+-+Growth+Marketing+Agency/data=!4m7!3m6!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40!8m2!3d40.7220902!4d-74.000013!16s%2Fg%2F11h81gtk44!19sChIJt1JNwy5ZwokRQLvJGg3T2eA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:56:03.268Z"}
+{"level":"info","message":"✅ Added: NoGood - Growth Marketing Agency","timestamp":"2026-02-21T07:56:05.146Z"}
+{"level":"info","message":"🔍 Deep crawling: https://nogood.io/...","timestamp":"2026-02-21T07:56:05.146Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Verbsz+Marketing/data=!4m7!3m6!1s0x89c25986a80e79eb:0x453ada55acbe770d!8m2!3d40.7395!4d-73.9862571!16s%2Fg%2F11t4lvvnmb!19sChIJ63kOqIZZwokRDXe-rFXaOkU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:56:12.892Z"}
+{"level":"info","message":"✅ Added: Verbsz Marketing","timestamp":"2026-02-21T07:56:14.174Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.verbszmarketing.com/new-york-digital-marketing-agency/...","timestamp":"2026-02-21T07:56:14.175Z"}
+{"level":"info","message":"📧 Found 3 emails for Verbsz Marketing","timestamp":"2026-02-21T07:56:25.350Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NuStream/data=!4m7!3m6!1s0x89c259fd3ca8169d:0x7487a3599770d33f!8m2!3d40.750579!4d-73.9764314!16s%2Fg%2F11h7b5dcj4!19sChIJnRaoPP1ZwokRP9Nwl1mjh3Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:56:25.351Z"}
+{"level":"info","message":"✅ Added: NuStream","timestamp":"2026-02-21T07:56:26.553Z"}
+{"level":"info","message":"🔍 Deep crawling: https://nustreammarketing.com/new-york-city/...","timestamp":"2026-02-21T07:56:26.553Z"}
+{"level":"info","message":"📧 Found 1 emails for NuStream","timestamp":"2026-02-21T07:56:50.397Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Golden+Web+Media/data=!4m7!3m6!1s0x89c2f622e4158a23:0x76d6cb1cc172c68e!8m2!3d40.7607986!4d-73.9717622!16s%2Fg%2F11dfwydkvs!19sChIJI4oV5CL2wokRjsZywRzL1nY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:56:50.398Z"}
+{"level":"info","message":"✅ Added: Golden Web Media","timestamp":"2026-02-21T07:56:51.620Z"}
+{"level":"info","message":"🔍 Deep crawling: https://goldenwebmedia.com/...","timestamp":"2026-02-21T07:56:51.623Z"}
+{"level":"info","message":"📧 Found 2 emails for Golden Web Media","timestamp":"2026-02-21T07:57:03.159Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/5Boro+Digital/data=!4m7!3m6!1s0x89c25b10d53dbae9:0xff3a26d42d5d8c33!8m2!3d40.7049014!4d-74.0072444!16s%2Fg%2F11jclfjpwy!19sChIJ6bo91RBbwokRM4xdLdQmOv8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:03.160Z"}
+{"level":"info","message":"✅ Added: 5Boro Digital","timestamp":"2026-02-21T07:57:04.494Z"}
+{"level":"info","message":"🔍 Deep crawling: https://5borodigital.com/...","timestamp":"2026-02-21T07:57:04.498Z"}
+{"level":"info","message":"📧 Found 2 emails for 5Boro Digital","timestamp":"2026-02-21T07:57:13.511Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Chatter+Buzz+-+Advertising+Agency/data=!4m7!3m6!1s0x89c259a61359c9b1:0x37fa32b5cc91b57!8m2!3d40.7447651!4d-73.9878047!16s%2Fg%2F11hcdvzwxm!19sChIJsclZE6ZZwokRVxvJXCujfwM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:13.512Z"}
+{"level":"info","message":"✅ Added: Chatter Buzz - Advertising Agency","timestamp":"2026-02-21T07:57:15.152Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/...","timestamp":"2026-02-21T07:57:15.153Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ruckus+Marketing,+LLC/data=!4m7!3m6!1s0x89c259adb60c48bf:0x963f2096641d83c1!8m2!3d40.7534535!4d-73.9907376!16s%2Fg%2F1tnply1r!19sChIJv0gMtq1ZwokRwYMdZJYgP5Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:16.814Z"}
+{"level":"info","message":"✅ Added: Ruckus Marketing, LLC","timestamp":"2026-02-21T07:57:18.312Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.ruckusmarketing.com/...","timestamp":"2026-02-21T07:57:18.312Z"}
+{"level":"info","message":"📧 Found 1 emails for Ruckus Marketing, LLC","timestamp":"2026-02-21T07:57:26.567Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Blue+Ocean+Global+Technology/data=!4m7!3m6!1s0x89c25a16c0fb6d65:0xd1c38433e65fa9fc!8m2!3d40.7064496!4d-74.007757!16s%2Fg%2F11b7q5rvn0!19sChIJZW37wBZawokR_Klf5jOEw9E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:26.568Z"}
+{"level":"info","message":"✅ Added: Blue Ocean Global Technology","timestamp":"2026-02-21T07:57:28.055Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.blueoceanglobaltech.com/...","timestamp":"2026-02-21T07:57:28.056Z"}
+{"level":"info","message":"📧 Found 1 emails for Blue Ocean Global Technology","timestamp":"2026-02-21T07:57:43.145Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/GreyBox+Creative/data=!4m7!3m6!1s0x89c259b32156dbe1:0x277914b39a92c2fe!8m2!3d40.7629384!4d-73.978958!16s%2Fg%2F119wwcm74!19sChIJ4dtWIbNZwokR_sKSmrMUeSc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:43.146Z"}
+{"level":"info","message":"✅ Added: GreyBox Creative","timestamp":"2026-02-21T07:57:44.782Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.greyboxcreative.com/...","timestamp":"2026-02-21T07:57:44.783Z"}
+{"level":"info","message":"📧 Found 1 emails for GreyBox Creative","timestamp":"2026-02-21T07:57:52.734Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hozio/data=!4m7!3m6!1s0x89c259024b69a647:0x13848c1845f5f76f!8m2!3d40.7517405!4d-73.9756567!16s%2Fg%2F11b7hkc05v!19sChIJR6ZpSwJZwokRb_f1RRiMhBM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:57:52.734Z"}
+{"level":"info","message":"✅ Added: Hozio","timestamp":"2026-02-21T07:57:54.241Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.hozio.com/nyc-seo-company/?utm_source=google&utm_medium=gmb&utm_campaign=seo...","timestamp":"2026-02-21T07:57:54.241Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VZYBLE+NYC+Digital+Marketing+Agency/data=!4m7!3m6!1s0x4b68393e94c11711:0x53bce3a602fbc6dc!8m2!3d40.7128638!4d-73.6607316!16s%2Fg%2F11rty71_zj!19sChIJERfBlD45aEsR3Mb7AqbjvFM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:01.638Z"}
+{"level":"info","message":"✅ Added: VZYBLE NYC Digital Marketing Agency","timestamp":"2026-02-21T07:58:03.011Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Voy+Media/data=!4m7!3m6!1s0x89c2598b44e52311:0x5da7727fbff0259b!8m2!3d40.7475414!4d-73.9916139!16s%2Fg%2F11gn1x5_g4!19sChIJESPlRItZwokRmyXwv39yp10?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:03.013Z"}
+{"level":"info","message":"✅ Added: Voy Media","timestamp":"2026-02-21T07:58:04.379Z"}
+{"level":"info","message":"🔍 Deep crawling: https://voymedia.com/advertising-agency-new-york/...","timestamp":"2026-02-21T07:58:04.379Z"}
+{"level":"info","message":"📧 Found 1 emails for Voy Media","timestamp":"2026-02-21T07:58:13.034Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DPDK+-+Brand+innovation+agency+for+the+bold/data=!4m7!3m6!1s0x89c25902c92c67df:0x5b3ee4d6938c150e!8m2!3d40.7180815!4d-73.961806!16s%2Fg%2F11c6cgzx74!19sChIJ32csyQJZwokRDhWMk9bkPls?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:13.035Z"}
+{"level":"info","message":"✅ Added: DPDK - Brand innovation agency for the bold","timestamp":"2026-02-21T07:58:14.296Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dpdk.com/contact/brand-innovation-agency-new-york?utm_source=google&utm_medium=my-business&utm_campaign=newyork...","timestamp":"2026-02-21T07:58:14.297Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Limelight+Digital+Agency/data=!4m7!3m6!1s0x89c25f2fcc5d8a87:0x60f54497b0048d65!8m2!3d40.7053553!4d-73.8674512!16s%2Fg%2F11sm99jbm8!19sChIJh4pdzC9fwokRZY0EsJdE9WA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:24.099Z"}
+{"level":"info","message":"✅ Added: Limelight Digital Agency","timestamp":"2026-02-21T07:58:25.581Z"}
+{"level":"info","message":"🔍 Deep crawling: https://limelightdigitalagency.com/...","timestamp":"2026-02-21T07:58:25.581Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Mimvi+SEO/data=!4m7!3m6!1s0x89c258fca8900001:0x12ba9d1aa3fb2a70!8m2!3d40.7582729!4d-73.9719375!16s%2Fg%2F11d_790mht!19sChIJAQCQqPxYwokRcCr7oxqduhI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:31.422Z"}
+{"level":"info","message":"✅ Added: Mimvi SEO","timestamp":"2026-02-21T07:58:33.067Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.mimvi.com/...","timestamp":"2026-02-21T07:58:33.068Z"}
+{"level":"info","message":"📧 Found 1 emails for Mimvi SEO","timestamp":"2026-02-21T07:58:38.769Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Top+New+York+City+SEO+Company/data=!4m7!3m6!1s0x89c259aff12f8429:0x95b5e7b8165152c0!8m2!3d40.8765602!4d-73.856082!16s%2Fg%2F11y3n5d22y!19sChIJKYQv8a9ZwokRwFJRFrjntZU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:38.771Z"}
+{"level":"info","message":"✅ Added: Top New York City SEO Company","timestamp":"2026-02-21T07:58:40.027Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.topnewyorkseo.company/...","timestamp":"2026-02-21T07:58:40.028Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BD+Grow/data=!4m7!3m6!1s0x89c25b04d6b7e3a1:0xad6ab6289e1d4513!8m2!3d40.7171917!4d-73.9969374!16s%2Fg%2F11qg5bvyf3!19sChIJoeO31gRbwokRE0Udnii2aq0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:58:45.677Z"}
+{"level":"info","message":"✅ Added: BD Grow","timestamp":"2026-02-21T07:58:47.053Z"}
+{"level":"info","message":"🔍 Deep crawling: https://bdgrow.com/...","timestamp":"2026-02-21T07:58:47.054Z"}
+{"level":"info","message":"📧 Found 1 emails for BD Grow","timestamp":"2026-02-21T07:59:06.450Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/C42D/data=!4m7!3m6!1s0x89c259ad9fe58ab7:0x1bb2344a00f60832!8m2!3d40.7540576!4d-73.9933502!16s%2Fg%2F11gc9fvgfw!19sChIJt4rln61ZwokRMgj2AEo0shs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:59:06.452Z"}
+{"level":"info","message":"✅ Added: C42D","timestamp":"2026-02-21T07:59:08.972Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.c42d.com/...","timestamp":"2026-02-21T07:59:08.973Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jasmine+Sandler+Digital+Marketing+and+Media/data=!4m7!3m6!1s0x89c258ff75a6bb87:0xfe73208d183378a3!8m2!3d40.7507212!4d-73.9792885!16s%2Fg%2F11b6ck2gnn!19sChIJh7umdf9YwokRo3gzGI0gc_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:59:19.382Z"}
+{"level":"info","message":"✅ Added: Jasmine Sandler Digital Marketing and Media","timestamp":"2026-02-21T07:59:20.759Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.jasminesandlerdigitalmarketingmedia.com/...","timestamp":"2026-02-21T07:59:20.764Z"}
+{"level":"info","message":"📧 Found 6 emails for Jasmine Sandler Digital Marketing and Media","timestamp":"2026-02-21T07:59:32.291Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Silk/data=!4m7!3m6!1s0x89c259251920a01d:0xa42041c92e87db24!8m2!3d40.7388072!4d-73.9934329!16s%2Fg%2F11j1d3fqyb!19sChIJHaAgGSVZwokRJNuHLslBIKQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:59:32.292Z"}
+{"level":"info","message":"✅ Added: Digital Silk","timestamp":"2026-02-21T07:59:33.596Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.digitalsilk.com/web-design-new-york...","timestamp":"2026-02-21T07:59:33.597Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NU+Media/data=!4m7!3m6!1s0x89c25945034ca73d:0xb763934204b0c8cc!8m2!3d40.7553099!4d-73.9914284!16s%2Fg%2F11k5k0bwwf!19sChIJPadMA0VZwokRzMiwBEKTY7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T07:59:45.579Z"}
+{"level":"info","message":"✅ Added: NU Media","timestamp":"2026-02-21T07:59:47.836Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.nu.marketing/...","timestamp":"2026-02-21T07:59:47.838Z"}
+{"level":"info","message":"📧 Found 1 emails for NU Media","timestamp":"2026-02-21T08:00:03.040Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+Agency+NYC+-+Rankstar+%7C+SEO,+GEO,+Autosuggest/data=!4m7!3m6!1s0x89c25bf0363de20d:0xaa8c5cb6b5ff9c1f!8m2!3d40.7062266!4d-74.0090053!16s%2Fg%2F11rd8j_jxn!19sChIJDeI9NvBbwokRH5z_tbZcjKo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:00:03.040Z"}
+{"level":"info","message":"✅ Added: SEO Agency NYC - Rankstar | SEO, GEO, Autosuggest","timestamp":"2026-02-21T08:00:04.827Z"}
+{"level":"info","message":"🔍 Deep crawling: https://rankstar.io/...","timestamp":"2026-02-21T08:00:04.846Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/e9digital/data=!4m7!3m6!1s0x89c259ad3d978295:0xcd41fc2e73bfb26d!8m2!3d40.7704288!4d-73.9922675!16s%2Fg%2F1thsb8b7!19sChIJlYKXPa1ZwokRbbK_cy78Qc0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:00:19.611Z"}
+{"level":"info","message":"✅ Added: e9digital","timestamp":"2026-02-21T08:00:21.715Z"}
+{"level":"info","message":"🔍 Deep crawling: https://e9digital.com/...","timestamp":"2026-02-21T08:00:21.715Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ninja+Promo/data=!4m7!3m6!1s0x89c2599539bcc915:0xd5ce71d43e68091b!8m2!3d40.7459698!4d-73.9869095!16s%2Fg%2F11vzryg5m3!19sChIJFcm8OZVZwokRGwloPtRxztU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:00:33.080Z"}
+{"level":"info","message":"✅ Added: Ninja Promo","timestamp":"2026-02-21T08:00:34.446Z"}
+{"level":"info","message":"🔍 Deep crawling: https://ninjapromo.io/...","timestamp":"2026-02-21T08:00:34.446Z"}
+{"level":"info","message":"📧 Found 5 emails for Ninja Promo","timestamp":"2026-02-21T08:00:41.580Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Demand+Growth+Digital/data=!4m7!3m6!1s0x89c259bae0fb76ad:0x587d6edc861627d9!8m2!3d40.7461864!4d-73.9836573!16s%2Fg%2F11scrjmtqs!19sChIJrXb74LpZwokR2ScWhtxufVg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:00:41.581Z"}
+{"level":"info","message":"✅ Added: Demand Growth Digital","timestamp":"2026-02-21T08:00:43.447Z"}
+{"level":"info","message":"🔍 Deep crawling: http://demandgrowthdigital.com/...","timestamp":"2026-02-21T08:00:43.447Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MusicPromoToday/data=!4m7!3m6!1s0x89c259a66b4e9445:0x6c644162e6c91c82!8m2!3d40.7452688!4d-73.9883569!16s%2Fg%2F11bxh914k9!19sChIJRZROa6ZZwokRghzJ5mJBZGw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:01:02.748Z"}
+{"level":"info","message":"✅ Added: MusicPromoToday","timestamp":"2026-02-21T08:01:05.437Z"}
+{"level":"info","message":"🔍 Deep crawling: http://musicpromotoday.com/...","timestamp":"2026-02-21T08:01:05.440Z"}
+{"level":"info","message":"📧 Found 1 emails for MusicPromoToday","timestamp":"2026-02-21T08:01:24.063Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Influencer+Marketing+Factory/data=!4m7!3m6!1s0x89c25b2d5c2611e9:0x3e445bb9f191a6ef!8m2!3d40.7096693!4d-74.0109723!16s%2Fg%2F11hf3lfznc!19sChIJ6REmXC1bwokR76aR8blbRD4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:01:24.064Z"}
+{"level":"info","message":"✅ Added: The Influencer Marketing Factory","timestamp":"2026-02-21T08:01:25.919Z"}
+{"level":"info","message":"🔍 Deep crawling: https://theinfluencermarketingfactory.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing...","timestamp":"2026-02-21T08:01:25.919Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Unique+Marketing/data=!4m7!3m6!1s0x89c25b77440348b1:0x96e8e68180fe70b3!8m2!3d40.706937!4d-74.0044856!16s%2Fg%2F11l24slkfp!19sChIJsUgDRHdbwokRs3D-gIHm6JY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:01:33.209Z"}
+{"level":"info","message":"✅ Added: Unique Marketing","timestamp":"2026-02-21T08:01:34.703Z"}
+{"level":"info","message":"🔍 Deep crawling: https://umarketing.us/?utm_source=gmb&utm_medium=phone...","timestamp":"2026-02-21T08:01:34.703Z"}
+{"level":"info","message":"📧 Found 3 emails for Unique Marketing","timestamp":"2026-02-21T08:01:43.549Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+Agency+NYC+-+iDesignYours/data=!4m7!3m6!1s0x89c25dfe8be2391d:0xb6fc7b9a41a5e035!8m2!3d40.6934484!4d-73.8467594!16s%2Fg%2F11b6ns36r9!19sChIJHTnii_5dwokRNeClQZp7_LY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:01:43.549Z"}
+{"level":"info","message":"✅ Added: SEO Agency NYC - iDesignYours","timestamp":"2026-02-21T08:01:45.835Z"}
+{"level":"info","message":"🔍 Deep crawling: https://idesignyours.com/...","timestamp":"2026-02-21T08:01:45.835Z"}
+{"level":"info","message":"📧 Found 1 emails for SEO Agency NYC - iDesignYours","timestamp":"2026-02-21T08:01:57.277Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/OC/data=!4m7!3m6!1s0x89c25b8ae102b2a5:0x5b301a5b02ec2cab!8m2!3d40.7494622!4d-73.97208!16s%2Fg%2F11fn6t35xl!19sChIJpbIC4YpbwokRqyzsAlsaMFs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:01:57.278Z"}
+{"level":"info","message":"✅ Added: OC","timestamp":"2026-02-21T08:01:58.685Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.onlineculture.co/...","timestamp":"2026-02-21T08:01:58.686Z"}
+{"level":"info","message":"📧 Found 3 emails for OC","timestamp":"2026-02-21T08:02:15.467Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Best+Marketing+NYC/data=!4m7!3m6!1s0x89c258fe0d1322a9:0x539e9caa7598f7f0!8m2!3d40.7552871!4d-73.977932!16s%2Fg%2F1v2gfp4w!19sChIJqSITDf5YwokR8PeYdaqcnlM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:02:15.468Z"}
+{"level":"info","message":"✅ Added: Best Marketing NYC","timestamp":"2026-02-21T08:02:17.204Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.bestmarketingnyc.com/...","timestamp":"2026-02-21T08:02:17.205Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MacroHype/data=!4m7!3m6!1s0x89c25bc895532c03:0xb7028fe556ca2c15!8m2!3d40.7572692!4d-73.9833587!16s%2Fg%2F11bwgvnp9v!19sChIJAyxTlchbwokRFSzKVuWPArc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:02:28.728Z"}
+{"level":"info","message":"✅ Added: MacroHype","timestamp":"2026-02-21T08:02:30.742Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.macrohype.com/...","timestamp":"2026-02-21T08:02:30.742Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/FIRST+Global+Brand+Experience+Agency/data=!4m7!3m6!1s0x89c2597b595fd741:0x93668d7c4e54cde7!8m2!3d40.7599514!4d-73.9911887!16s%2Fg%2F11rf9mb0xx!19sChIJQddfWXtZwokR581UTnyNZpM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:02:40.929Z"}
+{"level":"info","message":"✅ Added: FIRST Global Brand Experience Agency","timestamp":"2026-02-21T08:02:42.950Z"}
+{"level":"info","message":"🔍 Deep crawling: https://firstagency.com/?utm_source=GBP&utm_medium=organic...","timestamp":"2026-02-21T08:02:42.950Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Massivemedia/data=!4m7!3m6!1s0x89c259a5ea07220f:0xacec85a894b9203b!8m2!3d40.744819!4d-73.990133!16s%2Fg%2F1tdhfxzt!19sChIJDyIH6qVZwokROyC5lKiF7Kw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:07:34.162Z"}
+{"level":"info","message":"✅ Added: Massivemedia","timestamp":"2026-02-21T08:07:36.230Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.massivemediainc.com/...","timestamp":"2026-02-21T08:07:36.231Z"}
+{"level":"info","message":"📧 Found 4 emails for Massivemedia","timestamp":"2026-02-21T08:07:42.946Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Click+Digital+Advertising/data=!4m7!3m6!1s0x89c2598a31012205:0x2228eedb0b8cafcf!8m2!3d40.7201052!4d-74.0014805!16s%2Fg%2F11c6qcc5ws!19sChIJBSIBMYpZwokRz6-MC9vuKCI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:07:42.946Z"}
+{"level":"info","message":"✅ Added: Click Digital Advertising","timestamp":"2026-02-21T08:07:44.774Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.clickdigitalads.com/?utm_source=google&utm_medium=googlemybusiness...","timestamp":"2026-02-21T08:07:44.775Z"}
+{"level":"info","message":"📧 Found 2 emails for Click Digital Advertising","timestamp":"2026-02-21T08:07:54.041Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DeSantis+Breindel/data=!4m7!3m6!1s0x89c258e45456c4d5:0x280ccc469ed2993d!8m2!3d40.744987!4d-73.9932579!16s%2Fg%2F1hc2x1q3z!19sChIJ1cRWVORYwokRPZnSnkbMDCg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:07:54.042Z"}
+{"level":"info","message":"✅ Added: DeSantis Breindel","timestamp":"2026-02-21T08:07:55.251Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.desantisbreindel.com/?utm_campaign=gbp&utm_source=google&utm_medium=organic...","timestamp":"2026-02-21T08:07:55.251Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NYC+Digital+Marketing+Agency+-+Vitruvian+Agency/data=!4m7!3m6!1s0x89c259f496e972f5:0x204b753e1727f9b7!8m2!3d40.7453911!4d-73.9904866!16s%2Fg%2F11l32983fj!19sChIJ9XLplvRZwokRt_knFz51SyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:02.148Z"}
+{"level":"info","message":"✅ Added: NYC Digital Marketing Agency - Vitruvian Agency","timestamp":"2026-02-21T08:08:03.375Z"}
+{"level":"info","message":"🔍 Deep crawling: https://vitruvianagency.com/...","timestamp":"2026-02-21T08:08:03.376Z"}
+{"level":"info","message":"📧 Found 1 emails for NYC Digital Marketing Agency - Vitruvian Agency","timestamp":"2026-02-21T08:08:10.103Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Thrive+Internet+Marketing+Agency/data=!4m7!3m6!1s0x89c25900c6c04877:0x2bd31146a1ffca74!8m2!3d40.7506832!4d-73.9811227!16s%2Fg%2F11f13vcvbw!19sChIJd0jAxgBZwokRdMr_oUYR0ys?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:10.105Z"}
+{"level":"info","message":"✅ Added: Thrive Internet Marketing Agency","timestamp":"2026-02-21T08:08:11.387Z"}
+{"level":"info","message":"🔍 Deep crawling: https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic...","timestamp":"2026-02-21T08:08:11.388Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+Agency+NYC/data=!4m7!3m6!1s0x89c25906f2479d05:0xcaaea80807db68ce!8m2!3d40.7518224!4d-73.9792184!16s%2Fg%2F11fmv2y3rf!19sChIJBZ1H8gZZwokRzmjbBwiorso?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:18.170Z"}
+{"level":"info","message":"✅ Added: SEO Agency NYC","timestamp":"2026-02-21T08:08:19.521Z"}
+{"level":"info","message":"🔍 Deep crawling: https://seo.agency/...","timestamp":"2026-02-21T08:08:19.521Z"}
+{"level":"info","message":"📧 Found 1 emails for SEO Agency NYC","timestamp":"2026-02-21T08:08:29.581Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Crafted/data=!4m7!3m6!1s0x89c259a79dc6eaad:0x3561faf1a5bf212!8m2!3d40.7534019!4d-73.9753557!16s%2Fg%2F1q66qgs76!19sChIJrerGnadZwokREvJbGq8fVgM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:29.582Z"}
+{"level":"info","message":"✅ Added: Crafted","timestamp":"2026-02-21T08:08:30.709Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.craftedny.com/...","timestamp":"2026-02-21T08:08:30.709Z"}
+{"level":"info","message":"📧 Found 9 emails for Crafted","timestamp":"2026-02-21T08:08:39.913Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Manhattan/data=!4m7!3m6!1s0x89781dba3383a937:0x9c1a892e3897bd91!8m2!3d40.7813047!4d-73.9771184!16s%2Fg%2F11x23p2mwh!19sChIJN6mDM7odeIkRkb2XOC6JGpw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:39.913Z"}
+{"level":"info","message":"✅ Added: Digital Marketing Manhattan","timestamp":"2026-02-21T08:08:41.455Z"}
+{"level":"info","message":"🔍 Deep crawling: https://digitalmarketingmanhattan.nyc/...","timestamp":"2026-02-21T08:08:41.455Z"}
+{"level":"info","message":"📧 Found 2 emails for Digital Marketing Manhattan","timestamp":"2026-02-21T08:08:58.135Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Just+Digital+NY/data=!4m7!3m6!1s0x89c258fe65ffe2b7:0xdf0876707f1c3af1!8m2!3d40.7562745!4d-73.9782276!16s%2Fg%2F11hbr8fg_p!19sChIJt-L_Zf5YwokR8Tocf3B2CN8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:58.136Z"}
+{"level":"info","message":"✅ Added: Just Digital NY","timestamp":"2026-02-21T08:08:59.639Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/McCann+New+York/data=!4m7!3m6!1s0x89c25903ec565b8b:0xa0a0348213ef99f0!8m2!3d40.7497798!4d-73.9757003!16s%2Fg%2F1wj_6yv5!19sChIJi1tW7ANZwokR8JnvE4I0oKA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:08:59.640Z"}
+{"level":"info","message":"✅ Added: McCann New York","timestamp":"2026-02-21T08:09:01.130Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.mccannny.com/...","timestamp":"2026-02-21T08:09:01.131Z"}
+{"level":"info","message":"📧 Found 1 emails for McCann New York","timestamp":"2026-02-21T08:09:11.408Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Charles+Group+NYC/data=!4m7!3m6!1s0x89c2598a217a7457:0x3f9a6637dc99520!8m2!3d40.7105274!4d-74.0089937!16s%2Fg%2F1hhvrl18l!19sChIJV3R6IYpZwokRIJXJfWOm-QM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:09:11.408Z"}
+{"level":"info","message":"✅ Added: The Charles Group NYC","timestamp":"2026-02-21T08:09:12.878Z"}
+{"level":"info","message":"🔍 Deep crawling: https://thecharlesnyc.com/...","timestamp":"2026-02-21T08:09:12.878Z"}
+{"level":"info","message":"📧 Found 2 emails for The Charles Group NYC","timestamp":"2026-02-21T08:09:19.298Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/United+of+Web+%7C+Design+%26+Develop+NYC/data=!4m7!3m6!1s0x89c25b48dea6d41f:0xc8c874bf77875cc!8m2!3d40.7574701!4d-73.9817449!16s%2Fg%2F11stytbvk6!19sChIJH9Sm3khbwokRzHV490uHjAw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:09:19.299Z"}
+{"level":"info","message":"✅ Added: United of Web | Design & Develop NYC","timestamp":"2026-02-21T08:09:20.707Z"}
+{"level":"info","message":"🔍 Deep crawling: https://unitedofweb.com/...","timestamp":"2026-02-21T08:09:20.713Z"}
+{"level":"info","message":"📧 Found 1 emails for United of Web | Design & Develop NYC","timestamp":"2026-02-21T08:09:28.389Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/WebFX/data=!4m7!3m6!1s0x89c25903f44b4c39:0x8e4f694cf106d506!8m2!3d40.749306!4d-73.975913!16s%2Fg%2F11c54b3nq2!19sChIJOUxL9ANZwokRBtUG8UxpT44?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:09:28.393Z"}
+{"level":"info","message":"✅ Added: WebFX","timestamp":"2026-02-21T08:09:29.933Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.webfx.com/locations/new-york-city/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=new-york-city...","timestamp":"2026-02-21T08:09:29.934Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Savvy+Inc./data=!4m7!3m6!1s0x888871082b087af5:0xe32a1fad80716a7e!8m2!3d40.7076193!4d-74.0105948!16s%2Fg%2F11w1lqzz0k!19sChIJ9XoIKwhxiIgRfmpxgK0fKuM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:09:39.998Z"}
+{"level":"info","message":"✅ Added: Digital Savvy Inc.","timestamp":"2026-02-21T08:09:41.571Z"}
+{"level":"info","message":"🔍 Deep crawling: https://digitalsavvyny.com/...","timestamp":"2026-02-21T08:09:41.572Z"}
+{"level":"info","message":"📧 Found 1 emails for Digital Savvy Inc.","timestamp":"2026-02-21T08:09:55.001Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TMD+%28Target+Marketing+Digital%29/data=!4m7!3m6!1s0x89c259a189d93c29:0x5a943fe9a272c2e0!8m2!3d40.7470915!4d-73.9932244!16s%2Fg%2F1pty80yj0!19sChIJKTzZiaFZwokR4MJyouk_lFo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:09:55.002Z"}
+{"level":"info","message":"✅ Added: TMD (Target Marketing Digital)","timestamp":"2026-02-21T08:09:56.369Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.targetmktng.com/...","timestamp":"2026-02-21T08:09:56.378Z"}
+{"level":"info","message":"📧 Found 3 emails for TMD (Target Marketing Digital)","timestamp":"2026-02-21T08:10:07.749Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Amsive/data=!4m7!3m6!1s0x89c259a3c392b9e3:0xad99b403dc8da89c!8m2!3d40.7396961!4d-73.9898234!16s%2Fg%2F1thpxrf2!19sChIJ47mSw6NZwokRnKiN3AO0ma0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:10:07.751Z"}
+{"level":"info","message":"✅ Added: Amsive","timestamp":"2026-02-21T08:10:09.338Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.amsive.com/about/new-york/?utm_source=google&utm_medium=organic&utm_campaign=gbp+new+york+location...","timestamp":"2026-02-21T08:10:09.339Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Chauncey+Agency+%28Experts+in+Digital+Marketing,+SEO,+E-Commerce,+%26+Social+Media%29/data=!4m7!3m6!1s0x89c25ddae75d62df:0xf04fdc8f13809fe4!8m2!3d40.6662297!4d-73.9292623!16s%2Fg%2F11why7mhxw!19sChIJ32Jd59pdwokR5J-AE4_cT_A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:10:16.965Z"}
+{"level":"info","message":"✅ Added: Chauncey Agency (Experts in Digital Marketing, SEO, E-Commerce, & Social Media)","timestamp":"2026-02-21T08:10:18.462Z"}
+{"level":"info","message":"🔍 Deep crawling: https://chauncey.agency/...","timestamp":"2026-02-21T08:10:18.463Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Verve+Concepts+-+NYC+Branding+Agency/data=!4m7!3m6!1s0x89c2609c2615e901:0x474009d863a7e99c!8m2!3d40.7626385!4d-73.9683695!16s%2Fg%2F11c5_hy6ph!19sChIJAekVJpxgwokRnOmnY9gJQEc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:10:20.222Z"}
+{"level":"info","message":"✅ Added: Verve Concepts - NYC Branding Agency","timestamp":"2026-02-21T08:10:21.717Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.verveconcepts.com/brand_audit/...","timestamp":"2026-02-21T08:10:21.721Z"}
+{"level":"info","message":"📧 Found 1 emails for Verve Concepts - NYC Branding Agency","timestamp":"2026-02-21T08:10:32.463Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Creative+House/data=!4m7!3m6!1s0x89c25900daf1a741:0x590d11d4f86a1304!8m2!3d40.7440798!4d-73.98534!16s%2Fg%2F11c2n_d2_l!19sChIJQafx2gBZwokRBBNq-NQRDVk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:10:32.463Z"}
+{"level":"info","message":"✅ Added: Creative House","timestamp":"2026-02-21T08:10:33.926Z"}
+{"level":"info","message":"🔍 Deep crawling: https://creativehouse.marketing/...","timestamp":"2026-02-21T08:10:33.933Z"}
+{"level":"info","message":"📧 Found 1 emails for Creative House","timestamp":"2026-02-21T08:10:48.769Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Alvonso+Marketing+Agency/data=!4m7!3m6!1s0xadefccba69e33f55:0xd6798dbe3c433024!8m2!3d40.7619342!4d-73.9124796!16s%2Fg%2F11x0pslypz!19sChIJVT_jabrM760RJDBDPL6NedY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:10:48.770Z"}
+{"level":"info","message":"✅ Added: Alvonso Marketing Agency","timestamp":"2026-02-21T08:10:50.899Z"}
+{"level":"info","message":"🔍 Deep crawling: https://alvonso.com/...","timestamp":"2026-02-21T08:10:50.899Z"}
+{"level":"info","message":"📧 Found 1 emails for Alvonso Marketing Agency","timestamp":"2026-02-21T08:11:09.084Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Creative+Agency+NYC+-+OSMOS/data=!4m7!3m6!1s0x89c25980ec0f2f7f:0x47f4a1c252eeb63!8m2!3d40.7513991!4d-73.9763861!16s%2Fg%2F11y1sw8kn9!19sChIJfy8P7IBZwokRY-suJRxKfwQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:11:09.088Z"}
+{"level":"info","message":"✅ Added: Creative Agency NYC - OSMOS","timestamp":"2026-02-21T08:11:10.541Z"}
+{"level":"info","message":"🔍 Deep crawling: https://osmos.co/...","timestamp":"2026-02-21T08:11:10.541Z"}
+{"level":"info","message":"📧 Found 5 emails for Creative Agency NYC - OSMOS","timestamp":"2026-02-21T08:11:19.204Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Horizon+Media,+Inc./data=!4m7!3m6!1s0x89c259039475bfbf:0xc81605a2d7cf0e9c!8m2!3d40.723341!4d-74.0064156!16s%2Fg%2F1tdcsfxr!19sChIJv791lANZwokRnA7P16IFFsg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:11:19.204Z"}
+{"level":"info","message":"✅ Added: Horizon Media, Inc.","timestamp":"2026-02-21T08:11:20.331Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.horizonmedia.com/...","timestamp":"2026-02-21T08:11:20.332Z"}
+{"level":"info","message":"📧 Found 12 emails for Horizon Media, Inc.","timestamp":"2026-02-21T08:11:28.357Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Avex+E-commerce+Agency/data=!4m7!3m6!1s0x89c2598d47c28e57:0xdaad2c3f70d9420d!8m2!3d40.7236633!4d-74.0024834!16s%2Fg%2F1pp2vgd8k!19sChIJV47CR41ZwokRDULZcD8srdo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:11:28.358Z"}
+{"level":"info","message":"✅ Added: Avex E-commerce Agency","timestamp":"2026-02-21T08:11:29.872Z"}
+{"level":"info","message":"🔍 Deep crawling: https://avexdesigns.com/...","timestamp":"2026-02-21T08:11:29.872Z"}
+{"level":"info","message":"📧 Found 3 emails for Avex E-commerce Agency","timestamp":"2026-02-21T08:11:36.201Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/New+York+SEO+Company+-+Marketing+Blink/data=!4m7!3m6!1s0x8d306fb1e6f992c3:0x8b75512db819d176!8m2!3d40.710968!4d-74.0084713!16s%2Fg%2F11k46nq4ng!19sChIJw5L55rFvMI0RdtEZuC1RdYs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:11:36.202Z"}
+{"level":"info","message":"✅ Added: New York SEO Company - Marketing Blink","timestamp":"2026-02-21T08:11:38.010Z"}
+{"level":"info","message":"🔍 Deep crawling: https://marketingblink.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb...","timestamp":"2026-02-21T08:11:38.011Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hudson+Creative/data=!4m7!3m6!1s0x89c2e369bd2e2f09:0x379374efec50b970!8m2!3d40.7532777!4d-73.9753995!16s%2Fg%2F1ptx9_ymw!19sChIJCS8uvWnjwokRcLlQ7O90kzc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:11:42.230Z"}
+{"level":"info","message":"✅ Added: Hudson Creative","timestamp":"2026-02-21T08:11:43.827Z"}
+{"level":"info","message":"🔍 Deep crawling: https://hudsoncreative.com/...","timestamp":"2026-02-21T08:11:43.827Z"}
+{"level":"info","message":"📧 Found 1 emails for Hudson Creative","timestamp":"2026-02-21T08:14:18.711Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CarnsMedia/data=!4m7!3m6!1s0x89c25991e38038a3:0xb7ed0750b9b2ff3d!8m2!3d40.72022!4d-74.001564!16s%2Fg%2F11ckthljkj!19sChIJoziA45FZwokRPf-yuVAH7bc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:14:18.712Z"}
+{"level":"info","message":"✅ Added: CarnsMedia","timestamp":"2026-02-21T08:14:20.581Z"}
+{"level":"info","message":"🔍 Deep crawling: http://carnsmedia.com/...","timestamp":"2026-02-21T08:14:20.581Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Taktical+Digital/data=!4m7!3m6!1s0x89c2598f1c84b3c5:0x28ea79d97c1a8a93!8m2!3d40.753827!4d-73.99088!16s%2Fg%2F11cnc8q0b_!19sChIJxbOEHI9ZwokRk4oafNl56ig?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:14:33.626Z"}
+{"level":"info","message":"✅ Added: Taktical Digital","timestamp":"2026-02-21T08:14:35.229Z"}
+{"level":"info","message":"🔍 Deep crawling: https://taktical.co/...","timestamp":"2026-02-21T08:14:35.229Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Markacy/data=!4m7!3m6!1s0x89c259fbe22471e3:0xe1feba16c36fcb0f!8m2!3d40.7274061!4d-74.00605!16s%2Fg%2F11gk8rfh1b!19sChIJ43Ek4vtZwokRD8tvwxa6_uE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:14:42.582Z"}
+{"level":"info","message":"✅ Added: Markacy","timestamp":"2026-02-21T08:14:44.682Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.markacy.com/?utm_source=GMB&utm_medium=organic...","timestamp":"2026-02-21T08:14:44.683Z"}
+{"level":"info","message":"📧 Found 1 emails for Markacy","timestamp":"2026-02-21T08:14:55.875Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Boucher+%2B+Co./data=!4m7!3m6!1s0x89c259a4267d1c51:0xcad659d1717e5873!8m2!3d40.746066!4d-73.9919517!16s%2Fg%2F113hcv2mg!19sChIJURx9JqRZwokRc1h-cdFZ1so?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:14:55.876Z"}
+{"level":"info","message":"✅ Added: Boucher + Co.","timestamp":"2026-02-21T08:14:57.214Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.boucherco.com/...","timestamp":"2026-02-21T08:14:57.215Z"}
+{"level":"info","message":"📧 Found 2 emails for Boucher + Co.","timestamp":"2026-02-21T08:15:09.611Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PBJ+Marketing/data=!4m7!3m6!1s0x89c25856949e912d:0xcb68430d49932661!8m2!3d40.7274061!4d-74.00605!16s%2Fg%2F1233615tk!19sChIJLZGelFZYwokRYSaTSQ1DaMs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:15:09.612Z"}
+{"level":"info","message":"✅ Added: PBJ Marketing","timestamp":"2026-02-21T08:15:11.258Z"}
+{"level":"info","message":"🔍 Deep crawling: https://pbjmarketing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb...","timestamp":"2026-02-21T08:15:11.260Z"}
+{"level":"info","message":"📧 Found 3 emails for PBJ Marketing","timestamp":"2026-02-21T08:15:20.604Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Artmedia+Digital/data=!4m7!3m6!1s0x89c25b5642b4e117:0xb6b03ddbb125cb1a!8m2!3d40.7049014!4d-74.0072444!16s%2Fg%2F11ybvp_t1z!19sChIJF-G0QlZbwokRGsslsds9sLY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:15:20.605Z"}
+{"level":"info","message":"✅ Added: Artmedia Digital","timestamp":"2026-02-21T08:15:21.928Z"}
+{"level":"info","message":"🔍 Deep crawling: https://artmedia.digital/...","timestamp":"2026-02-21T08:15:21.932Z"}
+{"level":"info","message":"📧 Found 1 emails for Artmedia Digital","timestamp":"2026-02-21T08:15:31.989Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/eBrandz/data=!4m7!3m6!1s0x89c259a82eb22401:0x87570fbbf2002e10!8m2!3d40.7471083!4d-73.9831343!16s%2Fg%2F1vb9dzsy!19sChIJASSyLqhZwokREC4A8rsPV4c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:15:31.989Z"}
+{"level":"info","message":"✅ Added: eBrandz","timestamp":"2026-02-21T08:15:33.731Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.ebrandz.com/...","timestamp":"2026-02-21T08:15:33.732Z"}
+{"level":"info","message":"📧 Found 1 emails for eBrandz","timestamp":"2026-02-21T08:15:43.748Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/darling+agency+%7C+creative,+design+and+advertising/data=!4m7!3m6!1s0x89c259ec5f38a261:0x7638f7050f09f8b!8m2!3d40.7412103!4d-74.0067386!16s%2Fg%2F1tg_mk75!19sChIJYaI4X-xZwokRi5_wUHCPYwc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:15:43.749Z"}
+{"level":"info","message":"✅ Added: darling agency | creative, design and advertising","timestamp":"2026-02-21T08:15:45.799Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.darling.nyc/...","timestamp":"2026-02-21T08:15:45.800Z"}
+{"level":"info","message":"📧 Found 6 emails for darling agency | creative, design and advertising","timestamp":"2026-02-21T08:15:54.827Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Crew/data=!4m7!3m6!1s0x89c25951847d09dd:0x95f6e2061ae7f766!8m2!3d40.7484834!4d-73.9892864!16s%2Fg%2F11h_259t_3!19sChIJ3Ql9hFFZwokRZvfnGgbi9pU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:15:54.828Z"}
+{"level":"info","message":"✅ Added: Digital Crew","timestamp":"2026-02-21T08:15:56.490Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.digitalcrew.agency/...","timestamp":"2026-02-21T08:15:56.490Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VMGROUPE/data=!4m7!3m6!1s0x89c25941d8e192fb:0x1af39e4c239ab91!8m2!3d40.7387496!4d-73.9947456!16s%2Fg%2F1ptwpvt6w!19sChIJ-5Lh2EFZwokRkas5wuQ5rwE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:16:08.743Z"}
+{"level":"info","message":"✅ Added: VMGROUPE","timestamp":"2026-02-21T08:16:10.685Z"}
+{"level":"info","message":"🔍 Deep crawling: https://vmgroupe.com/...","timestamp":"2026-02-21T08:16:10.686Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Marketing+House+NYC/data=!4m7!3m6!1s0x89c25b21e7d3c801:0x9b5b86a6b72900d0!8m2!3d40.7096693!4d-74.0109723!16s%2Fg%2F11v9vng1f_!19sChIJAcjT5yFbwokR0AApt6aGW5s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:16:13.803Z"}
+{"level":"info","message":"✅ Added: Marketing House NYC","timestamp":"2026-02-21T08:16:15.003Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.marketinghouse.nyc/...","timestamp":"2026-02-21T08:16:15.003Z"}
+{"level":"info","message":"📧 Found 1 emails for Marketing House NYC","timestamp":"2026-02-21T08:16:24.655Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SocialQ+Agency/data=!4m7!3m6!1s0x89c259f2f2813e5d:0xc26d1f011f96efa1!8m2!3d40.7415955!4d-74.0061877!16s%2Fg%2F11fl0ggp0n!19sChIJXT6B8vJZwokRoe-WHwEfbcI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:16:24.655Z"}
+{"level":"info","message":"✅ Added: SocialQ Agency","timestamp":"2026-02-21T08:16:25.853Z"}
+{"level":"info","message":"🔍 Deep crawling: http://socialq.us/...","timestamp":"2026-02-21T08:16:25.853Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Social+Market+Way+New+York+SEO+Office/data=!4m7!3m6!1s0x89c2f7bf905ddeff:0x88b6f8362e968200!8m2!3d40.7529553!4d-73.9725858!16s%2Fg%2F11h8fs3j4j!19sChIJ_95dkL_3wokRAIKWLjb4tog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:16:32.039Z"}
+{"level":"info","message":"✅ Added: Social Market Way New York SEO Office","timestamp":"2026-02-21T08:16:33.399Z"}
+{"level":"info","message":"🔍 Deep crawling: https://socialmarketway.com/seo-nyc/...","timestamp":"2026-02-21T08:16:33.400Z"}
+{"level":"info","message":"📧 Found 1 emails for Social Market Way New York SEO Office","timestamp":"2026-02-21T08:16:41.485Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AdVenture+Media+Group/data=!4m7!3m6!1s0x89c265c02837d0bd:0x79cafd562781151!8m2!3d40.6325021!4d-73.7068328!16s%2Fg%2F11b6jh0t3s!19sChIJvdA3KMBlwokRURF4YtWvnAc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:16:41.486Z"}
+{"level":"info","message":"✅ Added: AdVenture Media Group","timestamp":"2026-02-21T08:16:42.746Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.adventureppc.com/...","timestamp":"2026-02-21T08:16:42.747Z"}
+{"level":"info","message":"📧 Found 1 emails for AdVenture Media Group","timestamp":"2026-02-21T08:16:49.945Z"}
+{"level":"info","message":"🏁 Job b24397b7-daf1-4351-b08e-52dfca66eda5 Completed. Added: 98, Skipped: 0","timestamp":"2026-02-21T08:16:49.954Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-21T08:27:49.544Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-21T08:27:49.549Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in tbilisi (065e6bf9-a1d7-483d-8cf9-87cf326632f5) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-21T08:29:14.916Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T08:29:16.830Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+tbilisi?hl=en","timestamp":"2026-02-21T08:29:17.189Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T08:29:18.576Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 19 (attempt 1/30)","timestamp":"2026-02-21T08:29:22.124Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-21T08:29:22.124Z"}
+{"level":"info","message":"✅ Collected 19 unique links.","timestamp":"2026-02-21T08:29:22.133Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-21T08:29:22.144Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24+%E1%83%A1%E1%83%90%E1%83%90%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98+%E1%83%A1%E1%83%90%E1%83%93%E1%83%A6%E1%83%94%E1%83%A6%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1%E1%83%9D+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7+Dental+clinic+Smile+Solution/data=!4m7!3m6!1s0x404473896540a4cf:0xb73b159fb96f7c8c!8m2!3d41.7490335!4d44.7881813!16s%2Fg%2F11rn7vtgzd!19sChIJz6RAZYlzREARjHxvuZ8VO7c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:22.145Z"}
+{"level":"info","message":"✅ Added: 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-21T08:29:23.951Z"}
+{"level":"info","message":"🔍 Deep crawling: http://smile24.ge/...","timestamp":"2026-02-21T08:29:23.953Z"}
+{"level":"info","message":"📧 Found 1 emails for 24 საათიანი სადღეღამისო სტომატოლოგიური კლინიკა 24/7 Dental clinic Smile Solution","timestamp":"2026-02-21T08:29:29.733Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/%E1%83%95%E1%83%94%E1%83%92%E1%83%90+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2+,+VEGA+DENT/data=!4m7!3m6!1s0x4044730582299a8b:0x12e5a542d9cfe23b!8m2!3d41.7434756!4d44.7790172!16s%2Fg%2F11rmrzk_9k!19sChIJi5opggVzREARO-LP2UKl5RI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:29.733Z"}
+{"level":"info","message":"✅ Added: ვეგა დენტ , VEGA DENT","timestamp":"2026-02-21T08:29:31.462Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/24%2F7+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+emergency+dental/data=!4m7!3m6!1s0x404473d4269ba411:0x7e92af454e8e60cf!8m2!3d41.7449016!4d44.7726008!16s%2Fg%2F11s3byqbq7!19sChIJEaSbJtRzREARz2COTkWvkn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:31.463Z"}
+{"level":"info","message":"✅ Added: 24/7 სტომატოლოგიური კლინიკა emergency dental","timestamp":"2026-02-21T08:29:32.630Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smile+24+%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+24%2F7/data=!4m7!3m6!1s0x4044737a8b7c6cc9:0xc64037431f7c0517!8m2!3d41.7451316!4d44.7724862!16s%2Fg%2F11w4rtmj9b!19sChIJyWx8i3pzREARFwV8H0M3QMY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:32.631Z"}
+{"level":"info","message":"✅ Added: Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-21T08:29:33.879Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/people/Smile-24-%E1%83%A1%E1%83%9B%E1%83%90%E1%83%98%E1%83%9A-24/61563070761841/?mibextid=LQQJ4d...","timestamp":"2026-02-21T08:29:33.880Z"}
+{"level":"info","message":"📧 Found 1 emails for Smile 24 სტომატოლოგიური კლინიკა 24/7","timestamp":"2026-02-21T08:29:40.289Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/EGO%C2%AE+Dental+%26+Aesthetic+Clinic+Tbilisi/data=!4m7!3m6!1s0x40447304ac50c701:0xeb85591e6182620e!8m2!3d41.7450076!4d44.7721985!16s%2Fg%2F11wxw_ddnn!19sChIJAcdQrARzREARDmKCYR5Zhes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:40.290Z"}
+{"level":"info","message":"✅ Added: EGO® Dental & Aesthetic Clinic Tbilisi","timestamp":"2026-02-21T08:29:41.636Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.instagram.com/ego_stom_ge?igsh=MXF1aDQ2bjZjZnFhbg%3D%3D&utm_source=qr...","timestamp":"2026-02-21T08:29:41.636Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Richter%27s+Clinic+%C2%AE+%E1%83%A0%E1%83%98%E1%83%AE%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1+%E1%83%99%E1%83%9A%E1%83%98%E1%83%9C%E1%83%98%E1%83%99%E1%83%90+%C2%AE/data=!4m7!3m6!1s0x40446d03f53c47dd:0x3046044312ada18!8m2!3d41.7713095!4d44.7768727!16s%2Fg%2F11ssj_ks47!19sChIJ3Uc89QNtREARGNoqMURgBAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:29:47.759Z"}
+{"level":"info","message":"✅ Added: Richter's Clinic ® რიხტერის კლინიკა ®","timestamp":"2026-02-21T08:29:49.430Z"}
+{"level":"info","message":"🔍 Deep crawling: https://richters.ge/...","timestamp":"2026-02-21T08:29:49.436Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+House/data=!4m7!3m6!1s0x4044732fd9a2b803:0x8f6a572b49465e6b!8m2!3d41.7295!4d44.7635501!16s%2Fg%2F11glczps1k!19sChIJA7ii2S9zREARa15GSStXao8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:30:01.595Z"}
+{"level":"info","message":"✅ Added: Dental House","timestamp":"2026-02-21T08:30:03.000Z"}
+{"level":"info","message":"🔍 Deep crawling: https://m.facebook.com/dentalhouse.georgia/...","timestamp":"2026-02-21T08:30:03.006Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+Studio+G.K+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A+%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%98%E1%83%9D/data=!4m7!3m6!1s0x404473a824e00c5b:0x72fcdbef8f8931e0!8m2!3d41.7289923!4d44.7878551!16s%2Fg%2F11h0gyk72b!19sChIJWwzgJKhzREAR4DGJj-_b_HI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:30:10.461Z"}
+{"level":"info","message":"✅ Added: Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-21T08:30:12.115Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/dentalstudio.g.k1/?modal=admin_todo_tour...","timestamp":"2026-02-21T08:30:12.115Z"}
+{"level":"info","message":"📧 Found 1 emails for Dental Studio G.K დენტალ სტუდიო","timestamp":"2026-02-21T08:30:19.655Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dentalstory+%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%90%E1%83%9A%E1%83%A1%E1%83%97%E1%83%9D%E1%83%A0%E1%83%98/data=!4m7!3m6!1s0x404473a1e88ed041:0xf3b7376b52a6520d!8m2!3d41.7311046!4d44.7839051!16s%2Fg%2F11sq5570sd!19sChIJQdCO6KFzREARDVKmUms3t_M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:30:19.656Z"}
+{"level":"info","message":"✅ Added: Dentalstory დენტალსთორი","timestamp":"2026-02-21T08:30:21.182Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.facebook.com/profile.php?id=100078698873074&mibextid=ZbWKwL...","timestamp":"2026-02-21T08:30:21.182Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Haba+Clinic/data=!4m7!3m6!1s0x404473964a17bb49:0x76a261867fc4534a!8m2!3d41.7342501!4d44.7667853!16s%2Fg%2F11ry74833k!19sChIJSbsXSpZzREARSlPEf4ZhonY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:30:28.182Z"}
+{"level":"info","message":"✅ Added: Haba Clinic","timestamp":"2026-02-21T08:30:29.791Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.habaclinic.com/...","timestamp":"2026-02-21T08:30:29.793Z"}
+{"level":"info","message":"🏁 Job 065e6bf9-a1d7-483d-8cf9-87cf326632f5 Completed. Added: 10, Skipped: 0","timestamp":"2026-02-21T08:30:32.725Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-21T08:37:33.958Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-21T08:37:33.963Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-21T08:52:43.590Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-21T08:52:43.595Z"}
+{"level":"info","message":"🚀 Processing Job: B2B software companies in San Francisco (a09990ed-f5e0-473e-bdb1-969380d3bf1a) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-21T08:55:24.015Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T08:55:25.395Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/B2B+software+companies+in+San+Francisco?hl=en","timestamp":"2026-02-21T08:55:25.753Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T08:55:27.333Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 15 (attempt 1/30)","timestamp":"2026-02-21T08:55:30.694Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 15 (attempt 2/30)","timestamp":"2026-02-21T08:55:31.980Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 15 (attempt 3/30)","timestamp":"2026-02-21T08:55:33.202Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 15 (attempt 4/30)","timestamp":"2026-02-21T08:55:34.413Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-21T08:55:34.414Z"}
+{"level":"info","message":"✅ Collected 15 unique links.","timestamp":"2026-02-21T08:55:34.416Z"}
+{"level":"info","message":"📋 Found 15 leads. Extracting...","timestamp":"2026-02-21T08:55:34.427Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Baker+Tilly/data=!4m7!3m6!1s0x808581bbdd0d8a2f:0x2015a93d2cdb8253!8m2!3d37.790503!4d-122.397215!16s%2Fg%2F11h4q3c9j_!19sChIJL4oN3buBhYARU4LbLD2pFSA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:55:34.428Z"}
+{"level":"info","message":"✅ Added: Baker Tilly","timestamp":"2026-02-21T08:55:36.498Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.bakertilly.com/...","timestamp":"2026-02-21T08:55:36.498Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Azumo/data=!4m7!3m6!1s0x8085805f99c269c1:0xcb86682f9f91a8ef!8m2!3d37.8060023!4d-122.4057559!16s%2Fg%2F11cjpdd6kv!19sChIJwWnCmV-AhYAR76iRny9ohss?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:55:45.106Z"}
+{"level":"info","message":"✅ Added: Azumo","timestamp":"2026-02-21T08:55:46.852Z"}
+{"level":"info","message":"🔍 Deep crawling: https://azumo.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing...","timestamp":"2026-02-21T08:55:46.853Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vention+-+Software+Development+Company/data=!4m7!3m6!1s0x8085814c5096147b:0xdd5fa4c8d0a9e33!8m2!3d37.7927763!4d-122.4050972!16s%2Fg%2F11p12rdhm6!19sChIJexSWUEyBhYARM54KjUz61Q0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:55:54.627Z"}
+{"level":"info","message":"✅ Added: Vention - Software Development Company","timestamp":"2026-02-21T08:55:55.818Z"}
+{"level":"info","message":"🔍 Deep crawling: https://ventionteams.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-sf...","timestamp":"2026-02-21T08:55:55.818Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Novalab+Tech+%7C+Mobile+App+Development+Company+In+San+Francisco/data=!4m7!3m6!1s0x808581b003644b5b:0xbbb21bc49e7517fc!8m2!3d37.7887312!4d-122.3984852!16s%2Fg%2F11w4vryrf6!19sChIJW0tkA7CBhYAR_Bd1nsQbsrs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:56:04.091Z"}
+{"level":"info","message":"✅ Added: Novalab Tech | Mobile App Development Company In San Francisco","timestamp":"2026-02-21T08:56:05.336Z"}
+{"level":"info","message":"🔍 Deep crawling: https://novalabtech.com/...","timestamp":"2026-02-21T08:56:05.336Z"}
+{"level":"info","message":"📧 Found 1 emails for Novalab Tech | Mobile App Development Company In San Francisco","timestamp":"2026-02-21T08:56:15.370Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DxMinds+Technologies+-+Hire+Software+Developers+%7C+Mobile+App+Development+Company+in+San+Francisco/data=!4m7!3m6!1s0x808f970a5788675d:0xa428158733df80b9!8m2!3d37.7940487!4d-122.3973037!16s%2Fg%2F11gxjv3m76!19sChIJXWeIVwqXj4ARuYDfM4cVKKQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:56:15.377Z"}
+{"level":"info","message":"✅ Added: DxMinds Technologies - Hire Software Developers | Mobile App Development Company in San Francisco","timestamp":"2026-02-21T08:56:16.864Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dxminds.com/...","timestamp":"2026-02-21T08:56:16.865Z"}
+{"level":"info","message":"📧 Found 6 emails for DxMinds Technologies - Hire Software Developers | Mobile App Development Company in San Francisco","timestamp":"2026-02-21T08:56:32.048Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/42+Technologies/data=!4m7!3m6!1s0x8085807e8894746f:0x7fb77c58d3543efc!8m2!3d37.7856757!4d-122.3958433!16s%2Fg%2F11bvv01g_p!19sChIJb3SUiH6AhYAR_D5U01h8t38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:56:32.079Z"}
+{"level":"info","message":"✅ Added: 42 Technologies","timestamp":"2026-02-21T08:56:33.457Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.42technologies.com/...","timestamp":"2026-02-21T08:56:33.461Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Proleadsoft/data=!4m7!3m6!1s0x808f7c16d0623869:0x6ba93b637d04c231!8m2!3d37.878638!4d-122.4203375!16s%2Fg%2F11cn926hzl!19sChIJaThi0BZ8j4ARMcIEfWM7qWs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:56:41.809Z"}
+{"level":"info","message":"✅ Added: Proleadsoft","timestamp":"2026-02-21T08:56:43.749Z"}
+{"level":"info","message":"🔍 Deep crawling: https://proleadsoft.com/...","timestamp":"2026-02-21T08:56:43.749Z"}
+{"level":"info","message":"📧 Found 1 emails for Proleadsoft","timestamp":"2026-02-21T08:56:54.786Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Spiral+Scout+-+IT+Staff+Augmentation+%26+Software+Development/data=!4m7!3m6!1s0x808580c2ace112e3:0x1a12d2c6b9ef6647!8m2!3d37.780632!4d-122.491025!16s%2Fg%2F11bwkkf81x!19sChIJ4xLhrMKAhYARR2bvucbSEho?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:56:54.792Z"}
+{"level":"info","message":"✅ Added: Spiral Scout - IT Staff Augmentation & Software Development","timestamp":"2026-02-21T08:56:56.078Z"}
+{"level":"info","message":"🔍 Deep crawling: https://spiralscout.com/?utm=gmb...","timestamp":"2026-02-21T08:56:56.079Z"}
+{"level":"info","message":"📧 Found 1 emails for Spiral Scout - IT Staff Augmentation & Software Development","timestamp":"2026-02-21T08:57:04.733Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ArcTouch/data=!4m7!3m6!1s0x808580788badbc07:0xc304ba9780d3eb71!8m2!3d37.7898578!4d-122.400983!16s%2Fg%2F1td2zpgl!19sChIJB7yti3iAhYARcevTgJe6BMM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:04.739Z"}
+{"level":"info","message":"✅ Added: ArcTouch","timestamp":"2026-02-21T08:57:06.409Z"}
+{"level":"info","message":"🔍 Deep crawling: https://arctouch.com/...","timestamp":"2026-02-21T08:57:06.411Z"}
+{"level":"info","message":"📧 Found 1 emails for ArcTouch","timestamp":"2026-02-21T08:57:12.425Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sift/data=!4m7!3m6!1s0x80858064610edd31:0x840a8e2013e72ccf!8m2!3d37.7875462!4d-122.4047536!16s%2Fg%2F11b7tc0m2r!19sChIJMd0OYWSAhYARzyznEyCOCoQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:12.431Z"}
+{"level":"info","message":"✅ Added: Sift","timestamp":"2026-02-21T08:57:13.604Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sift.com/...","timestamp":"2026-02-21T08:57:13.605Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Genius+Tech+Development/data=!4m7!3m6!1s0x808f7f3641e80ef1:0x8ed4dc0dc06efebc!8m2!3d37.7748838!4d-122.4077029!16s%2Fg%2F11ssnhx0t3!19sChIJ8Q7oQTZ_j4ARvP5uwA3c1I4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:22.167Z"}
+{"level":"info","message":"✅ Added: Genius Tech Development","timestamp":"2026-02-21T08:57:23.735Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.geniustechdevelopment.com/...","timestamp":"2026-02-21T08:57:23.735Z"}
+{"level":"info","message":"📧 Found 3 emails for Genius Tech Development","timestamp":"2026-02-21T08:57:31.917Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trango+Tech+San+Francisco,+CA+-+Mobile+App+Development+Company/data=!4m7!3m6!1s0x808581fb02b991bd:0xa8e2b7befa035c3e!8m2!3d37.7927489!4d-122.3928237!16s%2Fg%2F11vbg5dtg2!19sChIJvZG5AvuBhYARPlwD-r634qg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:31.924Z"}
+{"level":"info","message":"✅ Added: Trango Tech San Francisco, CA - Mobile App Development Company","timestamp":"2026-02-21T08:57:33.763Z"}
+{"level":"info","message":"🔍 Deep crawling: https://trangotech.com/mobile/app-development-san-francisco/?utm_source=san-francisco+gmb&utm_id=gmb&utm_term=gmb-organic...","timestamp":"2026-02-21T08:57:33.764Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AI,+IoT+Consulting+%26+Offshore+Software+Development+Company+in+the+USA/data=!4m7!3m6!1s0x8085805fb7b42793:0xff4e070bc14b8613!8m2!3d37.7986717!4d-122.3991052!16s%2Fg%2F11gdkr0mr_!19sChIJkye0t1-AhYARE4ZLwQsHTv8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:47.976Z"}
+{"level":"info","message":"✅ Added: AI, IoT Consulting & Offshore Software Development Company in the USA","timestamp":"2026-02-21T08:57:49.634Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.fusioninformatics.com/...","timestamp":"2026-02-21T08:57:49.634Z"}
+{"level":"info","message":"📧 Found 2 emails for AI, IoT Consulting & Offshore Software Development Company in the USA","timestamp":"2026-02-21T08:57:56.121Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Originate+-+San+Francisco/data=!4m7!3m6!1s0x808580882abb56c7:0x501c4ddd09495ae2!8m2!3d37.7950237!4d-122.3973083!16s%2Fg%2F11b6dk5ty3!19sChIJx1a7KoiAhYAR4lpJCd1NHFA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:57:56.129Z"}
+{"level":"info","message":"✅ Added: Originate - San Francisco","timestamp":"2026-02-21T08:57:57.812Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.originate.com/...","timestamp":"2026-02-21T08:57:57.818Z"}
+{"level":"info","message":"📧 Found 3 emails for Originate - San Francisco","timestamp":"2026-02-21T08:58:07.005Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BlueLabel+%28San+Francisco%29/data=!4m7!3m6!1s0x8085818fa51a01c3:0x65a36117f69a477d!8m2!3d37.7952421!4d-122.403654!16s%2Fg%2F11k66n541h!19sChIJwwEapY-BhYARfUea9hdho2U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T08:58:07.011Z"}
+{"level":"info","message":"✅ Added: BlueLabel (San Francisco)","timestamp":"2026-02-21T08:58:08.250Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.bluelabellabs.com/...","timestamp":"2026-02-21T08:58:08.251Z"}
+{"level":"info","message":"🏁 Job a09990ed-f5e0-473e-bdb1-969380d3bf1a Completed. Added: 15, Skipped: 0","timestamp":"2026-02-21T08:58:18.264Z"}
+{"level":"info","message":"🚀 Processing Job: Real estate brokerages in Dubai (97d1601e-6b9a-4f7d-80d5-e77b37bae064) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-21T09:04:34.723Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-21T09:04:35.396Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/Real+estate+brokerages+in+Dubai?hl=en","timestamp":"2026-02-21T09:04:35.606Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-21T09:04:37.531Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 19 (attempt 1/30)","timestamp":"2026-02-21T09:04:40.904Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 2/30)","timestamp":"2026-02-21T09:04:42.114Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 3/30)","timestamp":"2026-02-21T09:04:43.334Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 31 (attempt 4/30)","timestamp":"2026-02-21T09:04:44.553Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 5/30)","timestamp":"2026-02-21T09:04:45.766Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 44 (attempt 6/30)","timestamp":"2026-02-21T09:04:46.983Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 44 (attempt 7/30)","timestamp":"2026-02-21T09:04:48.208Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 53 (attempt 8/30)","timestamp":"2026-02-21T09:04:49.427Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 9/30)","timestamp":"2026-02-21T09:04:50.654Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 10/30)","timestamp":"2026-02-21T09:04:51.875Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 11/30)","timestamp":"2026-02-21T09:04:53.088Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 12/30)","timestamp":"2026-02-21T09:04:54.308Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-21T09:04:54.308Z"}
+{"level":"info","message":"✅ Collected 60 unique links.","timestamp":"2026-02-21T09:04:54.312Z"}
+{"level":"info","message":"📋 Found 60 leads. Extracting...","timestamp":"2026-02-21T09:04:54.335Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TheRealtorDubai+Real+Estate+Brokerage+LLC/data=!4m7!3m6!1s0x3e5f6b1547ae1f61:0x9374c3025a11cc9e!8m2!3d25.2089625!4d55.2724984!16s%2Fg%2F11mb59ck23!19sChIJYR-uRxVrXz4RnswRWgLDdJM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:04:54.337Z"}
+{"level":"info","message":"✅ Added: TheRealtorDubai Real Estate Brokerage LLC","timestamp":"2026-02-21T09:04:57.634Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.therealtordubai.com/...","timestamp":"2026-02-21T09:04:57.634Z"}
+{"level":"info","message":"📧 Found 2 emails for TheRealtorDubai Real Estate Brokerage LLC","timestamp":"2026-02-21T09:05:05.478Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Exclusive+Links+Real+Estate+Brokers+Dubai+Marina/data=!4m7!3m6!1s0x3e5f6bdbd897fa6d:0xe646762ef5b09b1f!8m2!3d25.0865588!4d55.147776!16s%2Fg%2F11h7cqvv35!19sChIJbfqX2NtrXz4RH5uw9S52RuY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:05.486Z"}
+{"level":"info","message":"✅ Added: Exclusive Links Real Estate Brokers Dubai Marina","timestamp":"2026-02-21T09:05:07.561Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.exclusive-links.com/?utm_source=localmaps&utm_medium=gbp&utm_campaign=Dubaimarina&utm_term=listing...","timestamp":"2026-02-21T09:05:07.567Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Smart+Folks+Real+Estate+Brokers/data=!4m7!3m6!1s0x3e5f43337a7f09e9:0x206ffc964cfb75a!8m2!3d25.2547744!4d55.3030335!16s%2Fg%2F11s3y7b60l!19sChIJ6Ql_ejNDXz4RWrfPZMn_BgI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:14.259Z"}
+{"level":"info","message":"✅ Added: Smart Folks Real Estate Brokers","timestamp":"2026-02-21T09:05:15.666Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/REAL+DUBAI+-+Lovisa+Homes+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6b968f283923:0xe74e415c5bfb0bea!8m2!3d25.0833467!4d55.1408596!16s%2Fg%2F11lmhx77_0!19sChIJIzkoj5ZrXz4R6gv7W1xBTuc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:15.674Z"}
+{"level":"info","message":"✅ Added: REAL DUBAI - Lovisa Homes Real Estate Broker LLC","timestamp":"2026-02-21T09:05:16.975Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.real-dubai.com/...","timestamp":"2026-02-21T09:05:16.975Z"}
+{"level":"info","message":"📧 Found 1 emails for REAL DUBAI - Lovisa Homes Real Estate Broker LLC","timestamp":"2026-02-21T09:05:26.872Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HUAXIA+REAL+ESTATE+BROKERS+-+DUBAI+%7C+%E8%BF%AA%E6%8B%9C%E5%8D%8E%E5%A4%8F%E5%9C%B0%E4%BA%A7/data=!4m7!3m6!1s0x3e5f69a57e472025:0xfe73371b2392a773!8m2!3d25.1134409!4d55.2459584!16s%2Fg%2F11h3bsdg9d!19sChIJJSBHfqVpXz4Rc6eSIxs3c_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:26.881Z"}
+{"level":"info","message":"✅ Added: HUAXIA REAL ESTATE BROKERS - DUBAI | 迪拜华夏地产","timestamp":"2026-02-21T09:05:28.604Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.huaxia.ae/?utm_source=local_maps&utm_medium=gbp&utm_campaign=googlemaps...","timestamp":"2026-02-21T09:05:28.605Z"}
+{"level":"info","message":"📧 Found 1 emails for HUAXIA REAL ESTATE BROKERS - DUBAI | 迪拜华夏地产","timestamp":"2026-02-21T09:05:33.816Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/KAYE+%26+CO+REAL+ESTATE+L.L.C./data=!4m7!3m6!1s0x3e5f69cdeba28e23:0xfbd9d0776d4ff574!8m2!3d25.181567!4d55.27151!16s%2Fg%2F11h5ktbmt3!19sChIJI46i681pXz4RdPVPbXfQ2fs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:33.824Z"}
+{"level":"info","message":"✅ Added: KAYE & CO REAL ESTATE L.L.C.","timestamp":"2026-02-21T09:05:35.354Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.kayeandco.ae/...","timestamp":"2026-02-21T09:05:35.355Z"}
+{"level":"info","message":"📧 Found 1 emails for KAYE & CO REAL ESTATE L.L.C.","timestamp":"2026-02-21T09:05:49.389Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Williams+International+Real+Estate/data=!4m7!3m6!1s0x3e5f6b25bc7cd5eb:0xbdc23ff1c95d2001!8m2!3d25.0975515!4d55.1740632!16s%2Fg%2F11tcw2hb5x!19sChIJ69V8vCVrXz4RASBdyfE_wr0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:49.398Z"}
+{"level":"info","message":"✅ Added: Williams International Real Estate","timestamp":"2026-02-21T09:05:50.943Z"}
+{"level":"info","message":"🔍 Deep crawling: https://williamsinternationalgroup.com/...","timestamp":"2026-02-21T09:05:50.943Z"}
+{"level":"info","message":"📧 Found 1 emails for Williams International Real Estate","timestamp":"2026-02-21T09:05:59.613Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/McCone+Properties/data=!4m7!3m6!1s0x3e5f42817b2ccdfd:0x86ec4e428cd29605!8m2!3d25.0964245!4d55.1688941!16s%2Fg%2F1pxwbd8zb!19sChIJ_c0se4FCXz4RBZbSjEJO7IY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:05:59.619Z"}
+{"level":"info","message":"✅ Added: McCone Properties","timestamp":"2026-02-21T09:06:00.891Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.mcconeproperties.com/?utm_source=googlemaps&utm_medium=organic&utm_campaign=Dubai...","timestamp":"2026-02-21T09:06:00.891Z"}
+{"level":"info","message":"📧 Found 1 emails for McCone Properties","timestamp":"2026-02-21T09:06:08.428Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Exclusive+Links+Real+Estate+Brokers+Dubai/data=!4m7!3m6!1s0x3e5f6b6e103c6881:0x4395964d77b297f2!8m2!3d25.0372546!4d55.1833992!16s%2Fg%2F119w6t49h!19sChIJgWg8EG5rXz4R8peyd02WlUM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:06:08.437Z"}
+{"level":"info","message":"✅ Added: Exclusive Links Real Estate Brokers Dubai","timestamp":"2026-02-21T09:06:09.712Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.exclusive-links.com/?utm_source=localmaps&utm_medium=gbp&utm_campaign=Dubai&utm_term=listing...","timestamp":"2026-02-21T09:06:09.714Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/XSITE+REAL+ESTATE+BROKERS/data=!4m7!3m6!1s0x3e5f6d67365b1249:0xe34da7d3431ae963!8m2!3d25.048996!4d55.2150038!16s%2Fg%2F11rr8159pf!19sChIJSRJbNmdtXz4RY-kaQ9OnTeM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:06:15.713Z"}
+{"level":"info","message":"✅ Added: XSITE REAL ESTATE BROKERS","timestamp":"2026-02-21T09:06:17.244Z"}
+{"level":"info","message":"🔍 Deep crawling: https://xsite.ae/...","timestamp":"2026-02-21T09:06:17.245Z"}
+{"level":"info","message":"📧 Found 1 emails for XSITE REAL ESTATE BROKERS","timestamp":"2026-02-21T09:06:39.492Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Urban+Nest+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6b15b00c8917:0xf9c582e53e16c61e!8m2!3d25.0971529!4d55.1807201!16s%2Fg%2F11f60zhgbg!19sChIJF4kMsBVrXz4RHsYWPuWCxfk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:06:39.504Z"}
+{"level":"info","message":"✅ Added: The Urban Nest Real Estate Broker LLC","timestamp":"2026-02-21T09:06:41.112Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.theurbannest.ae/...","timestamp":"2026-02-21T09:06:41.112Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Magus+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f5db37bd1923b:0x277e9d6b23df46da!8m2!3d25.2023279!4d55.2726896!16s%2Fg%2F11h09q1k55!19sChIJO5LRe7NdXz4R2kbfI2udfic?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:06:45.489Z"}
+{"level":"info","message":"✅ Added: Magus Real Estate Brokers LLC","timestamp":"2026-02-21T09:06:46.786Z"}
+{"level":"info","message":"🔍 Deep crawling: https://magusproperties.ae/...","timestamp":"2026-02-21T09:06:46.786Z"}
+{"level":"info","message":"📧 Found 1 emails for Magus Real Estate Brokers LLC","timestamp":"2026-02-21T09:06:54.849Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Harbor+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f42f2c1738f6f:0x4f4d76043a46fc96!8m2!3d25.2192823!4d55.2797104!16s%2Fg%2F1tc_cr28!19sChIJb49zwfJCXz4RlvxGOgR2TU8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:06:54.856Z"}
+{"level":"info","message":"✅ Added: Harbor Real Estate Broker LLC","timestamp":"2026-02-21T09:06:56.058Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.harbordubai.com/...","timestamp":"2026-02-21T09:06:56.059Z"}
+{"level":"info","message":"📧 Found 2 emails for Harbor Real Estate Broker LLC","timestamp":"2026-02-21T09:07:15.469Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Xperience%E2%80%8B+Realty+Real+Estate/data=!4m7!3m6!1s0x3e5f69742ae364c3:0xf5f30b07708195fd!8m2!3d25.1143578!4d55.2463352!16s%2Fg%2F11ty7cwknc!19sChIJw2TjKnRpXz4R_ZWBcAcL8_U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:07:15.487Z"}
+{"level":"info","message":"✅ Added: Xperience​ Realty Real Estate","timestamp":"2026-02-21T09:07:16.947Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.xrealty.ae/...","timestamp":"2026-02-21T09:07:16.947Z"}
+{"level":"info","message":"📧 Found 2 emails for Xperience​ Realty Real Estate","timestamp":"2026-02-21T09:07:22.764Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/White+%26+Co+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f6f7f7b199c2b:0xbfd73650c09125c6!8m2!3d25.0469536!4d55.2303258!16s%2Fg%2F11nyc4mk7y!19sChIJK5wZe39vXz4RxiWRwFA2178?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:07:22.773Z"}
+{"level":"info","message":"✅ Added: White & Co Real Estate LLC","timestamp":"2026-02-21T09:07:24.037Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.whiteandcogroup.com/...","timestamp":"2026-02-21T09:07:24.037Z"}
+{"level":"info","message":"📧 Found 1 emails for White & Co Real Estate LLC","timestamp":"2026-02-21T09:07:31.454Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Driven+Properties+LLC+-+HQ/data=!4m7!3m6!1s0x3e5f6830763235e1:0xf76fc2259db91cc6!8m2!3d25.2002439!4d55.2717221!16s%2Fg%2F11ckgl42wm!19sChIJ4TUydjBoXz4Rxhy5nSXCb_c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:07:31.462Z"}
+{"level":"info","message":"✅ Added: Driven Properties LLC - HQ","timestamp":"2026-02-21T09:07:33.051Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.drivenproperties.com/...","timestamp":"2026-02-21T09:07:33.052Z"}
+{"level":"info","message":"📧 Found 15 emails for Driven Properties LLC - HQ","timestamp":"2026-02-21T09:07:41.848Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Seven+Luxury+Real+Estate/data=!4m7!3m6!1s0x3e5f6b80f359ae43:0xe26958c764adf02f!8m2!3d25.2000893!4d55.2751323!16s%2Fg%2F11qb3q_8xs!19sChIJQ65Z84BrXz4RL_CtZMdYaeI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:07:41.854Z"}
+{"level":"info","message":"✅ Added: Seven Luxury Real Estate","timestamp":"2026-02-21T09:07:43.252Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sevenluxuryrealestate.com/home-2/...","timestamp":"2026-02-21T09:07:43.253Z"}
+{"level":"info","message":"📧 Found 1 emails for Seven Luxury Real Estate","timestamp":"2026-02-21T09:07:59.607Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Al+Khail+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6bfdcfe855a1:0xe468fd6db9ffcadb!8m2!3d25.1031584!4d55.176306!16s%2Fg%2F11v66j89vm!19sChIJoVXoz_1rXz4R28r_uW39aOQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:07:59.619Z"}
+{"level":"info","message":"✅ Added: Al Khail Real Estate Broker LLC","timestamp":"2026-02-21T09:08:01.165Z"}
+{"level":"info","message":"🔍 Deep crawling: https://alkhail.ae/...","timestamp":"2026-02-21T09:08:01.166Z"}
+{"level":"info","message":"📧 Found 4 emails for Al Khail Real Estate Broker LLC","timestamp":"2026-02-21T09:08:07.402Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Provident+Real+Estate/data=!4m7!3m6!1s0x3e5f158788cd5f49:0xde4fd2b7646c89d2!8m2!3d25.0751356!4d55.1399377!16s%2Fg%2F11ghn6kdrw!19sChIJSV_NiIcVXz4R0olsZLfST94?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:07.410Z"}
+{"level":"info","message":"✅ Added: Provident Real Estate","timestamp":"2026-02-21T09:08:08.823Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.providentestate.com/...","timestamp":"2026-02-21T09:08:08.824Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Real+Choice+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f694766a9b6d3:0x7696d996f93ee94e!8m2!3d25.2252379!4d55.2837327!16s%2Fg%2F11lk1db9_p!19sChIJ07apZkdpXz4RTuk--ZbZlnY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:16.473Z"}
+{"level":"info","message":"✅ Added: Real Choice Real Estate Brokers LLC","timestamp":"2026-02-21T09:08:17.778Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.realchoicedubai.com/...","timestamp":"2026-02-21T09:08:17.778Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Provident+Vacation+Homes/data=!4m7!3m6!1s0x3e5f6b1085a18e6f:0x701ca3da345be38!8m2!3d25.110767!4d55.141745!16s%2Fg%2F11yjrtl9lj!19sChIJb46hhRBrXz4ROL5Foz3KAQc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:21.355Z"}
+{"level":"info","message":"✅ Added: Provident Vacation Homes","timestamp":"2026-02-21T09:08:22.619Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Cavendish+Maxwell/data=!4m7!3m6!1s0x3e5f6d747aa99001:0x5c1ecfc98fdb8bc5!8m2!3d25.074849!4d55.14012!16s%2Fg%2F11try40_9p!19sChIJAZCpenRtXz4RxYvbj8nPHlw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:22.627Z"}
+{"level":"info","message":"✅ Added: Cavendish Maxwell","timestamp":"2026-02-21T09:08:24.210Z"}
+{"level":"info","message":"🔍 Deep crawling: https://cavendishmaxwell.com/...","timestamp":"2026-02-21T09:08:24.210Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Christie%E2%80%99s+International+Real+Estate+Dubai/data=!4m7!3m6!1s0x3e5f6830f402117d:0xfa8d70c0e5ccf3d0!8m2!3d25.1853625!4d55.2791344!16s%2Fg%2F11c761pq6w!19sChIJfREC9DBoXz4R0PPM5cBwjfo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:34.802Z"}
+{"level":"info","message":"✅ Added: Christie’s International Real Estate Dubai","timestamp":"2026-02-21T09:08:36.380Z"}
+{"level":"info","message":"🔍 Deep crawling: https://christiesrealestatedubai.com/...","timestamp":"2026-02-21T09:08:36.386Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Capri+Realty+Real+Estate+Broker+%28L.L.C%29/data=!4m7!3m6!1s0x3e5f6b65f5cb0e31:0x373657f82847eb95!8m2!3d24.9978314!4d55.1726831!16s%2Fg%2F11f2wf0pv3!19sChIJMQ7L9WVrXz4RletHKPhXNjc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:08:47.747Z"}
+{"level":"info","message":"✅ Added: Capri Realty Real Estate Broker (L.L.C)","timestamp":"2026-02-21T09:08:49.877Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.capriuae.com/...","timestamp":"2026-02-21T09:08:49.878Z"}
+{"level":"info","message":"📧 Found 1 emails for Capri Realty Real Estate Broker (L.L.C)","timestamp":"2026-02-21T09:09:05.340Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Gold+Coast+Real+Estate+Broker/data=!4m7!3m6!1s0x3e5f69ed194d54e7:0xb8d8efc7d17a250a!8m2!3d25.1856563!4d55.2756837!16s%2Fg%2F1262s7kdr!19sChIJ51RNGe1pXz4RCiV60cfv2Lg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:09:05.349Z"}
+{"level":"info","message":"✅ Added: Gold Coast Real Estate Broker","timestamp":"2026-02-21T09:09:06.887Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.goldcoastuae.ae/...","timestamp":"2026-02-21T09:09:06.887Z"}
+{"level":"info","message":"📧 Found 1 emails for Gold Coast Real Estate Broker","timestamp":"2026-02-21T09:09:18.691Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vihaan+Real+Estate+Brokerage/data=!4m7!3m6!1s0x3e5f4335eecb5033:0xda0fc740701cd51c!8m2!3d25.2563978!4d55.3000311!16s%2Fg%2F11vrlnwj1p!19sChIJM1DL7jVDXz4RHNUccEDHD9o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:09:18.697Z"}
+{"level":"info","message":"✅ Added: Vihaan Real Estate Brokerage","timestamp":"2026-02-21T09:09:20.333Z"}
+{"level":"info","message":"🔍 Deep crawling: https://vrebuae.com/...","timestamp":"2026-02-21T09:09:20.334Z"}
+{"level":"info","message":"📧 Found 1 emails for Vihaan Real Estate Brokerage","timestamp":"2026-02-21T09:09:36.024Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HighMark+Horizon+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f428e8441c401:0xd5c4bedffac883e9!8m2!3d25.227295!4d55.341917!16s%2Fg%2F11bbwz6cvt!19sChIJAcRBhI5CXz4R6YPI-t--xNU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:09:36.056Z"}
+{"level":"info","message":"✅ Added: HighMark Horizon Real Estate LLC","timestamp":"2026-02-21T09:09:37.606Z"}
+{"level":"info","message":"🔍 Deep crawling: https://highmarkhorizon.com/...","timestamp":"2026-02-21T09:09:37.606Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Soledair+star+real+estate/data=!4m7!3m6!1s0x3e5f696e42245e01:0xf45a0e80391533b9!8m2!3d25.179405!4d55.2718648!16s%2Fg%2F11rq4n18wz!19sChIJAV4kQm5pXz4RuTMVOYAOWvQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:09:40.513Z"}
+{"level":"info","message":"✅ Added: Soledair star real estate","timestamp":"2026-02-21T09:09:41.893Z"}
+{"level":"info","message":"🔍 Deep crawling: https://soledairstar.com/...","timestamp":"2026-02-21T09:09:41.893Z"}
+{"level":"info","message":"📧 Found 1 emails for Soledair star real estate","timestamp":"2026-02-21T09:09:49.952Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Al+Ayan+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f66b4be6c3899:0x1b17569416b345e2!8m2!3d25.1641287!4d55.4018828!16s%2Fg%2F11bw4v2796!19sChIJmThsvrRmXz4R4kWzFpRWFxs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:09:49.958Z"}
+{"level":"info","message":"✅ Added: Al Ayan Real Estate Broker LLC","timestamp":"2026-02-21T09:09:51.510Z"}
+{"level":"info","message":"🔍 Deep crawling: https://alayanrealestate.ae/...","timestamp":"2026-02-21T09:09:51.510Z"}
+{"level":"info","message":"📧 Found 3 emails for Al Ayan Real Estate Broker LLC","timestamp":"2026-02-21T09:10:08.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Springfield+Properties/data=!4m7!3m6!1s0x3e5f6beb752b4681:0x4dc01bc0b6a2e73f!8m2!3d25.185424!4d55.2792016!16s%2Fg%2F11b6g9vxtw!19sChIJgUYrdetrXz4RP-eitsAbwE0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:08.548Z"}
+{"level":"info","message":"✅ Added: Springfield Properties","timestamp":"2026-02-21T09:10:09.879Z"}
+{"level":"info","message":"🔍 Deep crawling: https://springfieldproperties.ae/...","timestamp":"2026-02-21T09:10:09.879Z"}
+{"level":"info","message":"📧 Found 1 emails for Springfield Properties","timestamp":"2026-02-21T09:10:20.337Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MSK+Real+Estate+Broker+L.L.C/data=!4m7!3m6!1s0x3e5f69c201300b05:0xca30b520e7aa369d!8m2!3d25.1861261!4d55.2729302!16s%2Fg%2F11rtlf9mlq!19sChIJBQswAcJpXz4RnTaq5yC1MMo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:20.343Z"}
+{"level":"info","message":"✅ Added: MSK Real Estate Broker L.L.C","timestamp":"2026-02-21T09:10:21.844Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.mskrealestate.com/...","timestamp":"2026-02-21T09:10:21.845Z"}
+{"level":"info","message":"📧 Found 2 emails for MSK Real Estate Broker L.L.C","timestamp":"2026-02-21T09:10:32.437Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Strada+Real+Estate+Brokerage/data=!4m7!3m6!1s0x3e5f6b931219ac79:0x6899464b4fea777a!8m2!3d25.1138231!4d55.24615!16s%2Fg%2F11sx0fbtn8!19sChIJeawZEpNrXz4RenfqT0tGmWg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:32.443Z"}
+{"level":"info","message":"✅ Added: Strada Real Estate Brokerage","timestamp":"2026-02-21T09:10:33.840Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.stradauae.com/...","timestamp":"2026-02-21T09:10:33.840Z"}
+{"level":"info","message":"📧 Found 1 emails for Strada Real Estate Brokerage","timestamp":"2026-02-21T09:10:41.094Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Realty+Force+Real+Estate+Brokers/data=!4m7!3m6!1s0x3e5f69406201b4f5:0x17feaa146014540b!8m2!3d25.188858!4d55.2696918!16s%2Fg%2F11q3dz9xdt!19sChIJ9bQBYkBpXz4RC1QUYBSq_hc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:41.101Z"}
+{"level":"info","message":"✅ Added: Realty Force Real Estate Brokers","timestamp":"2026-02-21T09:10:42.370Z"}
+{"level":"info","message":"🔍 Deep crawling: https://realtyforce.ae/...","timestamp":"2026-02-21T09:10:42.372Z"}
+{"level":"info","message":"📧 Found 4 emails for Realty Force Real Estate Brokers","timestamp":"2026-02-21T09:10:51.654Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jade+%26+Co+Real+Estate/data=!4m7!3m6!1s0x3e5f6b1be7a616df:0xf7fcacc8ff90654a!8m2!3d25.096648!4d55.168507!16s%2Fg%2F11ngr2wkd_!19sChIJ3xam5xtrXz4RSmWQ_8is_Pc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:51.661Z"}
+{"level":"info","message":"✅ Added: Jade & Co Real Estate","timestamp":"2026-02-21T09:10:52.841Z"}
+{"level":"info","message":"🔍 Deep crawling: http://jadeandco.com/...","timestamp":"2026-02-21T09:10:52.841Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Kore+Real+Estate/data=!4m7!3m6!1s0x3e5f6fa5c9f1e801:0x5382013ad1959483!8m2!3d25.0277598!4d55.1811873!16s%2Fg%2F11rsh2shsf!19sChIJAejxyaVvXz4Rg5SV0ToBglM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:10:57.801Z"}
+{"level":"info","message":"✅ Added: Kore Real Estate","timestamp":"2026-02-21T09:10:59.029Z"}
+{"level":"info","message":"🔍 Deep crawling: http://koredubai.com/...","timestamp":"2026-02-21T09:10:59.030Z"}
+{"level":"info","message":"📧 Found 1 emails for Kore Real Estate","timestamp":"2026-02-21T09:11:09.240Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Wikihomes+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f69fafc8aa75b:0x91b2cb040cee1bfa!8m2!3d25.1859019!4d55.2602652!16s%2Fg%2F11hmglct66!19sChIJW6eK_PppXz4R-hvuDATLspE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:11:09.246Z"}
+{"level":"info","message":"✅ Added: Wikihomes Real Estate Brokers LLC","timestamp":"2026-02-21T09:11:10.794Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.wiki-homes.com/...","timestamp":"2026-02-21T09:11:10.794Z"}
+{"level":"info","message":"📧 Found 1 emails for Wikihomes Real Estate Brokers LLC","timestamp":"2026-02-21T09:11:18.813Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Luxury+Concierge+Real+Estate+Broker/data=!4m7!3m6!1s0xa70b91b4645f8795:0x9d0f286ef6b2ca8e!8m2!3d25.1885881!4d55.2665957!16s%2Fg%2F11vb4b42br!19sChIJlYdfZLSRC6cRjsqy9m4oD50?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:11:18.830Z"}
+{"level":"info","message":"✅ Added: Luxury Concierge Real Estate Broker","timestamp":"2026-02-21T09:11:20.440Z"}
+{"level":"info","message":"🔍 Deep crawling: http://lcredubai.com/...","timestamp":"2026-02-21T09:11:20.441Z"}
+{"level":"info","message":"📧 Found 2 emails for Luxury Concierge Real Estate Broker","timestamp":"2026-02-21T09:11:35.021Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Think+Realty/data=!4m7!3m6!1s0x3e5f69abe1f3976f:0xe371c61590fb197a!8m2!3d25.1093207!4d55.1837691!16s%2Fg%2F11q_3b58bw!19sChIJb5fz4atpXz4Rehn7kBXGceM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:11:35.026Z"}
+{"level":"info","message":"✅ Added: Think Realty","timestamp":"2026-02-21T09:11:36.202Z"}
+{"level":"info","message":"🔍 Deep crawling: https://thinkrealty.ae/...","timestamp":"2026-02-21T09:11:36.203Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Metropolitan+Premium+Properties/data=!4m7!3m6!1s0x3e5f699d2560be17:0xf5856d2bee96f8aa!8m2!3d25.1839733!4d55.2594894!16s%2Fg%2F11h547xjnq!19sChIJF75gJZ1pXz4RqviW7itthfU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:11:41.495Z"}
+{"level":"info","message":"✅ Added: Metropolitan Premium Properties","timestamp":"2026-02-21T09:11:42.640Z"}
+{"level":"info","message":"🔍 Deep crawling: https://metropolitan.realestate/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=mpp...","timestamp":"2026-02-21T09:11:42.640Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Levante/data=!4m7!3m6!1s0x3e5f6d428b58af31:0x46afb3b8a7ee9bab!8m2!3d25.0491805!4d55.214701!16s%2Fg%2F11sjlmtbv9!19sChIJMa9Yi0JtXz4Rq5vup7izr0Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:12:04.963Z"}
+{"level":"info","message":"✅ Added: Levante","timestamp":"2026-02-21T09:12:06.858Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.levantere.com/...","timestamp":"2026-02-21T09:12:06.859Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DOMESTIC+REAL+ESTATE+BROKERS/data=!4m7!3m6!1s0x3e5f691ddd134cf3:0x28e461827226eb22!8m2!3d25.1538125!4d55.2910625!16s%2Fg%2F11pcs8hs6w!19sChIJ80wT3R1pXz4RIusmcoJh5Cg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:12:19.563Z"}
+{"level":"info","message":"✅ Added: DOMESTIC REAL ESTATE BROKERS","timestamp":"2026-02-21T09:12:21.077Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.domesticbrokers.com/...","timestamp":"2026-02-21T09:12:21.078Z"}
+{"level":"info","message":"📧 Found 2 emails for DOMESTIC REAL ESTATE BROKERS","timestamp":"2026-02-21T09:12:36.305Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Loam+Real+Estate+-+Best+Real+Estate+Agency+in+Dubai/data=!4m7!3m6!1s0x3e5f69a0f1de714d:0x1d2d8a1051812293!8m2!3d25.2119497!4d55.2747508!16s%2Fg%2F11khf3v7yn!19sChIJTXHe8aBpXz4RkyKBURCKLR0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:12:36.311Z"}
+{"level":"info","message":"✅ Added: Loam Real Estate - Best Real Estate Agency in Dubai","timestamp":"2026-02-21T09:12:37.487Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.loamrealestate.com/...","timestamp":"2026-02-21T09:12:37.487Z"}
+{"level":"info","message":"📧 Found 2 emails for Loam Real Estate - Best Real Estate Agency in Dubai","timestamp":"2026-02-21T09:12:50.333Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Axis+Real+Estate+Brokerage+Dubai/data=!4m7!3m6!1s0x3e5f69a3dedc3e45:0x75baeb8946794c09!8m2!3d25.1863727!4d55.2750728!16s%2Fg%2F11sbpst74p!19sChIJRT7c3qNpXz4RCUx5RonrunU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:12:50.340Z"}
+{"level":"info","message":"✅ Added: Axis Real Estate Brokerage Dubai","timestamp":"2026-02-21T09:12:51.875Z"}
+{"level":"info","message":"🔍 Deep crawling: https://axisrealestate.ae/...","timestamp":"2026-02-21T09:12:51.875Z"}
+{"level":"info","message":"📧 Found 1 emails for Axis Real Estate Brokerage Dubai","timestamp":"2026-02-21T09:13:01.155Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEKENKOUM+REAL+ESTATE+L.L.C/data=!4m7!3m6!1s0x3e5f43a9e9868025:0xeb51a3534cca85f3!8m2!3d25.2253348!4d55.2836397!16s%2Fg%2F11twqs2nvg!19sChIJJYCG6alDXz4R84XKTFOjUes?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:01.162Z"}
+{"level":"info","message":"✅ Added: SEKENKOUM REAL ESTATE L.L.C","timestamp":"2026-02-21T09:13:02.644Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sekenkoum.com/?utm_source=google&utm_medium=local&utm_campaign=gbp_listing&utm_content=website_button...","timestamp":"2026-02-21T09:13:02.645Z"}
+{"level":"info","message":"📧 Found 1 emails for SEKENKOUM REAL ESTATE L.L.C","timestamp":"2026-02-21T09:13:13.645Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/XCEED+Real+Estate+Brokers/data=!4m7!3m6!1s0x3e5f697582107b69:0xfbe3c04064e30488!8m2!3d25.1136104!4d55.2456931!16s%2Fg%2F11sc3ll99x!19sChIJaXsQgnVpXz4RiATjZEDA4_s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:13.653Z"}
+{"level":"info","message":"✅ Added: XCEED Real Estate Brokers","timestamp":"2026-02-21T09:13:14.995Z"}
+{"level":"info","message":"🔍 Deep crawling: http://xceeduae.com/...","timestamp":"2026-02-21T09:13:14.995Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dream+Home+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f13a2f13932f3:0xf4bac6c002eedde8!8m2!3d25.0723131!4d55.1323671!16s%2Fg%2F11w35281ql!19sChIJ8zI58aITXz4R6N3uAsDGuvQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:22.552Z"}
+{"level":"info","message":"✅ Added: Dream Home Real Estate Broker LLC","timestamp":"2026-02-21T09:13:23.753Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dreamhomerealestatebroker.co/...","timestamp":"2026-02-21T09:13:23.753Z"}
+{"level":"info","message":"📧 Found 2 emails for Dream Home Real Estate Broker LLC","timestamp":"2026-02-21T09:13:33.744Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Casa+Nostra+Real+Estate+Brokers/data=!4m7!3m6!1s0x3e5f6b78665fb729:0x3fd4ce9685298644!8m2!3d25.0971369!4d55.1804753!16s%2Fg%2F11bbwnnmm7!19sChIJKbdfZnhrXz4RRIYphZbO1D8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:33.751Z"}
+{"level":"info","message":"✅ Added: Casa Nostra Real Estate Brokers","timestamp":"2026-02-21T09:13:35.317Z"}
+{"level":"info","message":"🔍 Deep crawling: http://casanostra.ae/...","timestamp":"2026-02-21T09:13:35.317Z"}
+{"level":"info","message":"📧 Found 1 emails for Casa Nostra Real Estate Brokers","timestamp":"2026-02-21T09:13:44.285Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Seven+Century+Real+Estate+Brokers+L.L.C/data=!4m7!3m6!1s0x3e5f69d065aaaaab:0xfbf3c89b4a2ec29!8m2!3d25.1842595!4d55.2599912!16s%2Fg%2F1yfh_j2_m!19sChIJq6qqZdBpXz4RKeyitIk8vw8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:44.295Z"}
+{"level":"info","message":"✅ Added: Seven Century Real Estate Brokers L.L.C","timestamp":"2026-02-21T09:13:45.772Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.sevencentury.com/...","timestamp":"2026-02-21T09:13:45.775Z"}
+{"level":"info","message":"📧 Found 2 emails for Seven Century Real Estate Brokers L.L.C","timestamp":"2026-02-21T09:13:54.764Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Cando+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6ba64f4fc3d1:0xb88adf6a9d344df0!8m2!3d25.1011283!4d55.1737884!16s%2Fg%2F11h57gkc20!19sChIJ0cNPT6ZrXz4R8E00nWrfirg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:13:54.770Z"}
+{"level":"info","message":"✅ Added: Cando Real Estate Broker LLC","timestamp":"2026-02-21T09:13:56.241Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.cando.ae/...","timestamp":"2026-02-21T09:13:56.242Z"}
+{"level":"info","message":"📧 Found 3 emails for Cando Real Estate Broker LLC","timestamp":"2026-02-21T09:14:03.447Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Grand+Vision+Real+Estate+LLC+%7C+Dubai+Property+Consultants+%7C+Dubai+Real+Estate+Agency+%7C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%85%D9%84%DA%A9+%D8%AF%D8%B1+%D8%AF%D8%A8%DB%8C%E2%80%AD/data=!4m7!3m6!1s0x3e5f13eeb980c3db:0xa272249c0435fdb5!8m2!3d25.2177087!4d55.2786709!16s%2Fg%2F11syr31fd3!19sChIJ28OAue4TXz4Rtf01BJwkcqI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:14:03.454Z"}
+{"level":"info","message":"✅ Added: Grand Vision Real Estate LLC | Dubai Property Consultants | Dubai Real Estate Agency | خرید ملک در دبی","timestamp":"2026-02-21T09:14:05.163Z"}
+{"level":"info","message":"🔍 Deep crawling: https://grandvisionuae.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link...","timestamp":"2026-02-21T09:14:05.165Z"}
+{"level":"info","message":"📧 Found 4 emails for Grand Vision Real Estate LLC | Dubai Property Consultants | Dubai Real Estate Agency | خرید ملک در دبی","timestamp":"2026-02-21T09:14:13.567Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Expert+Homes+Real+Estate/data=!4m7!3m6!1s0x3e5f698404d2a6b3:0xf68165c7852e144b!8m2!3d25.1920788!4d55.2663564!16s%2Fg%2F11h76mb7xj!19sChIJs6bSBIRpXz4RSxQuhcdlgfY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:14:13.574Z"}
+{"level":"info","message":"✅ Added: Expert Homes Real Estate","timestamp":"2026-02-21T09:14:15.024Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.expert-homes.com/...","timestamp":"2026-02-21T09:14:15.025Z"}
+{"level":"info","message":"📧 Found 2 emails for Expert Homes Real Estate","timestamp":"2026-02-21T09:14:29.159Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bluechip+Real+Estate+Brokers+LLC/data=!4m7!3m6!1s0x3e5f6b9f71dcd8df:0xba56060d7eec63a0!8m2!3d25.1095679!4d55.1841439!16s%2Fg%2F12hnlvb46!19sChIJ39jccZ9rXz4RoGPsfg0GVro?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:14:29.167Z"}
+{"level":"info","message":"✅ Added: Bluechip Real Estate Brokers LLC","timestamp":"2026-02-21T09:14:30.990Z"}
+{"level":"info","message":"🔍 Deep crawling: https://bluechiphome.com/...","timestamp":"2026-02-21T09:14:30.992Z"}
+{"level":"info","message":"📧 Found 2 emails for Bluechip Real Estate Brokers LLC","timestamp":"2026-02-21T09:14:45.530Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Property+Junction+International+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f4333465428d1:0x146923a79cf2d84c!8m2!3d25.2313424!4d55.3134851!16s%2Fg%2F11s85nt0gt!19sChIJ0ShURjNDXz4RTNjynKcjaRQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:14:45.542Z"}
+{"level":"info","message":"✅ Added: Property Junction International Real Estate Broker LLC","timestamp":"2026-02-21T09:14:47.123Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.propjunction.ae/...","timestamp":"2026-02-21T09:14:47.123Z"}
+{"level":"info","message":"📧 Found 1 emails for Property Junction International Real Estate Broker LLC","timestamp":"2026-02-21T09:14:53.455Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Homes+4+Life+Real+Estate+-+Town+Square+Dubai+Office/data=!4m7!3m6!1s0x3e5f710be8f5ccc1:0x6faf0cf2fd75df3a!8m2!3d25.0108187!4d55.2889383!16s%2Fg%2F11hyxqbnms!19sChIJwcz16AtxXz4ROt91_fIMr28?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:14:53.478Z"}
+{"level":"info","message":"✅ Added: Homes 4 Life Real Estate - Town Square Dubai Office","timestamp":"2026-02-21T09:14:54.668Z"}
+{"level":"info","message":"🔍 Deep crawling: https://homes4life.ae/...","timestamp":"2026-02-21T09:14:54.669Z"}
+{"level":"info","message":"📧 Found 2 emails for Homes 4 Life Real Estate - Town Square Dubai Office","timestamp":"2026-02-21T09:15:09.165Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Impressive+Real+Estate+LLC/data=!4m7!3m6!1s0x3e5f433096e7414f:0x2c36f246a95842f7!8m2!3d25.2516171!4d55.3012382!16s%2Fg%2F11rkdnrxlr!19sChIJT0HnljBDXz4R90JYqUbyNiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:15:09.180Z"}
+{"level":"info","message":"✅ Added: Impressive Real Estate LLC","timestamp":"2026-02-21T09:15:10.581Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Next+Level+Real+Estate+-+Award+Winning+Real+Estate+Agency+in+Dubai/data=!4m7!3m6!1s0x3e5f69d3345b4265:0x84561af444b75ead!8m2!3d25.1851504!4d55.2755081!16s%2Fg%2F11b7r6npwg!19sChIJZUJbNNNpXz4RrV63RPQaVoQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:15:10.586Z"}
+{"level":"info","message":"✅ Added: Next Level Real Estate - Award Winning Real Estate Agency in Dubai","timestamp":"2026-02-21T09:15:11.958Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.nextlevelrealestate.ae/?utm_source=google&utm_medium=organic&utm_campaign=googlge_my_business...","timestamp":"2026-02-21T09:15:11.960Z"}
+{"level":"info","message":"📧 Found 2 emails for Next Level Real Estate - Award Winning Real Estate Agency in Dubai","timestamp":"2026-02-21T09:15:19.656Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Creative+Homes+Real+Estate+Broker+LLC/data=!4m7!3m6!1s0x3e5f6752ee86e1bf:0xefebe67b95ec9d6a!8m2!3d25.1253345!4d55.2087067!16s%2Fg%2F11rc47f16w!19sChIJv-GG7lJnXz4Rap3slXvm6-8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:15:19.669Z"}
+{"level":"info","message":"✅ Added: Creative Homes Real Estate Broker LLC","timestamp":"2026-02-21T09:15:21.532Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.creativehomes.ae/...","timestamp":"2026-02-21T09:15:21.533Z"}
+{"level":"info","message":"📧 Found 3 emails for Creative Homes Real Estate Broker LLC","timestamp":"2026-02-21T09:15:34.458Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Blue+Velvet+Real+Estate+Brokerage/data=!4m7!3m6!1s0x3e5f5db2f0ccba51:0xe7a359dcf87f5a2!8m2!3d25.2353742!4d55.3187543!16s%2Fg%2F11t3gyk_7w!19sChIJUbrM8LJdXz4RovWHz501eg4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:15:34.464Z"}
+{"level":"info","message":"✅ Added: Blue Velvet Real Estate Brokerage","timestamp":"2026-02-21T09:15:36.027Z"}
+{"level":"info","message":"🔍 Deep crawling: https://bluevelvet.ae/...","timestamp":"2026-02-21T09:15:36.030Z"}
+{"level":"info","message":"📧 Found 1 emails for Blue Velvet Real Estate Brokerage","timestamp":"2026-02-21T09:15:43.155Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Emireum+Properties+%7C+Real+estate+agency+in+dubai/data=!4m7!3m6!1s0x3e5f69b26c164941:0x42ebfea257805d58!8m2!3d25.1887036!4d55.2665463!16s%2Fg%2F11v5vqhyyj!19sChIJQUkWbLJpXz4RWF2AV6L-60I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:15:43.181Z"}
+{"level":"info","message":"✅ Added: Emireum Properties | Real estate agency in dubai","timestamp":"2026-02-21T09:15:44.540Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.emireumproperties.com/en...","timestamp":"2026-02-21T09:15:44.540Z"}
+{"level":"info","message":"📧 Found 3 emails for Emireum Properties | Real estate agency in dubai","timestamp":"2026-02-21T09:16:00.992Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sparefoot+Real+Estate+Broker/data=!4m7!3m6!1s0x3e5f69774b8b711f:0x25ae7a64dbeb36a8!8m2!3d25.1119989!4d55.3843377!16s%2Fg%2F11gzs6wpd_!19sChIJH3GLS3dpXz4RqDbr22R6riU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-21T09:16:01.007Z"}
+{"level":"info","message":"✅ Added: Sparefoot Real Estate Broker","timestamp":"2026-02-21T09:16:02.761Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.sparefoot.ae/...","timestamp":"2026-02-21T09:16:02.761Z"}
+{"level":"info","message":"📧 Found 1 emails for Sparefoot Real Estate Broker","timestamp":"2026-02-21T09:16:38.553Z"}
+{"level":"info","message":"🏁 Job 97d1601e-6b9a-4f7d-80d5-e77b37bae064 Completed. Added: 60, Skipped: 0","timestamp":"2026-02-21T09:16:38.605Z"}

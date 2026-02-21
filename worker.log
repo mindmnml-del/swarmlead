@@ -849,3 +849,194 @@
 {"level":"info","message":"✅ Found 1 emails for Hot Stone Steakhouse Budapest: hotstonebudapest@gmail.com","timestamp":"2026-02-21T06:52:25.651Z"}
 {"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-21T06:52:25.677Z"}
 {"level":"info","message":"👷 Processing: FIRST Craft Beer & BBQ (ID: 07216a6a-c14a-4a4a-8cd8-449eef8e2927) - URL: https://firstbbq.hu/","timestamp":"2026-02-21T06:52:25.683Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-feda5bc0","timestamp":"2026-02-21T07:04:38.701Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T07:04:38.762Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T07:04:39.703Z"}
+{"level":"info","message":"👷 Processing: Beer Brothers (ID: ee024b4f-6320-4d22-bfff-8e4c97f8cc32) - URL: https://www.facebook.com/beerbrothersbudapest/","timestamp":"2026-02-21T07:04:39.781Z"}
+{"level":"info","message":"✅ Found 1 emails for Beer Brothers: hungaryinfo@beerbrothers.hubeerbrothers.huclosed","timestamp":"2026-02-21T07:04:49.358Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-21T07:04:49.389Z"}
+{"level":"info","message":"👷 Processing: HOPS BEER BAR BUDAPEST (ID: 79b9e0ba-e427-4dab-a739-65ebaa5ddfb6) - URL: https://www.facebook.com/hopsbeerbar/","timestamp":"2026-02-21T07:04:49.395Z"}
+{"level":"info","message":"🤷 No emails found for HOPS BEER BAR BUDAPEST","timestamp":"2026-02-21T07:04:56.772Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-21T07:04:56.787Z"}
+{"level":"info","message":"👷 Processing: Ruin Bars Budapest (ID: 85856edf-0842-44e4-8fee-b699bc730778) - URL: http://ruinbarsbudapest.hu/?utm_source=gmb_ruinpubcrawl&utm_medium=website","timestamp":"2026-02-21T07:04:56.793Z"}
+{"level":"info","message":"🤷 No emails found for Ruin Bars Budapest","timestamp":"2026-02-21T07:04:57.458Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-21T07:04:57.469Z"}
+{"level":"info","message":"👷 Processing: Gravity Brewing (ID: d54a00c3-015f-42fa-8a8d-1558627c2abc) - URL: https://gravitybp.com/","timestamp":"2026-02-21T07:04:57.475Z"}
+{"level":"info","message":"✅ Found 9 emails for Gravity Brewing: taproom@gravitybp.com, info@gravitybp.com, 8404taproom@gravitybp.comcontact, 8404taproom@gravitybp.comjoin, reservations@constellation.hu, reservations@constellation.com, 8404taproom@gravitybp.comconstellation, 9665reservations@constellation.hugravity, 9665reservations@constellation.com","timestamp":"2026-02-21T07:05:10.421Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-21T07:05:10.448Z"}
+{"level":"info","message":"👷 Processing: Ruin Brew: Brunch & Beer (ID: 39c06d01-de8f-4ad6-95a3-aa85737bb369) - URL: https://www.facebook.com/ruinbrew","timestamp":"2026-02-21T07:05:10.456Z"}
+{"level":"info","message":"🤷 No emails found for Ruin Brew: Brunch & Beer","timestamp":"2026-02-21T07:05:19.178Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-21T07:05:19.194Z"}
+{"level":"info","message":"👷 Processing: MADHOUSE BISTRO & BAR (ID: cc561205-c005-446d-a122-28d74b44c697) - URL: https://madhousebudapest.hu/","timestamp":"2026-02-21T07:05:19.201Z"}
+{"level":"info","message":"✅ Found 2 emails for MADHOUSE BISTRO & BAR: foglalas@madhousebudapest.hu, reservation@madhousebudapest.hu","timestamp":"2026-02-21T07:05:31.367Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-21T07:05:31.392Z"}
+{"level":"info","message":"👷 Processing: Beer Point Budapest (ID: b7394649-c354-46c4-981a-8612812aa588) - URL: https://beerpointbp.hu/","timestamp":"2026-02-21T07:05:31.397Z"}
+{"level":"info","message":"✅ Found 3 emails for Beer Point Budapest: beerpointbp@gmail.com, 5144beerpointbp@gmail.com, csikos.csaba@rakentep.hu","timestamp":"2026-02-21T07:05:42.047Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-21T07:05:42.069Z"}
+{"level":"info","message":"👷 Processing: Kandalló Craft Beer & Burger Pub (ID: a0abd6cf-fd6f-4baf-b439-c8930936d24b) - URL: http://www.kandallopub.hu/","timestamp":"2026-02-21T07:05:42.074Z"}
+{"level":"info","message":"✅ Found 1 emails for Kandalló Craft Beer & Burger Pub: info@kandallopub.hu","timestamp":"2026-02-21T07:05:58.410Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-21T07:05:58.435Z"}
+{"level":"info","message":"👷 Processing: Élesztő kézműves söröző (ID: 7b2bf0fd-ff46-4440-9cf7-837a923fa5a5) - URL: http://www.elesztohaz.hu/","timestamp":"2026-02-21T07:05:58.442Z"}
+{"level":"info","message":"🤷 No emails found for Élesztő kézműves söröző","timestamp":"2026-02-21T07:06:12.844Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-21T07:06:12.870Z"}
+{"level":"info","message":"👷 Processing: Oxygen Bar (ID: 5fe4fc8b-bba0-422a-85cc-0a94c8cc17a7) - URL: http://www.radissonblu.com/hotel-tbilisi","timestamp":"2026-02-21T07:06:12.876Z"}
+{"level":"info","message":"🤷 No emails found for Oxygen Bar","timestamp":"2026-02-21T07:06:20.920Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-21T07:06:20.935Z"}
+{"level":"info","message":"👷 Processing: Maharajah Restaurant Tbilisi (ID: 331c7763-a696-43cf-8ef7-09721b44b8af) - URL: https://maharajah.ge/","timestamp":"2026-02-21T07:06:20.943Z"}
+{"level":"info","message":"✅ Found 1 emails for Maharajah Restaurant Tbilisi: info@maharajah.ge","timestamp":"2026-02-21T07:06:28.328Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-21T07:06:28.355Z"}
+{"level":"info","message":"👷 Processing: Beer Square (ID: 9403a81e-b701-4fea-8ad7-089568179cef) - URL: https://tsiskvili.ge/","timestamp":"2026-02-21T07:06:28.360Z"}
+{"level":"info","message":"✅ Found 1 emails for Beer Square: reservation@tsiskvili.ge","timestamp":"2026-02-21T07:06:36.123Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-21T07:06:36.146Z"}
+{"level":"info","message":"👷 Processing: Craft Grill and Beer • კრაფტ გრილი და ლუდი (ID: f4494f7b-a963-44c1-bdb9-a1d597f96fdf) - URL: https://www.craftfood.ge/","timestamp":"2026-02-21T07:06:36.151Z"}
+{"level":"info","message":"🤷 No emails found for Craft Grill and Beer • კრაფტ გრილი და ლუდი","timestamp":"2026-02-21T07:06:48.505Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-21T07:06:48.518Z"}
+{"level":"info","message":"👷 Processing: Ethnographer restaurant (ID: dfe40f57-698c-4ba6-aeac-c19f58bf2713) - URL: https://www.facebook.com/ethnographer.ge/","timestamp":"2026-02-21T07:06:48.524Z"}
+{"level":"info","message":"✅ Found 1 emails for Ethnographer restaurant: 50events@ethnographer.geopening","timestamp":"2026-02-21T07:06:56.221Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-21T07:06:56.244Z"}
+{"level":"info","message":"👷 Processing: Ethno Tsiskvili (ID: 76fe2c82-ade6-49e3-992a-38cb6457dfe5) - URL: https://tsiskvili.ge/","timestamp":"2026-02-21T07:06:56.249Z"}
+{"level":"info","message":"✅ Found 1 emails for Ethno Tsiskvili: reservation@tsiskvili.ge","timestamp":"2026-02-21T07:07:05.122Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-21T07:07:05.147Z"}
+{"level":"info","message":"👷 Processing: Sharbati • Restaurant & Beer Garden (ID: 4d2f079e-ed7e-470a-baac-f28b4f143dd7) - URL: https://sharbati.ge/","timestamp":"2026-02-21T07:07:05.153Z"}
+{"level":"info","message":"✅ Found 1 emails for Sharbati • Restaurant & Beer Garden: info@sharbati.ge","timestamp":"2026-02-21T07:07:20.777Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-21T07:07:20.804Z"}
+{"level":"info","message":"👷 Processing: Riverside Babilo (ID: fe898d57-369a-49c0-b6ac-687ea6d3004c) - URL: null","timestamp":"2026-02-21T07:07:20.820Z"}
+{"level":"warn","message":"⚠️  No website for Riverside Babilo, marking FAILED.","timestamp":"2026-02-21T07:07:20.820Z"}
+{"level":"info","message":"👷 Processing: Alkhanaidze Beer Restaurant • ალხანაიძე ლუდის რესტორანი (ID: f75c2521-d601-449d-9d05-f001e7f5d0b6) - URL: null","timestamp":"2026-02-21T07:07:20.831Z"}
+{"level":"warn","message":"⚠️  No website for Alkhanaidze Beer Restaurant • ალხანაიძე ლუდის რესტორანი, marking FAILED.","timestamp":"2026-02-21T07:07:20.832Z"}
+{"level":"info","message":"👷 Processing: Restaurant Tbilisi (ID: 01185bdb-f38b-4d36-a891-967430caa0c7) - URL: null","timestamp":"2026-02-21T07:07:20.844Z"}
+{"level":"warn","message":"⚠️  No website for Restaurant Tbilisi, marking FAILED.","timestamp":"2026-02-21T07:07:20.845Z"}
+{"level":"info","message":"👷 Processing: Bambuszliget Japán Étterem & Sushi Bár (ID: 38583567-270b-4aae-9142-5bcdc052877c) - URL: http://www.bambuszliget.hu/","timestamp":"2026-02-21T07:07:20.857Z"}
+{"level":"info","message":"✅ Found 1 emails for Bambuszliget Japán Étterem & Sushi Bár: info@bambuszliget.hu","timestamp":"2026-02-21T07:07:34.562Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-21T07:07:34.585Z"}
+{"level":"info","message":"👷 Processing: Bajor Sör-Ház - HB Traunstein Beer House Budapest (ID: 207e3781-681d-495f-850f-284dd98166a7) - URL: http://www.bierhaus.hu/","timestamp":"2026-02-21T07:07:34.591Z"}
+{"level":"info","message":"🤷 No emails found for Bajor Sör-Ház - HB Traunstein Beer House Budapest","timestamp":"2026-02-21T07:07:48.593Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-21T07:07:48.609Z"}
+{"level":"info","message":"👷 Processing: HOPAHOLIC Craft Beer Bar & Food Budapest (ID: ba151867-ba54-458d-aa66-57f29be8c35f) - URL: http://hopaholic.hu/","timestamp":"2026-02-21T07:07:48.615Z"}
+{"level":"info","message":"🤷 No emails found for HOPAHOLIC Craft Beer Bar & Food Budapest","timestamp":"2026-02-21T07:07:57.118Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-21T07:07:57.132Z"}
+{"level":"info","message":"👷 Processing: Beerstro14 Steak House Restaurant (ID: 980b1c91-6fa8-4117-91ae-2a70649c4ab9) - URL: https://www.beerstro14.hu/","timestamp":"2026-02-21T07:07:57.138Z"}
+{"level":"info","message":"✅ Found 3 emails for Beerstro14 Steak House Restaurant: beerstro14@gmail.com, beerstro14@gmail.comc, beerstro14@gmail.comaddress","timestamp":"2026-02-21T07:08:09.402Z"}
+{"level":"info","message":"📊 Job 20/50 processed.","timestamp":"2026-02-21T07:08:09.441Z"}
+{"level":"info","message":"👷 Processing: Ugar Brewpub (ID: 03cd4164-2ab8-4401-a5ac-252ba0719f45) - URL: https://www.instagram.com/ugar_brewpub/","timestamp":"2026-02-21T07:08:09.448Z"}
+{"level":"info","message":"🤷 No emails found for Ugar Brewpub","timestamp":"2026-02-21T07:08:17.692Z"}
+{"level":"info","message":"📊 Job 21/50 processed.","timestamp":"2026-02-21T07:08:17.705Z"}
+{"level":"info","message":"👷 Processing: Pater Marcus Apátsági Pub (ID: d82f3eb6-c41e-412d-8b3e-72d3d791bef6) - URL: http://www.patermarcus.hu/","timestamp":"2026-02-21T07:08:17.710Z"}
+{"level":"info","message":"✅ Found 1 emails for Pater Marcus Apátsági Pub: patermarcusbp@gmail.com","timestamp":"2026-02-21T07:08:34.577Z"}
+{"level":"info","message":"📊 Job 22/50 processed.","timestamp":"2026-02-21T07:08:34.608Z"}
+{"level":"info","message":"👷 Processing: PORT beer&food (ID: 0a32d708-c2d6-4862-a482-1b7429972ff8) - URL: https://www.portbeerandfood.hu/","timestamp":"2026-02-21T07:08:34.615Z"}
+{"level":"info","message":"✅ Found 1 emails for PORT beer&food: port@belgaco.hu","timestamp":"2026-02-21T07:08:52.294Z"}
+{"level":"info","message":"📊 Job 23/50 processed.","timestamp":"2026-02-21T07:08:52.324Z"}
+{"level":"info","message":"👷 Processing: Bors Gastro Bar (ID: 7cae3af6-cd46-4cc2-98b1-6319b6209d38) - URL: https://facebook.com/BorsGasztroBar","timestamp":"2026-02-21T07:08:52.339Z"}
+{"level":"info","message":"🤷 No emails found for Bors Gastro Bar","timestamp":"2026-02-21T07:09:02.930Z"}
+{"level":"info","message":"📊 Job 24/50 processed.","timestamp":"2026-02-21T07:09:02.947Z"}
+{"level":"info","message":"👷 Processing: Beer People - Bar and Specialty Beer Store (ID: e5947a0a-0e14-4e52-b70b-24d0e32db34e) - URL: http://beerpeoplebudapest.com/","timestamp":"2026-02-21T07:09:02.952Z"}
+{"level":"info","message":"✅ Found 1 emails for Beer People - Bar and Specialty Beer Store: walkingbottlehungary@gmail.com","timestamp":"2026-02-21T07:09:13.193Z"}
+{"level":"info","message":"📊 Job 25/50 processed.","timestamp":"2026-02-21T07:09:13.218Z"}
+{"level":"info","message":"👷 Processing: Syra Coffee | H&M (ID: cfbe4e42-87c4-427a-9a1a-78229fbd0b72) - URL: https://syra.coffee/","timestamp":"2026-02-21T07:09:13.225Z"}
+{"level":"info","message":"✅ Found 2 emails for Syra Coffee | H&M: info@syra.coffee, orders@syra.coffee","timestamp":"2026-02-21T07:09:24.170Z"}
+{"level":"info","message":"📊 Job 26/50 processed.","timestamp":"2026-02-21T07:09:24.205Z"}
+{"level":"info","message":"👷 Processing: Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret (ID: 336c6776-1d60-4a12-a889-1f63e3667540) - URL: https://www.smiltannlegesenter.no/","timestamp":"2026-02-21T07:09:24.217Z"}
+{"level":"info","message":"✅ Found 2 emails for Smil Tannlegesenter - Tannlege og tannlegevakt Nationaltheatret: info@smiltannlegesenter.no, info@smiltannlegesenter.nonationaltheatret","timestamp":"2026-02-21T07:09:37.147Z"}
+{"level":"info","message":"📊 Job 27/50 processed.","timestamp":"2026-02-21T07:09:37.174Z"}
+{"level":"info","message":"👷 Processing: Oslo Tannlegesenter (ID: e65cd8db-c149-4959-9b25-856047342508) - URL: https://oslotannlegesenter.no/","timestamp":"2026-02-21T07:09:37.179Z"}
+{"level":"info","message":"✅ Found 4 emails for Oslo Tannlegesenter: timebestilling@oslotannlegesenter.no, post@oslotannlegesenter.no, mapspasienthenvendelsertimebestilling@oslotannlegesenter.no, henvendelserpost@oslotannlegesenter.notelefon","timestamp":"2026-02-21T07:09:46.650Z"}
+{"level":"info","message":"📊 Job 28/50 processed.","timestamp":"2026-02-21T07:09:46.799Z"}
+{"level":"info","message":"👷 Processing: Christiania tannlegesenter | MALO CLINIC (ID: 5e5b6e8f-3ce7-46a8-8da2-98b8f9b941ad) - URL: https://christiania-tannlegesenter.no/","timestamp":"2026-02-21T07:09:46.815Z"}
+{"level":"info","message":"✅ Found 4 emails for Christiania tannlegesenter | MALO CLINIC: post@christiania-tannlegesenter.no., oslo@ctls.no, romerike@ctls.no, post@frognertannhelse.no","timestamp":"2026-02-21T07:10:01.928Z"}
+{"level":"info","message":"📊 Job 29/50 processed.","timestamp":"2026-02-21T07:10:01.956Z"}
+{"level":"info","message":"👷 Processing: Odontia Tannlegene Oslo Sentrum (ID: 425837ef-9b9c-4ecc-8031-5c8d9b06b85e) - URL: https://odontia.no/tannlege/oslo-sentrum/?od=pb25","timestamp":"2026-02-21T07:10:01.962Z"}
+{"level":"info","message":"✅ Found 2 emails for Odontia Tannlegene Oslo Sentrum: oslosentrum@odontia.no, info@dentli.io","timestamp":"2026-02-21T07:10:19.628Z"}
+{"level":"info","message":"📊 Job 30/50 processed.","timestamp":"2026-02-21T07:10:19.658Z"}
+{"level":"info","message":"👷 Processing: Dental Senses Oslo (ID: 51bd14cb-ee84-4ef1-af4e-c9a8f27ccd78) - URL: http://dsoslo.no/","timestamp":"2026-02-21T07:10:19.663Z"}
+{"level":"info","message":"🤷 No emails found for Dental Senses Oslo","timestamp":"2026-02-21T07:10:29.210Z"}
+{"level":"info","message":"📊 Job 31/50 processed.","timestamp":"2026-02-21T07:10:29.231Z"}
+{"level":"info","message":"👷 Processing: Smile Nordic AS (ID: 2b480e38-d43f-4d92-8263-a4ab765dd77a) - URL: https://www.smilenordic.no/","timestamp":"2026-02-21T07:10:29.237Z"}
+{"level":"info","message":"✅ Found 1 emails for Smile Nordic AS: post@smilenordic.no","timestamp":"2026-02-21T07:10:41.636Z"}
+{"level":"info","message":"📊 Job 32/50 processed.","timestamp":"2026-02-21T07:10:41.670Z"}
+{"level":"info","message":"👷 Processing: Oris Dental (ID: 5d8fefa4-140a-4b07-97aa-4648f26f74c8) - URL: https://orisdental.no/klinikker/galleri-oslo/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside","timestamp":"2026-02-21T07:10:41.706Z"}
+{"level":"info","message":"✅ Found 14 emails for Oris Dental: gallerioslo@orisdental.no, monica.brodahl@orisdental.no, meysam.moafi@orisdental.no, shoresh.afnan@orisdental.no, eva.gustumhaugen@orisdental.no, esha.katyayen@orisdental.no, dan.grigorescu@orisdental.no, 00gallerioslo@orisdental.no, brodahlavdelingsledermonica.brodahl@orisdental.noles, medisinmeysam.moafi@orisdental.noles, medisinshoresh.afnan@orisdental.noles, protetikkeva.gustumhaugen@orisdental.noles, periodontiesha.katyayen@orisdental.noles, endodontidan.grigorescu@orisdental.noles","timestamp":"2026-02-21T07:10:54.902Z"}
+{"level":"info","message":"📊 Job 33/50 processed.","timestamp":"2026-02-21T07:10:54.929Z"}
+{"level":"info","message":"👷 Processing: Sentrum Tannlegesenter (ID: 5b642e61-1600-4daa-82a4-fcf8fb3cf748) - URL: http://www.sentrumtannlegesenter.no/","timestamp":"2026-02-21T07:10:54.935Z"}
+{"level":"info","message":"✅ Found 1 emails for Sentrum Tannlegesenter: post@sentrumtannlegesenter.no","timestamp":"2026-02-21T07:11:07.652Z"}
+{"level":"info","message":"📊 Job 34/50 processed.","timestamp":"2026-02-21T07:11:07.673Z"}
+{"level":"info","message":"👷 Processing: Oslo Dental (ID: 1c85ab9a-7319-4492-b3b2-2cc381de0bd7) - URL: https://oslodental.com/","timestamp":"2026-02-21T07:11:07.684Z"}
+{"level":"info","message":"🤷 No emails found for Oslo Dental","timestamp":"2026-02-21T07:11:19.992Z"}
+{"level":"info","message":"📊 Job 35/50 processed.","timestamp":"2026-02-21T07:11:20.004Z"}
+{"level":"info","message":"👷 Processing: Orbdent Oslo AS (ID: 98ffebb9-ed1b-4674-8ed5-b3c0e0b1be1b) - URL: https://orbdent.no/","timestamp":"2026-02-21T07:11:20.009Z"}
+{"level":"info","message":"✅ Found 1 emails for Orbdent Oslo AS: oslo@orbdent.com","timestamp":"2026-02-21T07:11:32.000Z"}
+{"level":"info","message":"📊 Job 36/50 processed.","timestamp":"2026-02-21T07:11:32.024Z"}
+{"level":"info","message":"👷 Processing: Optimal Dental (ID: d6de1b91-2c87-4fd1-bb2b-6e6925ee0a06) - URL: http://www.optimaldentaloslo.no/","timestamp":"2026-02-21T07:11:32.035Z"}
+{"level":"info","message":"✅ Found 1 emails for Optimal Dental: post@optimaldentaloslo.no","timestamp":"2026-02-21T07:11:47.428Z"}
+{"level":"info","message":"📊 Job 37/50 processed.","timestamp":"2026-02-21T07:11:47.455Z"}
+{"level":"info","message":"👷 Processing: Oslo City Tannlege (ID: dfe2ac4f-4390-4ef2-976e-1cf6c33cf2f5) - URL: https://www.oslocitytannlege.no/","timestamp":"2026-02-21T07:11:47.460Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-f855eb3c","timestamp":"2026-02-21T07:23:48.176Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T07:23:48.241Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T07:23:49.504Z"}
+{"level":"info","message":"👷 Processing: Oslo Sentrum Tannklinikk (ID: 0e4a5225-5fd4-4ff5-8c4b-5eede2115308) - URL: https://www.oslosentrumtannklinikk.no/","timestamp":"2026-02-21T07:23:49.603Z"}
+{"level":"info","message":"✅ Found 1 emails for Oslo Sentrum Tannklinikk: post@oslosentrumtannklinikk.no","timestamp":"2026-02-21T07:24:01.488Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-21T07:24:01.519Z"}
+{"level":"info","message":"👷 Processing: Oris Dental (ID: 438427a6-8e53-4fe2-8406-dec9d8720d6b) - URL: https://orisdental.no/klinikker/rommen/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside","timestamp":"2026-02-21T07:24:01.525Z"}
+{"level":"info","message":"✅ Found 8 emails for Oris Dental: rommen@orisdental.no, hauk.oyri@orisdental.com, esha.katyayen@orisdental.no, mai.dinh@orisdental.no, 96rommen@orisdental.no, medisinhauk.oyri@orisdental.comles, periodontiesha.katyayen@orisdental.noles, dinhtannlegemai.dinh@orisdental.noles","timestamp":"2026-02-21T07:24:10.153Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-21T07:24:10.183Z"}
+{"level":"info","message":"👷 Processing: Tannlege Oslo AS (ID: ef7acd90-de47-485e-9f56-05001f3359ed) - URL: http://oslotannlegeklinikk.no/","timestamp":"2026-02-21T07:24:10.190Z"}
+{"level":"info","message":"✅ Found 2 emails for Tannlege Oslo AS: post@oslotannlegeklinikk.no, 10post@oslotannlegeklinikk.no","timestamp":"2026-02-21T07:24:19.888Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-21T07:24:19.919Z"}
+{"level":"info","message":"👷 Processing: Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo (ID: c3170b16-f87b-4361-bffb-a8b94534af6c) - URL: http://www.tannlegesinsen.no/?UTM_source=GMB_listing&UTM_medium=organic","timestamp":"2026-02-21T07:24:19.925Z"}
+{"level":"info","message":"✅ Found 1 emails for Tannlegene på Sinsen | Tannlege & Tannlegevakt Oslo: post@tannlegesinsen.no","timestamp":"2026-02-21T07:24:31.738Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-21T07:24:31.762Z"}
+{"level":"info","message":"👷 Processing: Sanner Tannklinikk / Tannlegevakt (ID: 80b864dc-5035-42c1-8adc-43f248f1163d) - URL: https://sannertannklinikk.no/","timestamp":"2026-02-21T07:24:31.768Z"}
+{"level":"info","message":"✅ Found 2 emails for Sanner Tannklinikk / Tannlegevakt: post@sannertannklinikk.no, post@sannertannklinikk.notjenestertannlegevakt","timestamp":"2026-02-21T07:24:40.399Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-21T07:24:40.424Z"}
+{"level":"info","message":"👷 Processing: Dental Park (ID: 9ac2a335-fe6e-4e64-b739-a183fa6049a6) - URL: https://dentalpark.no/","timestamp":"2026-02-21T07:24:40.432Z"}
+{"level":"info","message":"✅ Found 1 emails for Dental Park: post@dentalpark.no","timestamp":"2026-02-21T07:24:53.096Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-21T07:24:53.120Z"}
+{"level":"info","message":"👷 Processing: Oris Dental Homansbyen (ID: 87eb8335-1f79-4965-a4af-74b04f7ef263) - URL: https://orisdental.no/klinikker/homansbyen/?utm_source=gulesider&utm_medium=referral&utm_campaign=&utm_term=klinikkside","timestamp":"2026-02-21T07:24:53.127Z"}
+{"level":"info","message":"✅ Found 8 emails for Oris Dental Homansbyen: homansbyen@orisdental.no, benedikte.aune@orisdental.no, zina.kristiansen@orisdental.no, jan.akre@orisdental.no, 60homansbyen@orisdental.no, aunetannlegebenedikte.aune@orisdental.noles, medisinzina.kristiansen@orisdental.noles, periodontijan.akre@orisdental.noles","timestamp":"2026-02-21T07:25:02.005Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-21T07:25:02.038Z"}
+{"level":"info","message":"👷 Processing: Eurodent Oslo tannklinikk og oralkirurgi (ID: 8f046dda-f0f2-4b58-9af5-f470096e8680) - URL: https://www.eurodent.no/tannlege-oslo?utm_source=GMBlisting&utm_medium=organic","timestamp":"2026-02-21T07:25:02.044Z"}
+{"level":"info","message":"✅ Found 1 emails for Eurodent Oslo tannklinikk og oralkirurgi: oslo@eurodent.no","timestamp":"2026-02-21T07:25:09.949Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-21T07:25:09.972Z"}
+{"level":"info","message":"👷 Processing: Spotify Camp Nou (ID: e2ccaf66-58ca-44ea-97f0-da5080b20909) - URL: https://www.fcbarcelona.cat/ca/club/installacions/spotify-camp-nou","timestamp":"2026-02-21T07:25:09.977Z"}
+{"level":"info","message":"🤷 No emails found for Spotify Camp Nou","timestamp":"2026-02-21T07:25:25.049Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-21T07:25:25.063Z"}
+{"level":"info","message":"👷 Processing: Satalia Municipal Soccer Field (ID: 1069a107-428b-41ed-8762-c5a3ce895729) - URL: http://www.apapoblesec.com/","timestamp":"2026-02-21T07:25:25.069Z"}
+{"level":"info","message":"✅ Found 2 emails for Satalia Municipal Soccer Field: info@apapoblesec.com, apapoblesec@gmail.com","timestamp":"2026-02-21T07:25:44.923Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-21T07:25:44.951Z"}
+{"level":"info","message":"👷 Processing: Nou Sardenya Municipal Stadium (ID: 871bfcf6-4ee5-4f6c-b482-4196265cc3f8) - URL: http://www.ceeuropa.cat/","timestamp":"2026-02-21T07:25:44.959Z"}
+{"level":"info","message":"🤷 No emails found for Nou Sardenya Municipal Stadium","timestamp":"2026-02-21T07:25:56.163Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-21T07:25:56.177Z"}
+{"level":"info","message":"👷 Processing: Futbol 7 Barcelona (ID: 67ce6880-a1a7-42eb-9e5a-11450bd834f1) - URL: http://www.futbol7barcelona.com/","timestamp":"2026-02-21T07:25:56.183Z"}
+{"level":"info","message":"✅ Found 1 emails for Futbol 7 Barcelona: info@futbol7barcelona.com","timestamp":"2026-02-21T07:26:04.971Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-21T07:26:04.993Z"}
+{"level":"info","message":"👷 Processing: CeleBreak Barceloneta (ID: 0eb8ef8f-ea44-498c-a672-e53b1c8d7c48) - URL: https://celebreak.com/","timestamp":"2026-02-21T07:26:05.000Z"}
+{"level":"info","message":"✅ Found 1 emails for CeleBreak Barceloneta: support@celebreak.eu","timestamp":"2026-02-21T07:26:22.486Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-21T07:26:22.514Z"}
+{"level":"info","message":"👷 Processing: Camp de futbol (ID: 44a7a541-30bc-4544-b363-17fad8c5d05a) - URL: null","timestamp":"2026-02-21T07:26:22.522Z"}
+{"level":"warn","message":"⚠️  No website for Camp de futbol, marking FAILED.","timestamp":"2026-02-21T07:26:22.522Z"}
+{"level":"info","message":"👷 Processing: Camp de Futbol Municipal Ibèria PreviousNext (ID: c8425d9f-8e30-4b36-b614-aa20a129d540) - URL: null","timestamp":"2026-02-21T07:26:22.536Z"}
+{"level":"warn","message":"⚠️  No website for Camp de Futbol Municipal Ibèria PreviousNext, marking FAILED.","timestamp":"2026-02-21T07:26:22.537Z"}
+{"level":"info","message":"👷 Processing: Mini campo de fútbol para aficionados (ID: 5f214311-4fe8-4187-be2b-a0782d24fa32) - URL: http://uriel2023pc.wordpress.com/","timestamp":"2026-02-21T07:26:22.550Z"}
+{"level":"info","message":"🤷 No emails found for Mini campo de fútbol para aficionados","timestamp":"2026-02-21T07:28:10.535Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-21T07:28:10.549Z"}
+{"level":"info","message":"👷 Processing: Barcelona World Soccer Academy Sant Antoni (ID: fa6027aa-a58a-4378-8a18-b30f74ce4cd6) - URL: https://90worldexperience.com/barcelona-world-academy/","timestamp":"2026-02-21T07:28:10.554Z"}
+{"level":"info","message":"✅ Found 1 emails for Barcelona World Soccer Academy Sant Antoni: info@90worldexperience.com","timestamp":"2026-02-21T07:28:24.271Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-21T07:28:24.293Z"}
+{"level":"info","message":"👷 Processing: CeleBreak Park Güell (ID: 9ce86da7-2a83-4569-96e6-00ee91d1fa40) - URL: https://celebreak.com/","timestamp":"2026-02-21T07:28:24.299Z"}
+{"level":"info","message":"✅ Found 1 emails for CeleBreak Park Güell: support@celebreak.eu","timestamp":"2026-02-21T07:28:31.858Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-21T07:28:31.884Z"}
+{"level":"info","message":"👷 Processing: Ciutat Esportiva Dani Jarque (ID: 0d4da090-ab84-496f-8a9a-fcff608eaacf) - URL: http://www.rcdespanyol.com/","timestamp":"2026-02-21T07:28:31.891Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-f58ade06","timestamp":"2026-02-21T07:35:37.931Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T07:35:38.000Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T07:35:38.944Z"}
+{"level":"info","message":"👷 Processing: Futbol Club Barcelona (ID: c4f43375-dfea-462d-8679-071325fbaf44) - URL: null","timestamp":"2026-02-21T07:35:39.005Z"}
+{"level":"warn","message":"⚠️  No website for Futbol Club Barcelona, marking FAILED.","timestamp":"2026-02-21T07:35:39.006Z"}
+{"level":"info","message":"👷 Processing: C.E Vincit (ID: 1b4b643c-b752-4581-8270-6d08c66a0b99) - URL: http://www.cevincit.cat/","timestamp":"2026-02-21T07:35:39.029Z"}
+{"level":"info","message":"✅ Found 1 emails for C.E Vincit: cevincit@gmail.com","timestamp":"2026-02-21T07:35:52.727Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-21T07:35:52.760Z"}
+{"level":"info","message":"👷 Processing: Camp de futbol Municipal Narcís Sala (ID: 82e09e4f-3b41-448c-8f68-2d4ad8c225cc) - URL: http://uesantandreu.cat/","timestamp":"2026-02-21T07:35:52.769Z"}
+{"level":"info","message":"✅ Found 4 emails for Camp de futbol Municipal Narcís Sala: secretaria@uesantandreu.cat, botiga@uesantandreu.cat, premsa@uesantandreu.cat, patrocinis@uesantandreu.cat","timestamp":"2026-02-21T07:36:05.462Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-21T07:36:05.494Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-660aacf9","timestamp":"2026-02-21T07:39:36.044Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T07:39:36.089Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T07:39:36.992Z"}
