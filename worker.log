@@ -1040,3 +1040,24 @@
 {"level":"info","message":"🚀 Starting Worker: worker-660aacf9","timestamp":"2026-02-21T07:39:36.044Z"}
 {"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-21T07:39:36.089Z"}
 {"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-21T07:39:36.992Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-7d195cda","timestamp":"2026-02-23T09:29:21.304Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-23T09:29:22.001Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-23T09:29:27.106Z"}
+{"level":"info","message":"👷 Processing: Chatter Buzz - Advertising Agency (ID: e1bd78bd-c96d-4748-a07e-38c160bdc7ef) - URL: http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/","timestamp":"2026-02-23T09:29:27.354Z"}
+{"level":"info","message":"🤷 No emails found for Chatter Buzz - Advertising Agency","timestamp":"2026-02-23T09:31:51.458Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-23T09:31:51.676Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-715381bf","timestamp":"2026-02-23T09:33:12.963Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-23T09:33:13.010Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-23T09:33:13.803Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-39abf8ed","timestamp":"2026-02-23T09:37:56.708Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-23T09:37:56.752Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-23T09:37:57.637Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-9e5c9fb1","timestamp":"2026-02-23T10:07:01.084Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-23T10:07:01.155Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-23T10:07:02.139Z"}
+{"level":"info","message":"👷 Processing: PORT beer&food (ID: 4832c16f-c290-4d5c-9a4b-a3710c617f75) - URL: https://www.portbeerandfood.hu/","timestamp":"2026-02-23T10:08:47.422Z"}
+{"level":"info","message":"✅ Found 1 emails for PORT beer&food: port@belgaco.hu","timestamp":"2026-02-23T10:08:55.337Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-23T10:08:55.371Z"}
+{"level":"info","message":"👷 Processing: Belgian Brasserie Henri (ID: 177772bf-cec4-4694-88d6-981102f0852a) - URL: http://www.belgasorozo.com/","timestamp":"2026-02-23T10:09:05.411Z"}
+{"level":"info","message":"✅ Found 1 emails for Belgian Brasserie Henri: belgahenri@gmail.com","timestamp":"2026-02-23T10:09:52.202Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-23T10:09:52.225Z"}
