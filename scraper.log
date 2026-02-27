@@ -3631,3 +3631,1038 @@
 {"level":"info","message":"🔍 Deep crawling: https://www.praxisklinik-alteschmiede.de/...","timestamp":"2026-02-24T07:02:03.687Z"}
 {"level":"info","message":"📧 Found 2 emails for Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede","timestamp":"2026-02-24T07:02:10.768Z"}
 {"level":"info","message":"🏁 Job b0942c14-bafd-413c-83d0-a3aac4ebd3ba Completed. Added: 20, Skipped: 0","timestamp":"2026-02-24T07:02:10.793Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-24T08:57:42.980Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-24T08:57:42.985Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-24T09:37:35.140Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-24T09:37:35.146Z"}
+{"level":"info","message":"🚀 Processing Task: digital marketing agencies New York in 10029 (eed5f2ba-65bf-4c94-9028-7208fa0be811) for Job: ae1293fc-137f-4617-af96-f5f887ce8c90","timestamp":"2026-02-24T09:38:35.895Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-24T09:38:36.870Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/digital+marketing+agencies+New+York+in+10029?hl=en","timestamp":"2026-02-24T09:38:37.044Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-24T09:38:38.668Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 20 (attempt 1/30)","timestamp":"2026-02-24T09:38:41.719Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-24T09:38:41.719Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-24T09:38:41.722Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-24T09:38:41.723Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clickmen%E2%84%A2+Digital+Marketing+Agency/data=!4m7!3m6!1s0x2565cd107814b3cd:0x7fb95772890dcdd7!8m2!3d40.7591523!4d-73.9777136!16s%2Fg%2F11w43n2yct!19sChIJzbMUeBDNZSUR180NiXJXuX8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:38:41.727Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Direct+Design+Media/data=!4m7!3m6!1s0x3a59bfaf2a4b671:0xfc36085bc6dd106e!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11tc4n23tm!19sChIJcbak8vqbpQMRbhDdxlsINvw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:38:43.995Z"}
+{"level":"info","message":"✅ Added: Direct Design Media","timestamp":"2026-02-24T09:38:45.531Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.directdesignmedia.com/...","timestamp":"2026-02-24T09:38:45.534Z"}
+{"level":"info","message":"📧 Found 1 emails for Direct Design Media","timestamp":"2026-02-24T09:38:52.977Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Manhattan/data=!4m7!3m6!1s0x89781dba3383a937:0x9c1a892e3897bd91!8m2!3d40.7813047!4d-73.9771184!16s%2Fg%2F11x23p2mwh!19sChIJN6mDM7odeIkRkb2XOC6JGpw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:38:52.993Z"}
+{"level":"info","message":"✅ Added: Digital Marketing Manhattan","timestamp":"2026-02-24T09:38:54.112Z"}
+{"level":"info","message":"🔍 Deep crawling: https://digitalmarketingmanhattan.nyc/...","timestamp":"2026-02-24T09:38:54.114Z"}
+{"level":"info","message":"📧 Found 2 emails for Digital Marketing Manhattan","timestamp":"2026-02-24T09:39:10.371Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+NYC+Agency/data=!4m7!3m6!1s0x89c258f52d8a984f:0xf2bb8451229cd7c3!8m2!3d40.774285!4d-73.9807173!16s%2Fg%2F11kc8mrw7r!19sChIJT5iKLfVYwokRw9ecIlGEu_I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:39:10.379Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DS%26P+Digital+Marketing+%26+PR+Agency/data=!4m7!3m6!1s0x89c2599a9eb4b881:0xa23129af8e50424f!8m2!3d40.7621698!4d-73.9728933!16s%2Fg%2F11spmcg4_6!19sChIJgbi0nppZwokRT0JQjq8pMaI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:39:11.603Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hunter+Digital+Marketing+Agency+-+Social+Media+%26+Search+Marketing+Agency+in+New+York/data=!4m7!3m6!1s0x89c288c707ca5129:0xb4c46c0ddce1cc86!8m2!3d40.7450692!4d-73.9934267!16s%2Fg%2F1td4l13m!19sChIJKVHKB8eIwokRhszh3A1sxLQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:39:12.840Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vab+Media+Digital+Agency,+LLC/data=!4m7!3m6!1s0x89c2598a7672325f:0xa13a4a00919176c2!8m2!3d40.7182981!4d-74.0022812!16s%2Fg%2F11bccmbbrk!19sChIJXzJydopZwokRwnaRkQBKOqE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:39:14.161Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadflow+NYC+-+Lead+Gen+Agency+for+Nonprofits+%26+Entrepreneurs/data=!4m7!3m6!1s0x89c259a85859daef:0x40aa5b69542218f6!8m2!3d40.7370087!4d-73.9794227!16s%2Fg%2F11fsxc1yxq!19sChIJ79pZWKhZwokR9hgiVGlbqkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:39:15.424Z"}
+{"level":"info","message":"✅ Added: Leadflow NYC - Lead Gen Agency for Nonprofits & Entrepreneurs","timestamp":"2026-02-24T09:39:16.828Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.leadflow.nyc/...","timestamp":"2026-02-24T09:39:16.829Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Organic+Digital+Marketing/data=!4m7!3m6!1s0x89c25988509b84b7:0xd56e5c5df962c777!8m2!3d40.7759725!4d-73.9478532!16s%2Fg%2F11h39lwhx0!19sChIJt4SbUIhZwokRd8di-V1cbtU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:07.838Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Drew+SEM/data=!4m7!3m6!1s0x89c258c741910ab1:0x7b88198b45022808!8m2!3d40.7429246!4d-73.9834751!16s%2Fg%2F11f24vg3gh!19sChIJsQqRQcdYwokRCCgCRYsZiHs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:09.090Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadige+Media+Group/data=!4m7!3m6!1s0x89c25854e6aa136f:0x20cf9222f820b1e6!8m2!3d40.757068!4d-73.986446!16s%2Fg%2F12lkcfsch!19sChIJbxOq5lRYwokR5rEg-CKSzyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:10.421Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ingenious+Guru+NYC/data=!4m7!3m6!1s0x89e829dc0bb9ee37:0xb6e8f14115ac3a0f!8m2!3d40.7800259!4d-73.9554135!16s%2Fg%2F11kbwfwy14!19sChIJN-65C9wp6IkRDzqsFUHx6LY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:11.489Z"}
+{"level":"info","message":"✅ Added: Ingenious Guru NYC","timestamp":"2026-02-24T09:44:12.685Z"}
+{"level":"info","message":"🔍 Deep crawling: https://ingeniousguru.com/...","timestamp":"2026-02-24T09:44:12.686Z"}
+{"level":"info","message":"📧 Found 1 emails for Ingenious Guru NYC","timestamp":"2026-02-24T09:44:29.967Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jives+Media/data=!4m7!3m6!1s0x89c259869319e7af:0x54953953a5ede7bb!8m2!3d40.7453911!4d-73.9904866!16s%2Fg%2F11jtxfx3x2!19sChIJr-cZk4ZZwokRu-ftpVM5lVQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:29.982Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/inBeat+Agency/data=!4m7!3m6!1s0x89c25ba3a6cddb8b:0xcc9bfdeda918203d!8m2!3d40.7037765!4d-74.0119032!16s%2Fg%2F11nftss620!19sChIJi9vNpqNbwokRPSAYqe39m8w?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:31.116Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hunter+Medias+Inc/data=!4m7!3m6!1s0x89c2f7dfd2fb99cb:0xc647d573524f079a!8m2!3d40.8004915!4d-73.9385768!16s%2Fg%2F11vq9kjt2y!19sChIJy5n70t_3wokRmgdPUnPVR8Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:32.296Z"}
+{"level":"info","message":"✅ Added: Hunter Medias Inc","timestamp":"2026-02-24T09:44:33.621Z"}
+{"level":"info","message":"🔍 Deep crawling: https://huntermedias.com/...","timestamp":"2026-02-24T09:44:33.622Z"}
+{"level":"info","message":"📧 Found 2 emails for Hunter Medias Inc","timestamp":"2026-02-24T09:44:41.094Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Omni+Digital+Agency/data=!4m7!3m6!1s0x89c2f5e1fdc4ded1:0xd7f5c84dddc67533!8m2!3d40.8030574!4d-73.9358567!16s%2Fg%2F11g6wt7pk4!19sChIJ0d7E_eH1wokRM3XG3U3I9dc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:44:41.102Z"}
+{"level":"info","message":"✅ Added: Omni Digital Agency","timestamp":"2026-02-24T09:44:42.194Z"}
+{"level":"info","message":"🔍 Deep crawling: https://splinternetmarketing.com/local-pros/idaho-1/idaho-falls-1/onsite-tech-2/...","timestamp":"2026-02-24T09:44:42.195Z"}
+{"level":"info","message":"📧 Found 2 emails for Omni Digital Agency","timestamp":"2026-02-24T09:45:01.076Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+NYC/data=!4m7!3m6!1s0x89c2598b59558eb3:0xe3e2c81226d46a32!8m2!3d40.72833!4d-73.992139!16s%2Fg%2F11dylx3g8z!19sChIJs45VWYtZwokRMmrUJhLI4uM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:45:01.087Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Succeedo+-+Digital+Marketing,+SEO,+Web+Development+Agency+in+New+York,+NYC/data=!4m7!3m6!1s0x89c25911791db3a7:0xaaf0c1812f1f3318!8m2!3d40.7619555!4d-73.9784759!16s%2Fg%2F11v6f9pk69!19sChIJp7MdeRFZwokRGDMfL4HB8Ko?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:45:02.254Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Best+Marketing+NYC/data=!4m7!3m6!1s0x89c258fe0d1322a9:0x539e9caa7598f7f0!8m2!3d40.7552871!4d-73.977932!16s%2Fg%2F1v2gfp4w!19sChIJqSITDf5YwokR8PeYdaqcnlM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:45:03.394Z"}
+{"level":"info","message":"✅ Added: Best Marketing NYC","timestamp":"2026-02-24T09:45:04.966Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.bestmarketingnyc.com/...","timestamp":"2026-02-24T09:45:05.030Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+Image+-+SEO+Company+NYC+Reputation+Management/data=!4m7!3m6!1s0x89c258e53db12431:0xcf950c9ff75ac2b0!8m2!3d40.7548367!4d-73.9793987!16s%2Fg%2F1tczwvwl!19sChIJMSSxPeVYwokRsMJa958Mlc8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:45:14.557Z"}
+{"level":"info","message":"✅ Added: SEO Image - SEO Company NYC Reputation Management","timestamp":"2026-02-24T09:45:15.774Z"}
+{"level":"info","message":"🔍 Deep crawling: https://seoimage.com/...","timestamp":"2026-02-24T09:45:15.774Z"}
+{"level":"info","message":"🏁 Job ae1293fc-137f-4617-af96-f5f887ce8c90 Fully Completed. Total Leads: 8","timestamp":"2026-02-24T09:45:23.938Z"}
+{"level":"info","message":"🏁 Task eed5f2ba-65bf-4c94-9028-7208fa0be811 Completed. Added: 8, Skipped: 12","timestamp":"2026-02-24T09:45:23.939Z"}
+{"level":"info","message":"🚀 Processing Task: beer restorants  in 10025 (10b9cba7-a32f-465b-997c-881c71c32964) for Job: 09263ccc-d5dc-47d6-bf60-846f3588da2a","timestamp":"2026-02-24T09:55:01.802Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-24T09:55:02.472Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/beer+restorants++in+10025?hl=en","timestamp":"2026-02-24T09:55:02.674Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-24T09:55:03.991Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 8 (attempt 1/30)","timestamp":"2026-02-24T09:55:07.370Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 8 (attempt 2/30)","timestamp":"2026-02-24T09:55:08.651Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 8 (attempt 3/30)","timestamp":"2026-02-24T09:55:09.861Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 8 (attempt 4/30)","timestamp":"2026-02-24T09:55:11.070Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-24T09:55:11.070Z"}
+{"level":"info","message":"✅ Collected 8 unique links.","timestamp":"2026-02-24T09:55:11.073Z"}
+{"level":"info","message":"📋 Found 8 leads. Extracting...","timestamp":"2026-02-24T09:55:11.073Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/230+Fifth+Rooftop+Bar/data=!4m7!3m6!1s0x89c259a665325aff:0x3ac777522187cfd5!8m2!3d40.744108!4d-73.98882!16s%2Fm%2F0ghfk_j!19sChIJ_1oyZaZZwokR1c-HIVJ3xzo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:11.076Z"}
+{"level":"info","message":"✅ Added: 230 Fifth Rooftop Bar","timestamp":"2026-02-24T09:55:12.950Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.230-fifth.com/...","timestamp":"2026-02-24T09:55:12.950Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lion%27s+Head+Tavern/data=!4m7!3m6!1s0x89c2f63cb664a449:0x1d40d4ce6dff126c!8m2!3d40.8022355!4d-73.9641837!16s%2Fg%2F1w04l0tc!19sChIJSaRktjz2wokRbBL_bc7UQB0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:19.593Z"}
+{"level":"info","message":"✅ Added: Lion's Head Tavern","timestamp":"2026-02-24T09:55:21.502Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.lionsheadnyc.com/...","timestamp":"2026-02-24T09:55:21.502Z"}
+{"level":"info","message":"📧 Found 2 emails for Lion's Head Tavern","timestamp":"2026-02-24T09:55:29.628Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Amity+Hall+Uptown/data=!4m7!3m6!1s0x89c2f7014aa40e6d:0x235ebe9f2d4af61c!8m2!3d40.8022664!4d-73.9646541!16s%2Fg%2F11bxg1nr7f!19sChIJbQ6kSgH3wokRHPZKLZ--XiM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:29.637Z"}
+{"level":"info","message":"✅ Added: Amity Hall Uptown","timestamp":"2026-02-24T09:55:30.827Z"}
+{"level":"info","message":"🔍 Deep crawling: https://amityhalluptown.com/...","timestamp":"2026-02-24T09:55:30.827Z"}
+{"level":"info","message":"📧 Found 3 emails for Amity Hall Uptown","timestamp":"2026-02-24T09:55:38.644Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Arts+and+Crafts+Beer+Parlor/data=!4m7!3m6!1s0x89c2f63e74af64fd:0xb2df63bcc5a0773a!8m2!3d40.8065685!4d-73.9610072!16s%2Fg%2F11cjkwbd7j!19sChIJ_WSvdD72wokROnegxbxj37I?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:38.653Z"}
+{"level":"info","message":"✅ Added: Arts and Crafts Beer Parlor","timestamp":"2026-02-24T09:55:39.903Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.artsandcraftsbarnyc.com/...","timestamp":"2026-02-24T09:55:39.903Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Amsterdam+Ale+House/data=!4m7!3m6!1s0x89c25889071313bb:0xc372116653e7f1cd!8m2!3d40.7814235!4d-73.9799412!16s%2Fg%2F1tmpwwzm!19sChIJuxMTB4lYwokRzfHnU2YRcsM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:45.915Z"}
+{"level":"info","message":"✅ Added: Amsterdam Ale House","timestamp":"2026-02-24T09:55:47.198Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.amsterdamalehouse.nyc/...","timestamp":"2026-02-24T09:55:47.198Z"}
+{"level":"info","message":"📧 Found 1 emails for Amsterdam Ale House","timestamp":"2026-02-24T09:55:54.669Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dive+106/data=!4m7!3m6!1s0x89c2f74495500015:0x38adc869b5b028cd!8m2!3d40.8007864!4d-73.9658536!16s%2Fg%2F11hdgx5w36!19sChIJFQBQlUT3wokRzSiwtWnIrTg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:55:54.679Z"}
+{"level":"info","message":"✅ Added: Dive 106","timestamp":"2026-02-24T09:55:56.652Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.divebarnyc.com/...","timestamp":"2026-02-24T09:55:56.653Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Grand+Feast/data=!4m7!3m6!1s0x89c2f7485ad57721:0x2b07355805971889!8m2!3d40.7977973!4d-73.9678638!16s%2Fg%2F11t52r7szm!19sChIJIXfVWkj3wokRiRiXBVg1Bys?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:56:08.291Z"}
+{"level":"info","message":"✅ Added: The Grand Feast","timestamp":"2026-02-24T09:56:09.817Z"}
+{"level":"info","message":"🔍 Deep crawling: http://grandfeastnyc.com/...","timestamp":"2026-02-24T09:56:09.818Z"}
+{"level":"info","message":"📧 Found 1 emails for The Grand Feast","timestamp":"2026-02-24T09:56:17.247Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ELIS+WINE+BAR+%26+RESTAURANT/data=!4m7!3m6!1s0x89c2f7556e95fe11:0xb6ddbaf867f57a2!8m2!3d40.8028659!4d-73.9642924!16s%2Fg%2F11j03htwpv!19sChIJEf6VblX3wokRold_hq_bbQs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T09:56:17.256Z"}
+{"level":"info","message":"✅ Added: ELIS WINE BAR & RESTAURANT","timestamp":"2026-02-24T09:56:18.761Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.eliswinebar.com/...","timestamp":"2026-02-24T09:56:18.768Z"}
+{"level":"info","message":"🏁 Job 09263ccc-d5dc-47d6-bf60-846f3588da2a Fully Completed. Total Leads: 8","timestamp":"2026-02-24T09:56:27.540Z"}
+{"level":"info","message":"🏁 Task 10b9cba7-a32f-465b-997c-881c71c32964 Completed. Added: 8, Skipped: 0","timestamp":"2026-02-24T09:56:27.543Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-25T06:15:18.466Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-25T06:17:09.937Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-25T06:17:09.943Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10001 (1242dd12-f9eb-4094-a86f-950ba08c2c10) for Job: 3f6e1d42-e420-4702-a3c6-4f5ccbfeacf6","timestamp":"2026-02-25T06:19:40.593Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T06:19:43.854Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10001?hl=en","timestamp":"2026-02-25T06:19:44.100Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T06:19:45.568Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 1/60)","timestamp":"2026-02-25T06:19:48.238Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 28 (attempt 2/60)","timestamp":"2026-02-25T06:19:49.705Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 3/60)","timestamp":"2026-02-25T06:19:50.354Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 44 (attempt 4/60)","timestamp":"2026-02-25T06:19:51.102Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 50 (attempt 5/60)","timestamp":"2026-02-25T06:19:52.248Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 6/60)","timestamp":"2026-02-25T06:19:53.078Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 64 (attempt 7/60)","timestamp":"2026-02-25T06:19:54.061Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 69 (attempt 8/60)","timestamp":"2026-02-25T06:19:55.215Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 69 (attempt 9/60)","timestamp":"2026-02-25T06:19:57.436Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 69 (attempt 10/60)","timestamp":"2026-02-25T06:19:58.835Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 69 (attempt 11/60)","timestamp":"2026-02-25T06:20:00.398Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T06:20:00.448Z"}
+{"level":"info","message":"✅ Collected 68 unique links.","timestamp":"2026-02-25T06:20:00.517Z"}
+{"level":"info","message":"📋 Found 68 leads. Extracting...","timestamp":"2026-02-25T06:20:00.518Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeRejuved+Medical+Spa+%26+Wellness+Studio+-+NYC/data=!4m7!3m6!1s0x89c259a3d5330933:0xa7c44e9f02ae85b3!8m2!3d40.7484743!4d-73.9920519!16s%2Fg%2F11rvb_9dmj!19sChIJMwkz1aNZwokRs4WuAp9OxKc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:20:00.527Z"}
+{"level":"info","message":"✅ Added: BeRejuved Medical Spa & Wellness Studio - NYC","timestamp":"2026-02-25T06:20:02.652Z"}
+{"level":"info","message":"🔍 Deep crawling: https://berejuvednyc.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps...","timestamp":"2026-02-25T06:20:02.653Z"}
+{"level":"info","message":"📧 Found 1 emails for BeRejuved Medical Spa & Wellness Studio - NYC","timestamp":"2026-02-25T06:20:13.814Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:20:13.829Z"}
+{"level":"info","message":"✅ Added: Manhattan Medspa","timestamp":"2026-02-25T06:20:15.870Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.manhattan-medspa.com/...","timestamp":"2026-02-25T06:20:15.871Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/IN%E2%80%A2GLO+Face+and+Body+Sculpting+Med+Spa/data=!4m7!3m6!1s0x89c25997d5a70033:0x1c6644c9dc6a401f!8m2!3d40.7459917!4d-73.9916991!16s%2Fg%2F1v_0knp9!19sChIJMwCn1ZdZwokRH0Bq3MlEZhw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:20:37.037Z"}
+{"level":"info","message":"✅ Added: IN•GLO Face and Body Sculpting Med Spa","timestamp":"2026-02-25T06:20:38.326Z"}
+{"level":"info","message":"🔍 Deep crawling: https://inglomedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T06:20:38.327Z"}
+{"level":"info","message":"📧 Found 1 emails for IN•GLO Face and Body Sculpting Med Spa","timestamp":"2026-02-25T06:20:47.316Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:20:47.339Z"}
+{"level":"info","message":"✅ Added: Tribeca Medspa","timestamp":"2026-02-25T06:20:48.952Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.tribecamedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=Tribeca-Medspa&utm_content=website...","timestamp":"2026-02-25T06:20:48.956Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DermaStar+Skin+%26+Laser/data=!4m7!3m6!1s0x89c259c46410a55b:0x3e74af8091464bd3!8m2!3d40.748264!4d-73.9928419!16s%2Fg%2F11s67cn7dz!19sChIJW6UQZMRZwokR00tGkYCvdD4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:20:59.534Z"}
+{"level":"info","message":"✅ Added: DermaStar Skin & Laser","timestamp":"2026-02-25T06:21:00.843Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dermastarspa.com/...","timestamp":"2026-02-25T06:21:00.844Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TREAT+Medspa/data=!4m7!3m6!1s0x89c2592ae22a3037:0x76a70e5a5af70df6!8m2!3d40.7446298!4d-73.987667!16s%2Fg%2F11xgpdymmc!19sChIJNzAq4ipZwokR9g33WloOp3Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:09.041Z"}
+{"level":"info","message":"✅ Added: TREAT Medspa","timestamp":"2026-02-25T06:21:10.185Z"}
+{"level":"info","message":"🔍 Deep crawling: https://treatmedspa.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb...","timestamp":"2026-02-25T06:21:10.185Z"}
+{"level":"info","message":"📧 Found 1 emails for TREAT Medspa","timestamp":"2026-02-25T06:21:24.365Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:24.375Z"}
+{"level":"info","message":"✅ Added: SKINNEY Medspa","timestamp":"2026-02-25T06:21:26.573Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-flagship-nyc...","timestamp":"2026-02-25T06:21:26.574Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MCNYC+-+The+Medical+Clinic+Spa+New+York/data=!4m7!3m6!1s0x89c2597a2468a0dd:0x87aebc36c459fbb0!8m2!3d40.7626236!4d-73.9885226!16s%2Fg%2F11xf43ysdr!19sChIJ3aBoJHpZwokRsPtZxDa8roc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:32.662Z"}
+{"level":"info","message":"✅ Added: MCNYC - The Medical Clinic Spa New York","timestamp":"2026-02-25T06:21:33.997Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.mcnyc.net/...","timestamp":"2026-02-25T06:21:33.997Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JY+Medspa/data=!4m7!3m6!1s0x8e45034f33a90fbf:0x3f28ed1af123d812!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11vbg7dpp7!19sChIJvw-pM08DRY4REtgj8RrtKD8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:43.144Z"}
+{"level":"info","message":"✅ Added: JY Medspa","timestamp":"2026-02-25T06:21:44.230Z"}
+{"level":"info","message":"🔍 Deep crawling: http://jymedspa.com/...","timestamp":"2026-02-25T06:21:44.230Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/UPKEEP+Med+Spa/data=!4m7!3m6!1s0x89c2596c409af297:0xdd27e1691ea932e1!8m2!3d40.7413651!4d-73.9992724!16s%2Fg%2F11wy2j62kd!19sChIJl_KaQGxZwokR4TKpHmnhJ90?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:50.651Z"}
+{"level":"info","message":"✅ Added: UPKEEP Med Spa","timestamp":"2026-02-25T06:21:51.839Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.upkeepmedspa.com/...","timestamp":"2026-02-25T06:21:51.840Z"}
+{"level":"info","message":"📧 Found 2 emails for UPKEEP Med Spa","timestamp":"2026-02-25T06:21:58.992Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa/data=!4m7!3m6!1s0x89c2595101b3b50b:0x856cf9065649f4d7!8m2!3d40.7439229!4d-73.9937052!16s%2Fg%2F11y0h7mthq!19sChIJC7WzAVFZwokR1_RJVgb5bIU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:21:59.002Z"}
+{"level":"info","message":"✅ Added: Lov MedSpa","timestamp":"2026-02-25T06:22:00.493Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.lovmedspa.com/...","timestamp":"2026-02-25T06:22:00.517Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perfect+Med+Spa/data=!4m7!3m6!1s0x89c258fa90bbf2b1:0xdbb4de1082c659f0!8m2!3d40.7482439!4d-73.9797201!16s%2Fg%2F11f3hh4_7k!19sChIJsfK7kPpYwokR8FnGghDetNs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:22:10.888Z"}
+{"level":"info","message":"✅ Added: Perfect Med Spa","timestamp":"2026-02-25T06:22:12.324Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.perfectmedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=Perfect-Med-Spa&utm_content=website...","timestamp":"2026-02-25T06:22:12.325Z"}
+{"level":"info","message":"📧 Found 1 emails for Perfect Med Spa","timestamp":"2026-02-25T06:22:18.055Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Luxury+MedSpa/data=!4m7!3m6!1s0x89c2599ac0242fa1:0xc5ba47e332cf5d46!8m2!3d40.7445977!4d-73.9904622!16s%2Fg%2F11fn4x1swn!19sChIJoS8kwJpZwokRRl3PMuNHusU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:22:18.065Z"}
+{"level":"info","message":"✅ Added: Luxury MedSpa","timestamp":"2026-02-25T06:22:20.090Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.luxuryspany.com/...","timestamp":"2026-02-25T06:22:20.091Z"}
+{"level":"info","message":"📧 Found 1 emails for Luxury MedSpa","timestamp":"2026-02-25T06:22:32.573Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Revival+Med+Spa/data=!4m7!3m6!1s0x89c259bf121b5361:0x7483466d4a1739b7!8m2!3d40.7487964!4d-73.9817563!16s%2Fg%2F11tjpj6fz2!19sChIJYVMbEr9ZwokRtzkXSm1Gg3Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:22:32.582Z"}
+{"level":"info","message":"✅ Added: Revival Med Spa","timestamp":"2026-02-25T06:22:33.842Z"}
+{"level":"info","message":"🔍 Deep crawling: https://revivalmedicalspa.com/...","timestamp":"2026-02-25T06:22:33.843Z"}
+{"level":"info","message":"📧 Found 1 emails for Revival Med Spa","timestamp":"2026-02-25T06:22:42.116Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CasaGlow+MedSpa/data=!4m7!3m6!1s0x89c259e058a023a1:0x581c8feb9640eeb4!8m2!3d40.7401604!4d-73.9889129!16s%2Fg%2F11l352gz4d!19sChIJoSOgWOBZwokRtO5AluuPHFg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:22:42.132Z"}
+{"level":"info","message":"✅ Added: CasaGlow MedSpa","timestamp":"2026-02-25T06:22:43.379Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.casaglow.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=CasaGlow-MedSpa&utm_content=website...","timestamp":"2026-02-25T06:22:43.379Z"}
+{"level":"info","message":"📧 Found 1 emails for CasaGlow MedSpa","timestamp":"2026-02-25T06:22:52.549Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:22:52.559Z"}
+{"level":"info","message":"✅ Added: Trifecta Med Spa Downtown","timestamp":"2026-02-25T06:22:53.919Z"}
+{"level":"info","message":"🔍 Deep crawling: https://trifectamedspanyc.com/location/downtown/...","timestamp":"2026-02-25T06:22:53.921Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Serica+Skincare+%26+Medspa/data=!4m7!3m6!1s0x89c259ff1337ef01:0xd58ab5ff3468bb54!8m2!3d40.7481614!4d-73.9872958!16s%2Fg%2F11qh1_bbsn!19sChIJAe83E_9ZwokRVLtoNP-1itU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:03.171Z"}
+{"level":"info","message":"✅ Added: Serica Skincare & Medspa","timestamp":"2026-02-25T06:23:04.379Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.sericamedspa.com/...","timestamp":"2026-02-25T06:23:04.379Z"}
+{"level":"info","message":"📧 Found 1 emails for Serica Skincare & Medspa","timestamp":"2026-02-25T06:23:13.024Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Timeless+MedSpa+NYC/data=!4m7!3m6!1s0x89c259942249e84f:0x3e5de639b920dd9d!8m2!3d40.7720886!4d-73.9627652!16s%2Fg%2F11shb1qy8k!19sChIJT-hJIpRZwokRnd0guTnmXT4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:13.033Z"}
+{"level":"info","message":"✅ Added: Timeless MedSpa NYC","timestamp":"2026-02-25T06:23:14.217Z"}
+{"level":"info","message":"🔍 Deep crawling: https://timelessbyvantage.com/...","timestamp":"2026-02-25T06:23:14.219Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/M+Beauty+Studio+%26+Spa/data=!4m7!3m6!1s0x89c2591963c65743:0x498abb869afc82f!8m2!3d40.7475437!4d-73.9916158!16s%2Fg%2F11rtvgh1yt!19sChIJQ1fGYxlZwokRL8ivabirmAQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:24.815Z"}
+{"level":"info","message":"✅ Added: M Beauty Studio & Spa","timestamp":"2026-02-25T06:23:26.151Z"}
+{"level":"info","message":"🔍 Deep crawling: https://mbeauty.studio/...","timestamp":"2026-02-25T06:23:26.151Z"}
+{"level":"info","message":"📧 Found 2 emails for M Beauty Studio & Spa","timestamp":"2026-02-25T06:23:34.269Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modify+MedSpa+-+Suite+504/data=!4m7!3m6!1s0x89c259812a47fb6f:0xc6dcdfca0b04c02b!8m2!3d40.7513478!4d-73.9805538!16s%2Fg%2F11fw90wg0g!19sChIJb_tHKoFZwokRK8AEC8rf3MY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:34.277Z"}
+{"level":"info","message":"✅ Added: Modify MedSpa - Suite 504","timestamp":"2026-02-25T06:23:35.547Z"}
+{"level":"info","message":"🔍 Deep crawling: https://modifymedspa.com/...","timestamp":"2026-02-25T06:23:35.548Z"}
+{"level":"info","message":"📧 Found 4 emails for Modify MedSpa - Suite 504","timestamp":"2026-02-25T06:23:40.970Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bodysiac/data=!4m7!3m6!1s0x89c25d14ebb405e9:0x80a090fafb6414d4!8m2!3d40.6634!4d-73.924857!16s%2Fg%2F11fpl4rj4k!19sChIJ6QW06xRdwokR1BRk-_qQoIA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:40.982Z"}
+{"level":"info","message":"✅ Added: Bodysiac","timestamp":"2026-02-25T06:23:42.264Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.bodysiac.com/...","timestamp":"2026-02-25T06:23:42.265Z"}
+{"level":"info","message":"📧 Found 4 emails for Bodysiac","timestamp":"2026-02-25T06:23:49.203Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Acne+Clinic+NYC:+Acne+%26+Scars+Treatment/data=!4m7!3m6!1s0x89c25854e671601b:0xdb7d2047babe2181!8m2!3d40.75312!4d-73.9809!16s%2Fg%2F11g6mf6krr!19sChIJG2Bx5lRYwokRgSG-ukcgfds?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:49.217Z"}
+{"level":"info","message":"✅ Added: Acne Clinic NYC: Acne & Scars Treatment","timestamp":"2026-02-25T06:23:50.421Z"}
+{"level":"info","message":"🔍 Deep crawling: https://acneclinicnyc.com/...","timestamp":"2026-02-25T06:23:50.421Z"}
+{"level":"info","message":"📧 Found 1 emails for Acne Clinic NYC: Acne & Scars Treatment","timestamp":"2026-02-25T06:23:56.589Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clinique+des+Champs+%C3%89lys%C3%A9es/data=!4m7!3m6!1s0x89c259352fa4506d:0x9e7616d97fee1884!8m2!3d40.762907!4d-73.9731637!16s%2Fg%2F11fv7kqvh4!19sChIJbVCkLzVZwokRhBjuf9kWdp4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:23:56.598Z"}
+{"level":"info","message":"✅ Added: Clinique des Champs Élysées","timestamp":"2026-02-25T06:23:57.821Z"}
+{"level":"info","message":"🔍 Deep crawling: https://newyork.crpce.com/...","timestamp":"2026-02-25T06:23:57.821Z"}
+{"level":"info","message":"📧 Found 2 emails for Clinique des Champs Élysées","timestamp":"2026-02-25T06:24:08.790Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinova+Medspa/data=!4m7!3m6!1s0x89c2599129669635:0x1674729557231643!8m2!3d40.7542077!4d-73.9791695!16s%2Fg%2F11fk8cw1vs!19sChIJNZZmKZFZwokRQxYjV5VydBY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:08.808Z"}
+{"level":"info","message":"✅ Added: Skinova Medspa","timestamp":"2026-02-25T06:24:10.353Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.skinovamedspa.com/...","timestamp":"2026-02-25T06:24:10.354Z"}
+{"level":"info","message":"📧 Found 1 emails for Skinova Medspa","timestamp":"2026-02-25T06:24:19.002Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:19.015Z"}
+{"level":"info","message":"✅ Added: ZZ Med Spa","timestamp":"2026-02-25T06:24:20.171Z"}
+{"level":"info","message":"🔍 Deep crawling: https://zzmedspa.com/...","timestamp":"2026-02-25T06:24:20.172Z"}
+{"level":"info","message":"📧 Found 2 emails for ZZ Med Spa","timestamp":"2026-02-25T06:24:28.626Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beauty+Lyft/data=!4m7!3m6!1s0x89c25947f1665e19:0xbf9ee90339df5bf7!8m2!3d40.7553951!4d-73.9927197!16s%2Fg%2F11m5v3td3x!19sChIJGV5m8UdZwokR91vfOQPpnr8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:28.663Z"}
+{"level":"info","message":"✅ Added: Beauty Lyft","timestamp":"2026-02-25T06:24:29.823Z"}
+{"level":"info","message":"🔍 Deep crawling: https://beautylyftmedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T06:24:29.823Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ease+Spa+Wellness/data=!4m7!3m6!1s0x89c2598a20e64025:0x448c08c25af99ea1!8m2!3d40.7593177!4d-73.9708293!16s%2Fg%2F1vcl4p50!19sChIJJUDmIIpZwokRoZ75WsIIjEQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:39.195Z"}
+{"level":"info","message":"✅ Added: Ease Spa Wellness","timestamp":"2026-02-25T06:24:40.453Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.easespawellness.com/...","timestamp":"2026-02-25T06:24:40.454Z"}
+{"level":"info","message":"📧 Found 4 emails for Ease Spa Wellness","timestamp":"2026-02-25T06:24:52.135Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Deep+NYC/data=!4m7!3m6!1s0x89c25908556b0d4f:0xecc044fb24cd1fd3!8m2!3d40.7633801!4d-73.9763535!16s%2Fg%2F11fpmd3vgr!19sChIJTw1rVQhZwokR0x_NJPtEwOw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:52.159Z"}
+{"level":"info","message":"✅ Added: Skin Deep NYC","timestamp":"2026-02-25T06:24:53.329Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.skindeepnyc.com/...","timestamp":"2026-02-25T06:24:53.329Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeautyFix+Medspa+Flatiron/data=!4m7!3m6!1s0x89c259a47486d0f9:0xa370ff61206d0cce!8m2!3d40.741647!4d-73.9905077!16s%2Fg%2F11b8276_nc!19sChIJ-dCGdKRZwokRzgxtIGH_cKM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:24:58.224Z"}
+{"level":"info","message":"✅ Added: BeautyFix Medspa Flatiron","timestamp":"2026-02-25T06:24:59.377Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.beautyfixmedspa.com/...","timestamp":"2026-02-25T06:24:59.377Z"}
+{"level":"info","message":"📧 Found 1 emails for BeautyFix Medspa Flatiron","timestamp":"2026-02-25T06:30:07.428Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Secret+Aesthetics/data=!4m7!3m6!1s0x89c259003e3d6f7f:0x86894a2711f6d7e6!8m2!3d40.7483416!4d-73.9929254!16s%2Fg%2F11w94yq6pc!19sChIJf289PgBZwokR5tf2ESdKiYY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:30:07.446Z"}
+{"level":"info","message":"✅ Added: Skin Secret Aesthetics","timestamp":"2026-02-25T06:30:11.122Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinsecretaesthetics.com/...","timestamp":"2026-02-25T06:30:11.123Z"}
+{"level":"info","message":"📧 Found 1 emails for Skin Secret Aesthetics","timestamp":"2026-02-25T06:30:23.617Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+57/data=!4m7!3m6!1s0x89c258f79953bad5:0x694f9c76882bea4!8m2!3d40.7653794!4d-73.9806833!16s%2Fg%2F11b6z3g3qt!19sChIJ1bpTmfdYwokRpL6CaMf5lAY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:30:23.629Z"}
+{"level":"info","message":"✅ Added: Trifecta Med Spa 57","timestamp":"2026-02-25T06:30:25.713Z"}
+{"level":"info","message":"🔍 Deep crawling: https://trifectamedspanyc.com/...","timestamp":"2026-02-25T06:30:25.717Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinology+MedSpa/data=!4m7!3m6!1s0x89c2597c9efc519d:0x85b26dc3a2d1e4e0!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11w4tkz6zk!19sChIJnVH8nnxZwokR4OTRosNtsoU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:30:32.063Z"}
+{"level":"info","message":"✅ Added: Skinology MedSpa","timestamp":"2026-02-25T06:30:33.136Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.skinologymedspany.com/...","timestamp":"2026-02-25T06:30:33.137Z"}
+{"level":"info","message":"📧 Found 3 emails for Skinology MedSpa","timestamp":"2026-02-25T06:30:46.265Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinney+Medspa/data=!4m7!3m6!1s0x89c258ef9da2b701:0x2ac1d210967c37c8!8m2!3d40.763742!4d-73.9701959!16s%2Fg%2F1tmqmpw8!19sChIJAbeine9YwokRyDd8lhDSwSo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:30:46.287Z"}
+{"level":"info","message":"✅ Added: Skinney Medspa","timestamp":"2026-02-25T06:30:47.534Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-60th-st-nyc...","timestamp":"2026-02-25T06:30:47.564Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Glamoi+Med+Spa/data=!4m7!3m6!1s0x89c25917903415c7:0x6c2e6572d13109d8!8m2!3d40.7434938!4d-73.9926985!16s%2Fg%2F11h5rtmn7d!19sChIJxxU0kBdZwokR2Akx0XJlLmw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:30:56.836Z"}
+{"level":"info","message":"✅ Added: Glamoi Med Spa","timestamp":"2026-02-25T06:30:57.904Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.glamoi.com/?y_source=1_MTI3MjU3MTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D...","timestamp":"2026-02-25T06:30:57.905Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Central+Park+West+Med+Spa/data=!4m7!3m6!1s0x89c258f4c1eeaaab:0x1dc0068a5ed07a49!8m2!3d40.7730938!4d-73.9788937!16s%2Fg%2F11f63x6lkt!19sChIJq6ruwfRYwokRSXrQXooGwB0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:31:04.373Z"}
+{"level":"info","message":"✅ Added: Central Park West Med Spa","timestamp":"2026-02-25T06:31:05.443Z"}
+{"level":"info","message":"🔍 Deep crawling: https://centralparkwestmedspa.com/...","timestamp":"2026-02-25T06:31:05.443Z"}
+{"level":"info","message":"📧 Found 1 emails for Central Park West Med Spa","timestamp":"2026-02-25T06:31:15.320Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinTight+MedSpa/data=!4m7!3m6!1s0x89c258bc7fd1cee1:0xa9296fb6971b2213!8m2!3d40.7631176!4d-73.9668957!16s%2Fg%2F11bx49qmfp!19sChIJ4c7Rf7xYwokREyIbl7ZvKak?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:31:15.332Z"}
+{"level":"info","message":"✅ Added: SkinTight MedSpa","timestamp":"2026-02-25T06:31:16.937Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.skintightmedspa.com/...","timestamp":"2026-02-25T06:31:16.937Z"}
+{"level":"info","message":"📧 Found 1 emails for SkinTight MedSpa","timestamp":"2026-02-25T06:31:23.549Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Re:forma+Medspa+and+Wellness/data=!4m7!3m6!1s0x6776ad68ef702527:0xb1a52ca15a9a1752!8m2!3d40.758147!4d-73.9746763!16s%2Fg%2F11lv456r4g!19sChIJJyVw72itdmcRUheaWqEspbE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:31:23.563Z"}
+{"level":"info","message":"✅ Added: Re:forma Medspa and Wellness","timestamp":"2026-02-25T06:31:24.684Z"}
+{"level":"info","message":"🔍 Deep crawling: https://reformanyc.com/...","timestamp":"2026-02-25T06:31:24.684Z"}
+{"level":"info","message":"📧 Found 3 emails for Re:forma Medspa and Wellness","timestamp":"2026-02-25T06:31:38.193Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Serene+Skin+Club/data=!4m7!3m6!1s0x89c2590f5a2055fb:0xccaa0dfd0049f759!8m2!3d40.7478005!4d-73.9874184!16s%2Fg%2F11w3l3rxk0!19sChIJ-1UgWg9ZwokRWfdJAP0Nqsw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:31:38.202Z"}
+{"level":"info","message":"✅ Added: Serene Skin Club","timestamp":"2026-02-25T06:31:39.495Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.sereneskinclub.com/...","timestamp":"2026-02-25T06:31:39.495Z"}
+{"level":"info","message":"📧 Found 1 emails for Serene Skin Club","timestamp":"2026-02-25T06:31:49.512Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AAFE+Medspa+New+York/data=!4m7!3m6!1s0x89c259359d188de9:0x503099fe6a6c866!8m2!3d40.7510316!4d-73.9861709!16s%2Fg%2F11vz071cp0!19sChIJ6Y0YnTVZwokRZsim5p8JAwU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:31:49.523Z"}
+{"level":"info","message":"✅ Added: AAFE Medspa New York","timestamp":"2026-02-25T06:31:51.056Z"}
+{"level":"info","message":"🔍 Deep crawling: https://aafemedspa.com/new-york/...","timestamp":"2026-02-25T06:31:51.057Z"}
+{"level":"info","message":"📧 Found 1 emails for AAFE Medspa New York","timestamp":"2026-02-25T06:32:00.046Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Elite+Aesthetics/data=!4m7!3m6!1s0x89c25998536e14c9:0xa397b7bc7a9798f8!8m2!3d40.7441173!4d-73.9892295!16s%2Fg%2F11sp_gpkly!19sChIJyRRuU5hZwokR-JiXery3l6M?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:00.053Z"}
+{"level":"info","message":"✅ Added: Elite Aesthetics","timestamp":"2026-02-25T06:32:01.188Z"}
+{"level":"info","message":"🔍 Deep crawling: https://eliteaestheticsnyc.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=elite-aesthetics...","timestamp":"2026-02-25T06:32:01.189Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Livinz+Medspa+-+Manhattan/data=!4m7!3m6!1s0x89c259c8cbbee923:0xc803cf26df487356!8m2!3d40.7551728!4d-73.9821361!16s%2Fg%2F11khv0kmt1!19sChIJI-m-y8hZwokRVnNI3ybPA8g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:08.313Z"}
+{"level":"info","message":"✅ Added: Livinz Medspa - Manhattan","timestamp":"2026-02-25T06:32:09.362Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.livinzmedspa.com/...","timestamp":"2026-02-25T06:32:09.362Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dynasty+Aesthetics/data=!4m7!3m6!1s0x89c259b7974bcaad:0x7f02311d26b56219!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11y9n_m2gg!19sChIJrcpLl7dZwokRGWK1Jh0xAn8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:19.097Z"}
+{"level":"info","message":"✅ Added: Dynasty Aesthetics","timestamp":"2026-02-25T06:32:20.330Z"}
+{"level":"info","message":"🔍 Deep crawling: http://dynastymedspa.com/...","timestamp":"2026-02-25T06:32:20.330Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Great+Neck+Medical+Spa/data=!4m7!3m6!1s0x89c2897006730c09:0x7a5b3337e963a484!8m2!3d40.807892!4d-73.735901!16s%2Fg%2F1tjs5w7s!19sChIJCQxzBnCJwokRhKRj6TczW3o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:25.027Z"}
+{"level":"info","message":"✅ Added: Great Neck Medical Spa","timestamp":"2026-02-25T06:32:26.113Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.greatneckmedicalspa.com/...","timestamp":"2026-02-25T06:32:26.114Z"}
+{"level":"info","message":"📧 Found 3 emails for Great Neck Medical Spa","timestamp":"2026-02-25T06:32:34.598Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Labelle+MedSpa/data=!4m7!3m6!1s0x89c259faeab9b87d:0x3e40397e568237ff!8m2!3d40.7445851!4d-73.9904584!16s%2Fg%2F11flzjm3g2!19sChIJfbi56vpZwokR_zeCVn45QD4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:34.608Z"}
+{"level":"info","message":"✅ Added: Labelle MedSpa","timestamp":"2026-02-25T06:32:35.731Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.labellespa.nyc/...","timestamp":"2026-02-25T06:32:35.731Z"}
+{"level":"info","message":"📧 Found 1 emails for Labelle MedSpa","timestamp":"2026-02-25T06:32:47.523Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Peachy+Manhattan+West/data=!4m7!3m6!1s0x89c259f965ed6dd3:0xdcdc19b20c0cbef2!8m2!3d40.753023!4d-73.9984582!16s%2Fg%2F11rhw6048q!19sChIJ023tZflZwokR8r4MDLIZ3Nw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:32:47.532Z"}
+{"level":"info","message":"✅ Added: Peachy Manhattan West","timestamp":"2026-02-25T06:32:48.662Z"}
+{"level":"info","message":"🔍 Deep crawling: https://peachystudio.com/pages/manhattan-west-botox?y_source=1_MzAwNzcyNTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D...","timestamp":"2026-02-25T06:32:48.663Z"}
+{"level":"info","message":"📧 Found 1 emails for Peachy Manhattan West","timestamp":"2026-02-25T06:33:07.931Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ever%2FBody+Flatiron/data=!4m7!3m6!1s0x89c259345aacc945:0x5f00497ab52919d!8m2!3d40.7382286!4d-73.9933331!16s%2Fg%2F11fsr1qcl5!19sChIJRcmsWjRZwokRnZFSq5cE8AU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:33:07.939Z"}
+{"level":"info","message":"✅ Added: Ever/Body Flatiron","timestamp":"2026-02-25T06:33:09.289Z"}
+{"level":"info","message":"🔍 Deep crawling: https://everbody.com/...","timestamp":"2026-02-25T06:33:09.289Z"}
+{"level":"info","message":"📧 Found 2 emails for Ever/Body Flatiron","timestamp":"2026-02-25T06:33:20.326Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinSplendid/data=!4m7!3m6!1s0x89c2597edbbd6237:0x8b4cf7cdd5bb440!8m2!3d40.7510316!4d-73.9861709!16s%2Fg%2F11h5mq7fq5!19sChIJN2K9235ZwokRQLRb3XzPtAg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:33:20.334Z"}
+{"level":"info","message":"✅ Added: SkinSplendid","timestamp":"2026-02-25T06:33:21.450Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinsplendid.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T06:33:21.450Z"}
+{"level":"info","message":"📧 Found 1 emails for SkinSplendid","timestamp":"2026-02-25T06:33:29.116Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+City+Lab/data=!4m7!3m6!1s0x85850ecac115237b:0xfeb9ddf74d2825e4!8m2!3d40.7522794!4d-73.9835984!16s%2Fg%2F11kbb90qhp!19sChIJeyMVwcoOhYUR5CUoTffduf4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:33:29.124Z"}
+{"level":"info","message":"✅ Added: Skin City Lab","timestamp":"2026-02-25T06:33:30.294Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.skincitylab.com/...","timestamp":"2026-02-25T06:33:30.294Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MiracleFace+MedSpa/data=!4m7!3m6!1s0x89c259a7bdb03c83:0x39ed1f04479d57e2!8m2!3d40.7512725!4d-73.9731523!16s%2Fg%2F11cmplpnk2!19sChIJgzywvadZwokR4ledRwQf7Tk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:33:41.785Z"}
+{"level":"info","message":"✅ Added: MiracleFace MedSpa","timestamp":"2026-02-25T06:33:43.091Z"}
+{"level":"info","message":"🔍 Deep crawling: https://miraclefacemedspanyc.com/...","timestamp":"2026-02-25T06:33:43.092Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AIREM+NYC/data=!4m7!3m6!1s0x89c259a459afc83b:0x62461da15b96bf99!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11vhzt2d8y!19sChIJO8ivWaRZwokRmb-WW6EdRmI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:33:46.114Z"}
+{"level":"info","message":"✅ Added: AIREM NYC","timestamp":"2026-02-25T06:33:47.708Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.airem.com/...","timestamp":"2026-02-25T06:33:47.708Z"}
+{"level":"info","message":"📧 Found 3 emails for AIREM NYC","timestamp":"2026-02-25T06:34:01.678Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa+Clubs+-+Manhattan/data=!4m7!3m6!1s0x89c25b6c700db74d:0xf10002561bb84547!8m2!3d40.7175205!4d-74.0008145!16s%2Fg%2F11pkmhq594!19sChIJTbcNcGxbwokRR0W4G1YCAPE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:01.687Z"}
+{"level":"info","message":"✅ Added: MedSpa Clubs - Manhattan","timestamp":"2026-02-25T06:34:02.824Z"}
+{"level":"info","message":"🔍 Deep crawling: https://medspa.healthkeygroup.com/...","timestamp":"2026-02-25T06:34:02.825Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Center+New+York/data=!4m7!3m6!1s0x89c259bc0ff5e731:0x8b494483cb2fc2!8m2!3d40.7445921!4d-73.9904595!16s%2Fg%2F11hdpgktxn!19sChIJMef1D7xZwokRwi_Lg0RJiwA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:03.678Z"}
+{"level":"info","message":"✅ Added: Skin Center New York","timestamp":"2026-02-25T06:34:04.975Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.skincenter.nyc/...","timestamp":"2026-02-25T06:34:04.975Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Three+One+Eight+Medspa/data=!4m7!3m6!1s0x89c259bdd23f8ccf:0x2654a8af97433bc0!8m2!3d40.744696!4d-73.9849083!16s%2Fg%2F11ryqqf3bf!19sChIJz4w_0r1ZwokRwDtDl6-oVCY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:14.218Z"}
+{"level":"info","message":"✅ Added: Three One Eight Medspa","timestamp":"2026-02-25T06:34:15.295Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa+New+York/data=!4m7!3m6!1s0x89c25b85c0e5e6db:0xbcc602d9a11b065b!8m2!3d40.6916846!4d-73.988794!16s%2Fg%2F11sdyr__9d!19sChIJ2-blwIVbwokRWwYbodkCxrw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:15.303Z"}
+{"level":"info","message":"✅ Added: Lov MedSpa New York","timestamp":"2026-02-25T06:34:16.449Z"}
+{"level":"info","message":"🔍 Deep crawling: https://lovmedspa.com/...","timestamp":"2026-02-25T06:34:16.450Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Future+Face+%26+Body+Medspa/data=!4m7!3m6!1s0x89c25935aacea7c9:0x46c3af5b74d035c8!8m2!3d40.7768524!4d-73.97813!16s%2Fg%2F11l_61cp1p!19sChIJyafOqjVZwokRyDXQdFuvw0Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:23.746Z"}
+{"level":"info","message":"✅ Added: Future Face & Body Medspa","timestamp":"2026-02-25T06:34:24.953Z"}
+{"level":"info","message":"🔍 Deep crawling: https://futurefaceandbody.com/?utm_source=gbp&utm_medium=organic&utm_campaign=uws...","timestamp":"2026-02-25T06:34:24.957Z"}
+{"level":"info","message":"📧 Found 1 emails for Future Face & Body Medspa","timestamp":"2026-02-25T06:34:37.543Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AlyneMD+NYC/data=!4m7!3m6!1s0x89c2592cd396600d:0xec558bdb2efb00be!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11v_bkz39k!19sChIJDWCW0yxZwokRvgD7LtuLVew?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:37.550Z"}
+{"level":"info","message":"✅ Added: AlyneMD NYC","timestamp":"2026-02-25T06:34:38.804Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.alynemd.com/...","timestamp":"2026-02-25T06:34:38.810Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LushBeauty+MedSpa/data=!4m7!3m6!1s0x89c2f72305f59c65:0x37fff53de27449d0!8m2!3d40.8074205!4d-73.9498737!16s%2Fg%2F11rdcjxbbt!19sChIJZZz1BSP3wokR0El04j31_zc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:47.804Z"}
+{"level":"info","message":"✅ Added: LushBeauty MedSpa","timestamp":"2026-02-25T06:34:48.852Z"}
+{"level":"info","message":"🔍 Deep crawling: http://lushbeautymedspa.com/...","timestamp":"2026-02-25T06:34:48.853Z"}
+{"level":"info","message":"📧 Found 1 emails for LushBeauty MedSpa","timestamp":"2026-02-25T06:34:59.074Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SoVous/data=!4m7!3m6!1s0x89c258eb69508ba1:0x629903418b77a92c!8m2!3d40.7696657!4d-73.9677337!16s%2Fg%2F1v8x32_5!19sChIJoYtQaetYwokRLKl3i0EDmWI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:34:59.083Z"}
+{"level":"info","message":"✅ Added: SoVous","timestamp":"2026-02-25T06:35:00.319Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sovous.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T06:35:00.320Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c2596619b6979d:0x5f029d81ab889fb2!8m2!3d40.7581047!4d-73.9769487!16s%2Fg%2F11gnp4z_tb!19sChIJnZe2GWZZwokRsp-Iq4GdAl8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:07.379Z"}
+{"level":"info","message":"✅ Added: SKINNEY Medspa","timestamp":"2026-02-25T06:35:08.734Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-5th-ave-nyc...","timestamp":"2026-02-25T06:35:08.734Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aura+Wellness+Spa+%7C+Best+Sauna+%26+Body+Scrub,+Day+Spa+in+NYC/data=!4m7!3m6!1s0x89c259a91840b2d9:0x7f3450a4738047b4!8m2!3d40.7489771!4d-73.9872651!16s%2Fg%2F1wnf1z9w!19sChIJ2bJAGKlZwokRtEeAc6RQNH8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:14.833Z"}
+{"level":"info","message":"✅ Added: Aura Wellness Spa | Best Sauna & Body Scrub, Day Spa in NYC","timestamp":"2026-02-25T06:35:16.015Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.spa-aura.com/...","timestamp":"2026-02-25T06:35:16.015Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JustMelt+MedSpa/data=!4m7!3m6!1s0x89c259011bdff183:0x5c44277c2e8ea32f!8m2!3d40.7504104!4d-73.9800603!16s%2Fg%2F1q2w3v4ct!19sChIJg_HfGwFZwokRL6OOLnwnRFw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:26.684Z"}
+{"level":"info","message":"✅ Added: JustMelt MedSpa","timestamp":"2026-02-25T06:35:27.849Z"}
+{"level":"info","message":"🔍 Deep crawling: https://justmelt.com/?utm_source=Google&utm_medium=Google%20My%20Business&utm_campaign=my%20business%20listing...","timestamp":"2026-02-25T06:35:27.850Z"}
+{"level":"info","message":"📧 Found 1 emails for JustMelt MedSpa","timestamp":"2026-02-25T06:35:36.253Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Persona+MedSpa/data=!4m7!3m6!1s0x89c2591c57bd5713:0x50abc1b5b3317592!8m2!3d40.7445851!4d-73.9904584!16s%2Fg%2F11h_10zbl_!19sChIJE1e9VxxZwokRknUxs7XBq1A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:36.274Z"}
+{"level":"info","message":"✅ Added: Persona MedSpa","timestamp":"2026-02-25T06:35:37.428Z"}
+{"level":"info","message":"🔍 Deep crawling: https://personamedspa.nyc/...","timestamp":"2026-02-25T06:35:37.429Z"}
+{"level":"info","message":"📧 Found 1 emails for Persona MedSpa","timestamp":"2026-02-25T06:35:44.603Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthete+Medspa/data=!4m7!3m6!1s0x89c259b0f05f060b:0x4a806d129c26445c!8m2!3d40.7386435!4d-73.9850258!16s%2Fg%2F11h3g9tmjc!19sChIJCwZf8LBZwokRXEQmnBJtgEo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:44.612Z"}
+{"level":"info","message":"✅ Added: Aesthete Medspa","timestamp":"2026-02-25T06:35:45.813Z"}
+{"level":"info","message":"🔍 Deep crawling: https://aesthetemedspa.org/...","timestamp":"2026-02-25T06:35:45.813Z"}
+{"level":"info","message":"📧 Found 2 emails for Aesthete Medspa","timestamp":"2026-02-25T06:35:54.738Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VR+MedSpa+Aesthetic+Salon,+Manhattan/data=!4m7!3m6!1s0x89c2594f6739acd1:0x8c9662a0ee2b450a!8m2!3d40.7688759!4d-73.9590898!16s%2Fg%2F11pzs0tyj7!19sChIJ0aw5Z09ZwokRCkUr7qBilow?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:35:54.749Z"}
+{"level":"info","message":"✅ Added: VR MedSpa Aesthetic Salon, Manhattan","timestamp":"2026-02-25T06:35:55.913Z"}
+{"level":"info","message":"🔍 Deep crawling: http://vrmed.nyc/...","timestamp":"2026-02-25T06:35:55.913Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Med+Spa/data=!4m7!3m6!1s0x89c25932a3d3cb51:0x2b3de2d0a6388f2b!8m2!3d40.7493803!4d-73.9940185!16s%2Fg%2F11t404724r!19sChIJUcvTozJZwokRK484ptDiPSs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:36:17.410Z"}
+{"level":"info","message":"✅ Added: Med Spa","timestamp":"2026-02-25T06:36:18.542Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.aimedspagrowth.com/...","timestamp":"2026-02-25T06:36:18.542Z"}
+{"level":"info","message":"📧 Found 1 emails for Med Spa","timestamp":"2026-02-25T06:36:36.808Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Infinite+Aesthetics+Medspa/data=!4m7!3m6!1s0x89c25fa623b412e7:0x542a9165770cd477!8m2!3d40.747771!4d-73.987415!16s%2Fg%2F11h12f9lwy!19sChIJ5xK0I6ZfwokRd9QMd2WRKlQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:36:36.817Z"}
+{"level":"info","message":"✅ Added: Infinite Aesthetics Medspa","timestamp":"2026-02-25T06:36:37.893Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Laser+-+Med+Aesthetics+Clinic+%7C+Medspa/data=!4m7!3m6!1s0x89c2590784cd9ec7:0xa92d3709d387f329!8m2!3d40.747256!4d-73.982211!16s%2Fg%2F1ptw17y3y!19sChIJx57NhAdZwokRKfOH0wk3Lak?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:36:37.900Z"}
+{"level":"info","message":"✅ Added: Manhattan Laser - Med Aesthetics Clinic | Medspa","timestamp":"2026-02-25T06:36:39.121Z"}
+{"level":"info","message":"🔍 Deep crawling: http://manhattan-laser.com/...","timestamp":"2026-02-25T06:36:39.122Z"}
+{"level":"info","message":"📧 Found 3 emails for Manhattan Laser - Med Aesthetics Clinic | Medspa","timestamp":"2026-02-25T06:36:46.515Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Face+and+Body+By+Runchana+Medspa/data=!4m7!3m6!1s0x89c2598fba1714ff:0xe79b931cc71fa57a!8m2!3d40.762489!4d-73.975404!16s%2Fg%2F1ptxs1s82!19sChIJ_xQXuo9ZwokReqUfxxyTm-c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:36:46.522Z"}
+{"level":"info","message":"✅ Added: Face and Body By Runchana Medspa","timestamp":"2026-02-25T06:36:47.716Z"}
+{"level":"info","message":"🏁 Task 1242dd12-f9eb-4094-a86f-950ba08c2c10 Completed. Added: 68, Skipped: 0","timestamp":"2026-02-25T06:36:47.738Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10002 (4352f043-d51e-426e-96cc-2fca92cdb191) for Job: 3f6e1d42-e420-4702-a3c6-4f5ccbfeacf6","timestamp":"2026-02-25T06:36:53.475Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T06:36:54.008Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10002?hl=en","timestamp":"2026-02-25T06:36:54.143Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T06:36:55.569Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 21 (attempt 1/60)","timestamp":"2026-02-25T06:36:57.978Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 27 (attempt 2/60)","timestamp":"2026-02-25T06:36:59.561Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 39 (attempt 3/60)","timestamp":"2026-02-25T06:37:00.296Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 4/60)","timestamp":"2026-02-25T06:37:00.771Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 5/60)","timestamp":"2026-02-25T06:37:02.319Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 6/60)","timestamp":"2026-02-25T06:37:03.763Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 7/60)","timestamp":"2026-02-25T06:37:05.094Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T06:37:05.098Z"}
+{"level":"info","message":"✅ Collected 40 unique links.","timestamp":"2026-02-25T06:37:05.100Z"}
+{"level":"info","message":"📋 Found 40 leads. Extracting...","timestamp":"2026-02-25T06:37:05.100Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:05.103Z"}
+{"level":"info","message":"✅ Added: Bel Angé Medical Spa","timestamp":"2026-02-25T06:37:06.590Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.belangemedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T06:37:06.590Z"}
+{"level":"info","message":"📧 Found 1 emails for Bel Angé Medical Spa","timestamp":"2026-02-25T06:37:13.996Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Line+Med+Spa/data=!4m7!3m6!1s0x89c2598725b5eb41:0x4ef22f7e749cd410!8m2!3d40.7186077!4d-73.9897804!16s%2Fg%2F11vhf_1ml6!19sChIJQeu1JYdZwokRENScdH4v8k4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:14.008Z"}
+{"level":"info","message":"✅ Added: Modern Line Med Spa","timestamp":"2026-02-25T06:37:15.832Z"}
+{"level":"info","message":"🔍 Deep crawling: https://modernlinemedspa.com/contact/...","timestamp":"2026-02-25T06:37:15.833Z"}
+{"level":"info","message":"📧 Found 2 emails for Modern Line Med Spa","timestamp":"2026-02-25T06:37:27.622Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Renuev+Med+Spa/data=!4m7!3m6!1s0x89c25b0026fe0ed1:0x2c86128fc2919bda!8m2!3d40.70635!4d-74.0054286!16s%2Fg%2F11xvlxqz5q!19sChIJ0Q7-JgBbwokR2puRwo8Shiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:27.630Z"}
+{"level":"info","message":"✅ Added: Renuev Med Spa","timestamp":"2026-02-25T06:37:29.178Z"}
+{"level":"info","message":"🔍 Deep crawling: https://renuevmedspa.com/...","timestamp":"2026-02-25T06:37:29.178Z"}
+{"level":"info","message":"📧 Found 1 emails for Renuev Med Spa","timestamp":"2026-02-25T06:37:38.874Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:38.882Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Evolve+Med+Spa/data=!4m7!3m6!1s0x89c25b13e8598dc7:0x2f70d994202c8e5d!8m2!3d40.7165812!4d-74.0049286!16s%2Fg%2F11pvmdr5qp!19sChIJx41Z6BNbwokRXY4sIJTZcC8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:40.117Z"}
+{"level":"info","message":"✅ Added: Evolve Med Spa","timestamp":"2026-02-25T06:37:41.385Z"}
+{"level":"info","message":"🔍 Deep crawling: https://evolvemedspa.com/in/new-york/tribeca-ny/?utm_source=gmb&utm_medium=organic&utm_campaign=tribeca...","timestamp":"2026-02-25T06:37:41.385Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:47.788Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:49.035Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinney+Medspa/data=!4m7!3m6!1s0x89c258ef9da2b701:0x2ac1d210967c37c8!8m2!3d40.763742!4d-73.9701959!16s%2Fg%2F1tmqmpw8!19sChIJAbeine9YwokRyDd8lhDSwSo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:50.279Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:51.546Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa+Clubs+-+Manhattan/data=!4m7!3m6!1s0x89c25b6c700db74d:0xf10002561bb84547!8m2!3d40.7175205!4d-74.0008145!16s%2Fg%2F11pkmhq594!19sChIJTbcNcGxbwokRR0W4G1YCAPE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:52.832Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CasaGlow+MedSpa/data=!4m7!3m6!1s0x89c259e058a023a1:0x581c8feb9640eeb4!8m2!3d40.7401604!4d-73.9889129!16s%2Fg%2F11l352gz4d!19sChIJoSOgWOBZwokRtO5AluuPHFg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:53.917Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ease+Spa+Wellness/data=!4m7!3m6!1s0x89c2598a20e64025:0x448c08c25af99ea1!8m2!3d40.7593177!4d-73.9708293!16s%2Fg%2F1vcl4p50!19sChIJJUDmIIpZwokRoZ75WsIIjEQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:55.097Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perfect+Med+Spa/data=!4m7!3m6!1s0x89c258fa90bbf2b1:0xdbb4de1082c659f0!8m2!3d40.7482439!4d-73.9797201!16s%2Fg%2F11f3hh4_7k!19sChIJsfK7kPpYwokR8FnGghDetNs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:56.315Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clinique+des+Champs+%C3%89lys%C3%A9es/data=!4m7!3m6!1s0x89c259352fa4506d:0x9e7616d97fee1884!8m2!3d40.762907!4d-73.9731637!16s%2Fg%2F11fv7kqvh4!19sChIJbVCkLzVZwokRhBjuf9kWdp4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:57.528Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Revival+Med+Spa/data=!4m7!3m6!1s0x89c259bf121b5361:0x7483466d4a1739b7!8m2!3d40.7487964!4d-73.9817563!16s%2Fg%2F11tjpj6fz2!19sChIJYVMbEr9ZwokRtzkXSm1Gg3Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:58.685Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinova+Medspa/data=!4m7!3m6!1s0x89c2599129669635:0x1674729557231643!8m2!3d40.7542077!4d-73.9791695!16s%2Fg%2F11fk8cw1vs!19sChIJNZZmKZFZwokRQxYjV5VydBY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:37:59.921Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Timeless+MedSpa+NYC/data=!4m7!3m6!1s0x89c259942249e84f:0x3e5de639b920dd9d!8m2!3d40.7720886!4d-73.9627652!16s%2Fg%2F11shb1qy8k!19sChIJT-hJIpRZwokRnd0guTnmXT4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:01.098Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:02.216Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinTight+MedSpa/data=!4m7!3m6!1s0x89c258bc7fd1cee1:0xa9296fb6971b2213!8m2!3d40.7631176!4d-73.9668957!16s%2Fg%2F11bx49qmfp!19sChIJ4c7Rf7xYwokREyIbl7ZvKak?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:03.434Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeautyFix+Medspa+Flatiron/data=!4m7!3m6!1s0x89c259a47486d0f9:0xa370ff61206d0cce!8m2!3d40.741647!4d-73.9905077!16s%2Fg%2F11b8276_nc!19sChIJ-dCGdKRZwokRzgxtIGH_cKM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:04.616Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Infinity+Laser+Spa/data=!4m7!3m6!1s0x89c259af3655723f:0x10c26673bab07ba9!8m2!3d40.747496!4d-73.989116!16s%2Fg%2F1ptydf9ry!19sChIJP3JVNq9ZwokRqXuwunNmwhA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:05.798Z"}
+{"level":"info","message":"✅ Added: Infinity Laser Spa","timestamp":"2026-02-25T06:38:07.006Z"}
+{"level":"info","message":"🔍 Deep crawling: https://infinitylaserspa.com/...","timestamp":"2026-02-25T06:38:07.007Z"}
+{"level":"info","message":"📧 Found 1 emails for Infinity Laser Spa","timestamp":"2026-02-25T06:38:15.760Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Luxury+MedSpa/data=!4m7!3m6!1s0x89c2599ac0242fa1:0xc5ba47e332cf5d46!8m2!3d40.7445977!4d-73.9904622!16s%2Fg%2F11fn4x1swn!19sChIJoS8kwJpZwokRRl3PMuNHusU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:15.767Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa+New+York/data=!4m7!3m6!1s0x89c25b85c0e5e6db:0xbcc602d9a11b065b!8m2!3d40.6916846!4d-73.988794!16s%2Fg%2F11sdyr__9d!19sChIJ2-blwIVbwokRWwYbodkCxrw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:17.217Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JY+Medspa/data=!4m7!3m6!1s0x8e45034f33a90fbf:0x3f28ed1af123d812!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11vbg7dpp7!19sChIJvw-pM08DRY4REtgj8RrtKD8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:18.698Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SoVous/data=!4m7!3m6!1s0x89c258eb69508ba1:0x629903418b77a92c!8m2!3d40.7696657!4d-73.9677337!16s%2Fg%2F1v8x32_5!19sChIJoYtQaetYwokRLKl3i0EDmWI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:19.855Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetics21+Medspa+and+Wellness+Clinic/data=!4m7!3m6!1s0x89c2594135981c5f:0x762df153ae07e9c0!8m2!3d40.7071763!4d-74.0124645!16s%2Fg%2F11vkdv26rk!19sChIJXxyYNUFZwokRwOkHrlPxLXY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:21.074Z"}
+{"level":"info","message":"✅ Added: Aesthetics21 Medspa and Wellness Clinic","timestamp":"2026-02-25T06:38:22.234Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Deep+NYC/data=!4m7!3m6!1s0x89c25908556b0d4f:0xecc044fb24cd1fd3!8m2!3d40.7633801!4d-73.9763535!16s%2Fg%2F11fpmd3vgr!19sChIJTw1rVQhZwokR0x_NJPtEwOw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:22.242Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/La+R%C3%A9serve+Aesthetics/data=!4m7!3m6!1s0x89c25b7c4edd0017:0x399e649427c7f48a!8m2!3d40.7175868!4d-74.0099291!16s%2Fg%2F11xkytzb8k!19sChIJFwDdTnxbwokRivTHJ5Rknjk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:23.466Z"}
+{"level":"info","message":"✅ Added: La Réserve Aesthetics","timestamp":"2026-02-25T06:38:24.649Z"}
+{"level":"info","message":"🔍 Deep crawling: http://skinrejuvenationnewyork.com/...","timestamp":"2026-02-25T06:38:24.650Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modify+MedSpa+-+Suite+504/data=!4m7!3m6!1s0x89c259812a47fb6f:0xc6dcdfca0b04c02b!8m2!3d40.7513478!4d-73.9805538!16s%2Fg%2F11fw90wg0g!19sChIJb_tHKoFZwokRK8AEC8rf3MY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:29.591Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VJ+MedSpa/data=!4m7!3m6!1s0x89c25970039f17f1:0x482f1f5aebe020bd!8m2!3d40.7773633!4d-73.9573587!16s%2Fg%2F11rfdfhk5g!19sChIJ8RefA3BZwokRvSDg61ofL0g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:30.857Z"}
+{"level":"info","message":"✅ Added: VJ MedSpa","timestamp":"2026-02-25T06:38:32.195Z"}
+{"level":"info","message":"🔍 Deep crawling: https://vjmednyc.com/...","timestamp":"2026-02-25T06:38:32.196Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MiracleFace+MedSpa/data=!4m7!3m6!1s0x89c259a7bdb03c83:0x39ed1f04479d57e2!8m2!3d40.7512725!4d-73.9731523!16s%2Fg%2F11cmplpnk2!19sChIJgzywvadZwokR4ledRwQf7Tk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:39.900Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MCNYC+-+The+Medical+Clinic+Spa+New+York/data=!4m7!3m6!1s0x89c2597a2468a0dd:0x87aebc36c459fbb0!8m2!3d40.7626236!4d-73.9885226!16s%2Fg%2F11xf43ysdr!19sChIJ3aBoJHpZwokRsPtZxDa8roc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:41.246Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa/data=!4m7!3m6!1s0x89c2595101b3b50b:0x856cf9065649f4d7!8m2!3d40.7439229!4d-73.9937052!16s%2Fg%2F11y0h7mthq!19sChIJC7WzAVFZwokR1_RJVgb5bIU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:42.830Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TREAT+Medspa/data=!4m7!3m6!1s0x89c2592ae22a3037:0x76a70e5a5af70df6!8m2!3d40.7446298!4d-73.987667!16s%2Fg%2F11xgpdymmc!19sChIJNzAq4ipZwokR9g33WloOp3Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:44.052Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/UPKEEP+Med+Spa/data=!4m7!3m6!1s0x89c2596c409af297:0xdd27e1691ea932e1!8m2!3d40.7413651!4d-73.9992724!16s%2Fg%2F11wy2j62kd!19sChIJl_KaQGxZwokR4TKpHmnhJ90?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:45.395Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c2596619b6979d:0x5f029d81ab889fb2!8m2!3d40.7581047!4d-73.9769487!16s%2Fg%2F11gnp4z_tb!19sChIJnZe2GWZZwokRsp-Iq4GdAl8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:46.763Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Re:forma+Medspa+and+Wellness/data=!4m7!3m6!1s0x6776ad68ef702527:0xb1a52ca15a9a1752!8m2!3d40.758147!4d-73.9746763!16s%2Fg%2F11lv456r4g!19sChIJJyVw72itdmcRUheaWqEspbE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:47.997Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JECT/data=!4m7!3m6!1s0x89c25968a6fea3c5:0xcd6c176cafbd65d1!8m2!3d40.7341351!4d-74.0004032!16s%2Fg%2F11fjzvy83f!19sChIJxaP-pmhZwokR0WW9r2wXbM0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:38:49.210Z"}
+{"level":"info","message":"✅ Added: JECT","timestamp":"2026-02-25T06:38:50.678Z"}
+{"level":"info","message":"🔍 Deep crawling: https://ject.us/...","timestamp":"2026-02-25T06:38:50.678Z"}
+{"level":"info","message":"📧 Found 5 emails for JECT","timestamp":"2026-02-25T06:39:00.098Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa.com/data=!4m7!3m6!1s0x83be6f61f2c960ef:0xd7602454a54d2128!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11sqk674xz!19sChIJ72DJ8mFvvoMRKCFNpVQkYNc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:39:00.106Z"}
+{"level":"info","message":"✅ Added: MedSpa.com","timestamp":"2026-02-25T06:39:01.203Z"}
+{"level":"info","message":"🔍 Deep crawling: https://medspa.com/...","timestamp":"2026-02-25T06:39:01.204Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VR+MedSpa+Aesthetic+Salon,+Manhattan/data=!4m7!3m6!1s0x89c2594f6739acd1:0x8c9662a0ee2b450a!8m2!3d40.7688759!4d-73.9590898!16s%2Fg%2F11pzs0tyj7!19sChIJ0aw5Z09ZwokRCkUr7qBilow?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T06:39:13.195Z"}
+{"level":"info","message":"🏁 Job 3f6e1d42-e420-4702-a3c6-4f5ccbfeacf6 Fully Completed. Total Leads: 78","timestamp":"2026-02-25T06:39:14.608Z"}
+{"level":"info","message":"🏁 Task 4352f043-d51e-426e-96cc-2fca92cdb191 Completed. Added: 10, Skipped: 30","timestamp":"2026-02-25T06:39:14.608Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-25T07:04:24.283Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-25T07:04:24.291Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10003 (20f49e16-3ca2-4651-99f5-a0e5729bbce0) for Job: c9c2eb3e-9031-4358-b223-9b93a5c3aa01","timestamp":"2026-02-25T07:06:05.087Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:06:05.841Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10003?hl=en","timestamp":"2026-02-25T07:06:05.971Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:06:07.456Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 9 (attempt 1/60)","timestamp":"2026-02-25T07:06:09.545Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 9 (attempt 2/60)","timestamp":"2026-02-25T07:06:11.099Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 9 (attempt 3/60)","timestamp":"2026-02-25T07:06:12.449Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 9 (attempt 4/60)","timestamp":"2026-02-25T07:06:13.765Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T07:06:13.769Z"}
+{"level":"info","message":"✅ Collected 9 unique links.","timestamp":"2026-02-25T07:06:13.771Z"}
+{"level":"info","message":"📋 Found 9 leads. Extracting...","timestamp":"2026-02-25T07:06:13.772Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:13.787Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:16.047Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa/data=!4m7!3m6!1s0x89c2595101b3b50b:0x856cf9065649f4d7!8m2!3d40.7439229!4d-73.9937052!16s%2Fg%2F11y0h7mthq!19sChIJC7WzAVFZwokR1_RJVgb5bIU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:18.146Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:19.326Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:21.041Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:22.271Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthete+Medspa/data=!4m7!3m6!1s0x89c259b0f05f060b:0x4a806d129c26445c!8m2!3d40.7386435!4d-73.9850258!16s%2Fg%2F11h3g9tmjc!19sChIJCwZf8LBZwokRXEQmnBJtgEo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:23.537Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CasaGlow+MedSpa/data=!4m7!3m6!1s0x89c259e058a023a1:0x581c8feb9640eeb4!8m2!3d40.7401604!4d-73.9889129!16s%2Fg%2F11l352gz4d!19sChIJoSOgWOBZwokRtO5AluuPHFg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:25.000Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:26.209Z"}
+{"level":"info","message":"🏁 Task 20f49e16-3ca2-4651-99f5-a0e5729bbce0 Completed. Added: 0, Skipped: 9","timestamp":"2026-02-25T07:06:27.530Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10004 (25b71c3b-04d7-4ef7-a453-99ac42387c20) for Job: c9c2eb3e-9031-4358-b223-9b93a5c3aa01","timestamp":"2026-02-25T07:06:33.485Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:06:34.061Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10004?hl=en","timestamp":"2026-02-25T07:06:34.207Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:06:35.939Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 21 (attempt 1/60)","timestamp":"2026-02-25T07:06:38.384Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 27 (attempt 2/60)","timestamp":"2026-02-25T07:06:39.481Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 27 (attempt 3/60)","timestamp":"2026-02-25T07:06:41.220Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 27 (attempt 4/60)","timestamp":"2026-02-25T07:06:42.549Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 27 (attempt 5/60)","timestamp":"2026-02-25T07:06:43.870Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T07:06:43.873Z"}
+{"level":"info","message":"✅ Collected 27 unique links.","timestamp":"2026-02-25T07:06:43.875Z"}
+{"level":"info","message":"📋 Found 27 leads. Extracting...","timestamp":"2026-02-25T07:06:43.875Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Deep+Blue+Med+Spa/data=!4m7!3m6!1s0x89c258a36c713869:0xa6091dd138521a5e!8m2!3d40.78053!4d-73.957519!16s%2Fg%2F11bvvzyln9!19sChIJaThxbKNYwokRXhpSONEdCaY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:43.878Z"}
+{"level":"info","message":"✅ Added: Deep Blue Med Spa","timestamp":"2026-02-25T07:06:45.540Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.deepbluemedspa.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=deep+blue+med+spa+manhattan...","timestamp":"2026-02-25T07:06:45.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Renuev+Med+Spa/data=!4m7!3m6!1s0x89c25b0026fe0ed1:0x2c86128fc2919bda!8m2!3d40.70635!4d-74.0054286!16s%2Fg%2F11xvlxqz5q!19sChIJ0Q7-JgBbwokR2puRwo8Shiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:54.243Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:55.882Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:57.090Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MCNYC+-+The+Medical+Clinic+Spa+New+York/data=!4m7!3m6!1s0x89c2597a2468a0dd:0x87aebc36c459fbb0!8m2!3d40.7626236!4d-73.9885226!16s%2Fg%2F11xf43ysdr!19sChIJ3aBoJHpZwokRsPtZxDa8roc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:58.236Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:06:59.428Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:00.567Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:01.754Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:02.943Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Evolve+Med+Spa/data=!4m7!3m6!1s0x89c25b13e8598dc7:0x2f70d994202c8e5d!8m2!3d40.7165812!4d-74.0049286!16s%2Fg%2F11pvmdr5qp!19sChIJx41Z6BNbwokRXY4sIJTZcC8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:04.107Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetics21+Medspa+and+Wellness+Clinic/data=!4m7!3m6!1s0x89c2594135981c5f:0x762df153ae07e9c0!8m2!3d40.7071763!4d-74.0124645!16s%2Fg%2F11vkdv26rk!19sChIJXxyYNUFZwokRwOkHrlPxLXY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:05.249Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CasaGlow+MedSpa/data=!4m7!3m6!1s0x89c259e058a023a1:0x581c8feb9640eeb4!8m2!3d40.7401604!4d-73.9889129!16s%2Fg%2F11l352gz4d!19sChIJoSOgWOBZwokRtO5AluuPHFg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:06.384Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeRejuved+Medical+Spa+%26+Wellness+Studio+-+NYC/data=!4m7!3m6!1s0x89c259a3d5330933:0xa7c44e9f02ae85b3!8m2!3d40.7484743!4d-73.9920519!16s%2Fg%2F11rvb_9dmj!19sChIJMwkz1aNZwokRs4WuAp9OxKc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:07.516Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinova+Medspa/data=!4m7!3m6!1s0x89c2599129669635:0x1674729557231643!8m2!3d40.7542077!4d-73.9791695!16s%2Fg%2F11fk8cw1vs!19sChIJNZZmKZFZwokRQxYjV5VydBY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:08.730Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perfect+Med+Spa/data=!4m7!3m6!1s0x89c258fa90bbf2b1:0xdbb4de1082c659f0!8m2!3d40.7482439!4d-73.9797201!16s%2Fg%2F11f3hh4_7k!19sChIJsfK7kPpYwokR8FnGghDetNs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:09.820Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+57/data=!4m7!3m6!1s0x89c258f79953bad5:0x694f9c76882bea4!8m2!3d40.7653794!4d-73.9806833!16s%2Fg%2F11b6z3g3qt!19sChIJ1bpTmfdYwokRpL6CaMf5lAY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:11.021Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Deep+NYC/data=!4m7!3m6!1s0x89c25908556b0d4f:0xecc044fb24cd1fd3!8m2!3d40.7633801!4d-73.9763535!16s%2Fg%2F11fpmd3vgr!19sChIJTw1rVQhZwokR0x_NJPtEwOw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:12.165Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa+New+York/data=!4m7!3m6!1s0x89c25b85c0e5e6db:0xbcc602d9a11b065b!8m2!3d40.6916846!4d-73.988794!16s%2Fg%2F11sdyr__9d!19sChIJ2-blwIVbwokRWwYbodkCxrw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:13.289Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinney+Medspa/data=!4m7!3m6!1s0x89c258ef9da2b701:0x2ac1d210967c37c8!8m2!3d40.763742!4d-73.9701959!16s%2Fg%2F1tmqmpw8!19sChIJAbeine9YwokRyDd8lhDSwSo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:14.700Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa+Clubs+-+Manhattan/data=!4m7!3m6!1s0x89c25b6c700db74d:0xf10002561bb84547!8m2!3d40.7175205!4d-74.0008145!16s%2Fg%2F11pkmhq594!19sChIJTbcNcGxbwokRR0W4G1YCAPE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:16.134Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinTight+MedSpa/data=!4m7!3m6!1s0x89c258bc7fd1cee1:0xa9296fb6971b2213!8m2!3d40.7631176!4d-73.9668957!16s%2Fg%2F11bx49qmfp!19sChIJ4c7Rf7xYwokREyIbl7ZvKak?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:17.377Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clinique+des+Champs+%C3%89lys%C3%A9es/data=!4m7!3m6!1s0x89c259352fa4506d:0x9e7616d97fee1884!8m2!3d40.762907!4d-73.9731637!16s%2Fg%2F11fv7kqvh4!19sChIJbVCkLzVZwokRhBjuf9kWdp4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:18.622Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ease+Spa+Wellness/data=!4m7!3m6!1s0x89c2598a20e64025:0x448c08c25af99ea1!8m2!3d40.7593177!4d-73.9708293!16s%2Fg%2F1vcl4p50!19sChIJJUDmIIpZwokRoZ75WsIIjEQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:19.726Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/UPKEEP+Med+Spa/data=!4m7!3m6!1s0x89c2596c409af297:0xdd27e1691ea932e1!8m2!3d40.7413651!4d-73.9992724!16s%2Fg%2F11wy2j62kd!19sChIJl_KaQGxZwokR4TKpHmnhJ90?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:20.869Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JECT/data=!4m7!3m6!1s0x89c25968a6fea3c5:0xcd6c176cafbd65d1!8m2!3d40.7341351!4d-74.0004032!16s%2Fg%2F11fjzvy83f!19sChIJxaP-pmhZwokR0WW9r2wXbM0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:22.003Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Revival+Med+Spa/data=!4m7!3m6!1s0x89c259bf121b5361:0x7483466d4a1739b7!8m2!3d40.7487964!4d-73.9817563!16s%2Fg%2F11tjpj6fz2!19sChIJYVMbEr9ZwokRtzkXSm1Gg3Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:23.122Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa.com/data=!4m7!3m6!1s0x83be6f61f2c960ef:0xd7602454a54d2128!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11sqk674xz!19sChIJ72DJ8mFvvoMRKCFNpVQkYNc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:24.194Z"}
+{"level":"info","message":"🏁 Task 25b71c3b-04d7-4ef7-a453-99ac42387c20 Completed. Added: 1, Skipped: 26","timestamp":"2026-02-25T07:07:25.431Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10005 (94d60eb1-d21d-4a1d-b228-e0a592703493) for Job: c9c2eb3e-9031-4358-b223-9b93a5c3aa01","timestamp":"2026-02-25T07:07:30.801Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:07:31.294Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10005?hl=en","timestamp":"2026-02-25T07:07:31.428Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:07:32.812Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 1/60)","timestamp":"2026-02-25T07:07:34.674Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 2/60)","timestamp":"2026-02-25T07:07:36.283Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 3/60)","timestamp":"2026-02-25T07:07:37.650Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 4/60)","timestamp":"2026-02-25T07:07:38.947Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T07:07:38.950Z"}
+{"level":"info","message":"✅ Collected 10 unique links.","timestamp":"2026-02-25T07:07:38.952Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-25T07:07:38.952Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Renuev+Med+Spa/data=!4m7!3m6!1s0x89c25b0026fe0ed1:0x2c86128fc2919bda!8m2!3d40.70635!4d-74.0054286!16s%2Fg%2F11xvlxqz5q!19sChIJ0Q7-JgBbwokR2puRwo8Shiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:38.955Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:40.681Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:42.314Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/La+R%C3%A9serve+Aesthetics/data=!4m7!3m6!1s0x89c25b7c4edd0017:0x399e649427c7f48a!8m2!3d40.7175868!4d-74.0099291!16s%2Fg%2F11xkytzb8k!19sChIJFwDdTnxbwokRivTHJ5Rknjk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:43.518Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:44.617Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:45.789Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Evolve+Med+Spa/data=!4m7!3m6!1s0x89c25b13e8598dc7:0x2f70d994202c8e5d!8m2!3d40.7165812!4d-74.0049286!16s%2Fg%2F11pvmdr5qp!19sChIJx41Z6BNbwokRXY4sIJTZcC8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:46.969Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:48.096Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:49.257Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetics21+Medspa+and+Wellness+Clinic/data=!4m7!3m6!1s0x89c2594135981c5f:0x762df153ae07e9c0!8m2!3d40.7071763!4d-74.0124645!16s%2Fg%2F11vkdv26rk!19sChIJXxyYNUFZwokRwOkHrlPxLXY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:07:50.467Z"}
+{"level":"info","message":"🏁 Task 94d60eb1-d21d-4a1d-b228-e0a592703493 Completed. Added: 0, Skipped: 10","timestamp":"2026-02-25T07:07:51.592Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10006 (26be4b3a-03c7-487d-9fdd-1fd545cf7afe) for Job: c9c2eb3e-9031-4358-b223-9b93a5c3aa01","timestamp":"2026-02-25T07:07:56.868Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:07:57.393Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10006?hl=en","timestamp":"2026-02-25T07:07:57.518Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:07:58.997Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 1/60)","timestamp":"2026-02-25T07:08:01.058Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 2/60)","timestamp":"2026-02-25T07:08:02.399Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 3/60)","timestamp":"2026-02-25T07:08:03.695Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 10 (attempt 4/60)","timestamp":"2026-02-25T07:08:05.082Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T07:08:05.084Z"}
+{"level":"info","message":"✅ Collected 10 unique links.","timestamp":"2026-02-25T07:08:05.086Z"}
+{"level":"info","message":"📋 Found 10 leads. Extracting...","timestamp":"2026-02-25T07:08:05.087Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:05.090Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Renuev+Med+Spa/data=!4m7!3m6!1s0x89c25b0026fe0ed1:0x2c86128fc2919bda!8m2!3d40.70635!4d-74.0054286!16s%2Fg%2F11xvlxqz5q!19sChIJ0Q7-JgBbwokR2puRwo8Shiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:06.836Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:08.578Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:09.957Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/La+R%C3%A9serve+Aesthetics/data=!4m7!3m6!1s0x89c25b7c4edd0017:0x399e649427c7f48a!8m2!3d40.7175868!4d-74.0099291!16s%2Fg%2F11xkytzb8k!19sChIJFwDdTnxbwokRivTHJ5Rknjk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:11.364Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MCNYC+-+The+Medical+Clinic+Spa+New+York/data=!4m7!3m6!1s0x89c2597a2468a0dd:0x87aebc36c459fbb0!8m2!3d40.7626236!4d-73.9885226!16s%2Fg%2F11xf43ysdr!19sChIJ3aBoJHpZwokRsPtZxDa8roc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:12.641Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa/data=!4m7!3m6!1s0x89c2595101b3b50b:0x856cf9065649f4d7!8m2!3d40.7439229!4d-73.9937052!16s%2Fg%2F11y0h7mthq!19sChIJC7WzAVFZwokR1_RJVgb5bIU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:14.093Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:15.483Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Evolve+Med+Spa/data=!4m7!3m6!1s0x89c25b13e8598dc7:0x2f70d994202c8e5d!8m2!3d40.7165812!4d-74.0049286!16s%2Fg%2F11pvmdr5qp!19sChIJx41Z6BNbwokRXY4sIJTZcC8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:16.853Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetics21+Medspa+and+Wellness+Clinic/data=!4m7!3m6!1s0x89c2594135981c5f:0x762df153ae07e9c0!8m2!3d40.7071763!4d-74.0124645!16s%2Fg%2F11vkdv26rk!19sChIJXxyYNUFZwokRwOkHrlPxLXY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:18.153Z"}
+{"level":"info","message":"🏁 Task 26be4b3a-03c7-487d-9fdd-1fd545cf7afe Completed. Added: 0, Skipped: 10","timestamp":"2026-02-25T07:08:19.662Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York in 10007. (c9e31135-70a4-48ac-aed1-0528a2fb03c5) for Job: c9c2eb3e-9031-4358-b223-9b93a5c3aa01","timestamp":"2026-02-25T07:08:25.064Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:08:25.547Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York+in+10007.?hl=en","timestamp":"2026-02-25T07:08:25.695Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:08:27.992Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 3 (attempt 1/60)","timestamp":"2026-02-25T07:08:29.749Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 3 (attempt 2/60)","timestamp":"2026-02-25T07:08:31.097Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 3 (attempt 3/60)","timestamp":"2026-02-25T07:08:32.494Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 3 (attempt 4/60)","timestamp":"2026-02-25T07:08:33.801Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T07:08:33.803Z"}
+{"level":"info","message":"✅ Collected 3 unique links.","timestamp":"2026-02-25T07:08:33.805Z"}
+{"level":"info","message":"📋 Found 3 leads. Extracting...","timestamp":"2026-02-25T07:08:33.805Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LING+Spa+Union+Square/data=!4m7!3m6!1s0x89c259a2875da063:0xe0559c7ac97612f9!8m2!3d40.733082!4d-73.99226!16s%2Fg%2F1thct7n8!19sChIJY6Bdh6JZwokR-RJ2yXqcVeA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:33.809Z"}
+{"level":"info","message":"✅ Added: LING Spa Union Square","timestamp":"2026-02-25T07:08:35.604Z"}
+{"level":"info","message":"🔍 Deep crawling: http://lingspa.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10961591109581304791...","timestamp":"2026-02-25T07:08:35.604Z"}
+{"level":"info","message":"📧 Found 3 emails for LING Spa Union Square","timestamp":"2026-02-25T07:08:49.826Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:49.835Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:08:53.613Z"}
+{"level":"info","message":"🏁 Job c9c2eb3e-9031-4358-b223-9b93a5c3aa01 Fully Completed. Total Leads: 2","timestamp":"2026-02-25T07:08:56.568Z"}
+{"level":"info","message":"🏁 Task c9e31135-70a4-48ac-aed1-0528a2fb03c5 Completed. Added: 1, Skipped: 2","timestamp":"2026-02-25T07:08:56.568Z"}
+{"level":"info","message":"🚀 Processing Task: MedSpas in New York (cdf801e9-cc6a-4944-9221-7f917c855cb3) for Job: 1468d510-76b0-4795-91da-2d35d4004aaf","timestamp":"2026-02-25T07:11:27.310Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T07:11:27.855Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/MedSpas+in+New+York?hl=en","timestamp":"2026-02-25T07:11:28.002Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T07:11:29.961Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 1/60)","timestamp":"2026-02-25T07:11:32.175Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 2/60)","timestamp":"2026-02-25T07:11:33.662Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 40 (attempt 3/60)","timestamp":"2026-02-25T07:11:34.667Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 42 (attempt 4/60)","timestamp":"2026-02-25T07:11:35.513Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 42 (attempt 5/60)","timestamp":"2026-02-25T07:11:37.001Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 48 (attempt 6/60)","timestamp":"2026-02-25T07:11:38.416Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 60 (attempt 7/60)","timestamp":"2026-02-25T07:11:39.067Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 8/60)","timestamp":"2026-02-25T07:11:39.795Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 9/60)","timestamp":"2026-02-25T07:11:41.203Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 68 (attempt 10/60)","timestamp":"2026-02-25T07:11:41.834Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 80 (attempt 11/60)","timestamp":"2026-02-25T07:11:42.808Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 82 (attempt 12/60)","timestamp":"2026-02-25T07:11:43.824Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 82 (attempt 13/60)","timestamp":"2026-02-25T07:11:45.223Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 88 (attempt 14/60)","timestamp":"2026-02-25T07:11:46.028Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 94 (attempt 15/60)","timestamp":"2026-02-25T07:11:47.367Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 94 (attempt 16/60)","timestamp":"2026-02-25T07:11:48.951Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 94 (attempt 17/60)","timestamp":"2026-02-25T07:11:50.365Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 94 (attempt 18/60)","timestamp":"2026-02-25T07:11:51.750Z"}
+{"level":"info","message":"🛑 No new results after 3 scrolls. Stopping collection.","timestamp":"2026-02-25T07:11:51.760Z"}
+{"level":"info","message":"✅ Collected 94 unique links.","timestamp":"2026-02-25T07:11:51.763Z"}
+{"level":"info","message":"📋 Found 94 leads. Extracting...","timestamp":"2026-02-25T07:11:51.763Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Tribeca+Medspa/data=!4m7!3m6!1s0x89c259f5651ecb83:0x6acd5d236da30822!8m2!3d40.7196937!4d-74.0083527!16s%2Fg%2F1v3_3lx5!19sChIJg8seZfVZwokRIgijbSNdzWo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:11:51.768Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Downtown/data=!4m7!3m6!1s0x89c25a1746173077:0xe06c5ff484730d33!8m2!3d40.7088245!4d-74.0112487!16s%2Fg%2F12hpndcy3!19sChIJdzAXRhdawokRMw1zhPRfbOA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:11:54.913Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perfect+Med+Spa/data=!4m7!3m6!1s0x89c258fa90bbf2b1:0xdbb4de1082c659f0!8m2!3d40.7482439!4d-73.9797201!16s%2Fg%2F11f3hh4_7k!19sChIJsfK7kPpYwokR8FnGghDetNs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:11:58.079Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Medspa/data=!4m7!3m6!1s0x89c259a0df7c65cf:0x858db894dac8c8bf!8m2!3d40.7495372!4d-73.9819791!16s%2Fg%2F11h5q8kwqf!19sChIJz2V836BZwokRv8jI2pS4jYU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:01.048Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinova+Medspa/data=!4m7!3m6!1s0x89c2599129669635:0x1674729557231643!8m2!3d40.7542077!4d-73.9791695!16s%2Fg%2F11fk8cw1vs!19sChIJNZZmKZFZwokRQxYjV5VydBY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:04.366Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c259a3b1712b0f:0x24503d8f21358b3!8m2!3d40.7393436!4d-73.9909742!16s%2Fg%2F1yfh_hzsd!19sChIJDytxsaNZwokRs1gT8tgDRQI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:07.690Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZZ+Med+Spa/data=!4m7!3m6!1s0x89c259bfcf1fe3c1:0x3006de9aeb8c4c40!8m2!3d40.7604884!4d-73.9706578!16s%2Fg%2F11x11d052n!19sChIJweMfz79ZwokRQEyM65reBjA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:10.941Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeRejuved+Medical+Spa+%26+Wellness+Studio+-+NYC/data=!4m7!3m6!1s0x89c259a3d5330933:0xa7c44e9f02ae85b3!8m2!3d40.7484743!4d-73.9920519!16s%2Fg%2F11rvb_9dmj!19sChIJMwkz1aNZwokRs4WuAp9OxKc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:14.400Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CasaGlow+MedSpa/data=!4m7!3m6!1s0x89c259e058a023a1:0x581c8feb9640eeb4!8m2!3d40.7401604!4d-73.9889129!16s%2Fg%2F11l352gz4d!19sChIJoSOgWOBZwokRtO5AluuPHFg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:17.907Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MCNYC+-+The+Medical+Clinic+Spa+New+York/data=!4m7!3m6!1s0x89c2597a2468a0dd:0x87aebc36c459fbb0!8m2!3d40.7626236!4d-73.9885226!16s%2Fg%2F11xf43ysdr!19sChIJ3aBoJHpZwokRsPtZxDa8roc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:19.310Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Central+Park+West+Med+Spa/data=!4m7!3m6!1s0x89c258f4c1eeaaab:0x1dc0068a5ed07a49!8m2!3d40.7730938!4d-73.9788937!16s%2Fg%2F11f63x6lkt!19sChIJq6ruwfRYwokRSXrQXooGwB0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:20.828Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Timeless+MedSpa+NYC/data=!4m7!3m6!1s0x89c259942249e84f:0x3e5de639b920dd9d!8m2!3d40.7720886!4d-73.9627652!16s%2Fg%2F11shb1qy8k!19sChIJT-hJIpRZwokRnd0guTnmXT4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:22.231Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Anand+Medical+Spa/data=!4m7!3m6!1s0x89c25901740aa87d:0xca3364ecd27c44b4!8m2!3d40.763626!4d-73.970973!16s%2Fg%2F11xwfg2cm!19sChIJfagKdAFZwokRtER80uxkM8o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:23.552Z"}
+{"level":"info","message":"✅ Added: Anand Medical Spa","timestamp":"2026-02-25T07:12:24.995Z"}
+{"level":"info","message":"🔍 Deep crawling: https://anandmedicalspa.com/...","timestamp":"2026-02-25T07:12:24.995Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinney+Medspa/data=!4m7!3m6!1s0x89c258ef9da2b701:0x2ac1d210967c37c8!8m2!3d40.763742!4d-73.9701959!16s%2Fg%2F1tmqmpw8!19sChIJAbeine9YwokRyDd8lhDSwSo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:33.736Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Revival+Med+Spa/data=!4m7!3m6!1s0x89c259bf121b5361:0x7483466d4a1739b7!8m2!3d40.7487964!4d-73.9817563!16s%2Fg%2F11tjpj6fz2!19sChIJYVMbEr9ZwokRtzkXSm1Gg3Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:35.061Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ever%2FBody+Flatiron/data=!4m7!3m6!1s0x89c259345aacc945:0x5f00497ab52919d!8m2!3d40.7382286!4d-73.9933331!16s%2Fg%2F11fsr1qcl5!19sChIJRcmsWjRZwokRnZFSq5cE8AU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:37.478Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+57/data=!4m7!3m6!1s0x89c258f79953bad5:0x694f9c76882bea4!8m2!3d40.7653794!4d-73.9806833!16s%2Fg%2F11b6z3g3qt!19sChIJ1bpTmfdYwokRpL6CaMf5lAY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:39.842Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Evolve+Med+Spa/data=!4m7!3m6!1s0x89c25b13e8598dc7:0x2f70d994202c8e5d!8m2!3d40.7165812!4d-74.0049286!16s%2Fg%2F11pvmdr5qp!19sChIJx41Z6BNbwokRXY4sIJTZcC8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:41.891Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bel+Ang%C3%A9+Medical+Spa/data=!4m7!3m6!1s0x89c2598ff315a181:0x4908c887730b2fda!8m2!3d40.7223309!4d-74.0102086!16s%2Fg%2F11x6145t80!19sChIJgaEV849ZwokR2i8Lc4fICEk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:44.082Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MiracleFace+MedSpa/data=!4m7!3m6!1s0x89c259a7bdb03c83:0x39ed1f04479d57e2!8m2!3d40.7512725!4d-73.9731523!16s%2Fg%2F11cmplpnk2!19sChIJgzywvadZwokR4ledRwQf7Tk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:46.361Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Deep+Blue+Med+Spa/data=!4m7!3m6!1s0x89c258a36c713869:0xa6091dd138521a5e!8m2!3d40.78053!4d-73.9575194!16s%2Fg%2F11bvvzyln9!19sChIJaThxbKNYwokRXhpSONEdCaY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:48.593Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ease+Spa+Wellness/data=!4m7!3m6!1s0x89c2598a20e64025:0x448c08c25af99ea1!8m2!3d40.7593177!4d-73.9708293!16s%2Fg%2F1vcl4p50!19sChIJJUDmIIpZwokRoZ75WsIIjEQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:50.733Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LM+Medical+Spa/data=!4m7!3m6!1s0x89c259e6d62feaa7:0x42c12c27addcd99f!8m2!3d40.7520122!4d-73.9804098!16s%2Fg%2F11hctk99lq!19sChIJp-ov1uZZwokRn9ncrScswUI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:12:53.045Z"}
+{"level":"info","message":"✅ Added: LM Medical Spa","timestamp":"2026-02-25T07:12:54.905Z"}
+{"level":"info","message":"🔍 Deep crawling: http://lmmedspanyc.com/...","timestamp":"2026-02-25T07:12:54.906Z"}
+{"level":"info","message":"📧 Found 2 emails for LM Medical Spa","timestamp":"2026-02-25T07:13:07.369Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Trifecta+Med+Spa+Park+Avenue/data=!4m7!3m6!1s0x89c259f6dff4baad:0xb0f878941709da3c!8m2!3d40.7637915!4d-73.9702363!16s%2Fg%2F11h0jt1g4v!19sChIJrbr03_ZZwokRPNoJF5R4-LA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:07.380Z"}
+{"level":"info","message":"✅ Added: Trifecta Med Spa Park Avenue","timestamp":"2026-02-25T07:13:10.183Z"}
+{"level":"info","message":"🔍 Deep crawling: https://trifectamedspanyc.com/...","timestamp":"2026-02-25T07:13:10.183Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JY+Medspa/data=!4m7!3m6!1s0x8e45034f33a90fbf:0x3f28ed1af123d812!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11vbg7dpp7!19sChIJvw-pM08DRY4REtgj8RrtKD8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:17.505Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Luxury+MedSpa/data=!4m7!3m6!1s0x89c2599ac0242fa1:0xc5ba47e332cf5d46!8m2!3d40.7445977!4d-73.9904622!16s%2Fg%2F11fn4x1swn!19sChIJoS8kwJpZwokRRl3PMuNHusU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:19.809Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/IN%E2%80%A2GLO+Face+and+Body+Sculpting+Med+Spa/data=!4m7!3m6!1s0x89c25997d5a70033:0x1c6644c9dc6a401f!8m2!3d40.7459917!4d-73.9916991!16s%2Fg%2F1v_0knp9!19sChIJMwCn1ZdZwokRH0Bq3MlEZhw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:22.068Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clinique+des+Champs+%C3%89lys%C3%A9es/data=!4m7!3m6!1s0x89c259352fa4506d:0x9e7616d97fee1884!8m2!3d40.762907!4d-73.9731637!16s%2Fg%2F11fv7kqvh4!19sChIJbVCkLzVZwokRhBjuf9kWdp4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:24.192Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/TREAT+Medspa/data=!4m7!3m6!1s0x89c2592ae22a3037:0x76a70e5a5af70df6!8m2!3d40.7446298!4d-73.987667!16s%2Fg%2F11xgpdymmc!19sChIJNzAq4ipZwokR9g33WloOp3Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:26.589Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Glamoi+Med+Spa/data=!4m7!3m6!1s0x89c25917903415c7:0x6c2e6572d13109d8!8m2!3d40.7434938!4d-73.9926985!16s%2Fg%2F11h5rtmn7d!19sChIJxxU0kBdZwokR2Akx0XJlLmw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:28.794Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Koru+Wellness+Aesthetics+NYC:+Med+Spa+Upper+East+Side+%26+Midtown/data=!4m7!3m6!1s0x89c259ae6ba3aadb:0x5ffdcf4abcde063c!8m2!3d40.7722294!4d-73.9540545!16s%2Fg%2F11fn5tfxkl!19sChIJ26qja65ZwokRPAbevErP_V8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:30.816Z"}
+{"level":"info","message":"✅ Added: Koru Wellness Aesthetics NYC: Med Spa Upper East Side & Midtown","timestamp":"2026-02-25T07:13:33.206Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.korunyc.com/...","timestamp":"2026-02-25T07:13:33.209Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BeautyFix+Medspa+Flatiron/data=!4m7!3m6!1s0x89c259a47486d0f9:0xa370ff61206d0cce!8m2!3d40.741647!4d-73.9905077!16s%2Fg%2F11b8276_nc!19sChIJ-dCGdKRZwokRzgxtIGH_cKM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:42.204Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa/data=!4m7!3m6!1s0x89c2595101b3b50b:0x856cf9065649f4d7!8m2!3d40.7439229!4d-73.9937052!16s%2Fg%2F11y0h7mthq!19sChIJC7WzAVFZwokR1_RJVgb5bIU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:44.320Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lov+MedSpa+New+York/data=!4m7!3m6!1s0x89c25b85c0e5e6db:0xbcc602d9a11b065b!8m2!3d40.6916846!4d-73.988794!16s%2Fg%2F11sdyr__9d!19sChIJ2-blwIVbwokRWwYbodkCxrw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:46.289Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Peachy+West+SoHo/data=!4m7!3m6!1s0x89c259d1baa7f5e7:0x4d47d783c2a7f59e!8m2!3d40.7254133!4d-74.0079444!16s%2Fg%2F11h_yh6hj4!19sChIJ5_WnutFZwokRnvWnwoPXR00?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:13:48.474Z"}
+{"level":"info","message":"✅ Added: Peachy West SoHo","timestamp":"2026-02-25T07:13:50.601Z"}
+{"level":"info","message":"🔍 Deep crawling: https://peachystudio.com/pages/west-soho?y_source=1_MjYyMjMxMzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D...","timestamp":"2026-02-25T07:13:50.601Z"}
+{"level":"info","message":"📧 Found 1 emails for Peachy West SoHo","timestamp":"2026-02-25T07:14:10.363Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Future+Face+%26+Body+Medspa/data=!4m7!3m6!1s0x89c25935aacea7c9:0x46c3af5b74d035c8!8m2!3d40.7768524!4d-73.97813!16s%2Fg%2F11l_61cp1p!19sChIJyafOqjVZwokRyDXQdFuvw0Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:10.373Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LushBeauty+MedSpa/data=!4m7!3m6!1s0x89c2f72305f59c65:0x37fff53de27449d0!8m2!3d40.8074205!4d-73.9498737!16s%2Fg%2F11rdcjxbbt!19sChIJZZz1BSP3wokR0El04j31_zc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:11.926Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Re:forma+Medspa+and+Wellness/data=!4m7!3m6!1s0x6776ad68ef702527:0xb1a52ca15a9a1752!8m2!3d40.758147!4d-73.9746763!16s%2Fg%2F11lv456r4g!19sChIJJyVw72itdmcRUheaWqEspbE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:13.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Center+New+York/data=!4m7!3m6!1s0x89c259bc0ff5e731:0x8b494483cb2fc2!8m2!3d40.7445921!4d-73.9904595!16s%2Fg%2F11hdpgktxn!19sChIJMef1D7xZwokRwi_Lg0RJiwA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:14.949Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinTight+MedSpa/data=!4m7!3m6!1s0x89c258bc7fd1cee1:0xa9296fb6971b2213!8m2!3d40.7631176!4d-73.9668957!16s%2Fg%2F11bx49qmfp!19sChIJ4c7Rf7xYwokREyIbl7ZvKak?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:16.284Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Renuev+Med+Spa/data=!4m7!3m6!1s0x89c25b0026fe0ed1:0x2c86128fc2919bda!8m2!3d40.70635!4d-74.0054286!16s%2Fg%2F11xvlxqz5q!19sChIJ0Q7-JgBbwokR2puRwo8Shiw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:17.560Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modify+MedSpa+-+Suite+504/data=!4m7!3m6!1s0x89c259812a47fb6f:0xc6dcdfca0b04c02b!8m2!3d40.7513478!4d-73.9805538!16s%2Fg%2F11fw90wg0g!19sChIJb_tHKoFZwokRK8AEC8rf3MY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:18.750Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Minimale+Skin/data=!4m7!3m6!1s0x89c2598e5f134fa1:0x8a20261a8555b043!8m2!3d40.7266751!4d-74.001534!16s%2Fg%2F11tf48pr4_!19sChIJoU8TX45ZwokRQ7BVhRomIIo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:20.041Z"}
+{"level":"info","message":"✅ Added: Minimale Skin","timestamp":"2026-02-25T07:14:21.338Z"}
+{"level":"info","message":"🔍 Deep crawling: http://minimaleskin.com/...","timestamp":"2026-02-25T07:14:21.379Z"}
+{"level":"info","message":"📧 Found 1 emails for Minimale Skin","timestamp":"2026-02-25T07:14:28.815Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Perfect+Med+Spa/data=!4m7!3m6!1s0x89c2879137da3795:0xb492687ce95d6322!8m2!3d40.7912752!4d-73.6208105!16s%2Fg%2F11yc08bj4j!19sChIJlTfaN5GHwokRImNd6XxokrQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:28.826Z"}
+{"level":"info","message":"✅ Added: Perfect Med Spa","timestamp":"2026-02-25T07:14:30.988Z"}
+{"level":"info","message":"🔍 Deep crawling: https://perfectmedspa.com/...","timestamp":"2026-02-25T07:14:30.989Z"}
+{"level":"info","message":"📧 Found 1 emails for Perfect Med Spa","timestamp":"2026-02-25T07:14:41.130Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JECT/data=!4m7!3m6!1s0x89c25968a6fea3c5:0xcd6c176cafbd65d1!8m2!3d40.7341351!4d-74.0004032!16s%2Fg%2F11fjzvy83f!19sChIJxaP-pmhZwokR0WW9r2wXbM0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:41.138Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skinology+MedSpa/data=!4m7!3m6!1s0x89c2597c9efc519d:0x85b26dc3a2d1e4e0!8m2!3d40.7534205!4d-73.9910376!16s%2Fg%2F11w4tkz6zk!19sChIJnVH8nnxZwokR4OTRosNtsoU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:42.726Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Glo+Spa/data=!4m7!3m6!1s0x89c25a17c2fc6023:0xd193ca6132eb6546!8m2!3d40.7119709!4d-74.0086193!16s%2Fg%2F11fz9k0b82!19sChIJI2D8whdawokRRmXrMmHKk9E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:44.152Z"}
+{"level":"info","message":"✅ Added: Glo Spa","timestamp":"2026-02-25T07:14:45.509Z"}
+{"level":"info","message":"🔍 Deep crawling: https://glospany.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps...","timestamp":"2026-02-25T07:14:45.509Z"}
+{"level":"info","message":"📧 Found 2 emails for Glo Spa","timestamp":"2026-02-25T07:14:53.792Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HausMD+The+Medspa/data=!4m7!3m6!1s0x89c259be051c92c7:0x642afc3804a97a22!8m2!3d40.7685726!4d-73.9570491!16s%2Fg%2F11vdjtlxv5!19sChIJx5IcBb5ZwokRInqpBDj8KmQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:14:53.803Z"}
+{"level":"info","message":"✅ Added: HausMD The Medspa","timestamp":"2026-02-25T07:14:55.305Z"}
+{"level":"info","message":"🔍 Deep crawling: https://thehausmd.com/...","timestamp":"2026-02-25T07:14:55.322Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VJ+MedSpa/data=!4m7!3m6!1s0x89c25970039f17f1:0x482f1f5aebe020bd!8m2!3d40.7773633!4d-73.9573587!16s%2Fg%2F11rfdfhk5g!19sChIJ8RefA3BZwokRvSDg61ofL0g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:03.981Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Aesthetics/data=!4m7!3m6!1s0x89c25900956f28ed:0xa4831faeab2e37a0!8m2!3d40.7485982!4d-73.9812862!16s%2Fg%2F11dfj6rf52!19sChIJ7ShvlQBZwokRoDcuq64fg6Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:05.191Z"}
+{"level":"info","message":"✅ Added: Manhattan Aesthetics","timestamp":"2026-02-25T07:15:06.657Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.manhattan-aesthetics.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb...","timestamp":"2026-02-25T07:15:06.658Z"}
+{"level":"info","message":"📧 Found 1 emails for Manhattan Aesthetics","timestamp":"2026-02-25T07:15:13.806Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/KHROM+MEDSPA+%26+WELLNESS/data=!4m7!3m6!1s0x89c25a507200f243:0xe6f39868efedc778!8m2!3d40.6858916!4d-73.994016!16s%2Fg%2F1w456jfd!19sChIJQ_IAclBawokReMft72iY8-Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:13.815Z"}
+{"level":"info","message":"✅ Added: KHROM MEDSPA & WELLNESS","timestamp":"2026-02-25T07:15:15.139Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.khrommedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp...","timestamp":"2026-02-25T07:15:15.139Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/VR+MedSpa+Aesthetic+Salon,+Manhattan/data=!4m7!3m6!1s0x89c2594f6739acd1:0x8c9662a0ee2b450a!8m2!3d40.7688759!4d-73.9590898!16s%2Fg%2F11pzs0tyj7!19sChIJ0aw5Z09ZwokRCkUr7qBilow?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:21.410Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa+Clubs+-+Manhattan/data=!4m7!3m6!1s0x89c25b6c700db74d:0xf10002561bb84547!8m2!3d40.7175205!4d-74.0008145!16s%2Fg%2F11pkmhq594!19sChIJTbcNcGxbwokRR0W4G1YCAPE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:22.680Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SkinLab+NYC/data=!4m7!3m6!1s0x89c259fff177931f:0x84eb28356d18c265!8m2!3d40.7691814!4d-73.9606578!16s%2Fg%2F11rq9p9kww!19sChIJH5N38f9ZwokRZcIYbTUo64Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:23.838Z"}
+{"level":"info","message":"✅ Added: SkinLab NYC","timestamp":"2026-02-25T07:15:25.134Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinlab-nyc.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=nyc-skinlab...","timestamp":"2026-02-25T07:15:25.134Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthete+Medspa/data=!4m7!3m6!1s0x89c259b0f05f060b:0x4a806d129c26445c!8m2!3d40.7386435!4d-73.9850258!16s%2Fg%2F11h3g9tmjc!19sChIJCwZf8LBZwokRXEQmnBJtgEo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:33.195Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/UPKEEP+Med+Spa/data=!4m7!3m6!1s0x89c259fa3eb73f27:0x7e2af359901587c8!8m2!3d40.7294582!4d-74.0038305!16s%2Fg%2F11qk4hlrpg!19sChIJJz-3PvpZwokRyIcVkFnzKn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:34.519Z"}
+{"level":"info","message":"✅ Added: UPKEEP Med Spa","timestamp":"2026-02-25T07:15:35.806Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.upkeepmedspa.com/...","timestamp":"2026-02-25T07:15:35.818Z"}
+{"level":"info","message":"📧 Found 2 emails for UPKEEP Med Spa","timestamp":"2026-02-25T07:15:44.667Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesthetics21+Medspa+and+Wellness+Clinic/data=!4m7!3m6!1s0x89c2594135981c5f:0x762df153ae07e9c0!8m2!3d40.7071763!4d-74.0124645!16s%2Fg%2F11vkdv26rk!19sChIJXxyYNUFZwokRwOkHrlPxLXY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:44.675Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Diamond+Works+Medspa/data=!4m7!3m6!1s0x89c25f3ea832dec3:0xf6a027ad4d915bf6!8m2!3d40.7612085!4d-73.9242476!16s%2Fg%2F1vvdw3zr!19sChIJw94yqD5fwokR9luRTa0noPY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:46.851Z"}
+{"level":"info","message":"✅ Added: Diamond Works Medspa","timestamp":"2026-02-25T07:15:49.134Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.diamondworksmedspa.com/...","timestamp":"2026-02-25T07:15:49.135Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SKINNEY+Medspa/data=!4m7!3m6!1s0x89c2596619b6979d:0x5f029d81ab889fb2!8m2!3d40.7581047!4d-73.9769487!16s%2Fg%2F11gnp4z_tb!19sChIJnZe2GWZZwokRsp-Iq4GdAl8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:57.320Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SYLK+MEDSPA/data=!4m7!3m6!1s0x89c245cd11f0e345:0x780aa3bb550e92d!8m2!3d40.6126501!4d-73.9568536!16s%2Fg%2F11sszcb26n!19sChIJRePwEc1FwokRLelQtTuqgAc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:15:58.788Z"}
+{"level":"info","message":"✅ Added: SYLK MEDSPA","timestamp":"2026-02-25T07:16:00.358Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.sylkmedspa.com/...","timestamp":"2026-02-25T07:16:00.361Z"}
+{"level":"info","message":"📧 Found 3 emails for SYLK MEDSPA","timestamp":"2026-02-25T07:16:07.072Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Peachy+Brooklyn+Heights/data=!4m7!3m6!1s0x89c25b82ef47a7b3:0xb0bd25063e179402!8m2!3d40.6905554!4d-73.9908869!16s%2Fg%2F11s5qkhwmy!19sChIJs6dH74JbwokRApQXPgYlvbA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:07.081Z"}
+{"level":"info","message":"✅ Added: Peachy Brooklyn Heights","timestamp":"2026-02-25T07:16:08.272Z"}
+{"level":"info","message":"🔍 Deep crawling: https://peachystudio.com/?y_source=1_NTEyMzg2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D...","timestamp":"2026-02-25T07:16:08.273Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Manhattan+Laser+-+Med+Aesthetics+Clinic+%7C+Medspa/data=!4m7!3m6!1s0x89c2596719e015b3:0x4a7fefed16b77ae6!8m2!3d40.764408!4d-73.96691!16s%2Fg%2F11ghp0n3cq!19sChIJsxXgGWdZwokR5nq3Fu3vf0o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:22.871Z"}
+{"level":"info","message":"✅ Added: Manhattan Laser - Med Aesthetics Clinic | Medspa","timestamp":"2026-02-25T07:16:24.534Z"}
+{"level":"info","message":"🔍 Deep crawling: https://manhattan-laser.com/...","timestamp":"2026-02-25T07:16:24.544Z"}
+{"level":"info","message":"📧 Found 3 emails for Manhattan Laser - Med Aesthetics Clinic | Medspa","timestamp":"2026-02-25T07:16:35.803Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/La+R%C3%A9serve+Aesthetics/data=!4m7!3m6!1s0x89c25b7c4edd0017:0x399e649427c7f48a!8m2!3d40.7175868!4d-74.0099291!16s%2Fg%2F11xkytzb8k!19sChIJFwDdTnxbwokRivTHJ5Rknjk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:35.815Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Livinz+Medspa+-+Manhattan/data=!4m7!3m6!1s0x89c259c8cbbee923:0xc803cf26df487356!8m2!3d40.7551728!4d-73.9821361!16s%2Fg%2F11khv0kmt1!19sChIJI-m-y8hZwokRVnNI3ybPA8g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:37.065Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Faces+Med+SPA/data=!4m7!3m6!1s0x89c259f34a7c68c1:0x8e6bde0aba89f707!8m2!3d40.76302!4d-73.967405!16s%2Fg%2F11lgyvsv3y!19sChIJwWh8SvNZwokRB_eJugrea44?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:38.296Z"}
+{"level":"info","message":"✅ Added: Faces Med SPA","timestamp":"2026-02-25T07:16:39.731Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Serica+Skincare+%26+Medspa/data=!4m7!3m6!1s0x89c259ff1337ef01:0xd58ab5ff3468bb54!8m2!3d40.7481614!4d-73.9872958!16s%2Fg%2F11qh1_bbsn!19sChIJAe83E_9ZwokRVLtoNP-1itU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:39.785Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/JustMelt+MedSpa/data=!4m7!3m6!1s0x89c259011bdff183:0x5c44277c2e8ea32f!8m2!3d40.7504104!4d-73.9800603!16s%2Fg%2F1q2w3v4ct!19sChIJg_HfGwFZwokRL6OOLnwnRFw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:41.203Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Hydra+Medspa+NY/data=!4m7!3m6!1s0x89c25f09a12ec7d5:0x192ebd97786e5b1b!8m2!3d40.7636017!4d-73.9188556!16s%2Fg%2F11yjtrxml5!19sChIJ1ccuoQlfwokRG1tueJe9Lhk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:42.456Z"}
+{"level":"info","message":"✅ Added: Hydra Medspa NY","timestamp":"2026-02-25T07:16:43.779Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.hydrany.com/...","timestamp":"2026-02-25T07:16:43.783Z"}
+{"level":"info","message":"📧 Found 2 emails for Hydra Medspa NY","timestamp":"2026-02-25T07:16:51.829Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/L%27Elite+MediSpa+and+Wellness+BK/data=!4m7!3m6!1s0x89c25bde3af257fd:0x384e928c287ef32!8m2!3d40.6729209!4d-73.9504822!16s%2Fg%2F11rcqn6bv5!19sChIJ_VfyOt5bwokRMu-HwijphAM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:16:51.840Z"}
+{"level":"info","message":"✅ Added: L'Elite MediSpa and Wellness BK","timestamp":"2026-02-25T07:16:53.045Z"}
+{"level":"info","message":"🔍 Deep crawling: https://lelitemedispa.com/...","timestamp":"2026-02-25T07:16:53.045Z"}
+{"level":"info","message":"📧 Found 1 emails for L'Elite MediSpa and Wellness BK","timestamp":"2026-02-25T07:17:05.728Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/KLARA+Beauty+Lab/data=!4m7!3m6!1s0x89c25895b3a01521:0x1b8acc69065bbf33!8m2!3d40.775299!4d-73.9621913!16s%2Fg%2F124s_1gmp!19sChIJIRWgs5VYwokRM79bBmnMihs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:05.740Z"}
+{"level":"info","message":"✅ Added: KLARA Beauty Lab","timestamp":"2026-02-25T07:17:07.142Z"}
+{"level":"info","message":"🔍 Deep crawling: http://klarabeautylab.com/...","timestamp":"2026-02-25T07:17:07.149Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/La+Bella+Laser+Aesthetics/data=!4m7!3m6!1s0x4ed5373d4091aa2f:0xf3d8c3a0979ac43d!8m2!3d40.7479428!4d-73.9802757!16s%2Fg%2F11nxnzfx9t!19sChIJL6qRQD031U4RPcSal6DD2PM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:14.208Z"}
+{"level":"info","message":"✅ Added: La Bella Laser Aesthetics","timestamp":"2026-02-25T07:17:15.546Z"}
+{"level":"info","message":"🔍 Deep crawling: https://labellalasernewyork.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps...","timestamp":"2026-02-25T07:17:15.551Z"}
+{"level":"info","message":"📧 Found 2 emails for La Bella Laser Aesthetics","timestamp":"2026-02-25T07:17:22.028Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Eureka+Body+Care+and+Spa+%2B+Medspa,+Botox/data=!4m7!3m6!1s0x89c259a7bdb03cc1:0x5c7103a7bdf91367!8m2!3d40.7438397!4d-73.9845869!16s%2Fg%2F11clvdgvky!19sChIJwTywvadZwokRZxP5vacDcVw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:22.037Z"}
+{"level":"info","message":"✅ Added: Eureka Body Care and Spa + Medspa, Botox","timestamp":"2026-02-25T07:17:23.468Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.eurekabodycareandspa.com/...","timestamp":"2026-02-25T07:17:23.484Z"}
+{"level":"info","message":"📧 Found 2 emails for Eureka Body Care and Spa + Medspa, Botox","timestamp":"2026-02-25T07:17:34.870Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Medspa+at+Ageless+Plastic+Surgery/data=!4m7!3m6!1s0x89c259a021d2d61f:0xddf035e340bf6251!8m2!3d40.7632735!4d-73.9655836!16s%2Fg%2F11thcdps1v!19sChIJH9bSIaBZwokRUWK_QOM18N0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:34.881Z"}
+{"level":"info","message":"✅ Added: The Medspa at Ageless Plastic Surgery","timestamp":"2026-02-25T07:17:37.402Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Bare+Body+Laser+%26+Esthetics+Medspa/data=!4m7!3m6!1s0x89c258fa5ec33497:0xc5134606b435871c!8m2!3d40.7572557!4d-73.9629056!16s%2Fg%2F119wbkns8!19sChIJlzTDXvpYwokRHIc1tAZGE8U?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:37.411Z"}
+{"level":"info","message":"✅ Added: Bare Body Laser & Esthetics Medspa","timestamp":"2026-02-25T07:17:39.092Z"}
+{"level":"info","message":"🔍 Deep crawling: https://barebodylaser.com/...","timestamp":"2026-02-25T07:17:39.094Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Medspa+of+New+York/data=!4m7!3m6!1s0x89c245aab9faa1a3:0x487f11f6445a833c!8m2!3d40.5863306!4d-73.9518926!16s%2Fg%2F11y5bmykbb!19sChIJo6H6uapFwokRPINaRPYRf0g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:46.325Z"}
+{"level":"info","message":"✅ Added: Medspa of New York","timestamp":"2026-02-25T07:17:48.662Z"}
+{"level":"info","message":"🔍 Deep crawling: https://medspaofnewyork.com/...","timestamp":"2026-02-25T07:17:48.662Z"}
+{"level":"info","message":"📧 Found 1 emails for Medspa of New York","timestamp":"2026-02-25T07:17:59.827Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Plump+Cosmetics+%26+Injectables/data=!4m7!3m6!1s0x89c25b091b882613:0x9531e5d3582bf24!8m2!3d40.7159237!4d-74.0082765!16s%2Fg%2F11sdnd568j!19sChIJEyaIGwlbwokRJL-CNV0eUwk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:17:59.838Z"}
+{"level":"info","message":"✅ Added: Plump Cosmetics & Injectables","timestamp":"2026-02-25T07:18:01.769Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.getplump.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb...","timestamp":"2026-02-25T07:18:01.771Z"}
+{"level":"info","message":"📧 Found 1 emails for Plump Cosmetics & Injectables","timestamp":"2026-02-25T07:18:25.083Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Youtherapy+Medspa+-+William+Greenberg,+MD/data=!4m7!3m6!1s0x89c258beb4d70909:0xb1a0527619da5049!8m2!3d40.7736038!4d-73.9573268!16s%2Fg%2F1td77h8z!19sChIJCQnXtL5YwokRSVDaGXZSoLE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:18:25.092Z"}
+{"level":"info","message":"✅ Added: Youtherapy Medspa - William Greenberg, MD","timestamp":"2026-02-25T07:18:26.840Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.youtherapymedspa.com/...","timestamp":"2026-02-25T07:18:26.841Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Midtown+Laser+Spa+%2B+BOTOX,+FILLERS/data=!4m7!3m6!1s0x89c259f23c19f4cd:0x5b0b954af84ef738!8m2!3d40.7438397!4d-73.9845869!16s%2Fg%2F11mw8lvfx_!19sChIJzfQZPPJZwokROPdO-EqVC1s?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:18:42.494Z"}
+{"level":"info","message":"✅ Added: Midtown Laser Spa + BOTOX, FILLERS","timestamp":"2026-02-25T07:18:43.888Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.midtownlaserspa.com/...","timestamp":"2026-02-25T07:18:43.890Z"}
+{"level":"info","message":"📧 Found 2 emails for Midtown Laser Spa + BOTOX, FILLERS","timestamp":"2026-02-25T07:18:51.801Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Three+One+Eight+Medspa/data=!4m7!3m6!1s0x89c259bdd23f8ccf:0x2654a8af97433bc0!8m2!3d40.744696!4d-73.9849083!16s%2Fg%2F11ryqqf3bf!19sChIJz4w_0r1ZwokRwDtDl6-oVCY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:18:51.817Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Natural+Beauty+Fifth+Avenue/data=!4m7!3m6!1s0x89c259f893be668b:0x51f62285d8b06d17!8m2!3d40.7324679!4d-73.9958511!16s%2Fg%2F11vxw_tlyc!19sChIJi2a-k_hZwokRF22w2IUi9lE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:18:53.254Z"}
+{"level":"info","message":"✅ Added: Natural Beauty Fifth Avenue","timestamp":"2026-02-25T07:18:54.631Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.naturalbeautynyc.com/...","timestamp":"2026-02-25T07:18:54.631Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Haitang+Eastern+Therapies/data=!4m7!3m6!1s0x89c2592bc6f3a7b7:0xf86451f419f819eb!8m2!3d40.756465!4d-73.968684!16s%2Fg%2F11td4jwndw!19sChIJt6fzxitZwokR6xn4GfRRZPg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:05.506Z"}
+{"level":"info","message":"✅ Added: Haitang Eastern Therapies","timestamp":"2026-02-25T07:19:06.968Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.haitangeasterntherapies.com/...","timestamp":"2026-02-25T07:19:06.969Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/REVIV+New+York+-+IV+Therapy+%7C+NAD%2B+%7C+Glutathione+%7C+B12/data=!4m7!3m6!1s0x89c259a3d9057a57:0x1e45644249a25550!8m2!3d40.743914!4d-73.988746!16s%2Fg%2F11bc714z5k!19sChIJV3oF2aNZwokRUFWiSUJkRR4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:28.139Z"}
+{"level":"info","message":"✅ Added: REVIV New York - IV Therapy | NAD+ | Glutathione | B12","timestamp":"2026-02-25T07:19:30.356Z"}
+{"level":"info","message":"🔍 Deep crawling: https://revivme.com/...","timestamp":"2026-02-25T07:19:30.356Z"}
+{"level":"info","message":"📧 Found 4 emails for REVIV New York - IV Therapy | NAD+ | Glutathione | B12","timestamp":"2026-02-25T07:19:40.100Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Modern+Line+Med+Spa/data=!4m7!3m6!1s0x89c2598725b5eb41:0x4ef22f7e749cd410!8m2!3d40.7186077!4d-73.9897804!16s%2Fg%2F11vhf_1ml6!19sChIJQeu1JYdZwokRENScdH4v8k4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:40.112Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Midtown+MedSpa/data=!4m7!3m6!1s0x89c2592395df8e5f:0x22e6ab79c81cec4!8m2!3d40.7495013!4d-73.9693742!16s%2Fg%2F11tk8g0kkc!19sChIJX47flSNZwokRxM6BnLdqLgI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:41.340Z"}
+{"level":"info","message":"✅ Added: Midtown MedSpa","timestamp":"2026-02-25T07:19:42.818Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/CONT%C5%8CR/data=!4m7!3m6!1s0x89c259f63273cd41:0x57cb0cfcf2975e7c!8m2!3d40.7214739!4d-73.9949089!16s%2Fg%2F11sbgw68m9!19sChIJQc1zMvZZwokRfF6X8vwMy1c?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:42.827Z"}
+{"level":"info","message":"✅ Added: CONTŌR","timestamp":"2026-02-25T07:19:45.166Z"}
+{"level":"info","message":"🔍 Deep crawling: https://contorstudio.com/...","timestamp":"2026-02-25T07:19:45.172Z"}
+{"level":"info","message":"📧 Found 2 emails for CONTŌR","timestamp":"2026-02-25T07:19:54.533Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AAFE+Medspa+New+York/data=!4m7!3m6!1s0x89c259359d188de9:0x503099fe6a6c866!8m2!3d40.7510316!4d-73.9861709!16s%2Fg%2F11vz071cp0!19sChIJ6Y0YnTVZwokRZsim5p8JAwU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:54.541Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MedSpa.com/data=!4m7!3m6!1s0x83be6f61f2c960ef:0xd7602454a54d2128!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11sqk674xz!19sChIJ72DJ8mFvvoMRKCFNpVQkYNc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:56.076Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Labelle+MedSpa/data=!4m7!3m6!1s0x89c259faeab9b87d:0x3e40397e568237ff!8m2!3d40.7445851!4d-73.9904584!16s%2Fg%2F11flzjm3g2!19sChIJfbi56vpZwokR_zeCVn45QD4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:57.277Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Spring+Street+Dermatology+-+SOHO/data=!4m7!3m6!1s0x89c2598f2a981da3:0x8893f3a78a852584!8m2!3d40.7227697!4d-73.9976783!16s%2Fg%2F1tj8bbd5!19sChIJox2YKo9ZwokRhCWFiqfzk4g?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:19:58.551Z"}
+{"level":"info","message":"✅ Added: Spring Street Dermatology - SOHO","timestamp":"2026-02-25T07:19:59.679Z"}
+{"level":"info","message":"🔍 Deep crawling: https://springstderm.com/?utm_source=seo_gmb&utm_medium=gmb&utm_campaign=home_page...","timestamp":"2026-02-25T07:19:59.680Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Skin+Spa+New+York+-+Flatiron+%2F+Chelsea/data=!4m7!3m6!1s0x89c259a3672a0aa5:0x1827678ae9c55d1!8m2!3d40.740373!4d-73.9918347!16s%2Fg%2F1tm69w0l!19sChIJpQoqZ6NZwokR0VWcrnh2ggE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:20:30.824Z"}
+{"level":"info","message":"✅ Added: Skin Spa New York - Flatiron / Chelsea","timestamp":"2026-02-25T07:20:32.790Z"}
+{"level":"info","message":"🔍 Deep crawling: https://skinspanewyork.com/pages/flatiron-chelsea-spa...","timestamp":"2026-02-25T07:20:32.790Z"}
+{"level":"info","message":"📧 Found 1 emails for Skin Spa New York - Flatiron / Chelsea","timestamp":"2026-02-25T07:20:41.210Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Comprehensive+Wellness+and+Aesthetics+Medspa/data=!4m7!3m6!1s0x89c25987034e4aab:0x26005156d9855556!8m2!3d40.7839488!4d-73.9549481!16s%2Fg%2F11xz_ljmn5!19sChIJq0pOA4dZwokRVlWF2VZRACY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:20:41.220Z"}
+{"level":"info","message":"✅ Added: Comprehensive Wellness and Aesthetics Medspa","timestamp":"2026-02-25T07:20:42.544Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.comprehensivewellnessmedspa.com/...","timestamp":"2026-02-25T07:20:42.564Z"}
+{"level":"info","message":"📧 Found 1 emails for Comprehensive Wellness and Aesthetics Medspa","timestamp":"2026-02-25T07:20:53.963Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Medspa+of+New+York/data=!4m7!3m6!1s0xd41f970a89c3941:0x135d0ba68c62db6c!8m2!3d40.5790265!4d-74.1102547!16s%2Fg%2F11vps5k1yk!19sChIJQTmcqHD5QQ0RbNtijKYLXRM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:20:53.983Z"}
+{"level":"info","message":"✅ Added: Medspa of New York","timestamp":"2026-02-25T07:20:55.412Z"}
+{"level":"info","message":"🔍 Deep crawling: http://medspaofnewyork.com/...","timestamp":"2026-02-25T07:20:55.420Z"}
+{"level":"info","message":"📧 Found 1 emails for Medspa of New York","timestamp":"2026-02-25T07:21:07.845Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/MD+Face+%26+Body+Medspa/data=!4m7!3m6!1s0x89c258ef85339625:0x381426bbe1763c20!8m2!3d40.7635816!4d-73.9689244!16s%2Fg%2F11cjkwcjvl!19sChIJJZYzhe9YwokRIDx24bsmFDg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:21:07.853Z"}
+{"level":"info","message":"✅ Added: MD Face & Body Medspa","timestamp":"2026-02-25T07:21:09.047Z"}
+{"level":"info","message":"🔍 Deep crawling: http://mdfaceandbody.com/...","timestamp":"2026-02-25T07:21:09.049Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Aesth%C3%A9+By+MD/data=!4m7!3m6!1s0x89c2598ef944a591:0x63b8a5fa8a794223!8m2!3d40.753421!4d-73.9910292!16s%2Fg%2F11ymzpn6h2!19sChIJkaVE-Y5ZwokRI0J5ivqluGM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T07:21:18.307Z"}
+{"level":"info","message":"✅ Added: Aesthé By MD","timestamp":"2026-02-25T07:21:19.581Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.aesthect.com/...","timestamp":"2026-02-25T07:21:19.588Z"}
+{"level":"info","message":"📧 Found 1 emails for Aesthé By MD","timestamp":"2026-02-25T07:21:27.844Z"}
+{"level":"info","message":"🏁 Job 1468d510-76b0-4795-91da-2d35d4004aaf Fully Completed. Total Leads: 40","timestamp":"2026-02-25T07:21:27.875Z"}
+{"level":"info","message":"🏁 Task cdf801e9-cc6a-4944-9221-7f917c855cb3 Completed. Added: 40, Skipped: 54","timestamp":"2026-02-25T07:21:27.875Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-25T12:21:38.297Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-25T12:21:38.303Z"}
+{"level":"info","message":"🚀 Processing Task: B2B Lead Generation Agencies in New York (be519f26-5580-4fad-ab3c-110601312126) for Job: e6ad00a6-d321-4e75-a420-48208ed45ba2","timestamp":"2026-02-25T12:25:04.675Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-25T12:25:06.130Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/B2B+Lead+Generation+Agencies+in+New+York?hl=en","timestamp":"2026-02-25T12:25:06.389Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-25T12:25:07.618Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 22 (attempt 1/60)","timestamp":"2026-02-25T12:25:09.978Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 31 (attempt 2/60)","timestamp":"2026-02-25T12:25:11.362Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 44 (attempt 3/60)","timestamp":"2026-02-25T12:25:12.108Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 53 (attempt 4/60)","timestamp":"2026-02-25T12:25:13.797Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 62 (attempt 5/60)","timestamp":"2026-02-25T12:25:14.253Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 64 (attempt 6/60)","timestamp":"2026-02-25T12:25:14.736Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 72 (attempt 7/60)","timestamp":"2026-02-25T12:25:16.233Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 72 (attempt 8/60)","timestamp":"2026-02-25T12:25:18.104Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 72 (attempt 9/60)","timestamp":"2026-02-25T12:25:19.486Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 72 (attempt 10/60)","timestamp":"2026-02-25T12:25:20.857Z"}
+{"level":"info","message":"🛑 Reached the explicit end of the Google Maps list.","timestamp":"2026-02-25T12:25:20.862Z"}
+{"level":"info","message":"✅ Collected 71 unique links.","timestamp":"2026-02-25T12:25:20.866Z"}
+{"level":"info","message":"📋 Found 71 leads. Extracting...","timestamp":"2026-02-25T12:25:20.867Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadflow+NYC+-+Lead+Gen+Agency+for+Nonprofits+%26+Entrepreneurs/data=!4m7!3m6!1s0x89c259a85859daef:0x40aa5b69542218f6!8m2!3d40.7370087!4d-73.9794227!16s%2Fg%2F11fsxc1yxq!19sChIJ79pZWKhZwokR9hgiVGlbqkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:25:20.873Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Generation+Company/data=!4m7!3m6!1s0x89c25901122004df:0x706077f98d7adc56!8m2!3d40.751357!4d-73.97896!16s%2Fg%2F11c58p4hgs!19sChIJ3wQgEgFZwokRVtx6jfl3YHA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:25:22.569Z"}
+{"level":"info","message":"✅ Added: Lead Generation Company","timestamp":"2026-02-25T12:25:24.261Z"}
+{"level":"info","message":"🔍 Deep crawling: http://leadgeneration.com/contact-us/...","timestamp":"2026-02-25T12:25:24.261Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Demand+Growth+Digital/data=!4m7!3m6!1s0x89c259bae0fb76ad:0x587d6edc861627d9!8m2!3d40.7461864!4d-73.9836573!16s%2Fg%2F11scrjmtqs!19sChIJrXb74LpZwokR2ScWhtxufVg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:25:32.551Z"}
+{"level":"info","message":"✅ Added: Demand Growth Digital","timestamp":"2026-02-25T12:25:33.598Z"}
+{"level":"info","message":"🔍 Deep crawling: http://demandgrowthdigital.com/...","timestamp":"2026-02-25T12:25:33.598Z"}
+{"level":"info","message":"📧 Found 1 emails for Demand Growth Digital","timestamp":"2026-02-25T12:25:53.383Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SmartKonnects+Inc.-+Lead+Generation+Agency/data=!4m7!3m6!1s0x89c259a96dbf04bd:0xf3f996872bed9e50!8m2!3d40.7369025!4d-73.9974628!16s%2Fg%2F11g8vctkr2!19sChIJvQS_balZwokRUJ7tK4eW-fM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:25:53.395Z"}
+{"level":"info","message":"✅ Added: SmartKonnects Inc.- Lead Generation Agency","timestamp":"2026-02-25T12:25:54.908Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.smartkonnects.com/?utm_source=gmb&utm_medium=organic&utm_campaign=website-tracking...","timestamp":"2026-02-25T12:25:54.910Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BusySeed/data=!4m7!3m6!1s0x89c2f716ec1978ed:0x7d1ea29a8aa1d80c!8m2!3d40.7452353!4d-73.9881912!16s%2Fg%2F11k__7f41m!19sChIJ7XgZ7Bb3wokRDNihipqiHn0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:00.871Z"}
+{"level":"info","message":"✅ Added: BusySeed","timestamp":"2026-02-25T12:26:02.295Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.busyseed.com/...","timestamp":"2026-02-25T12:26:02.296Z"}
+{"level":"info","message":"📧 Found 1 emails for BusySeed","timestamp":"2026-02-25T12:26:11.924Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SMA+NYC/data=!4m7!3m6!1s0x89c259a7ff7f6b87:0x47e1f92b1de68276!8m2!3d40.7433322!4d-73.9914316!16s%2Fg%2F11bbtnqbgf!19sChIJh2t__6dZwokRdoLmHSv54Uc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:11.939Z"}
+{"level":"info","message":"✅ Added: SMA NYC","timestamp":"2026-02-25T12:26:13.000Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.smanyc.com/...","timestamp":"2026-02-25T12:26:13.001Z"}
+{"level":"info","message":"📧 Found 1 emails for SMA NYC","timestamp":"2026-02-25T12:26:24.007Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Just+Lead+Market+%7C+Best+Digital+Marketing+Agency+-+New+York/data=!4m7!3m6!1s0x89c245518cd0e60b:0x407ec0941aae31d9!8m2!3d40.6313492!4d-73.9681635!16s%2Fg%2F11fwc3sfjc!19sChIJC-bQjFFFwokR2TGuGpTAfkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:24.017Z"}
+{"level":"info","message":"✅ Added: Just Lead Market | Best Digital Marketing Agency - New York","timestamp":"2026-02-25T12:26:25.076Z"}
+{"level":"info","message":"🔍 Deep crawling: https://justleadmarket.com/...","timestamp":"2026-02-25T12:26:25.076Z"}
+{"level":"info","message":"📧 Found 1 emails for Just Lead Market | Best Digital Marketing Agency - New York","timestamp":"2026-02-25T12:26:32.897Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Jives+Media/data=!4m7!3m6!1s0x89c259869319e7af:0x54953953a5ede7bb!8m2!3d40.7453911!4d-73.9904866!16s%2Fg%2F11jtxfx3x2!19sChIJr-cZk4ZZwokRu-ftpVM5lVQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:32.909Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadbird/data=!4m7!3m6!1s0x89c259ad9fe58ab1:0x21ae45a3b6255050!8m2!3d40.7531386!4d-73.9894616!16s%2Fg%2F11c58nqbq2!19sChIJsYrln61ZwokRUFAltqNFriE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:33.897Z"}
+{"level":"info","message":"✅ Added: Leadbird","timestamp":"2026-02-25T12:26:34.947Z"}
+{"level":"info","message":"🔍 Deep crawling: https://leadbird.com/...","timestamp":"2026-02-25T12:26:34.948Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadige+Media+Group/data=!4m7!3m6!1s0x89c25854e6aa136f:0x20cf9222f820b1e6!8m2!3d40.757068!4d-73.986446!16s%2Fg%2F12lkcfsch!19sChIJbxOq5lRYwokR5rEg-CKSzyA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:41.397Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Vab+Media+Digital+Agency,+LLC/data=!4m7!3m6!1s0x89c2598a7672325f:0xa13a4a00919176c2!8m2!3d40.7182981!4d-74.0022812!16s%2Fg%2F11bccmbbrk!19sChIJXzJydopZwokRwnaRkQBKOqE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:42.846Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/PBJ+Marketing/data=!4m7!3m6!1s0x89c25856949e912d:0xcb68430d49932661!8m2!3d40.7274061!4d-74.00605!16s%2Fg%2F1233615tk!19sChIJLZGelFZYwokRYSaTSQ1DaMs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:44.219Z"}
+{"level":"info","message":"✅ Added: PBJ Marketing","timestamp":"2026-02-25T12:26:45.494Z"}
+{"level":"info","message":"🔍 Deep crawling: https://pbjmarketing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb...","timestamp":"2026-02-25T12:26:45.494Z"}
+{"level":"info","message":"📧 Found 3 emails for PBJ Marketing","timestamp":"2026-02-25T12:26:55.604Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Marketing+Strategies+-+Digital+Marketing+Agency/data=!4m7!3m6!1s0x89e82b673b9996c9:0x40eb5a19af938f22!8m2!3d40.8473783!4d-73.2647366!16s%2Fg%2F11gjv6yv_y!19sChIJyZaZO2cr6IkRIo-Trxla60A?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:26:55.624Z"}
+{"level":"info","message":"✅ Added: Lead Marketing Strategies - Digital Marketing Agency","timestamp":"2026-02-25T12:26:56.870Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.leadmarketingstrategies.com/...","timestamp":"2026-02-25T12:26:56.871Z"}
+{"level":"info","message":"📧 Found 2 emails for Lead Marketing Strategies - Digital Marketing Agency","timestamp":"2026-02-25T12:27:04.476Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ironpaper+Marketing/data=!4m7!3m6!1s0x89c259ac0df42335:0x5f73e1a0c4dff034!8m2!3d40.7472966!4d-73.9845298!16s%2Fg%2F1tfc7jkp!19sChIJNSP0DaxZwokRNPDfxKDhc18?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:04.486Z"}
+{"level":"info","message":"✅ Added: Ironpaper Marketing","timestamp":"2026-02-25T12:27:06.082Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.ironpaper.com/...","timestamp":"2026-02-25T12:27:06.109Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/NoGood+-+Growth+Marketing+Agency/data=!4m7!3m6!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40!8m2!3d40.7220902!4d-74.000013!16s%2Fg%2F11h81gtk44!19sChIJt1JNwy5ZwokRQLvJGg3T2eA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:13.656Z"}
+{"level":"info","message":"✅ Added: NoGood - Growth Marketing Agency","timestamp":"2026-02-25T12:27:15.050Z"}
+{"level":"info","message":"🔍 Deep crawling: https://nogood.io/...","timestamp":"2026-02-25T12:27:15.071Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Star+Tech+SEO+-+Digital+Marketing+Agency+New+York/data=!4m7!3m6!1s0xaadd292c748e9771:0x5f50b98bce59c6d3!8m2!3d40.752697!4d-73.9935515!16s%2Fg%2F11wmy6p_dg!19sChIJcZeOdCwp3aoR08ZZzou5UF8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:23.279Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Web+Team+Management:+Affordable+Website+Design+and+Best+SEO+Company/data=!4m7!3m6!1s0x89c2f74e1d94eedd:0x7e16bdb5ba089438!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11ftczwms6!19sChIJ3e6UHU73wokROJQIurW9Fn4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:24.471Z"}
+{"level":"info","message":"✅ Added: Web Team Management: Affordable Website Design and Best SEO Company","timestamp":"2026-02-25T12:27:25.529Z"}
+{"level":"info","message":"🔍 Deep crawling: https://webteammanagement.com/...","timestamp":"2026-02-25T12:27:25.532Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Netrocket+HVAC+Marketing+Agency/data=!4m7!3m6!1s0x89c25b00727973dd:0xde0424d739f38573!8m2!3d40.6936215!4d-73.9908599!16s%2Fg%2F11wqyqjr0d!19sChIJ3XN5cgBbwokRc4XzOdckBN4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:33.705Z"}
+{"level":"info","message":"✅ Added: Netrocket HVAC Marketing Agency","timestamp":"2026-02-25T12:27:34.730Z"}
+{"level":"info","message":"🔍 Deep crawling: https://netrocket.pro/?utm_source=google&utm_medium=gmb&utm_campaign=ny...","timestamp":"2026-02-25T12:27:34.731Z"}
+{"level":"info","message":"📧 Found 2 emails for Netrocket HVAC Marketing Agency","timestamp":"2026-02-25T12:27:53.318Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Best+Marketing+NYC/data=!4m7!3m6!1s0x89c258fe0d1322a9:0x539e9caa7598f7f0!8m2!3d40.7552871!4d-73.977932!16s%2Fg%2F1v2gfp4w!19sChIJqSITDf5YwokR8PeYdaqcnlM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:53.330Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Branding+New+York+City/data=!4m7!3m6!1s0x89c2596289995447:0x91e3323bbc8c9bed!8m2!3d40.756935!4d-73.978799!16s%2Fg%2F11qg99ywzn!19sChIJR1SZiWJZwokR7ZuMvDsy45E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:27:54.627Z"}
+{"level":"info","message":"✅ Added: Branding New York City","timestamp":"2026-02-25T12:27:57.745Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.brandingnycity.com/...","timestamp":"2026-02-25T12:27:57.749Z"}
+{"level":"info","message":"📧 Found 1 emails for Branding New York City","timestamp":"2026-02-25T12:28:16.580Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/LMP+Tech+Solutions/data=!4m7!3m6!1s0x89c243e46a5c6c2d:0x72e6caf77a1d9768!8m2!3d40.680828!4d-73.985!16s%2Fg%2F11h14yy169!19sChIJLWxcauRDwokRaJcdevfK5nI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:28:16.591Z"}
+{"level":"info","message":"✅ Added: LMP Tech Solutions","timestamp":"2026-02-25T12:28:17.554Z"}
+{"level":"info","message":"🔍 Deep crawling: http://lmptechsolutions.com/...","timestamp":"2026-02-25T12:28:17.554Z"}
+{"level":"info","message":"📧 Found 2 emails for LMP Tech Solutions","timestamp":"2026-02-25T12:28:22.544Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pulse+Talent+Management+LLC/data=!4m7!3m6!1s0x89c25a1fd3db3ca5:0x4ec527190ee5b076!8m2!3d40.718856!4d-74.009121!16s%2Fg%2F11fz1f7m0c!19sChIJpTzb0x9awokRdrDlDhknxU4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:28:22.555Z"}
+{"level":"info","message":"✅ Added: Pulse Talent Management LLC","timestamp":"2026-02-25T12:28:23.615Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.pulse-mgmt.com/...","timestamp":"2026-02-25T12:28:23.615Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/KIP+Total+Marketing+Solutions/data=!4m7!3m6!1s0x89c25a16a2cfa99f:0x604ed5a7c9691527!8m2!3d40.7484834!4d-73.9892864!16s%2Fg%2F1ptw7glhx!19sChIJn6nPohZawokRJxVpyafVTmA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:28:24.616Z"}
+{"level":"info","message":"✅ Added: KIP Total Marketing Solutions","timestamp":"2026-02-25T12:28:25.759Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.kiptotalmarketing.com/...","timestamp":"2026-02-25T12:28:25.760Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Agency+Platform/data=!4m7!3m6!1s0x89c259a82eb22401:0xd34eddc6095cab72!8m2!3d40.7471083!4d-73.9831343!16s%2Fg%2F11b6hxfk7c!19sChIJASSyLqhZwokRcqtcCcbdTtM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:28:34.159Z"}
+{"level":"info","message":"✅ Added: Agency Platform","timestamp":"2026-02-25T12:28:35.118Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.agencyplatform.com/...","timestamp":"2026-02-25T12:28:35.119Z"}
+{"level":"info","message":"📧 Found 2 emails for Agency Platform","timestamp":"2026-02-25T12:28:55.931Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Verbsz+Marketing/data=!4m7!3m6!1s0x89c25986a80e79eb:0x453ada55acbe770d!8m2!3d40.7395!4d-73.9862571!16s%2Fg%2F11t4lvvnmb!19sChIJ63kOqIZZwokRDXe-rFXaOkU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:28:55.942Z"}
+{"level":"info","message":"✅ Added: Verbsz Marketing","timestamp":"2026-02-25T12:28:58.253Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.verbszmarketing.com/new-york-digital-marketing-agency/...","timestamp":"2026-02-25T12:28:58.276Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Storm+Brain/data=!4m7!3m6!1s0x89c259b8b37b96af:0x9b865ca5d482582e!8m2!3d40.7650295!4d-73.9817281!16s%2Fg%2F11pz8sj8sh!19sChIJr5Z7s7hZwokRLliC1KVchps?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:03.621Z"}
+{"level":"info","message":"✅ Added: Storm Brain","timestamp":"2026-02-25T12:29:05.224Z"}
+{"level":"info","message":"🔍 Deep crawling: https://stormbrain.com/...","timestamp":"2026-02-25T12:29:05.225Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Drew+SEM/data=!4m7!3m6!1s0x89c258c741910ab1:0x7b88198b45022808!8m2!3d40.7429246!4d-73.9834751!16s%2Fg%2F11f24vg3gh!19sChIJsQqRQcdYwokRCCgCRYsZiHs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:17.081Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Golden+Web+Media/data=!4m7!3m6!1s0x89c2f622e4158a23:0x76d6cb1cc172c68e!8m2!3d40.7607986!4d-73.9717622!16s%2Fg%2F11dfwydkvs!19sChIJI4oV5CL2wokRjsZywRzL1nY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:18.466Z"}
+{"level":"info","message":"✅ Added: Golden Web Media","timestamp":"2026-02-25T12:29:19.853Z"}
+{"level":"info","message":"🔍 Deep crawling: https://goldenwebmedia.com/...","timestamp":"2026-02-25T12:29:19.854Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Chatter+Buzz+-+Advertising+Agency/data=!4m7!3m6!1s0x89c259a61359c9b1:0x37fa32b5cc91b57!8m2!3d40.7447651!4d-73.9878047!16s%2Fg%2F11hcdvzwxm!19sChIJsclZE6ZZwokRVxvJXCujfwM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:26.687Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lucky+Leads/data=!4m7!3m6!1s0x880542e474748f9b:0x38a2d74d9157b4d3!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11q366kf7c!19sChIJm490dORCBYgR07RXkU3Xojg?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:28.087Z"}
+{"level":"info","message":"✅ Added: Lucky Leads","timestamp":"2026-02-25T12:29:29.551Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Leadmetrics/data=!4m7!3m6!1s0x7056c1e0d3f47b5:0x9a8be3d4a3876dc0!8m2!3d40.7471509!4d-73.9830438!16s%2Fg%2F11vws8yb7z!19sChIJtUc_DR5sBQcRwG2Ho9Tji5o?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:29.564Z"}
+{"level":"info","message":"✅ Added: Leadmetrics","timestamp":"2026-02-25T12:29:31.048Z"}
+{"level":"info","message":"🔍 Deep crawling: https://leadmetrics.ai/...","timestamp":"2026-02-25T12:29:31.052Z"}
+{"level":"info","message":"📧 Found 3 emails for Leadmetrics","timestamp":"2026-02-25T12:29:40.130Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/B2B+Marketing+Archives/data=!4m7!3m6!1s0x89c25a1405aeaaab:0xe3d56b97f1b16027!8m2!3d40.704341!4d-74.011857!16s%2Fg%2F11clln3_kx!19sChIJq6quBRRawokRJ2Cx8Zdr1eM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:40.140Z"}
+{"level":"info","message":"✅ Added: B2B Marketing Archives","timestamp":"2026-02-25T12:29:41.527Z"}
+{"level":"info","message":"🔍 Deep crawling: http://b2bmarketingarchives.com/...","timestamp":"2026-02-25T12:29:41.528Z"}
+{"level":"info","message":"📧 Found 1 emails for B2B Marketing Archives","timestamp":"2026-02-25T12:29:53.741Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Concierge+Digital+Marketing+and+SEO+Services/data=!4m7!3m6!1s0x89c25da1ea8a65ad:0x88568c5ceda0a463!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11h2mgh2f0!19sChIJrWWK6qFdwokRY6Sg7VyMVog?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:29:53.752Z"}
+{"level":"info","message":"✅ Added: Lead Concierge Digital Marketing and SEO Services","timestamp":"2026-02-25T12:29:54.826Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.leadconciergenyc.com/...","timestamp":"2026-02-25T12:29:54.827Z"}
+{"level":"info","message":"📧 Found 1 emails for Lead Concierge Digital Marketing and SEO Services","timestamp":"2026-02-25T12:30:03.551Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Goal+Based+Marketing/data=!4m7!3m6!1s0x8c80d08ba01d3e41:0x1b450abb8daf4df4!8m2!3d40.6971415!4d-73.979506!16s%2Fg%2F11v0hrgwlh!19sChIJQT4doIvQgIwR9E2vjbsKRRs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:03.562Z"}
+{"level":"info","message":"✅ Added: Goal Based Marketing","timestamp":"2026-02-25T12:30:04.661Z"}
+{"level":"info","message":"🔍 Deep crawling: https://goalbasedmarketing.com/...","timestamp":"2026-02-25T12:30:04.661Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/WebFX/data=!4m7!3m6!1s0x89c25903f44b4c39:0x8e4f694cf106d506!8m2!3d40.749306!4d-73.975913!16s%2Fg%2F11c54b3nq2!19sChIJOUxL9ANZwokRBtUG8UxpT44?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:10.671Z"}
+{"level":"info","message":"✅ Added: WebFX","timestamp":"2026-02-25T12:30:11.876Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.webfx.com/locations/new-york-city/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=new-york-city...","timestamp":"2026-02-25T12:30:11.876Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pro+Lead+Generation+Service/data=!4m7!3m6!1s0x89c26104e5bb8967:0xfe77aeb33481b1a1!8m2!3d40.7118628!4d-73.8052147!16s%2Fg%2F11h4f_tlsb!19sChIJZ4m75QRhwokRobGBNLOud_4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:24.535Z"}
+{"level":"info","message":"✅ Added: Pro Lead Generation Service","timestamp":"2026-02-25T12:30:25.800Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.proleadgenerationservice.com/...","timestamp":"2026-02-25T12:30:25.801Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Magneto+IT+Solutions+LLC+-+eCommerce+Development+Company/data=!4m7!3m6!1s0x89c259a2e8940ee1:0xaac44a0e3a1bb4ed!8m2!3d40.7480715!4d-73.98458!16s%2Fg%2F11lgtg22rv!19sChIJ4Q6U6KJZwokR7bQbOg5KxKo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:26.810Z"}
+{"level":"info","message":"✅ Added: Magneto IT Solutions LLC - eCommerce Development Company","timestamp":"2026-02-25T12:30:28.259Z"}
+{"level":"info","message":"🔍 Deep crawling: https://magnetoitsolutions.com/...","timestamp":"2026-02-25T12:30:28.260Z"}
+{"level":"info","message":"📧 Found 4 emails for Magneto IT Solutions LLC - eCommerce Development Company","timestamp":"2026-02-25T12:30:34.333Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ambrose+Marketing+-+NYC/data=!4m7!3m6!1s0x89c259735506c77b:0xddbf93527e83b168!8m2!3d40.7512499!4d-73.9731679!16s%2Fg%2F11y4lcn6bf!19sChIJe8cGVXNZwokRaLGDflKTv90?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:34.345Z"}
+{"level":"info","message":"✅ Added: Ambrose Marketing - NYC","timestamp":"2026-02-25T12:30:35.493Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.ambrosemarketing.com/...","timestamp":"2026-02-25T12:30:35.493Z"}
+{"level":"info","message":"📧 Found 1 emails for Ambrose Marketing - NYC","timestamp":"2026-02-25T12:30:46.860Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beyond+Media+Global+LLC+-+New+York+City/data=!4m7!3m6!1s0x89c259aa8bb16163:0xa9676c2816623026!8m2!3d40.7130082!4d-74.0131689!16s%2Fg%2F11c6fbkx1c!19sChIJY2Gxi6pZwokRJjBiFihsZ6k?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:46.874Z"}
+{"level":"info","message":"✅ Added: Beyond Media Global LLC - New York City","timestamp":"2026-02-25T12:30:48.187Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.bmgww.com/...","timestamp":"2026-02-25T12:30:48.189Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Pure+Digital/data=!4m7!3m6!1s0x89c258facdd20d55:0xd90b8fe3a90a0d6d!8m2!3d40.7049123!4d-74.0064032!16s%2Fg%2F11b6__t0t3!19sChIJVQ3SzfpYwokRbQ0KqeOPC9k?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:30:59.324Z"}
+{"level":"info","message":"✅ Added: Pure Digital","timestamp":"2026-02-25T12:31:00.462Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.puredigitalco.com/...","timestamp":"2026-02-25T12:31:00.466Z"}
+{"level":"info","message":"📧 Found 1 emails for Pure Digital","timestamp":"2026-02-25T12:31:11.217Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Digital+Marketing+Agency+NYC+-+Mack/data=!4m7!3m6!1s0x89c25bf8fc713c33:0x21242a23af307629!8m2!3d40.7050758!4d-74.0091604!16s%2Fg%2F11whz96swc!19sChIJMzxx_PhbwokRKXYwryMqJCE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:11.229Z"}
+{"level":"info","message":"✅ Added: Digital Marketing Agency NYC - Mack","timestamp":"2026-02-25T12:31:12.777Z"}
+{"level":"info","message":"🔍 Deep crawling: https://mackmediagroup.com/newyork-digitalmarketingagency?utm_campaign=GMB&utm_medium=digital_marketing_nyc...","timestamp":"2026-02-25T12:31:12.785Z"}
+{"level":"info","message":"📧 Found 1 emails for Digital Marketing Agency NYC - Mack","timestamp":"2026-02-25T12:31:23.045Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Required+Marketing+Group+Inc./data=!4m7!3m6!1s0x89c259a9b53eaaab:0x396a24fba077d081!8m2!3d40.7452688!4d-73.9883569!16s%2Fg%2F11f63xqhc4!19sChIJq6o-talZwokRgdB3oPskajk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:23.061Z"}
+{"level":"info","message":"✅ Added: Required Marketing Group Inc.","timestamp":"2026-02-25T12:31:24.208Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.requiredmarketing.com/...","timestamp":"2026-02-25T12:31:24.216Z"}
+{"level":"info","message":"📧 Found 3 emails for Required Marketing Group Inc.","timestamp":"2026-02-25T12:31:39.017Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AdVenture+Media+Group/data=!4m7!3m6!1s0x89c265c02837d0bd:0x79cafd562781151!8m2!3d40.632502!4d-73.706833!16s%2Fg%2F11b6jh0t3s!19sChIJvdA3KMBlwokRURF4YtWvnAc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:39.028Z"}
+{"level":"info","message":"✅ Added: AdVenture Media Group","timestamp":"2026-02-25T12:31:40.472Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.adventureppc.com/...","timestamp":"2026-02-25T12:31:40.473Z"}
+{"level":"info","message":"📧 Found 1 emails for AdVenture Media Group","timestamp":"2026-02-25T12:31:46.686Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Predictive+Intent+Marketing/data=!4m7!3m6!1s0x89c259a1aeaa52f9:0xb7b1d6866013f2b2!8m2!3d40.7206058!4d-74.0014893!16s%2Fg%2F11fk1g9953!19sChIJ-VKqrqFZwokRsvITYIbWsbc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:46.701Z"}
+{"level":"info","message":"✅ Added: Predictive Intent Marketing","timestamp":"2026-02-25T12:31:47.937Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Beeby+Clark+%2B+Meyler/data=!4m7!3m6!1s0x89c25bf7e08bf981:0x93c5007232397eba!8m2!3d40.7078538!4d-74.0089805!16s%2Fg%2F11hzmmv3yc!19sChIJgfmL4PdbwokRun45MnIAxZM?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:47.956Z"}
+{"level":"info","message":"✅ Added: Beeby Clark + Meyler","timestamp":"2026-02-25T12:31:49.129Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.beebyclarkmeyler.com/...","timestamp":"2026-02-25T12:31:49.129Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Primary+Position+SEO/data=!4m7!3m6!1s0x89c259884cdce9a1:0xf9c678bdec7a6714!8m2!3d40.7446298!4d-73.987667!16s%2Fg%2F11kqvxz0cb!19sChIJoencTIhZwokRFGd67L14xvk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:31:56.554Z"}
+{"level":"info","message":"✅ Added: Primary Position SEO","timestamp":"2026-02-25T12:31:58.733Z"}
+{"level":"info","message":"🔍 Deep crawling: https://primaryposition.com/...","timestamp":"2026-02-25T12:31:58.734Z"}
+{"level":"info","message":"📧 Found 1 emails for Primary Position SEO","timestamp":"2026-02-25T12:32:07.629Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Outgrow/data=!4m7!3m6!1s0x89c258fb457daa6d:0x862bb67ec9265361!8m2!3d40.7592169!4d-73.9719939!16s%2Fg%2F11gbxdhcm6!19sChIJbap9RftYwokRYVMmyX62K4Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:32:07.636Z"}
+{"level":"info","message":"✅ Added: Outgrow","timestamp":"2026-02-25T12:32:08.989Z"}
+{"level":"info","message":"🔍 Deep crawling: https://outgrow.co/...","timestamp":"2026-02-25T12:32:08.992Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/White+Label+AI+Agency+-+Rocket+Driver/data=!4m7!3m6!1s0x89c25903681cf2e7:0xfdc16849b6277e10!8m2!3d40.7556476!4d-73.9713866!16s%2Fg%2F11fjs9vd2b!19sChIJ5_IcaANZwokREH4ntklowf0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:32:18.371Z"}
+{"level":"info","message":"✅ Added: White Label AI Agency - Rocket Driver","timestamp":"2026-02-25T12:32:20.009Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.rocketdriver.com/...","timestamp":"2026-02-25T12:32:20.010Z"}
+{"level":"info","message":"📧 Found 1 emails for White Label AI Agency - Rocket Driver","timestamp":"2026-02-25T12:32:32.970Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Enablement+Data/data=!4m7!3m6!1s0x89c2598a31012205:0x57ac077d99403a26!8m2!3d40.72022!4d-74.001564!16s%2Fg%2F11f__6z5lp!19sChIJBSIBMYpZwokRJjpAmX0HrFc?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:32:33.057Z"}
+{"level":"info","message":"✅ Added: Enablement Data","timestamp":"2026-02-25T12:32:34.607Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.enablementdata.com/...","timestamp":"2026-02-25T12:32:34.618Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Webbefy+Inc/data=!4m7!3m6!1s0x2d92abf26f80bf65:0x2461de565e297612!8m2!3d40.7813047!4d-73.9771184!16s%2Fg%2F11lypwf7_m!19sChIJZb-Ab_Krki0REnYpXlbeYSQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:32:41.726Z"}
+{"level":"info","message":"✅ Added: Webbefy Inc","timestamp":"2026-02-25T12:32:42.968Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.webbefy.com/...","timestamp":"2026-02-25T12:32:42.970Z"}
+{"level":"info","message":"📧 Found 1 emails for Webbefy Inc","timestamp":"2026-02-25T12:32:56.927Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/The+Short+Media+-+TikTok+Marketing+Agency+in+USA/data=!4m7!3m6!1s0x89c259f2cfe29747:0x6413b00efc1e6792!8m2!3d40.7483335!4d-73.9809404!16s%2Fg%2F11svj13ndg!19sChIJR5fiz_JZwokRkmce_A6wE2Q?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:32:56.944Z"}
+{"level":"info","message":"✅ Added: The Short Media - TikTok Marketing Agency in USA","timestamp":"2026-02-25T12:32:58.316Z"}
+{"level":"info","message":"🔍 Deep crawling: https://theshortmedia.com/...","timestamp":"2026-02-25T12:32:58.317Z"}
+{"level":"info","message":"📧 Found 1 emails for The Short Media - TikTok Marketing Agency in USA","timestamp":"2026-02-25T12:33:06.169Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Allied+Insight/data=!4m7!3m6!1s0x89c2f35c533c08d7:0x4eb12a233bc8b6c8!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11py73wg_9!19sChIJ1wg8U1zzwokRyLbIOyMqsU4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:33:06.180Z"}
+{"level":"info","message":"✅ Added: Allied Insight","timestamp":"2026-02-25T12:33:07.375Z"}
+{"level":"info","message":"🔍 Deep crawling: https://alliedinsight.com/...","timestamp":"2026-02-25T12:33:07.376Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SEO+New+York/data=!4m7!3m6!1s0x89c259a66b38ad3b:0x3a9610183a4601ee!8m2!3d40.7050875!4d-74.0123552!16s%2Fg%2F1hjgzbxs_!19sChIJO604a6ZZwokR7gFGOhgQljo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:33:18.492Z"}
+{"level":"info","message":"✅ Added: SEO New York","timestamp":"2026-02-25T12:33:19.791Z"}
+{"level":"info","message":"🔍 Deep crawling: https://splinternetmarketing.com/local-pros/nebraska/grand-island-1/lobo-market/...","timestamp":"2026-02-25T12:33:19.797Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/BlckPanda+Creative+-+SEO+Services+For+You/data=!4m7!3m6!1s0x826f1a3720c6eedf:0xdf19b07140d5d69f!8m2!3d40.7189145!4d-74.0025252!16s%2Fg%2F11ltklyt87!19sChIJ3-7GIDcab4IRn9bVQHGwGd8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:33:44.685Z"}
+{"level":"info","message":"✅ Added: BlckPanda Creative - SEO Services For You","timestamp":"2026-02-25T12:33:45.929Z"}
+{"level":"info","message":"🔍 Deep crawling: https://blckpanda-new-york-seo.lovable.app/...","timestamp":"2026-02-25T12:33:45.929Z"}
+{"level":"info","message":"📧 Found 4 emails for BlckPanda Creative - SEO Services For You","timestamp":"2026-02-25T12:33:53.677Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lead+Generators+International/data=!4m7!3m6!1s0x89c25a171850883b:0x7f07a6c6c85125f7!8m2!3d40.707635!4d-74.010775!16s%2Fg%2F11cky3xpnc!19sChIJO4hQGBdawokR9yVRyMamB38?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:33:53.685Z"}
+{"level":"info","message":"✅ Added: Lead Generators International","timestamp":"2026-02-25T12:33:54.692Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.clientfinders.com/...","timestamp":"2026-02-25T12:33:54.693Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/B2-Globe/data=!4m7!3m6!1s0x89c3adc8a8ccbae7:0x1abf5acab1cdc7c8!8m2!3d40.7009366!4d-74.2353848!16s%2Fg%2F11rcs0t20c!19sChIJ57rMqMitw4kRyMfNscpavxo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:01.430Z"}
+{"level":"info","message":"✅ Added: B2-Globe","timestamp":"2026-02-25T12:34:02.682Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Programmatic+B2B/data=!4m7!3m6!1s0x89c2abf9b96193d9:0xe11bb67c1024fe8a!8m2!3d14.1576412!4d-106.6918595!16s%2Fg%2F11mq7vwnx9!19sChIJ2ZNhufmrwokRiv4kEHy2G-E?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:02.689Z"}
+{"level":"info","message":"✅ Added: Programmatic B2B","timestamp":"2026-02-25T12:34:03.940Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.programmaticb2b.com/...","timestamp":"2026-02-25T12:34:03.942Z"}
+{"level":"info","message":"📧 Found 2 emails for Programmatic B2B","timestamp":"2026-02-25T12:34:22.069Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SalesHive/data=!4m7!3m6!1s0x89c25998da47533d:0xcfb6a5040443162!8m2!3d40.7206058!4d-74.0014893!16s%2Fg%2F11j7ym35wq!19sChIJPVNH2phZwokRYjFEQFBq-ww?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:22.083Z"}
+{"level":"info","message":"✅ Added: SalesHive","timestamp":"2026-02-25T12:34:23.152Z"}
+{"level":"info","message":"🔍 Deep crawling: https://saleshive.com/...","timestamp":"2026-02-25T12:34:23.156Z"}
+{"level":"info","message":"📧 Found 2 emails for SalesHive","timestamp":"2026-02-25T12:34:30.171Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Lasting+Trend/data=!4m7!3m6!1s0x89c245a5d2378cb7:0x9cc60afb791a8ca!8m2!3d40.7543553!4d-73.9904178!16s%2Fg%2F11h3bm0v1n!19sChIJt4w30qVFwokRyqiRt69gzAk?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:30.184Z"}
+{"level":"info","message":"✅ Added: Lasting Trend","timestamp":"2026-02-25T12:34:31.522Z"}
+{"level":"info","message":"🔍 Deep crawling: https://lastingtrend.com/...","timestamp":"2026-02-25T12:34:31.528Z"}
+{"level":"info","message":"📧 Found 1 emails for Lasting Trend","timestamp":"2026-02-25T12:34:39.581Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Site+Ascend/data=!4m7!3m6!1s0x89e4456488a193ff:0xca0ad7f992e0d6a9!8m2!3d40.7510672!4d-73.9977221!16s%2Fg%2F11hzch_vzv!19sChIJ_5OhiGRF5IkRqdbgkvnXCso?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:39.592Z"}
+{"level":"info","message":"✅ Added: Site Ascend","timestamp":"2026-02-25T12:34:40.737Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.siteascend.com/...","timestamp":"2026-02-25T12:34:40.743Z"}
+{"level":"info","message":"📧 Found 1 emails for Site Ascend","timestamp":"2026-02-25T12:34:49.319Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Alta+Lead+Generation/data=!4m7!3m6!1s0x4d47caba62572cfd:0xe4dddc32bb539263!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11vly38b11!19sChIJ_SxXYrrKR00RY5JTuzLc3eQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:49.331Z"}
+{"level":"info","message":"✅ Added: Alta Lead Generation","timestamp":"2026-02-25T12:34:50.494Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.altaleads.net/...","timestamp":"2026-02-25T12:34:50.495Z"}
+{"level":"info","message":"📧 Found 2 emails for Alta Lead Generation","timestamp":"2026-02-25T12:34:56.820Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/HEEDGROUP/data=!4m7!3m6!1s0x89c2597dca227437:0xb6ddcc414bd01aa3!8m2!3d40.7531386!4d-73.9894616!16s%2Fg%2F11j__p94rx!19sChIJN3Qiyn1ZwokRoxrQS0HM3bY?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:34:56.829Z"}
+{"level":"info","message":"✅ Added: HEEDGROUP","timestamp":"2026-02-25T12:34:57.874Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.heedgrp.com/...","timestamp":"2026-02-25T12:34:57.874Z"}
+{"level":"info","message":"📧 Found 1 emails for HEEDGROUP","timestamp":"2026-02-25T12:35:06.662Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/S2W+Media/data=!4m7!3m6!1s0x89c259d1da7ad80d:0x7ee38e86b2fc00e8!8m2!3d40.7629637!4d-73.9790126!16s%2Fg%2F11r9v_wl84!19sChIJDdh62tFZwokR6AD8soaO434?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:06.673Z"}
+{"level":"info","message":"✅ Added: S2W Media","timestamp":"2026-02-25T12:35:07.765Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.s2wmedia.com/...","timestamp":"2026-02-25T12:35:07.766Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Clicktoleads/data=!4m7!3m6!1s0x89c25a176b7065a7:0xc88a311f3a807f3!8m2!3d40.7084773!4d-74.0105984!16s%2Fg%2F11vk8jfthq!19sChIJp2VwaxdawokR8weo8xGjiAw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:17.313Z"}
+{"level":"info","message":"✅ Added: Clicktoleads","timestamp":"2026-02-25T12:35:18.354Z"}
+{"level":"info","message":"🔍 Deep crawling: http://clicktoleads.net/...","timestamp":"2026-02-25T12:35:18.354Z"}
+{"level":"info","message":"📧 Found 1 emails for Clicktoleads","timestamp":"2026-02-25T12:35:30.294Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/SalesCaptain/data=!4m7!3m6!1s0x89c2591b23e91f77:0x34df8c5d10127854!8m2!3d40.7206058!4d-74.0014893!16s%2Fg%2F11jz5rmwkn!19sChIJdx_pIxtZwokRVHgSEF2M3zQ?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:30.304Z"}
+{"level":"info","message":"✅ Added: SalesCaptain","timestamp":"2026-02-25T12:35:31.421Z"}
+{"level":"info","message":"🔍 Deep crawling: https://salescaptain.com/...","timestamp":"2026-02-25T12:35:31.422Z"}
+{"level":"info","message":"📧 Found 2 emails for SalesCaptain","timestamp":"2026-02-25T12:35:40.328Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Sure+Oak/data=!4m7!3m6!1s0x89c259a0d0c06145:0x9f29279f032d5636!8m2!3d40.7003477!4d-73.9874324!16s%2Fg%2F11f2snqxy5!19sChIJRWHA0KBZwokRNlYtA58nKZ8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:40.347Z"}
+{"level":"info","message":"✅ Added: Sure Oak","timestamp":"2026-02-25T12:35:41.558Z"}
+{"level":"info","message":"🔍 Deep crawling: https://sureoak.com/...","timestamp":"2026-02-25T12:35:41.559Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Techella+Web+Design+and+Branding/data=!4m7!3m6!1s0x6a2270d5d1465b6b:0xbfe1e24bcfcd4acc!8m2!3d21.0336525!4d170.5951426!16s%2Fg%2F11wx1_th7j!19sChIJa1tG0dVwImoRzErNz0vi4b8?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:47.263Z"}
+{"level":"info","message":"✅ Added: Techella Web Design and Branding","timestamp":"2026-02-25T12:35:48.364Z"}
+{"level":"info","message":"🔍 Deep crawling: https://techella.io/...","timestamp":"2026-02-25T12:35:48.365Z"}
+{"level":"info","message":"📧 Found 1 emails for Techella Web Design and Branding","timestamp":"2026-02-25T12:35:56.741Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Montazzo+LLC/data=!4m7!3m6!1s0x89c2588acdcc36a5:0x31f7ad59e0ae542f!8m2!3d40.7748237!4d-73.9809643!16s%2Fg%2F11k9f675dm!19sChIJpTbMzYpYwokRL1Su4Fmt9zE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:35:56.751Z"}
+{"level":"info","message":"✅ Added: Montazzo LLC","timestamp":"2026-02-25T12:35:57.987Z"}
+{"level":"info","message":"🔍 Deep crawling: https://montazzo.com/...","timestamp":"2026-02-25T12:35:57.988Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Internet+Marketing+Firm+Net+SEO/data=!4m7!3m6!1s0x89c25b3a06d24475:0xad5498588bf1c2f5!8m2!3d40.7060359!4d-74.0063866!16s%2Fg%2F11vszkyqlh!19sChIJdUTSBjpbwokR9cLxi1iYVK0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:36:05.591Z"}
+{"level":"info","message":"✅ Added: Internet Marketing Firm Net SEO","timestamp":"2026-02-25T12:36:06.676Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.internetmarketingfirm.net/new-york-internet-marketing/...","timestamp":"2026-02-25T12:36:06.678Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/DivBit+Media/data=!4m7!3m6!1s0x89c259576d119917:0x1d84c03133483eeb!8m2!3d40.7446298!4d-73.987667!16s%2Fg%2F11y3nc6bbc!19sChIJF5kRbVdZwokR6z5IMzHAhB0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:36:16.445Z"}
+{"level":"info","message":"✅ Added: DivBit Media","timestamp":"2026-02-25T12:36:17.729Z"}
+{"level":"info","message":"🔍 Deep crawling: https://divbit.com/...","timestamp":"2026-02-25T12:36:17.730Z"}
+{"level":"info","message":"📧 Found 2 emails for DivBit Media","timestamp":"2026-02-25T12:36:32.865Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/marHIVE+-+Marketing+Agency/data=!4m7!3m6!1s0x89c25bf91f2f7a1d:0x2ec5c64901b17cfe!8m2!3d40.7106472!4d-74.0081795!16s%2Fg%2F11lgqm9jys!19sChIJHXovH_lbwokR_nyxAUnGxS4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-25T12:36:32.873Z"}
+{"level":"info","message":"✅ Added: marHIVE - Marketing Agency","timestamp":"2026-02-25T12:36:34.032Z"}
+{"level":"info","message":"🏁 Job e6ad00a6-d321-4e75-a420-48208ed45ba2 Fully Completed. Total Leads: 63","timestamp":"2026-02-25T12:36:34.064Z"}
+{"level":"info","message":"🏁 Task be519f26-5580-4fad-ab3c-110601312126 Completed. Added: 63, Skipped: 8","timestamp":"2026-02-25T12:36:34.064Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-27T06:48:48.069Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-27T06:48:48.074Z"}
