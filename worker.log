@@ -1118,3 +1118,678 @@
 {"level":"info","message":"👷 Processing: Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede (ID: d8b9aea4-d303-4e38-bd94-3248cd0a3534) - URL: https://www.praxisklinik-alteschmiede.de/","timestamp":"2026-02-24T07:02:10.153Z"}
 {"level":"info","message":"✅ Found 2 emails for Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede: praxis-schneider@pkas.de, praxis-drechsler@pkas.de","timestamp":"2026-02-24T07:02:20.064Z"}
 {"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-24T07:02:20.100Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-bda20a30","timestamp":"2026-02-24T08:57:03.495Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-24T08:57:03.715Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-24T08:57:08.442Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-820ae4c4","timestamp":"2026-02-24T09:02:15.693Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-24T09:02:15.795Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-24T09:02:17.264Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-9acda653","timestamp":"2026-02-24T09:37:34.692Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-24T09:37:35.136Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-24T09:37:40.712Z"}
+{"level":"info","message":"👷 Processing: Direct Design Media (ID: e742323d-a291-420a-8cfc-bca3ee9b7b1c) - URL: http://www.directdesignmedia.com/","timestamp":"2026-02-24T09:38:46.059Z"}
+{"level":"info","message":"✅ Found 1 emails for Direct Design Media: info@directdesignmedia.com","timestamp":"2026-02-24T09:38:55.059Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-24T09:38:55.133Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Manhattan (ID: 7aa0dbab-4bca-4dfb-8d66-ff8f249c1647) - URL: https://digitalmarketingmanhattan.nyc/","timestamp":"2026-02-24T09:38:55.145Z"}
+{"level":"info","message":"✅ Found 2 emails for Digital Marketing Manhattan: info@digitalmarketingmanhattan.nyc, support@digitalmarketingmanhattan.nyc","timestamp":"2026-02-24T09:39:18.349Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-24T09:39:18.380Z"}
+{"level":"info","message":"👷 Processing: Leadflow NYC - Lead Gen Agency for Nonprofits & Entrepreneurs (ID: 41479910-f169-4143-8b58-3e2132e20570) - URL: http://www.leadflow.nyc/","timestamp":"2026-02-24T09:39:18.400Z"}
+{"level":"info","message":"🤷 No emails found for Leadflow NYC - Lead Gen Agency for Nonprofits & Entrepreneurs","timestamp":"2026-02-24T09:44:08.768Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-24T09:44:08.844Z"}
+{"level":"info","message":"👷 Processing: Ingenious Guru NYC (ID: 1cc6658f-958f-4793-891a-dd498ba8c59c) - URL: https://ingeniousguru.com/","timestamp":"2026-02-24T09:44:13.876Z"}
+{"level":"info","message":"✅ Found 1 emails for Ingenious Guru NYC: info@ingeniousguru.com","timestamp":"2026-02-24T09:44:29.825Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-24T09:44:29.863Z"}
+{"level":"info","message":"👷 Processing: Hunter Medias Inc (ID: e2d2663c-5daf-4671-a20c-e5507416a557) - URL: https://huntermedias.com/","timestamp":"2026-02-24T09:44:34.881Z"}
+{"level":"info","message":"✅ Found 2 emails for Hunter Medias Inc: addresscontact@huntermedias.com, 990-6460contact@huntermedias.comprivacy","timestamp":"2026-02-24T09:44:42.931Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-24T09:44:42.955Z"}
+{"level":"info","message":"👷 Processing: Omni Digital Agency (ID: ca12ca88-19d1-473b-80eb-e0c0f10a00b5) - URL: https://splinternetmarketing.com/local-pros/idaho-1/idaho-falls-1/onsite-tech-2/","timestamp":"2026-02-24T09:44:42.965Z"}
+{"level":"info","message":"✅ Found 2 emails for Omni Digital Agency: splinternetmarketing@gmail.com, support@examplepcrepair.com","timestamp":"2026-02-24T09:45:08.479Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-24T09:45:08.508Z"}
+{"level":"info","message":"👷 Processing: Best Marketing NYC (ID: dfd392d9-60e5-438e-9b27-ad0b806f3071) - URL: https://www.bestmarketingnyc.com/","timestamp":"2026-02-24T09:45:08.516Z"}
+{"level":"info","message":"🤷 No emails found for Best Marketing NYC","timestamp":"2026-02-24T09:45:19.756Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-24T09:45:19.769Z"}
+{"level":"info","message":"👷 Processing: SEO Image - SEO Company NYC Reputation Management (ID: 815c0255-5c70-4bad-9d17-9fb375d04433) - URL: https://seoimage.com/","timestamp":"2026-02-24T09:45:19.775Z"}
+{"level":"info","message":"🤷 No emails found for SEO Image - SEO Company NYC Reputation Management","timestamp":"2026-02-24T09:45:31.088Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-24T09:45:31.103Z"}
+{"level":"info","message":"👷 Processing: 230 Fifth Rooftop Bar (ID: 9c4159ee-2b5f-41de-b83e-b21c20ddd970) - URL: http://www.230-fifth.com/","timestamp":"2026-02-24T09:55:17.561Z"}
+{"level":"info","message":"🤷 No emails found for 230 Fifth Rooftop Bar","timestamp":"2026-02-24T09:55:23.685Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-24T09:55:23.707Z"}
+{"level":"info","message":"👷 Processing: Lion's Head Tavern (ID: f729526f-62ce-4e52-b895-9640cd076662) - URL: http://www.lionsheadnyc.com/","timestamp":"2026-02-24T09:55:23.712Z"}
+{"level":"info","message":"✅ Found 2 emails for Lion's Head Tavern: lionsheadtavern109@gmail.com, usa212-866-1030lionsheadtavern109@gmail.com","timestamp":"2026-02-24T09:55:31.624Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-24T09:55:31.655Z"}
+{"level":"info","message":"👷 Processing: Amity Hall Uptown (ID: f17aa189-3d73-4ab9-a5cd-5326f57d8d5f) - URL: https://amityhalluptown.com/","timestamp":"2026-02-24T09:55:31.693Z"}
+{"level":"info","message":"✅ Found 3 emails for Amity Hall Uptown: info@amityhalluptown.com, -930-2501info@amityhalluptown.com, info@amityhalluptown.comcheck","timestamp":"2026-02-24T09:55:41.810Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-24T09:55:41.869Z"}
+{"level":"info","message":"👷 Processing: Arts and Crafts Beer Parlor (ID: c25564ad-19fc-4605-8a97-2a7da69142cc) - URL: http://www.artsandcraftsbarnyc.com/","timestamp":"2026-02-24T09:55:41.877Z"}
+{"level":"info","message":"🤷 No emails found for Arts and Crafts Beer Parlor","timestamp":"2026-02-24T09:55:50.426Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-24T09:55:50.449Z"}
+{"level":"info","message":"👷 Processing: Amsterdam Ale House (ID: f3989777-739c-414b-a820-745bbb0cdc85) - URL: http://www.amsterdamalehouse.nyc/","timestamp":"2026-02-24T09:55:50.455Z"}
+{"level":"info","message":"✅ Found 1 emails for Amsterdam Ale House: amsterdamalehouse@gmail.com","timestamp":"2026-02-24T09:56:00.516Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-24T09:56:00.543Z"}
+{"level":"info","message":"👷 Processing: Dive 106 (ID: 63ba4c8d-fdd2-4505-af9f-87d175cf0551) - URL: http://www.divebarnyc.com/","timestamp":"2026-02-24T09:56:00.555Z"}
+{"level":"info","message":"🤷 No emails found for Dive 106","timestamp":"2026-02-24T09:56:14.614Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-24T09:56:14.629Z"}
+{"level":"info","message":"👷 Processing: The Grand Feast (ID: 5dd27655-5a0c-4b84-be43-113478fc125e) - URL: http://grandfeastnyc.com/","timestamp":"2026-02-24T09:56:14.635Z"}
+{"level":"info","message":"✅ Found 1 emails for The Grand Feast: thegrandfeast74@gmail.com","timestamp":"2026-02-24T09:56:24.279Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-24T09:56:24.303Z"}
+{"level":"info","message":"👷 Processing: ELIS WINE BAR & RESTAURANT (ID: 9122f5ae-3553-4fe7-aa08-3c2f28283e1c) - URL: http://www.eliswinebar.com/","timestamp":"2026-02-24T09:56:24.309Z"}
+{"level":"info","message":"🤷 No emails found for ELIS WINE BAR & RESTAURANT","timestamp":"2026-02-24T09:56:33.670Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-24T09:56:33.683Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-0237ee9d","timestamp":"2026-02-25T06:19:31.326Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T06:19:31.379Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T06:19:37.239Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-f1735e6d","timestamp":"2026-02-25T06:20:05.275Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T06:20:05.480Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T06:20:06.350Z"}
+{"level":"info","message":"👷 Processing: BeRejuved Medical Spa & Wellness Studio - NYC (ID: c88bb82c-c07c-4d01-accb-8e5057fa6c67) - URL: https://berejuvednyc.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps","timestamp":"2026-02-25T06:20:06.421Z"}
+{"level":"info","message":"✅ Found 1 emails for BeRejuved Medical Spa & Wellness Studio - NYC: berejuved@gmail.com","timestamp":"2026-02-25T06:20:17.141Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T06:20:17.181Z"}
+{"level":"info","message":"👷 Processing: Manhattan Medspa (ID: 0f0d7ac2-0dec-4ec3-b01e-82d4058ad78e) - URL: https://www.manhattan-medspa.com/","timestamp":"2026-02-25T06:20:17.190Z"}
+{"level":"info","message":"🤷 No emails found for Manhattan Medspa","timestamp":"2026-02-25T06:20:23.668Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T06:20:23.689Z"}
+{"level":"info","message":"👷 Processing: IN•GLO Face and Body Sculpting Med Spa (ID: 9a84d7cb-499f-4250-9da4-c33518d6fc9b) - URL: https://inglomedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T06:20:38.719Z"}
+{"level":"info","message":"✅ Found 1 emails for IN•GLO Face and Body Sculpting Med Spa: info@inglomedspa.com","timestamp":"2026-02-25T06:20:52.297Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T06:20:52.323Z"}
+{"level":"info","message":"👷 Processing: Tribeca Medspa (ID: e4acb3a4-070e-40fa-a296-54cbcc8f0237) - URL: https://www.tribecamedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=Tribeca-Medspa&utm_content=website","timestamp":"2026-02-25T06:20:52.329Z"}
+{"level":"info","message":"🤷 No emails found for Tribeca Medspa","timestamp":"2026-02-25T06:21:02.452Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T06:21:02.468Z"}
+{"level":"info","message":"👷 Processing: DermaStar Skin & Laser (ID: 4e2f8e78-c45b-4fb1-8bca-707759e3f71f) - URL: https://dermastarspa.com/","timestamp":"2026-02-25T06:21:02.473Z"}
+{"level":"info","message":"🤷 No emails found for DermaStar Skin & Laser","timestamp":"2026-02-25T06:21:10.616Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T06:21:10.630Z"}
+{"level":"info","message":"👷 Processing: TREAT Medspa (ID: 2c4c9e61-1a28-4bf9-b8d7-181b9c0dab55) - URL: https://treatmedspa.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb","timestamp":"2026-02-25T06:21:10.638Z"}
+{"level":"info","message":"✅ Found 1 emails for TREAT Medspa: hello@treatmedspa.com","timestamp":"2026-02-25T06:21:26.760Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T06:21:26.786Z"}
+{"level":"info","message":"👷 Processing: SKINNEY Medspa (ID: d36d9cd0-8231-4aa5-877e-fcde09767d78) - URL: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-flagship-nyc","timestamp":"2026-02-25T06:21:26.793Z"}
+{"level":"info","message":"👷 Processing: MCNYC - The Medical Clinic Spa New York (ID: 71fa1467-cd87-4fcd-8a54-bb403cadaa20) - URL: http://www.mcnyc.net/","timestamp":"2026-02-25T06:21:37.758Z"}
+{"level":"info","message":"🤷 No emails found for SKINNEY Medspa","timestamp":"2026-02-25T06:21:38.052Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T06:21:38.080Z"}
+{"level":"info","message":"👷 Processing: JY Medspa (ID: c1e33c02-cfd1-46d7-aa20-6b51c816405f) - URL: http://jymedspa.com/","timestamp":"2026-02-25T06:21:48.127Z"}
+{"level":"info","message":"🤷 No emails found for MCNYC - The Medical Clinic Spa New York","timestamp":"2026-02-25T06:21:48.132Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T06:21:48.193Z"}
+{"level":"info","message":"👷 Processing: UPKEEP Med Spa (ID: 810bbe7c-cfe4-4436-b1d8-8919a31b8a71) - URL: https://www.upkeepmedspa.com/","timestamp":"2026-02-25T06:21:53.216Z"}
+{"level":"info","message":"🤷 No emails found for JY Medspa","timestamp":"2026-02-25T06:21:56.915Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T06:21:56.932Z"}
+{"level":"info","message":"👷 Processing: Lov MedSpa (ID: 133ed63c-65db-4dde-9aed-48676c1a91bc) - URL: http://www.lovmedspa.com/","timestamp":"2026-02-25T06:22:01.953Z"}
+{"level":"info","message":"✅ Found 2 emails for UPKEEP Med Spa: info@upkeepmedspa.com, york8338753377info@upkeepmedspa.com","timestamp":"2026-02-25T06:22:04.118Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T06:22:04.149Z"}
+{"level":"info","message":"👷 Processing: Perfect Med Spa (ID: 9417a8cc-92fa-4480-b53c-9e342fb8c0dd) - URL: https://www.perfectmedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=Perfect-Med-Spa&utm_content=website","timestamp":"2026-02-25T06:22:14.193Z"}
+{"level":"info","message":"🤷 No emails found for Lov MedSpa","timestamp":"2026-02-25T06:22:15.447Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T06:22:15.474Z"}
+{"level":"info","message":"👷 Processing: Luxury MedSpa (ID: fdccd086-1951-418b-b104-1188fbb73043) - URL: http://www.luxuryspany.com/","timestamp":"2026-02-25T06:22:20.495Z"}
+{"level":"info","message":"✅ Found 1 emails for Perfect Med Spa: info@perfectmedspa.com","timestamp":"2026-02-25T06:22:25.526Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T06:22:25.564Z"}
+{"level":"info","message":"✅ Found 1 emails for Luxury MedSpa: info@luxuryspany.com","timestamp":"2026-02-25T06:22:35.381Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T06:22:35.404Z"}
+{"level":"info","message":"👷 Processing: Revival Med Spa (ID: b1c09f6e-8659-47e1-9c98-7b2ef11f7b90) - URL: https://revivalmedicalspa.com/","timestamp":"2026-02-25T06:22:35.411Z"}
+{"level":"info","message":"🤷 No emails found for Revival Med Spa","timestamp":"2026-02-25T06:22:43.422Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-25T06:22:43.440Z"}
+{"level":"info","message":"👷 Processing: CasaGlow MedSpa (ID: 8b89a183-505d-4eba-9775-5232bb98caa2) - URL: https://www.casaglow.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=CasaGlow-MedSpa&utm_content=website","timestamp":"2026-02-25T06:22:43.448Z"}
+{"level":"info","message":"✅ Found 1 emails for CasaGlow MedSpa: info@casaglow.com","timestamp":"2026-02-25T06:22:54.354Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-25T06:22:54.376Z"}
+{"level":"info","message":"👷 Processing: Trifecta Med Spa Downtown (ID: 646e994c-0b30-4d65-85be-2420621b9f69) - URL: https://trifectamedspanyc.com/location/downtown/","timestamp":"2026-02-25T06:22:54.381Z"}
+{"level":"info","message":"🤷 No emails found for Trifecta Med Spa Downtown","timestamp":"2026-02-25T06:23:05.674Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-25T06:23:05.691Z"}
+{"level":"info","message":"👷 Processing: Serica Skincare & Medspa (ID: 609eb964-ad88-4e28-ac82-e9db2fac07f8) - URL: https://www.sericamedspa.com/","timestamp":"2026-02-25T06:23:05.697Z"}
+{"level":"info","message":"✅ Found 1 emails for Serica Skincare & Medspa: rmbeauty9998@gmail.com","timestamp":"2026-02-25T06:23:13.062Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-25T06:23:13.089Z"}
+{"level":"info","message":"👷 Processing: Timeless MedSpa NYC (ID: 6b1774fc-6b9b-4501-9d94-4a58e2ad5170) - URL: https://timelessbyvantage.com/","timestamp":"2026-02-25T06:23:15.730Z"}
+{"level":"info","message":"🤷 No emails found for Timeless MedSpa NYC","timestamp":"2026-02-25T06:23:27.126Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T06:23:27.145Z"}
+{"level":"info","message":"👷 Processing: M Beauty Studio & Spa (ID: a582574c-99d0-4955-9ec0-b6038d369084) - URL: https://mbeauty.studio/","timestamp":"2026-02-25T06:23:27.151Z"}
+{"level":"info","message":"🤷 No emails found for M Beauty Studio & Spa","timestamp":"2026-02-25T06:23:34.623Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T06:23:34.641Z"}
+{"level":"info","message":"👷 Processing: Modify MedSpa - Suite 504 (ID: 80f02c7b-bf4d-493f-b082-d72524a34be8) - URL: https://modifymedspa.com/","timestamp":"2026-02-25T06:23:38.135Z"}
+{"level":"info","message":"👷 Processing: Bodysiac (ID: 1d9f509a-da81-4948-a524-19a6b3fe54bd) - URL: http://www.bodysiac.com/","timestamp":"2026-02-25T06:23:44.678Z"}
+{"level":"info","message":"✅ Found 4 emails for Modify MedSpa - Suite 504: info@modifymedspa.com, filler@godaddy.commy, filler@godaddy.comhomemedical, info@modifymedspa.comhours","timestamp":"2026-02-25T06:23:47.150Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-25T06:23:47.187Z"}
+{"level":"info","message":"👷 Processing: Acne Clinic NYC: Acne & Scars Treatment (ID: 2a395bef-58ea-4e44-b836-750c47f70e7b) - URL: https://acneclinicnyc.com/","timestamp":"2026-02-25T06:23:52.205Z"}
+{"level":"info","message":"✅ Found 5 emails for Bodysiac: bodysiac@gmail.com, filler@godaddy.combookingsordersmy, filler@godaddy.comhomeservicesupcoming, ny.bodysiac@gmail.com, info@bodysiac.com","timestamp":"2026-02-25T06:23:52.672Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T06:23:52.695Z"}
+{"level":"info","message":"✅ Found 1 emails for Acne Clinic NYC: Acne & Scars Treatment: acneclinicnyc1@gmail.com","timestamp":"2026-02-25T06:24:01.985Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-25T06:24:02.019Z"}
+{"level":"info","message":"👷 Processing: Clinique des Champs Élysées (ID: fbf22e73-170c-4e76-88d0-de790cc338ad) - URL: https://newyork.crpce.com/","timestamp":"2026-02-25T06:24:02.025Z"}
+{"level":"info","message":"👷 Processing: Skinova Medspa (ID: 238d7838-1aa9-4ae0-bd76-8855e1483661) - URL: http://www.skinovamedspa.com/","timestamp":"2026-02-25T06:24:12.748Z"}
+{"level":"info","message":"✅ Found 2 emails for Clinique des Champs Élysées: contact@champs-elysees-clinic.com?subject=information, contactcontact@champs-elysees-clinic.com","timestamp":"2026-02-25T06:24:14.048Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-25T06:24:14.071Z"}
+{"level":"info","message":"✅ Found 1 emails for Skinova Medspa: contact@skinovamedspa.com","timestamp":"2026-02-25T06:24:22.587Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T06:24:22.611Z"}
+{"level":"info","message":"👷 Processing: ZZ Med Spa (ID: 1280b6a6-77c2-468f-b443-19711e73fc87) - URL: https://zzmedspa.com/","timestamp":"2026-02-25T06:24:22.618Z"}
+{"level":"info","message":"👷 Processing: Beauty Lyft (ID: 436cc9e1-b2e0-4c45-b6e7-8b3666c9ee51) - URL: https://beautylyftmedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T06:24:34.122Z"}
+{"level":"info","message":"✅ Found 2 emails for ZZ Med Spa: zzspabookings@gmail.com, 905-4928zzspabookings@gmail.com","timestamp":"2026-02-25T06:24:36.261Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T06:24:36.327Z"}
+{"level":"info","message":"👷 Processing: Ease Spa Wellness (ID: 9fd30f26-349d-45ea-a9d0-0e17b6505512) - URL: http://www.easespawellness.com/","timestamp":"2026-02-25T06:24:41.367Z"}
+{"level":"info","message":"🤷 No emails found for Beauty Lyft","timestamp":"2026-02-25T06:24:46.953Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-25T06:24:47.052Z"}
+{"level":"info","message":"✅ Found 4 emails for Ease Spa Wellness: info@easeacupuncture.com, info@easemedspa.com, care@easeacupuncture.com, info@easemedspa.commonday-friday","timestamp":"2026-02-25T06:24:51.825Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T06:24:51.877Z"}
+{"level":"info","message":"👷 Processing: Skin Deep NYC (ID: 1e999fe5-b214-40fe-a2d4-eff1192c37b6) - URL: https://www.skindeepnyc.com/","timestamp":"2026-02-25T06:24:56.897Z"}
+{"level":"info","message":"👷 Processing: BeautyFix Medspa Flatiron (ID: 859e8f60-ad51-4775-ad09-b1a77d84e69c) - URL: http://www.beautyfixmedspa.com/","timestamp":"2026-02-25T06:25:02.111Z"}
+{"level":"info","message":"🤷 No emails found for Skin Deep NYC","timestamp":"2026-02-25T06:25:03.874Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T06:25:03.897Z"}
+{"level":"info","message":"✅ Found 1 emails for BeautyFix Medspa Flatiron: customerservice@beautyfixmedspa.com","timestamp":"2026-02-25T06:27:39.708Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-25T06:27:39.795Z"}
+{"level":"info","message":"👷 Processing: Skin Secret Aesthetics (ID: 46878264-8aed-4037-ae03-5da312c26cec) - URL: https://skinsecretaesthetics.com/","timestamp":"2026-02-25T06:30:14.654Z"}
+{"level":"info","message":"✅ Found 1 emails for Skin Secret Aesthetics: info@skinsecretaesthetics.com","timestamp":"2026-02-25T06:30:27.545Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-25T06:30:27.582Z"}
+{"level":"info","message":"👷 Processing: Trifecta Med Spa 57 (ID: 9b9bd680-58a2-4e24-97f6-08ae989a9f25) - URL: https://trifectamedspanyc.com/","timestamp":"2026-02-25T06:30:27.587Z"}
+{"level":"info","message":"👷 Processing: Skinology MedSpa (ID: 03e29d06-f700-4401-a848-86acf539de47) - URL: https://www.skinologymedspany.com/","timestamp":"2026-02-25T06:30:35.272Z"}
+{"level":"info","message":"🤷 No emails found for Trifecta Med Spa 57","timestamp":"2026-02-25T06:30:37.918Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-25T06:30:37.940Z"}
+{"level":"info","message":"👷 Processing: Skinney Medspa (ID: 2cd0c398-073a-443d-8278-79b3a6401aeb) - URL: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-60th-st-nyc","timestamp":"2026-02-25T06:30:47.983Z"}
+{"level":"info","message":"✅ Found 3 emails for Skinology MedSpa: info@skinologymedspany.com, example@wellnez.com, mimi@skinologymedspany.com","timestamp":"2026-02-25T06:30:51.464Z"}
+{"level":"info","message":"📊 Job 20/50 processed.","timestamp":"2026-02-25T06:30:51.489Z"}
+{"level":"info","message":"🤷 No emails found for Skinney Medspa","timestamp":"2026-02-25T06:30:59.387Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-25T06:30:59.403Z"}
+{"level":"info","message":"👷 Processing: Glamoi Med Spa (ID: 7a465491-6963-48af-afc9-8ec50be43c2e) - URL: http://www.glamoi.com/?y_source=1_MTI3MjU3MTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D","timestamp":"2026-02-25T06:30:59.409Z"}
+{"level":"info","message":"👷 Processing: Central Park West Med Spa (ID: 720a80d2-e3a1-4d46-a078-8c5fd21b7c78) - URL: https://centralparkwestmedspa.com/","timestamp":"2026-02-25T06:31:06.520Z"}
+{"level":"info","message":"🤷 No emails found for Glamoi Med Spa","timestamp":"2026-02-25T06:31:09.158Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-25T06:31:09.173Z"}
+{"level":"info","message":"✅ Found 1 emails for Central Park West Med Spa: centralparkwestmedspa@aol.com","timestamp":"2026-02-25T06:31:16.036Z"}
+{"level":"info","message":"📊 Job 21/50 processed.","timestamp":"2026-02-25T06:31:16.057Z"}
+{"level":"info","message":"👷 Processing: SkinTight MedSpa (ID: 5763fdc9-336a-42c5-8e5e-eb79719651bc) - URL: https://www.skintightmedspa.com/","timestamp":"2026-02-25T06:31:19.204Z"}
+{"level":"info","message":"👷 Processing: Re:forma Medspa and Wellness (ID: 502f7f0c-be65-4ab3-8147-edff89fa09fa) - URL: https://reformanyc.com/","timestamp":"2026-02-25T06:31:26.081Z"}
+{"level":"info","message":"✅ Found 1 emails for SkinTight MedSpa: info@skintightmedspa.com","timestamp":"2026-02-25T06:31:29.552Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-25T06:31:29.573Z"}
+{"level":"info","message":"✅ Found 3 emails for Re:forma Medspa and Wellness: hello@reformanyc.com, -370-3064hello@reformanyc.com, newslettersubscribehello@reformanyc.com","timestamp":"2026-02-25T06:31:39.037Z"}
+{"level":"info","message":"📊 Job 22/50 processed.","timestamp":"2026-02-25T06:31:39.058Z"}
+{"level":"info","message":"👷 Processing: Serene Skin Club (ID: 68332839-6901-4eab-9f52-b5767fa75183) - URL: https://www.sereneskinclub.com/","timestamp":"2026-02-25T06:31:39.602Z"}
+{"level":"info","message":"✅ Found 1 emails for Serene Skin Club: hello@sereneskinclub.common","timestamp":"2026-02-25T06:31:53.242Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-25T06:31:53.263Z"}
+{"level":"info","message":"👷 Processing: AAFE Medspa New York (ID: 2d895554-e38b-4017-aa0d-1b74106af273) - URL: https://aafemedspa.com/new-york/","timestamp":"2026-02-25T06:31:53.268Z"}
+{"level":"info","message":"✅ Found 1 emails for AAFE Medspa New York: brittany@facialesthetics.org","timestamp":"2026-02-25T06:32:03.460Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-25T06:32:03.487Z"}
+{"level":"info","message":"👷 Processing: Elite Aesthetics (ID: 5e854efb-6ecd-48d3-a011-689177c2cd1a) - URL: https://eliteaestheticsnyc.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=elite-aesthetics","timestamp":"2026-02-25T06:32:03.492Z"}
+{"level":"info","message":"🤷 No emails found for Elite Aesthetics","timestamp":"2026-02-25T06:32:13.048Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-25T06:32:13.070Z"}
+{"level":"info","message":"👷 Processing: Livinz Medspa - Manhattan (ID: 3f4e57bd-0323-4010-b357-c925d65ec902) - URL: http://www.livinzmedspa.com/","timestamp":"2026-02-25T06:32:13.076Z"}
+{"level":"info","message":"🤷 No emails found for Livinz Medspa - Manhattan","timestamp":"2026-02-25T06:32:23.264Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-25T06:32:23.277Z"}
+{"level":"info","message":"👷 Processing: Dynasty Aesthetics (ID: 303b548a-f96e-4b9b-b7d5-9a3c3a9fa16c) - URL: http://dynastymedspa.com/","timestamp":"2026-02-25T06:32:23.283Z"}
+{"level":"info","message":"👷 Processing: Great Neck Medical Spa (ID: 32633870-97cd-4c97-9eb2-c20564f1fe54) - URL: http://www.greatneckmedicalspa.com/","timestamp":"2026-02-25T06:32:29.166Z"}
+{"level":"info","message":"🤷 No emails found for Dynasty Aesthetics","timestamp":"2026-02-25T06:32:31.816Z"}
+{"level":"info","message":"📊 Job 20/50 processed.","timestamp":"2026-02-25T06:32:31.829Z"}
+{"level":"info","message":"👷 Processing: Labelle MedSpa (ID: 1f027cd8-e8fa-4083-9aa6-57916a686a43) - URL: http://www.labellespa.nyc/","timestamp":"2026-02-25T06:32:36.841Z"}
+{"level":"info","message":"✅ Found 3 emails for Great Neck Medical Spa: greatneckmedicalspa@gmail.com, greatneckmedicalspa@gmail.comliposuction, greatneckmedicalspa@gmail.comyour","timestamp":"2026-02-25T06:32:39.211Z"}
+{"level":"info","message":"📊 Job 23/50 processed.","timestamp":"2026-02-25T06:32:39.238Z"}
+{"level":"info","message":"👷 Processing: Peachy Manhattan West (ID: aa10f7f6-2578-4fc6-aa7e-ce2e7d9101b5) - URL: https://peachystudio.com/pages/manhattan-west-botox?y_source=1_MzAwNzcyNTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D","timestamp":"2026-02-25T06:32:49.302Z"}
+{"level":"info","message":"✅ Found 1 emails for Labelle MedSpa: info@labellespa.nyc","timestamp":"2026-02-25T06:32:50.987Z"}
+{"level":"info","message":"📊 Job 21/50 processed.","timestamp":"2026-02-25T06:32:51.015Z"}
+{"level":"info","message":"👷 Processing: Ever/Body Flatiron (ID: 1af09a8d-cce5-44ad-9b71-f954da2c0709) - URL: https://everbody.com/","timestamp":"2026-02-25T06:33:11.059Z"}
+{"level":"info","message":"✅ Found 1 emails for Peachy Manhattan West: hello@peachystudio.com","timestamp":"2026-02-25T06:33:13.842Z"}
+{"level":"info","message":"📊 Job 24/50 processed.","timestamp":"2026-02-25T06:33:13.878Z"}
+{"level":"info","message":"👷 Processing: SkinSplendid (ID: ce3c6ec7-6e6e-49bf-8341-a139fc6431c7) - URL: https://skinsplendid.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T06:33:23.903Z"}
+{"level":"info","message":"✅ Found 2 emails for Ever/Body Flatiron: press@everbody.com, partnerships@everbody.com","timestamp":"2026-02-25T06:33:24.570Z"}
+{"level":"info","message":"📊 Job 22/50 processed.","timestamp":"2026-02-25T06:33:24.593Z"}
+{"level":"info","message":"✅ Found 1 emails for SkinSplendid: info@skinsplendid.com","timestamp":"2026-02-25T06:33:32.666Z"}
+{"level":"info","message":"📊 Job 25/50 processed.","timestamp":"2026-02-25T06:33:32.688Z"}
+{"level":"info","message":"👷 Processing: Skin City Lab (ID: e8b2d650-246b-4e32-9564-746b6b7bcb9d) - URL: http://www.skincitylab.com/","timestamp":"2026-02-25T06:33:32.694Z"}
+{"level":"info","message":"👷 Processing: MiracleFace MedSpa (ID: 1a480b78-7da3-470d-8410-095da556b43a) - URL: https://miraclefacemedspanyc.com/","timestamp":"2026-02-25T06:33:44.634Z"}
+{"level":"info","message":"🤷 No emails found for Skin City Lab","timestamp":"2026-02-25T06:33:46.564Z"}
+{"level":"info","message":"📊 Job 26/50 processed.","timestamp":"2026-02-25T06:33:46.576Z"}
+{"level":"info","message":"🤷 No emails found for MiracleFace MedSpa","timestamp":"2026-02-25T06:33:48.792Z"}
+{"level":"info","message":"📊 Job 23/50 processed.","timestamp":"2026-02-25T06:33:48.805Z"}
+{"level":"info","message":"👷 Processing: AIREM NYC (ID: f734a331-8336-43a9-9fc4-2f12688e4a34) - URL: https://www.airem.com/","timestamp":"2026-02-25T06:33:48.812Z"}
+{"level":"info","message":"👷 Processing: Skin Center New York (ID: 5d4196a8-d07f-4c95-9e96-fc365ddac53a) - URL: https://www.skincenter.nyc/","timestamp":"2026-02-25T06:34:06.619Z"}
+{"level":"info","message":"✅ Found 3 emails for AIREM NYC: accessibility@redspotinteractive.com, hello@airem.com, accessibility@redspotinteractive.com.","timestamp":"2026-02-25T06:34:06.755Z"}
+{"level":"info","message":"📊 Job 24/50 processed.","timestamp":"2026-02-25T06:34:06.778Z"}
+{"level":"info","message":"👷 Processing: Lov MedSpa New York (ID: 96e9d6bd-6137-49c7-bfc7-59de33eb122c) - URL: https://lovmedspa.com/","timestamp":"2026-02-25T06:34:16.801Z"}
+{"level":"info","message":"🤷 No emails found for Skin Center New York","timestamp":"2026-02-25T06:34:20.876Z"}
+{"level":"info","message":"📊 Job 27/50 processed.","timestamp":"2026-02-25T06:34:20.901Z"}
+{"level":"info","message":"👷 Processing: Future Face & Body Medspa (ID: 3b70a520-69ec-4a33-be7a-fe44470e40e9) - URL: https://futurefaceandbody.com/?utm_source=gbp&utm_medium=organic&utm_campaign=uws","timestamp":"2026-02-25T06:34:25.922Z"}
+{"level":"info","message":"🤷 No emails found for Lov MedSpa New York","timestamp":"2026-02-25T06:34:29.419Z"}
+{"level":"info","message":"📊 Job 25/50 processed.","timestamp":"2026-02-25T06:34:29.434Z"}
+{"level":"info","message":"👷 Processing: AlyneMD NYC (ID: b8c5ed57-c8e5-40e8-ae58-e22781bdbc79) - URL: https://www.alynemd.com/","timestamp":"2026-02-25T06:34:39.457Z"}
+{"level":"info","message":"✅ Found 1 emails for Future Face & Body Medspa: info@futurefaceandbody.com","timestamp":"2026-02-25T06:34:41.331Z"}
+{"level":"info","message":"📊 Job 28/50 processed.","timestamp":"2026-02-25T06:34:41.371Z"}
+{"level":"info","message":"✅ Found 2 emails for AlyneMD NYC: care@alynemd.com, touchcare@alynemd.comvisit","timestamp":"2026-02-25T06:34:47.143Z"}
+{"level":"info","message":"📊 Job 26/50 processed.","timestamp":"2026-02-25T06:34:47.207Z"}
+{"level":"info","message":"👷 Processing: LushBeauty MedSpa (ID: 8c8478f0-9d81-42b2-a58c-93d4d6af52cc) - URL: http://lushbeautymedspa.com/","timestamp":"2026-02-25T06:34:51.395Z"}
+{"level":"info","message":"👷 Processing: SoVous (ID: 0a516bcb-3243-422d-b9f9-9afc06a9c825) - URL: https://sovous.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T06:35:02.287Z"}
+{"level":"info","message":"✅ Found 1 emails for LushBeauty MedSpa: lushbeautymedspa@gmail.com","timestamp":"2026-02-25T06:35:03.076Z"}
+{"level":"info","message":"📊 Job 29/50 processed.","timestamp":"2026-02-25T06:35:03.101Z"}
+{"level":"info","message":"👷 Processing: SKINNEY Medspa (ID: 2b9e83d3-09ea-46cd-bc11-70dfbc6be917) - URL: https://skinneymedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-5th-ave-nyc","timestamp":"2026-02-25T06:35:13.117Z"}
+{"level":"info","message":"🤷 No emails found for SoVous","timestamp":"2026-02-25T06:35:15.071Z"}
+{"level":"info","message":"📊 Job 27/50 processed.","timestamp":"2026-02-25T06:35:15.086Z"}
+{"level":"info","message":"👷 Processing: Aura Wellness Spa | Best Sauna & Body Scrub, Day Spa in NYC (ID: 448f482e-2a0d-4b4b-937d-3ce91072a027) - URL: https://www.spa-aura.com/","timestamp":"2026-02-25T06:35:20.103Z"}
+{"level":"info","message":"🤷 No emails found for SKINNEY Medspa","timestamp":"2026-02-25T06:35:23.434Z"}
+{"level":"info","message":"📊 Job 30/50 processed.","timestamp":"2026-02-25T06:35:23.447Z"}
+{"level":"info","message":"🤷 No emails found for Aura Wellness Spa | Best Sauna & Body Scrub, Day Spa in NYC","timestamp":"2026-02-25T06:35:28.404Z"}
+{"level":"info","message":"📊 Job 28/50 processed.","timestamp":"2026-02-25T06:35:28.419Z"}
+{"level":"info","message":"👷 Processing: JustMelt MedSpa (ID: 2d484aa6-7c10-4028-8cd0-bd261d2c7677) - URL: https://justmelt.com/?utm_source=Google&utm_medium=Google%20My%20Business&utm_campaign=my%20business%20listing","timestamp":"2026-02-25T06:35:28.425Z"}
+{"level":"info","message":"👷 Processing: Persona MedSpa (ID: 72542493-fda6-4255-b08d-1bd154c01028) - URL: https://personamedspa.nyc/","timestamp":"2026-02-25T06:35:38.502Z"}
+{"level":"info","message":"✅ Found 1 emails for JustMelt MedSpa: info@justmelt.com","timestamp":"2026-02-25T06:35:39.153Z"}
+{"level":"info","message":"📊 Job 29/50 processed.","timestamp":"2026-02-25T06:35:39.189Z"}
+{"level":"info","message":"✅ Found 1 emails for Persona MedSpa: info@personamedspa.nyc","timestamp":"2026-02-25T06:35:48.672Z"}
+{"level":"info","message":"📊 Job 31/50 processed.","timestamp":"2026-02-25T06:35:48.694Z"}
+{"level":"info","message":"👷 Processing: Aesthete Medspa (ID: 6d6ac26f-20ed-4f18-a95e-db64c80c155b) - URL: https://aesthetemedspa.org/","timestamp":"2026-02-25T06:35:48.700Z"}
+{"level":"info","message":"✅ Found 2 emails for Aesthete Medspa: info@aesthetemedspa.org, info@aesthetemedspa.orghoursmon-sat","timestamp":"2026-02-25T06:35:57.968Z"}
+{"level":"info","message":"📊 Job 32/50 processed.","timestamp":"2026-02-25T06:35:57.991Z"}
+{"level":"info","message":"👷 Processing: VR MedSpa Aesthetic Salon, Manhattan (ID: ba405537-ebcb-491a-843a-f24885d3b72a) - URL: http://vrmed.nyc/","timestamp":"2026-02-25T06:35:57.996Z"}
+{"level":"info","message":"👷 Processing: Med Spa (ID: 2408bff4-9a70-4298-a946-444fcc05f6c0) - URL: https://www.aimedspagrowth.com/","timestamp":"2026-02-25T06:36:19.311Z"}
+{"level":"info","message":"🤷 No emails found for VR MedSpa Aesthetic Salon, Manhattan","timestamp":"2026-02-25T06:36:20.383Z"}
+{"level":"info","message":"📊 Job 33/50 processed.","timestamp":"2026-02-25T06:36:20.396Z"}
+{"level":"info","message":"👷 Processing: Manhattan Laser - Med Aesthetics Clinic | Medspa (ID: e88594c1-efb4-445a-871d-358f5f360916) - URL: http://manhattan-laser.com/","timestamp":"2026-02-25T06:36:40.436Z"}
+{"level":"info","message":"✅ Found 1 emails for Med Spa: info@aimedspagrowth.com","timestamp":"2026-02-25T06:36:45.732Z"}
+{"level":"info","message":"📊 Job 30/50 processed.","timestamp":"2026-02-25T06:36:45.755Z"}
+{"level":"info","message":"✅ Found 3 emails for Manhattan Laser - Med Aesthetics Clinic | Medspa: contact@manhattan-laser.com, treatment212-334-2470contact@manhattan-laser.com, manhattanlaserspa@gmail.com","timestamp":"2026-02-25T06:36:51.272Z"}
+{"level":"info","message":"📊 Job 34/50 processed.","timestamp":"2026-02-25T06:36:51.293Z"}
+{"level":"info","message":"👷 Processing: Bel Angé Medical Spa (ID: 1a5d71a0-70b8-4dbd-b4b6-b405ead08137) - URL: https://www.belangemedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T06:37:10.801Z"}
+{"level":"info","message":"👷 Processing: Modern Line Med Spa (ID: 2dbba6f8-ec4d-4a7e-8fa6-f260631dc8d9) - URL: https://modernlinemedspa.com/contact/","timestamp":"2026-02-25T06:37:16.347Z"}
+{"level":"info","message":"✅ Found 1 emails for Bel Angé Medical Spa: info@belangemedspa.com.","timestamp":"2026-02-25T06:37:18.684Z"}
+{"level":"info","message":"📊 Job 31/50 processed.","timestamp":"2026-02-25T06:37:18.706Z"}
+{"level":"info","message":"✅ Found 2 emails for Modern Line Med Spa: carrollton@modernlinemedspa.com, 75007carrollton@modernlinemedspa.com","timestamp":"2026-02-25T06:37:31.776Z"}
+{"level":"info","message":"📊 Job 35/50 processed.","timestamp":"2026-02-25T06:37:31.801Z"}
+{"level":"info","message":"👷 Processing: Renuev Med Spa (ID: 19621f55-af51-4792-975e-9d82ee3e307d) - URL: https://renuevmedspa.com/","timestamp":"2026-02-25T06:37:31.808Z"}
+{"level":"info","message":"✅ Found 1 emails for Renuev Med Spa: info@renuevmedspa.com","timestamp":"2026-02-25T06:37:43.177Z"}
+{"level":"info","message":"📊 Job 36/50 processed.","timestamp":"2026-02-25T06:37:43.205Z"}
+{"level":"info","message":"👷 Processing: Evolve Med Spa (ID: 74e13cce-744a-4b82-a137-ea24b7ffa136) - URL: https://evolvemedspa.com/in/new-york/tribeca-ny/?utm_source=gmb&utm_medium=organic&utm_campaign=tribeca","timestamp":"2026-02-25T06:37:43.210Z"}
+{"level":"info","message":"🤷 No emails found for Evolve Med Spa","timestamp":"2026-02-25T06:37:49.352Z"}
+{"level":"info","message":"📊 Job 37/50 processed.","timestamp":"2026-02-25T06:37:49.408Z"}
+{"level":"info","message":"👷 Processing: Infinity Laser Spa (ID: 82e5174e-04b6-41d3-9fdc-5864fdaa9643) - URL: https://infinitylaserspa.com/","timestamp":"2026-02-25T06:38:08.807Z"}
+{"level":"info","message":"✅ Found 1 emails for Infinity Laser Spa: info@infinitylaserspa.comphone","timestamp":"2026-02-25T06:38:18.627Z"}
+{"level":"info","message":"📊 Job 32/50 processed.","timestamp":"2026-02-25T06:38:18.650Z"}
+{"level":"info","message":"👷 Processing: La Réserve Aesthetics (ID: 487ffe0b-063d-496f-aaa3-471a56e36675) - URL: http://skinrejuvenationnewyork.com/","timestamp":"2026-02-25T06:38:28.688Z"}
+{"level":"info","message":"👷 Processing: VJ MedSpa (ID: dce82562-c5ff-48a1-8442-f5be9184d1ba) - URL: https://vjmednyc.com/","timestamp":"2026-02-25T06:38:34.542Z"}
+{"level":"info","message":"🤷 No emails found for La Réserve Aesthetics","timestamp":"2026-02-25T06:38:35.377Z"}
+{"level":"info","message":"📊 Job 33/50 processed.","timestamp":"2026-02-25T06:38:35.391Z"}
+{"level":"info","message":"🤷 No emails found for VJ MedSpa","timestamp":"2026-02-25T06:38:47.138Z"}
+{"level":"info","message":"📊 Job 38/50 processed.","timestamp":"2026-02-25T06:38:47.152Z"}
+{"level":"info","message":"👷 Processing: JECT (ID: 267f4db3-8add-4f77-8592-a90bf0f8a60c) - URL: https://ject.us/","timestamp":"2026-02-25T06:38:52.176Z"}
+{"level":"info","message":"✅ Found 5 emails for JECT: info@jectnyc.com, partnerships@jectnyc.com, questionsinfo@jectnyc.com, partnershipspartnerships@jectnyc.com, inquiriesinfo@jectnyc.com","timestamp":"2026-02-25T06:39:04.282Z"}
+{"level":"info","message":"📊 Job 39/50 processed.","timestamp":"2026-02-25T06:39:04.304Z"}
+{"level":"info","message":"👷 Processing: MedSpa.com (ID: 33b234bb-5ffd-4809-b015-f8f5d92448f0) - URL: https://medspa.com/","timestamp":"2026-02-25T06:39:04.309Z"}
+{"level":"info","message":"🤷 No emails found for MedSpa.com","timestamp":"2026-02-25T06:39:15.118Z"}
+{"level":"info","message":"📊 Job 40/50 processed.","timestamp":"2026-02-25T06:39:15.132Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-830484ff","timestamp":"2026-02-25T07:04:29.669Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T07:04:29.713Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T07:04:30.604Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-f8ed02e8","timestamp":"2026-02-25T07:06:15.457Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T07:06:15.764Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T07:06:16.839Z"}
+{"level":"info","message":"👷 Processing: Deep Blue Med Spa (ID: b4bc999b-963b-4c48-813f-c3988104c48f) - URL: https://www.deepbluemedspa.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=deep+blue+med+spa+manhattan","timestamp":"2026-02-25T07:06:46.205Z"}
+{"level":"info","message":"🤷 No emails found for Deep Blue Med Spa","timestamp":"2026-02-25T07:06:54.389Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T07:06:54.410Z"}
+{"level":"info","message":"💾 Heap Used: 29.14 MB | Open Pages: 0","timestamp":"2026-02-25T07:06:54.411Z"}
+{"level":"info","message":"👷 Processing: LING Spa Union Square (ID: 96801795-5d01-4529-bf74-d953959cb05a) - URL: http://lingspa.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10961591109581304791","timestamp":"2026-02-25T07:08:37.190Z"}
+{"level":"info","message":"✅ Found 3 emails for LING Spa Union Square: unsq@lingskincare.com, cpw@lingskincare.com, cpw@lingskincare.comwhat","timestamp":"2026-02-25T07:08:53.255Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T07:08:53.294Z"}
+{"level":"info","message":"💾 Heap Used: 32.69 MB | Open Pages: 0","timestamp":"2026-02-25T07:08:53.295Z"}
+{"level":"info","message":"👷 Processing: Anand Medical Spa (ID: b061b99c-abc4-40c9-9095-59402a9f0e23) - URL: https://anandmedicalspa.com/","timestamp":"2026-02-25T07:12:25.137Z"}
+{"level":"info","message":"🤷 No emails found for Anand Medical Spa","timestamp":"2026-02-25T07:12:37.159Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T07:12:37.184Z"}
+{"level":"info","message":"💾 Heap Used: 35.26 MB | Open Pages: 0","timestamp":"2026-02-25T07:12:37.185Z"}
+{"level":"info","message":"👷 Processing: LM Medical Spa (ID: 1e0bda6b-7304-4441-9041-ff53eb2285f8) - URL: http://lmmedspanyc.com/","timestamp":"2026-02-25T07:12:57.232Z"}
+{"level":"info","message":"✅ Found 2 emails for LM Medical Spa: advanced.medical.gc@gmail.com, 10017contact212-901-0700advanced.medical.gc@gmail.com","timestamp":"2026-02-25T07:13:03.578Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T07:13:03.603Z"}
+{"level":"info","message":"💾 Heap Used: 32.25 MB | Open Pages: 0","timestamp":"2026-02-25T07:13:03.604Z"}
+{"level":"info","message":"👷 Processing: Trifecta Med Spa Park Avenue (ID: 1ee9bb0e-7ca3-4c41-b97c-797e8598c0bc) - URL: https://trifectamedspanyc.com/","timestamp":"2026-02-25T07:13:13.638Z"}
+{"level":"info","message":"🤷 No emails found for Trifecta Med Spa Park Avenue","timestamp":"2026-02-25T07:13:20.174Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T07:13:20.189Z"}
+{"level":"info","message":"💾 Heap Used: 35.09 MB | Open Pages: 0","timestamp":"2026-02-25T07:13:20.190Z"}
+{"level":"info","message":"👷 Processing: Koru Wellness Aesthetics NYC: Med Spa Upper East Side & Midtown (ID: 5cc97e97-0e28-48c5-bdb2-3a485d0ee593) - URL: http://www.korunyc.com/","timestamp":"2026-02-25T07:13:33.931Z"}
+{"level":"info","message":"🤷 No emails found for Koru Wellness Aesthetics NYC: Med Spa Upper East Side & Midtown","timestamp":"2026-02-25T07:13:42.149Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T07:13:42.168Z"}
+{"level":"info","message":"💾 Heap Used: 29.55 MB | Open Pages: 0","timestamp":"2026-02-25T07:13:42.169Z"}
+{"level":"info","message":"👷 Processing: Peachy West SoHo (ID: e1547c8e-08dd-475c-b715-9daefc8c1881) - URL: https://peachystudio.com/pages/west-soho?y_source=1_MjYyMjMxMzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D","timestamp":"2026-02-25T07:13:52.209Z"}
+{"level":"info","message":"✅ Found 1 emails for Peachy West SoHo: hello@peachystudio.com","timestamp":"2026-02-25T07:14:15.920Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T07:14:15.946Z"}
+{"level":"info","message":"💾 Heap Used: 33.90 MB | Open Pages: 0","timestamp":"2026-02-25T07:14:15.947Z"}
+{"level":"info","message":"👷 Processing: Minimale Skin (ID: 842fbc55-8849-4377-9719-336930da25d5) - URL: http://minimaleskin.com/","timestamp":"2026-02-25T07:14:25.333Z"}
+{"level":"info","message":"✅ Found 1 emails for Minimale Skin: info@minimaleskin.com","timestamp":"2026-02-25T07:14:34.357Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T07:14:34.378Z"}
+{"level":"info","message":"💾 Heap Used: 36.44 MB | Open Pages: 0","timestamp":"2026-02-25T07:14:34.378Z"}
+{"level":"info","message":"👷 Processing: Perfect Med Spa (ID: 2c26e554-32cc-4baf-99ac-9749f9a8ec71) - URL: https://perfectmedspa.com/","timestamp":"2026-02-25T07:14:34.383Z"}
+{"level":"info","message":"✅ Found 1 emails for Perfect Med Spa: info@perfectmedspa.com","timestamp":"2026-02-25T07:14:44.712Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T07:14:44.782Z"}
+{"level":"info","message":"💾 Heap Used: 37.68 MB | Open Pages: 0","timestamp":"2026-02-25T07:14:44.782Z"}
+{"level":"info","message":"👷 Processing: Glo Spa (ID: 259d50cf-a7e6-4e61-817a-8d06c2f7f1cc) - URL: https://glospany.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps","timestamp":"2026-02-25T07:14:46.020Z"}
+{"level":"info","message":"✅ Found 2 emails for Glo Spa: admin@glospany.com, 12122209092admin@glospany.comglospanyglospanyglospanyglospanycopyright","timestamp":"2026-02-25T07:14:51.771Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T07:14:51.792Z"}
+{"level":"info","message":"💾 Heap Used: 28.67 MB | Open Pages: 0","timestamp":"2026-02-25T07:14:51.793Z"}
+{"level":"info","message":"👷 Processing: HausMD The Medspa (ID: a44f13a1-2d63-4e39-8ef1-3b84d2360be6) - URL: https://thehausmd.com/","timestamp":"2026-02-25T07:14:56.808Z"}
+{"level":"info","message":"🤷 No emails found for HausMD The Medspa","timestamp":"2026-02-25T07:15:03.886Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T07:15:03.900Z"}
+{"level":"info","message":"💾 Heap Used: 39.15 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:03.901Z"}
+{"level":"info","message":"👷 Processing: Manhattan Aesthetics (ID: a83d40d3-9166-48a6-9483-0f578ac1b013) - URL: https://www.manhattan-aesthetics.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb","timestamp":"2026-02-25T07:15:08.914Z"}
+{"level":"info","message":"✅ Found 1 emails for Manhattan Aesthetics: info@manhattan-aesthetics.com","timestamp":"2026-02-25T07:15:13.842Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T07:15:13.873Z"}
+{"level":"info","message":"💾 Heap Used: 33.15 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:13.874Z"}
+{"level":"info","message":"👷 Processing: KHROM MEDSPA & WELLNESS (ID: 78c99531-9531-4bc6-b106-9169221a485a) - URL: https://www.khrommedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp","timestamp":"2026-02-25T07:15:18.898Z"}
+{"level":"info","message":"🤷 No emails found for KHROM MEDSPA & WELLNESS","timestamp":"2026-02-25T07:15:21.058Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T07:15:21.069Z"}
+{"level":"info","message":"💾 Heap Used: 36.96 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:21.070Z"}
+{"level":"info","message":"👷 Processing: SkinLab NYC (ID: 1cf16f4a-2fbe-4d73-91bb-4f9368781a17) - URL: https://skinlab-nyc.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=nyc-skinlab","timestamp":"2026-02-25T07:15:26.084Z"}
+{"level":"info","message":"🤷 No emails found for SkinLab NYC","timestamp":"2026-02-25T07:15:31.062Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T07:15:31.076Z"}
+{"level":"info","message":"💾 Heap Used: 41.29 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:31.077Z"}
+{"level":"info","message":"👷 Processing: UPKEEP Med Spa (ID: d52eb6a8-92ed-435f-a205-8758ca3767c6) - URL: http://www.upkeepmedspa.com/","timestamp":"2026-02-25T07:15:36.089Z"}
+{"level":"info","message":"✅ Found 2 emails for UPKEEP Med Spa: info@upkeepmedspa.com, york8338753377info@upkeepmedspa.com","timestamp":"2026-02-25T07:15:43.816Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T07:15:43.839Z"}
+{"level":"info","message":"💾 Heap Used: 35.16 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:43.839Z"}
+{"level":"info","message":"👷 Processing: Diamond Works Medspa (ID: 486efcd3-8072-4d79-a2da-b49b5b38cfa1) - URL: https://www.diamondworksmedspa.com/","timestamp":"2026-02-25T07:15:49.928Z"}
+{"level":"info","message":"🤷 No emails found for Diamond Works Medspa","timestamp":"2026-02-25T07:15:57.714Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T07:15:57.726Z"}
+{"level":"info","message":"💾 Heap Used: 40.91 MB | Open Pages: 0","timestamp":"2026-02-25T07:15:57.726Z"}
+{"level":"info","message":"👷 Processing: SYLK MEDSPA (ID: 51385cac-f533-44ff-a7bd-d3d3b4d26168) - URL: http://www.sylkmedspa.com/","timestamp":"2026-02-25T07:16:02.749Z"}
+{"level":"info","message":"✅ Found 3 emails for SYLK MEDSPA: ​inquiries@sylkmedspa.com, emailinquiries@sylkmedspa.com, connectsylkmedspainquiries@sylkmedspa.com347-988-06661535","timestamp":"2026-02-25T07:16:07.404Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T07:16:07.429Z"}
+{"level":"info","message":"💾 Heap Used: 30.74 MB | Open Pages: 0","timestamp":"2026-02-25T07:16:07.429Z"}
+{"level":"info","message":"👷 Processing: Peachy Brooklyn Heights (ID: 10ca4c58-c20a-46a8-94be-fc4f0ed26f0c) - URL: https://peachystudio.com/?y_source=1_NTEyMzg2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D","timestamp":"2026-02-25T07:16:08.892Z"}
+{"level":"info","message":"👷 Processing: Manhattan Laser - Med Aesthetics Clinic | Medspa (ID: 88d675f6-a767-476c-8729-24998ecca88b) - URL: https://manhattan-laser.com/","timestamp":"2026-02-25T07:16:27.509Z"}
+{"level":"info","message":"🤷 No emails found for Peachy Brooklyn Heights","timestamp":"2026-02-25T07:16:30.853Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T07:16:30.911Z"}
+{"level":"info","message":"💾 Heap Used: 39.84 MB | Open Pages: 0","timestamp":"2026-02-25T07:16:30.912Z"}
+{"level":"info","message":"✅ Found 3 emails for Manhattan Laser - Med Aesthetics Clinic | Medspa: contact@manhattan-laser.com, treatment212-334-2470contact@manhattan-laser.com, manhattanlaserspa@gmail.com","timestamp":"2026-02-25T07:16:43.465Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T07:16:43.494Z"}
+{"level":"info","message":"💾 Heap Used: 28.64 MB | Open Pages: 0","timestamp":"2026-02-25T07:16:43.495Z"}
+{"level":"info","message":"👷 Processing: Hydra Medspa NY (ID: 36242e15-6d3c-414c-89d3-28c97602cb55) - URL: http://www.hydrany.com/","timestamp":"2026-02-25T07:16:45.969Z"}
+{"level":"info","message":"✅ Found 2 emails for Hydra Medspa NY: info@hydrany.com, info@hydrany.com?","timestamp":"2026-02-25T07:16:53.069Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-25T07:16:53.102Z"}
+{"level":"info","message":"💾 Heap Used: 30.66 MB | Open Pages: 0","timestamp":"2026-02-25T07:16:53.103Z"}
+{"level":"info","message":"👷 Processing: L'Elite MediSpa and Wellness BK (ID: 79fb55cf-b883-455d-a79c-2f006d2b9f1e) - URL: https://lelitemedispa.com/","timestamp":"2026-02-25T07:16:53.111Z"}
+{"level":"info","message":"✅ Found 1 emails for L'Elite MediSpa and Wellness BK: info@lelitemedispa.com","timestamp":"2026-02-25T07:17:08.352Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-25T07:17:08.374Z"}
+{"level":"info","message":"💾 Heap Used: 41.29 MB | Open Pages: 0","timestamp":"2026-02-25T07:17:08.375Z"}
+{"level":"info","message":"👷 Processing: KLARA Beauty Lab (ID: 2c4b96c6-cfe9-4dff-af0e-a86ef188296a) - URL: http://klarabeautylab.com/","timestamp":"2026-02-25T07:17:08.382Z"}
+{"level":"info","message":"🤷 No emails found for KLARA Beauty Lab","timestamp":"2026-02-25T07:17:12.744Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-25T07:17:12.758Z"}
+{"level":"info","message":"💾 Heap Used: 44.66 MB | Open Pages: 0","timestamp":"2026-02-25T07:17:12.759Z"}
+{"level":"info","message":"👷 Processing: La Bella Laser Aesthetics (ID: aced718c-3940-48c0-ad04-fc474783f05b) - URL: https://labellalasernewyork.zoca.com/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps","timestamp":"2026-02-25T07:17:17.774Z"}
+{"level":"info","message":"✅ Found 2 emails for La Bella Laser Aesthetics: labellabeautyllc@gmail.com, 16466281267labellabeautyllc@gmail.comla-bella-laser-aestheticslabellalaseraestheticcopyright","timestamp":"2026-02-25T07:17:22.533Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-25T07:17:22.554Z"}
+{"level":"info","message":"💾 Heap Used: 29.72 MB | Open Pages: 0","timestamp":"2026-02-25T07:17:22.555Z"}
+{"level":"info","message":"👷 Processing: Eureka Body Care and Spa + Medspa, Botox (ID: 68eacdfa-8d46-4514-8714-e78a0e9b3925) - URL: http://www.eurekabodycareandspa.com/","timestamp":"2026-02-25T07:17:23.594Z"}
+{"level":"info","message":"✅ Found 2 emails for Eureka Body Care and Spa + Medspa, Botox: info@eurekabodycareandspa.com, info@eurekabodycareandspa.comdon","timestamp":"2026-02-25T07:17:34.616Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T07:17:34.642Z"}
+{"level":"info","message":"💾 Heap Used: 30.25 MB | Open Pages: 0","timestamp":"2026-02-25T07:17:34.643Z"}
+{"level":"info","message":"👷 Processing: Bare Body Laser & Esthetics Medspa (ID: 20ba8a5e-8ab1-4dd1-875c-669013ea9e7a) - URL: https://barebodylaser.com/","timestamp":"2026-02-25T07:17:39.666Z"}
+{"level":"info","message":"🤷 No emails found for Bare Body Laser & Esthetics Medspa","timestamp":"2026-02-25T07:17:45.476Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-25T07:17:45.491Z"}
+{"level":"info","message":"💾 Heap Used: 32.99 MB | Open Pages: 0","timestamp":"2026-02-25T07:17:45.492Z"}
+{"level":"info","message":"👷 Processing: Medspa of New York (ID: 638d20bd-eb18-44e7-bed3-6e9aab60b6f3) - URL: https://medspaofnewyork.com/","timestamp":"2026-02-25T07:17:50.509Z"}
+{"level":"info","message":"✅ Found 1 emails for Medspa of New York: email@medspaofnewyork.com","timestamp":"2026-02-25T07:18:02.626Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-25T07:18:02.648Z"}
+{"level":"info","message":"💾 Heap Used: 37.67 MB | Open Pages: 0","timestamp":"2026-02-25T07:18:02.649Z"}
+{"level":"info","message":"👷 Processing: Plump Cosmetics & Injectables (ID: b175e83b-9bfb-4079-809f-e6ba68618f6e) - URL: http://www.getplump.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb","timestamp":"2026-02-25T07:18:02.654Z"}
+{"level":"info","message":"✅ Found 1 emails for Plump Cosmetics & Injectables: info@getplump.com","timestamp":"2026-02-25T07:18:27.061Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-25T07:18:27.085Z"}
+{"level":"info","message":"💾 Heap Used: 35.03 MB | Open Pages: 0","timestamp":"2026-02-25T07:18:27.086Z"}
+{"level":"info","message":"👷 Processing: Youtherapy Medspa - William Greenberg, MD (ID: 661dd1a3-a814-4036-b10d-c9ca507bdc87) - URL: http://www.youtherapymedspa.com/","timestamp":"2026-02-25T07:18:27.091Z"}
+{"level":"info","message":"👷 Processing: Midtown Laser Spa + BOTOX, FILLERS (ID: 0ae01a45-9954-421a-bd77-ca38f2a64c0c) - URL: http://www.midtownlaserspa.com/","timestamp":"2026-02-25T07:18:47.858Z"}
+{"level":"info","message":"🤷 No emails found for Youtherapy Medspa - William Greenberg, MD","timestamp":"2026-02-25T07:18:50.285Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-25T07:18:50.304Z"}
+{"level":"info","message":"💾 Heap Used: 41.98 MB | Open Pages: 0","timestamp":"2026-02-25T07:18:50.306Z"}
+{"level":"info","message":"✅ Found 2 emails for Midtown Laser Spa + BOTOX, FILLERS: support@midtownlaserspa.com, support@midtownlaserspa.comopening","timestamp":"2026-02-25T07:18:54.901Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-25T07:18:54.921Z"}
+{"level":"info","message":"💾 Heap Used: 41.93 MB | Open Pages: 0","timestamp":"2026-02-25T07:18:54.921Z"}
+{"level":"info","message":"👷 Processing: Natural Beauty Fifth Avenue (ID: 6b7a9f3b-d3d2-4274-9715-6f539f981ede) - URL: https://www.naturalbeautynyc.com/","timestamp":"2026-02-25T07:18:54.926Z"}
+{"level":"info","message":"🤷 No emails found for Natural Beauty Fifth Avenue","timestamp":"2026-02-25T07:19:06.016Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-25T07:19:06.032Z"}
+{"level":"info","message":"💾 Heap Used: 35.46 MB | Open Pages: 0","timestamp":"2026-02-25T07:19:06.032Z"}
+{"level":"info","message":"👷 Processing: Haitang Eastern Therapies (ID: 0bb264b5-259d-4004-8e35-1b6b3d929660) - URL: http://www.haitangeasterntherapies.com/","timestamp":"2026-02-25T07:19:10.349Z"}
+{"level":"info","message":"👷 Processing: REVIV New York - IV Therapy | NAD+ | Glutathione | B12 (ID: 66892116-d7d2-4247-980f-a3a2fec0286a) - URL: https://revivme.com/","timestamp":"2026-02-25T07:19:31.087Z"}
+{"level":"info","message":"🤷 No emails found for Haitang Eastern Therapies","timestamp":"2026-02-25T07:19:34.429Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-25T07:19:34.447Z"}
+{"level":"info","message":"💾 Heap Used: 37.92 MB | Open Pages: 0","timestamp":"2026-02-25T07:19:34.447Z"}
+{"level":"info","message":"✅ Found 4 emails for REVIV New York - IV Therapy | NAD+ | Glutathione | B12: info@revivme.comfor, press@revivme.comfor, investments@revivme.comfor, genetics@revivme.comfor","timestamp":"2026-02-25T07:19:37.331Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-25T07:19:37.356Z"}
+{"level":"info","message":"💾 Heap Used: 31.13 MB | Open Pages: 0","timestamp":"2026-02-25T07:19:37.357Z"}
+{"level":"info","message":"👷 Processing: CONTŌR (ID: e1fab5d5-8526-463e-a457-adc58506375e) - URL: https://contorstudio.com/","timestamp":"2026-02-25T07:19:47.371Z"}
+{"level":"info","message":"✅ Found 2 emails for CONTŌR: info@contorstudio.com, info@contorstudio.com%20","timestamp":"2026-02-25T07:19:56.048Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-25T07:19:56.151Z"}
+{"level":"info","message":"💾 Heap Used: 33.00 MB | Open Pages: 0","timestamp":"2026-02-25T07:19:56.152Z"}
+{"level":"info","message":"👷 Processing: Spring Street Dermatology - SOHO (ID: dc8c3cac-a907-44a1-97f1-09836b91a70b) - URL: https://springstderm.com/?utm_source=seo_gmb&utm_medium=gmb&utm_campaign=home_page","timestamp":"2026-02-25T07:20:01.177Z"}
+{"level":"info","message":"👷 Processing: Skin Spa New York - Flatiron / Chelsea (ID: 94d6a417-207d-4bb3-a83e-06bef2eaf0e1) - URL: https://skinspanewyork.com/pages/flatiron-chelsea-spa","timestamp":"2026-02-25T07:20:34.643Z"}
+{"level":"info","message":"🤷 No emails found for Spring Street Dermatology - SOHO","timestamp":"2026-02-25T07:20:41.939Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-25T07:20:41.961Z"}
+{"level":"info","message":"💾 Heap Used: 28.76 MB | Open Pages: 0","timestamp":"2026-02-25T07:20:41.963Z"}
+{"level":"info","message":"✅ Found 1 emails for Skin Spa New York - Flatiron / Chelsea: info@skinspanewyork.com?subject=cancel_my_membership","timestamp":"2026-02-25T07:20:42.849Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-25T07:20:42.894Z"}
+{"level":"info","message":"💾 Heap Used: 35.29 MB | Open Pages: 0","timestamp":"2026-02-25T07:20:42.894Z"}
+{"level":"info","message":"👷 Processing: Comprehensive Wellness and Aesthetics Medspa (ID: 136ca442-47dd-466c-8ecc-197ae1f57102) - URL: https://www.comprehensivewellnessmedspa.com/","timestamp":"2026-02-25T07:20:42.899Z"}
+{"level":"info","message":"✅ Found 1 emails for Comprehensive Wellness and Aesthetics Medspa: info@comprehensivewellnessmedspa.com","timestamp":"2026-02-25T07:20:55.665Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-25T07:20:55.698Z"}
+{"level":"info","message":"💾 Heap Used: 32.09 MB | Open Pages: 0","timestamp":"2026-02-25T07:20:55.700Z"}
+{"level":"info","message":"👷 Processing: Medspa of New York (ID: e1ad1efd-f771-44d3-9139-a0b15cbb4fd6) - URL: http://medspaofnewyork.com/","timestamp":"2026-02-25T07:20:55.709Z"}
+{"level":"info","message":"✅ Found 1 emails for Medspa of New York: email@medspaofnewyork.com","timestamp":"2026-02-25T07:21:06.420Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-25T07:21:06.441Z"}
+{"level":"info","message":"💾 Heap Used: 38.39 MB | Open Pages: 0","timestamp":"2026-02-25T07:21:06.442Z"}
+{"level":"info","message":"👷 Processing: MD Face & Body Medspa (ID: fa864d4d-47d4-4a50-9e01-2d7a7bdda81c) - URL: http://mdfaceandbody.com/","timestamp":"2026-02-25T07:21:11.452Z"}
+{"level":"info","message":"🤷 No emails found for MD Face & Body Medspa","timestamp":"2026-02-25T07:21:18.094Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-25T07:21:18.114Z"}
+{"level":"info","message":"💾 Heap Used: 41.99 MB | Open Pages: 0","timestamp":"2026-02-25T07:21:18.115Z"}
+{"level":"info","message":"👷 Processing: Aesthé By MD (ID: 39ae9a0e-8e8c-4038-8baa-3376571fc143) - URL: https://www.aesthect.com/","timestamp":"2026-02-25T07:21:22.062Z"}
+{"level":"info","message":"✅ Found 1 emails for Aesthé By MD: contact@aesthebymd.com","timestamp":"2026-02-25T07:21:27.381Z"}
+{"level":"info","message":"📊 Job 20/50 processed.","timestamp":"2026-02-25T07:21:27.403Z"}
+{"level":"info","message":"💾 Heap Used: 29.54 MB | Open Pages: 0","timestamp":"2026-02-25T07:21:27.404Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-3b664fff","timestamp":"2026-02-25T12:21:57.805Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T12:21:57.867Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T12:22:02.799Z"}
+{"level":"info","message":"👷 Processing: Lead Generation Company (ID: c5546931-c1fc-4fab-923c-f300c73cfb18) - URL: http://leadgeneration.com/contact-us/","timestamp":"2026-02-25T12:25:28.355Z"}
+{"level":"info","message":"🤷 No emails found for Lead Generation Company","timestamp":"2026-02-25T12:25:33.301Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T12:25:33.324Z"}
+{"level":"info","message":"💾 Heap Used: 29.09 MB | Open Pages: 0","timestamp":"2026-02-25T12:25:33.325Z"}
+{"level":"info","message":"👷 Processing: Demand Growth Digital (ID: 7113f5cd-a705-406a-b02f-0003b6b2fb43) - URL: http://demandgrowthdigital.com/","timestamp":"2026-02-25T12:25:38.350Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-0892f597","timestamp":"2026-02-25T12:25:53.573Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-25T12:25:53.665Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-25T12:25:56.539Z"}
+{"level":"info","message":"👷 Processing: SmartKonnects Inc.- Lead Generation Agency (ID: 4975adb4-e89e-4ac0-8f45-b522e1fac5f2) - URL: https://www.smartkonnects.com/?utm_source=gmb&utm_medium=organic&utm_campaign=website-tracking","timestamp":"2026-02-25T12:25:56.692Z"}
+{"level":"info","message":"🤷 No emails found for SmartKonnects Inc.- Lead Generation Agency","timestamp":"2026-02-25T12:26:02.686Z"}
+{"level":"info","message":"✅ Found 1 emails for Demand Growth Digital: support@demandgrowthdigital.ai","timestamp":"2026-02-25T12:26:02.688Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-25T12:26:02.710Z"}
+{"level":"info","message":"💾 Heap Used: 30.41 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:02.712Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T12:26:02.718Z"}
+{"level":"info","message":"👷 Processing: BusySeed (ID: 8b2eac67-4029-4a7c-8824-839192c764e5) - URL: https://www.busyseed.com/","timestamp":"2026-02-25T12:26:02.721Z"}
+{"level":"info","message":"💾 Heap Used: 37.76 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:02.721Z"}
+{"level":"info","message":"✅ Found 6 emails for BusySeed: sales@busyseed.com, jobs@busyseed.com, pr@busyseed.com, billing@busyseed.com, legal@busyseed.com, social@busyseed.com","timestamp":"2026-02-25T12:26:15.081Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-25T12:26:15.115Z"}
+{"level":"info","message":"💾 Heap Used: 33.58 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:15.116Z"}
+{"level":"info","message":"👷 Processing: SMA NYC (ID: 2023ba74-8e53-4667-bd5b-54bc267c282a) - URL: http://www.smanyc.com/","timestamp":"2026-02-25T12:26:15.125Z"}
+{"level":"info","message":"✅ Found 1 emails for SMA NYC: hello@smanyc.com","timestamp":"2026-02-25T12:26:22.497Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T12:26:22.520Z"}
+{"level":"info","message":"💾 Heap Used: 40.56 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:22.521Z"}
+{"level":"info","message":"👷 Processing: Just Lead Market | Best Digital Marketing Agency - New York (ID: 1cd0ddd3-53a3-499b-96e3-85d2e2f89945) - URL: https://justleadmarket.com/","timestamp":"2026-02-25T12:26:27.555Z"}
+{"level":"info","message":"✅ Found 1 emails for Just Lead Market | Best Digital Marketing Agency - New York: hello@justleadmarket.com","timestamp":"2026-02-25T12:26:33.565Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T12:26:33.593Z"}
+{"level":"info","message":"💾 Heap Used: 29.19 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:33.593Z"}
+{"level":"info","message":"👷 Processing: Leadbird (ID: 22520528-d0ff-48fa-b9d4-cce33d33f428) - URL: https://leadbird.com/","timestamp":"2026-02-25T12:26:37.834Z"}
+{"level":"info","message":"🤷 No emails found for Leadbird","timestamp":"2026-02-25T12:26:42.141Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-25T12:26:42.159Z"}
+{"level":"info","message":"💾 Heap Used: 36.50 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:42.160Z"}
+{"level":"info","message":"👷 Processing: PBJ Marketing (ID: b9175a49-7ae8-42f8-8b73-59c9c90181c4) - URL: https://pbjmarketing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb","timestamp":"2026-02-25T12:26:47.182Z"}
+{"level":"info","message":"✅ Found 3 emails for PBJ Marketing: makeithappen@pbjmarketing.com, 10014contactcontactjobsmakeithappen@pbjmarketing.com646-770-3271202, 10014contactcontactjobsmakeithappen@pbjmarketing.com202-972-3011202","timestamp":"2026-02-25T12:26:55.539Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-25T12:26:55.575Z"}
+{"level":"info","message":"💾 Heap Used: 33.94 MB | Open Pages: 0","timestamp":"2026-02-25T12:26:55.576Z"}
+{"level":"info","message":"👷 Processing: Lead Marketing Strategies - Digital Marketing Agency (ID: 51bfd901-2de7-4364-ab39-b930d17e4596) - URL: https://www.leadmarketingstrategies.com/","timestamp":"2026-02-25T12:26:58.657Z"}
+{"level":"info","message":"✅ Found 2 emails for Lead Marketing Strategies - Digital Marketing Agency: contact@leadmarketingstrategies.com, uscontact@leadmarketingstrategies.comwe","timestamp":"2026-02-25T12:27:05.375Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T12:27:05.415Z"}
+{"level":"info","message":"💾 Heap Used: 33.48 MB | Open Pages: 0","timestamp":"2026-02-25T12:27:05.416Z"}
+{"level":"info","message":"👷 Processing: Ironpaper Marketing (ID: 320a1433-df36-4554-b90a-1e71166ef3fd) - URL: http://www.ironpaper.com/","timestamp":"2026-02-25T12:27:10.431Z"}
+{"level":"info","message":"👷 Processing: NoGood - Growth Marketing Agency (ID: 12dcf9aa-80b9-4671-92e4-8542f77ea08b) - URL: https://nogood.io/","timestamp":"2026-02-25T12:27:15.692Z"}
+{"level":"info","message":"🤷 No emails found for Ironpaper Marketing","timestamp":"2026-02-25T12:27:16.730Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T12:27:16.774Z"}
+{"level":"info","message":"💾 Heap Used: 30.56 MB | Open Pages: 0","timestamp":"2026-02-25T12:27:16.778Z"}
+{"level":"info","message":"🤷 No emails found for NoGood - Growth Marketing Agency","timestamp":"2026-02-25T12:27:22.432Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-25T12:27:22.460Z"}
+{"level":"info","message":"💾 Heap Used: 32.34 MB | Open Pages: 0","timestamp":"2026-02-25T12:27:22.461Z"}
+{"level":"info","message":"👷 Processing: Web Team Management: Affordable Website Design and Best SEO Company (ID: 6a237127-f11d-4270-977f-48f228e464c7) - URL: https://webteammanagement.com/","timestamp":"2026-02-25T12:27:26.818Z"}
+{"level":"info","message":"🤷 No emails found for Web Team Management: Affordable Website Design and Best SEO Company","timestamp":"2026-02-25T12:27:35.719Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T12:27:35.732Z"}
+{"level":"info","message":"💾 Heap Used: 34.40 MB | Open Pages: 0","timestamp":"2026-02-25T12:27:35.733Z"}
+{"level":"info","message":"👷 Processing: Netrocket HVAC Marketing Agency (ID: c07abb09-3435-45b8-a0f7-fb18453d7225) - URL: https://netrocket.pro/?utm_source=google&utm_medium=gmb&utm_campaign=ny","timestamp":"2026-02-25T12:27:35.738Z"}
+{"level":"info","message":"✅ Found 2 emails for Netrocket HVAC Marketing Agency: contact@netrocket.pro, 929-389-0344contact@netrocket.proservicesseo","timestamp":"2026-02-25T12:27:58.508Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T12:27:58.535Z"}
+{"level":"info","message":"💾 Heap Used: 45.28 MB | Open Pages: 0","timestamp":"2026-02-25T12:27:58.536Z"}
+{"level":"info","message":"👷 Processing: Branding New York City (ID: ac60dc37-3a51-4220-8409-e1e08549be5c) - URL: https://www.brandingnycity.com/","timestamp":"2026-02-25T12:27:58.543Z"}
+{"level":"info","message":"✅ Found 2 emails for Branding New York City: info@brandingnycity.com, consultationinfo@brandingnycity.com","timestamp":"2026-02-25T12:28:12.839Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T12:28:12.879Z"}
+{"level":"info","message":"💾 Heap Used: 39.19 MB | Open Pages: 0","timestamp":"2026-02-25T12:28:12.880Z"}
+{"level":"info","message":"👷 Processing: LMP Tech Solutions (ID: bea31aa0-e7cd-4fa6-969c-a2d90f8e3b9c) - URL: http://lmptechsolutions.com/","timestamp":"2026-02-25T12:28:17.730Z"}
+{"level":"info","message":"✅ Found 2 emails for LMP Tech Solutions: lmptechsolutions@gmail.com, 11217lmptechsolutions@gmail.com","timestamp":"2026-02-25T12:28:22.803Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-25T12:28:22.886Z"}
+{"level":"info","message":"💾 Heap Used: 29.33 MB | Open Pages: 0","timestamp":"2026-02-25T12:28:22.900Z"}
+{"level":"info","message":"👷 Processing: KIP Total Marketing Solutions (ID: 191fcab1-1b42-4bb0-8c52-79795b164156) - URL: http://www.kiptotalmarketing.com/","timestamp":"2026-02-25T12:28:27.924Z"}
+{"level":"info","message":"👷 Processing: Agency Platform (ID: d573cafa-8beb-49e0-b9e3-e8186490a00e) - URL: https://www.agencyplatform.com/","timestamp":"2026-02-25T12:28:37.949Z"}
+{"level":"info","message":"🤷 No emails found for KIP Total Marketing Solutions","timestamp":"2026-02-25T12:28:41.591Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T12:28:41.604Z"}
+{"level":"info","message":"💾 Heap Used: 37.06 MB | Open Pages: 0","timestamp":"2026-02-25T12:28:41.605Z"}
+{"level":"info","message":"✅ Found 2 emails for Agency Platform: sales@agencyplatform.com, support@agencyplatform.com","timestamp":"2026-02-25T12:28:59.455Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-25T12:28:59.482Z"}
+{"level":"info","message":"💾 Heap Used: 33.86 MB | Open Pages: 0","timestamp":"2026-02-25T12:28:59.482Z"}
+{"level":"info","message":"👷 Processing: Verbsz Marketing (ID: 6e637136-d212-4588-a4c9-6cf1f09e5a7b) - URL: https://www.verbszmarketing.com/new-york-digital-marketing-agency/","timestamp":"2026-02-25T12:28:59.488Z"}
+{"level":"info","message":"👷 Processing: Storm Brain (ID: 81b7c692-6cab-445b-9ad4-1054955ab3ef) - URL: https://stormbrain.com/","timestamp":"2026-02-25T12:29:06.739Z"}
+{"level":"info","message":"✅ Found 3 emails for Verbsz Marketing: info@verbsz.com, info@verbsz.comtailored, 303-9090info@verbsz.comour","timestamp":"2026-02-25T12:29:08.635Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-25T12:29:08.689Z"}
+{"level":"info","message":"💾 Heap Used: 41.42 MB | Open Pages: 0","timestamp":"2026-02-25T12:29:08.690Z"}
+{"level":"info","message":"👷 Processing: Golden Web Media (ID: 24d5656a-1a3d-4b61-a045-eb09737fadf9) - URL: https://goldenwebmedia.com/","timestamp":"2026-02-25T12:29:23.745Z"}
+{"level":"info","message":"✅ Found 2 emails for Golden Web Media: info@goldenwebmedia.com, info@goldenwebmedia.com​​","timestamp":"2026-02-25T12:29:38.191Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-25T12:29:38.313Z"}
+{"level":"info","message":"💾 Heap Used: 31.68 MB | Open Pages: 0","timestamp":"2026-02-25T12:29:38.314Z"}
+{"level":"info","message":"👷 Processing: Leadmetrics (ID: fa291c31-361f-4418-b1bc-abbad57033cf) - URL: https://leadmetrics.ai/","timestamp":"2026-02-25T12:29:38.318Z"}
+{"level":"info","message":"✅ Found 3 emails for Leadmetrics: support@leadmetrics.ai, support@leadmetrics.aileadmetrics, possibleemailsupport@leadmetrics.aiphone","timestamp":"2026-02-25T12:29:42.038Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-25T12:29:42.068Z"}
+{"level":"info","message":"💾 Heap Used: 32.54 MB | Open Pages: 0","timestamp":"2026-02-25T12:29:42.069Z"}
+{"level":"info","message":"👷 Processing: B2B Marketing Archives (ID: 1ec21d31-8d7d-4cb4-b9fd-1a3c86dd8283) - URL: http://b2bmarketingarchives.com/","timestamp":"2026-02-25T12:29:42.080Z"}
+{"level":"info","message":"✅ Found 1 emails for B2B Marketing Archives: info@b2bmarketingarchives.com","timestamp":"2026-02-25T12:29:55.634Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-25T12:29:55.668Z"}
+{"level":"info","message":"💾 Heap Used: 37.20 MB | Open Pages: 0","timestamp":"2026-02-25T12:29:55.672Z"}
+{"level":"info","message":"👷 Processing: Lead Concierge Digital Marketing and SEO Services (ID: 2bcf1be8-a6a7-41fd-8d2b-df1752837aba) - URL: https://www.leadconciergenyc.com/","timestamp":"2026-02-25T12:29:55.678Z"}
+{"level":"info","message":"✅ Found 1 emails for Lead Concierge Digital Marketing and SEO Services: mike@leadconciergenyc.com","timestamp":"2026-02-25T12:30:02.246Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-25T12:30:02.268Z"}
+{"level":"info","message":"💾 Heap Used: 33.50 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:02.269Z"}
+{"level":"info","message":"👷 Processing: Goal Based Marketing (ID: c7721c0c-c90d-4b4a-8b27-2be72de86f92) - URL: https://goalbasedmarketing.com/","timestamp":"2026-02-25T12:30:07.286Z"}
+{"level":"info","message":"✅ Found 1 emails for Goal Based Marketing: hello@goalbasedmarketing.com","timestamp":"2026-02-25T12:30:11.653Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-25T12:30:11.675Z"}
+{"level":"info","message":"💾 Heap Used: 42.70 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:11.676Z"}
+{"level":"info","message":"👷 Processing: WebFX (ID: d908664a-7eb0-4e47-9d34-64b2324d8d1f) - URL: https://www.webfx.com/locations/new-york-city/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=new-york-city","timestamp":"2026-02-25T12:30:16.687Z"}
+{"level":"info","message":"🤷 No emails found for WebFX","timestamp":"2026-02-25T12:30:24.176Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-25T12:30:24.204Z"}
+{"level":"info","message":"💾 Heap Used: 32.36 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:24.205Z"}
+{"level":"info","message":"👷 Processing: Magneto IT Solutions LLC - eCommerce Development Company (ID: 32cb1603-138d-4ea9-9987-20a0255e2987) - URL: https://magnetoitsolutions.com/","timestamp":"2026-02-25T12:30:29.231Z"}
+{"level":"info","message":"✅ Found 4 emails for Magneto IT Solutions LLC - eCommerce Development Company: info@magnetoitsolutions.com, info@magnetoitsolutions.com;, sales@magnetoitsolutions.com;, sales@magnetoitsolutions.com","timestamp":"2026-02-25T12:30:33.305Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-25T12:30:33.336Z"}
+{"level":"info","message":"💾 Heap Used: 30.87 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:33.337Z"}
+{"level":"info","message":"👷 Processing: Ambrose Marketing - NYC (ID: 88470590-cc1a-4270-80fb-a86fdb219340) - URL: https://www.ambrosemarketing.com/","timestamp":"2026-02-25T12:30:38.357Z"}
+{"level":"info","message":"✅ Found 1 emails for Ambrose Marketing - NYC: contact@ambrosemarketing.com?","timestamp":"2026-02-25T12:30:48.611Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-25T12:30:48.636Z"}
+{"level":"info","message":"💾 Heap Used: 41.86 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:48.636Z"}
+{"level":"info","message":"👷 Processing: Beyond Media Global LLC - New York City (ID: da836e27-f4a4-4e8c-a15f-d989496c304c) - URL: http://www.bmgww.com/","timestamp":"2026-02-25T12:30:48.642Z"}
+{"level":"info","message":"🤷 No emails found for Beyond Media Global LLC - New York City","timestamp":"2026-02-25T12:30:58.111Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-25T12:30:58.123Z"}
+{"level":"info","message":"💾 Heap Used: 28.93 MB | Open Pages: 0","timestamp":"2026-02-25T12:30:58.124Z"}
+{"level":"info","message":"👷 Processing: Pure Digital (ID: dee856b0-07a4-41fe-ba1e-a39fec75b035) - URL: http://www.puredigitalco.com/","timestamp":"2026-02-25T12:31:03.142Z"}
+{"level":"info","message":"✅ Found 1 emails for Pure Digital: hello@puredigitalco.com","timestamp":"2026-02-25T12:31:13.862Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-25T12:31:13.886Z"}
+{"level":"info","message":"💾 Heap Used: 46.08 MB | Open Pages: 0","timestamp":"2026-02-25T12:31:13.886Z"}
+{"level":"info","message":"👷 Processing: Digital Marketing Agency NYC - Mack (ID: 55ff594b-d714-4d61-9bc2-8bdd2ef48f11) - URL: https://mackmediagroup.com/newyork-digitalmarketingagency?utm_campaign=GMB&utm_medium=digital_marketing_nyc","timestamp":"2026-02-25T12:31:13.891Z"}
+{"level":"info","message":"✅ Found 1 emails for Digital Marketing Agency NYC - Mack: info@mackmediagroup.com","timestamp":"2026-02-25T12:31:22.433Z"}
+{"level":"info","message":"📊 Job 19/50 processed.","timestamp":"2026-02-25T12:31:22.459Z"}
+{"level":"info","message":"💾 Heap Used: 48.33 MB | Open Pages: 0","timestamp":"2026-02-25T12:31:22.460Z"}
+{"level":"info","message":"👷 Processing: Required Marketing Group Inc. (ID: 7d744970-ceff-4e8a-ab2a-7980a966cdc3) - URL: https://www.requiredmarketing.com/","timestamp":"2026-02-25T12:31:27.484Z"}
+{"level":"info","message":"✅ Found 3 emails for Required Marketing Group Inc.: mail@requiredmarketing.com, onum_company@mail.com, mail@requiredmarketing.comhouston","timestamp":"2026-02-25T12:31:40.827Z"}
+{"level":"info","message":"📊 Job 20/50 processed.","timestamp":"2026-02-25T12:31:40.849Z"}
+{"level":"info","message":"💾 Heap Used: 34.58 MB | Open Pages: 0","timestamp":"2026-02-25T12:31:40.849Z"}
+{"level":"info","message":"👷 Processing: AdVenture Media Group (ID: 9af0511e-f659-4234-9170-53e9ab235736) - URL: http://www.adventureppc.com/","timestamp":"2026-02-25T12:31:40.854Z"}
+{"level":"info","message":"✅ Found 1 emails for AdVenture Media Group: 218-3722info@adventureppc.comour","timestamp":"2026-02-25T12:31:46.975Z"}
+{"level":"info","message":"📊 Job 21/50 processed.","timestamp":"2026-02-25T12:31:47.002Z"}
+{"level":"info","message":"💾 Heap Used: 44.97 MB | Open Pages: 0","timestamp":"2026-02-25T12:31:47.003Z"}
+{"level":"info","message":"👷 Processing: Beeby Clark + Meyler (ID: 1a5aef6e-01b5-4111-8ebe-a589c554b310) - URL: http://www.beebyclarkmeyler.com/","timestamp":"2026-02-25T12:31:52.024Z"}
+{"level":"info","message":"🤷 No emails found for Beeby Clark + Meyler","timestamp":"2026-02-25T12:31:57.927Z"}
+{"level":"info","message":"📊 Job 22/50 processed.","timestamp":"2026-02-25T12:31:57.947Z"}
+{"level":"info","message":"💾 Heap Used: 41.28 MB | Open Pages: 0","timestamp":"2026-02-25T12:31:57.947Z"}
+{"level":"info","message":"👷 Processing: Primary Position SEO (ID: ec5fe1cf-a679-497b-8639-4329c34d46c9) - URL: https://primaryposition.com/","timestamp":"2026-02-25T12:32:03.002Z"}
+{"level":"info","message":"✅ Found 1 emails for Primary Position SEO: info@primaryposition.com","timestamp":"2026-02-25T12:32:09.761Z"}
+{"level":"info","message":"📊 Job 23/50 processed.","timestamp":"2026-02-25T12:32:09.789Z"}
+{"level":"info","message":"💾 Heap Used: 37.27 MB | Open Pages: 0","timestamp":"2026-02-25T12:32:09.790Z"}
+{"level":"info","message":"👷 Processing: Outgrow (ID: ed71fefd-5cbe-4fec-a714-b711be51e293) - URL: https://outgrow.co/","timestamp":"2026-02-25T12:32:09.796Z"}
+{"level":"info","message":"🤷 No emails found for Outgrow","timestamp":"2026-02-25T12:32:19.316Z"}
+{"level":"info","message":"📊 Job 24/50 processed.","timestamp":"2026-02-25T12:32:19.362Z"}
+{"level":"info","message":"💾 Heap Used: 37.70 MB | Open Pages: 0","timestamp":"2026-02-25T12:32:19.364Z"}
+{"level":"info","message":"👷 Processing: White Label AI Agency - Rocket Driver (ID: 94d84eae-56fd-4bf7-b3b2-dfca0260a19c) - URL: https://www.rocketdriver.com/","timestamp":"2026-02-25T12:32:24.403Z"}
+{"level":"info","message":"✅ Found 1 emails for White Label AI Agency - Rocket Driver: team@rocketdriver.com","timestamp":"2026-02-25T12:32:37.043Z"}
+{"level":"info","message":"📊 Job 25/50 processed.","timestamp":"2026-02-25T12:32:37.088Z"}
+{"level":"info","message":"💾 Heap Used: 43.67 MB | Open Pages: 0","timestamp":"2026-02-25T12:32:37.090Z"}
+{"level":"info","message":"👷 Processing: Enablement Data (ID: f5856328-7d8b-4a62-bd4c-7dad174a4ebb) - URL: http://www.enablementdata.com/","timestamp":"2026-02-25T12:32:37.110Z"}
+{"level":"info","message":"🤷 No emails found for Enablement Data","timestamp":"2026-02-25T12:32:40.876Z"}
+{"level":"info","message":"📊 Job 26/50 processed.","timestamp":"2026-02-25T12:32:40.888Z"}
+{"level":"info","message":"💾 Heap Used: 37.82 MB | Open Pages: 0","timestamp":"2026-02-25T12:32:40.888Z"}
+{"level":"info","message":"👷 Processing: Webbefy Inc (ID: 08af1f3a-9af1-4a16-8c27-cc1893741a11) - URL: https://www.webbefy.com/","timestamp":"2026-02-25T12:32:45.913Z"}
+{"level":"info","message":"✅ Found 1 emails for Webbefy Inc: info@webbefy.com","timestamp":"2026-02-25T12:33:00.114Z"}
+{"level":"info","message":"📊 Job 27/50 processed.","timestamp":"2026-02-25T12:33:00.141Z"}
+{"level":"info","message":"💾 Heap Used: 36.40 MB | Open Pages: 0","timestamp":"2026-02-25T12:33:00.141Z"}
+{"level":"info","message":"👷 Processing: The Short Media - TikTok Marketing Agency in USA (ID: 7a225135-68a8-4c64-a356-bc330dc764b7) - URL: https://theshortmedia.com/","timestamp":"2026-02-25T12:33:00.146Z"}
+{"level":"info","message":"✅ Found 1 emails for The Short Media - TikTok Marketing Agency in USA: connect@theshortmedia.comaddress","timestamp":"2026-02-25T12:33:06.626Z"}
+{"level":"info","message":"📊 Job 28/50 processed.","timestamp":"2026-02-25T12:33:06.659Z"}
+{"level":"info","message":"💾 Heap Used: 37.90 MB | Open Pages: 0","timestamp":"2026-02-25T12:33:06.660Z"}
+{"level":"info","message":"👷 Processing: Allied Insight (ID: be277082-38af-4b94-b7a8-7acdb90da912) - URL: https://alliedinsight.com/","timestamp":"2026-02-25T12:33:11.679Z"}
+{"level":"info","message":"🤷 No emails found for Allied Insight","timestamp":"2026-02-25T12:33:21.354Z"}
+{"level":"info","message":"📊 Job 29/50 processed.","timestamp":"2026-02-25T12:33:21.371Z"}
+{"level":"info","message":"💾 Heap Used: 38.82 MB | Open Pages: 0","timestamp":"2026-02-25T12:33:21.372Z"}
+{"level":"info","message":"👷 Processing: SEO New York (ID: bc7f5d2a-486d-40c0-b4a7-6feaba7615ac) - URL: https://splinternetmarketing.com/local-pros/nebraska/grand-island-1/lobo-market/","timestamp":"2026-02-25T12:33:21.377Z"}
+{"level":"info","message":"✅ Found 2 emails for SEO New York: support@examplepcrepair.com, splinternetmarketing@gmail.com","timestamp":"2026-02-25T12:33:49.892Z"}
+{"level":"info","message":"📊 Job 30/50 processed.","timestamp":"2026-02-25T12:33:49.921Z"}
+{"level":"info","message":"💾 Heap Used: 47.77 MB | Open Pages: 0","timestamp":"2026-02-25T12:33:49.922Z"}
+{"level":"info","message":"👷 Processing: BlckPanda Creative - SEO Services For You (ID: 31393cba-9a85-467a-9cd4-d947080472cc) - URL: https://blckpanda-new-york-seo.lovable.app/","timestamp":"2026-02-25T12:33:49.927Z"}
+{"level":"info","message":"✅ Found 4 emails for BlckPanda Creative - SEO Services For You: creative@blckpanda.com, 684-9594creative@blckpanda.comservicesinternet, hello@blckpanda.com, ushello@blckpanda.combusiness","timestamp":"2026-02-25T12:33:53.838Z"}
+{"level":"info","message":"📊 Job 31/50 processed.","timestamp":"2026-02-25T12:33:53.857Z"}
+{"level":"info","message":"💾 Heap Used: 38.50 MB | Open Pages: 0","timestamp":"2026-02-25T12:33:53.857Z"}
+{"level":"info","message":"👷 Processing: Lead Generators International (ID: c8c5adc7-9cfd-4345-a6df-4bb4fd1cb941) - URL: https://www.clientfinders.com/","timestamp":"2026-02-25T12:33:58.872Z"}
+{"level":"info","message":"🤷 No emails found for Lead Generators International","timestamp":"2026-02-25T12:34:12.378Z"}
+{"level":"info","message":"📊 Job 32/50 processed.","timestamp":"2026-02-25T12:34:12.396Z"}
+{"level":"info","message":"💾 Heap Used: 45.48 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:12.397Z"}
+{"level":"info","message":"👷 Processing: Programmatic B2B (ID: 656a1e69-6f21-4947-99f5-4e81730f0703) - URL: http://www.programmaticb2b.com/","timestamp":"2026-02-25T12:34:12.402Z"}
+{"level":"info","message":"✅ Found 2 emails for Programmatic B2B: contact@programmaticb2b.com, chris@programmaticb2b.com","timestamp":"2026-02-25T12:34:28.998Z"}
+{"level":"info","message":"📊 Job 33/50 processed.","timestamp":"2026-02-25T12:34:29.032Z"}
+{"level":"info","message":"💾 Heap Used: 33.51 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:29.033Z"}
+{"level":"info","message":"👷 Processing: SalesHive (ID: 94355a21-6f8e-40be-80e6-84f792b6afba) - URL: https://saleshive.com/","timestamp":"2026-02-25T12:34:29.040Z"}
+{"level":"info","message":"✅ Found 2 emails for SalesHive: sales@saleshive.com, info@saleshive.com","timestamp":"2026-02-25T12:34:34.393Z"}
+{"level":"info","message":"📊 Job 34/50 processed.","timestamp":"2026-02-25T12:34:34.418Z"}
+{"level":"info","message":"💾 Heap Used: 43.69 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:34.419Z"}
+{"level":"info","message":"👷 Processing: Lasting Trend (ID: 98678604-bc54-48dc-b110-aed3703b86a4) - URL: https://lastingtrend.com/","timestamp":"2026-02-25T12:34:34.424Z"}
+{"level":"info","message":"✅ Found 1 emails for Lasting Trend: info@lastingtrend.co","timestamp":"2026-02-25T12:34:40.907Z"}
+{"level":"info","message":"📊 Job 35/50 processed.","timestamp":"2026-02-25T12:34:40.930Z"}
+{"level":"info","message":"💾 Heap Used: 43.93 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:40.931Z"}
+{"level":"info","message":"👷 Processing: Site Ascend (ID: d68d0341-f591-484b-a467-85ae36e2bed1) - URL: http://www.siteascend.com/","timestamp":"2026-02-25T12:34:40.937Z"}
+{"level":"info","message":"✅ Found 1 emails for Site Ascend: 10001emailinfo@siteascend.comphone","timestamp":"2026-02-25T12:34:48.066Z"}
+{"level":"info","message":"📊 Job 36/50 processed.","timestamp":"2026-02-25T12:34:48.094Z"}
+{"level":"info","message":"💾 Heap Used: 38.50 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:48.095Z"}
+{"level":"info","message":"👷 Processing: Alta Lead Generation (ID: f333f172-7309-41b2-a4e6-256267e890e3) - URL: https://www.altaleads.net/","timestamp":"2026-02-25T12:34:53.108Z"}
+{"level":"info","message":"✅ Found 2 emails for Alta Lead Generation: frederick@altaleads.net, frederick@altaleads.netaboutcopyright","timestamp":"2026-02-25T12:34:57.924Z"}
+{"level":"info","message":"📊 Job 37/50 processed.","timestamp":"2026-02-25T12:34:57.947Z"}
+{"level":"info","message":"💾 Heap Used: 36.66 MB | Open Pages: 0","timestamp":"2026-02-25T12:34:57.948Z"}
+{"level":"info","message":"👷 Processing: HEEDGROUP (ID: f6f80e68-9397-4d26-b99c-e34d6e954445) - URL: https://www.heedgrp.com/","timestamp":"2026-02-25T12:34:57.952Z"}
+{"level":"info","message":"✅ Found 1 emails for HEEDGROUP: info@heedgrp.com","timestamp":"2026-02-25T12:35:06.929Z"}
+{"level":"info","message":"📊 Job 38/50 processed.","timestamp":"2026-02-25T12:35:06.950Z"}
+{"level":"info","message":"💾 Heap Used: 42.65 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:06.950Z"}
+{"level":"info","message":"👷 Processing: S2W Media (ID: 73f86b01-a4be-4796-bfb1-571871f4f6a1) - URL: https://www.s2wmedia.com/","timestamp":"2026-02-25T12:35:11.959Z"}
+{"level":"info","message":"✅ Found 1 emails for S2W Media: globalmarketing@s2wmedia.com","timestamp":"2026-02-25T12:35:17.610Z"}
+{"level":"info","message":"📊 Job 39/50 processed.","timestamp":"2026-02-25T12:35:17.631Z"}
+{"level":"info","message":"💾 Heap Used: 36.98 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:17.631Z"}
+{"level":"info","message":"👷 Processing: Clicktoleads (ID: 94367f70-349b-4985-a3de-bd2402cf5fd1) - URL: http://clicktoleads.net/","timestamp":"2026-02-25T12:35:22.657Z"}
+{"level":"info","message":"✅ Found 1 emails for Clicktoleads: info@clicktoleads.net","timestamp":"2026-02-25T12:35:33.377Z"}
+{"level":"info","message":"📊 Job 40/50 processed.","timestamp":"2026-02-25T12:35:33.398Z"}
+{"level":"info","message":"💾 Heap Used: 43.47 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:33.399Z"}
+{"level":"info","message":"👷 Processing: SalesCaptain (ID: 0b12caa1-27eb-413e-954d-7b8d38a623bb) - URL: https://salescaptain.com/","timestamp":"2026-02-25T12:35:33.403Z"}
+{"level":"info","message":"✅ Found 2 emails for SalesCaptain: support@salescaptain.com, support@salescaptain.comphoneneed","timestamp":"2026-02-25T12:35:39.414Z"}
+{"level":"info","message":"📊 Job 41/50 processed.","timestamp":"2026-02-25T12:35:39.497Z"}
+{"level":"info","message":"💾 Heap Used: 45.10 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:39.497Z"}
+{"level":"info","message":"👷 Processing: Sure Oak (ID: 6d7c7668-33c5-451b-9890-64775d646e02) - URL: https://sureoak.com/","timestamp":"2026-02-25T12:35:44.518Z"}
+{"level":"info","message":"🤷 No emails found for Sure Oak","timestamp":"2026-02-25T12:35:51.770Z"}
+{"level":"info","message":"📊 Job 42/50 processed.","timestamp":"2026-02-25T12:35:51.833Z"}
+{"level":"info","message":"💾 Heap Used: 36.86 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:51.834Z"}
+{"level":"info","message":"👷 Processing: Techella Web Design and Branding (ID: a6e9c541-3453-4e33-8714-c7f13197a655) - URL: https://techella.io/","timestamp":"2026-02-25T12:35:51.839Z"}
+{"level":"info","message":"✅ Found 1 emails for Techella Web Design and Branding: info@techella.io","timestamp":"2026-02-25T12:35:58.730Z"}
+{"level":"info","message":"📊 Job 43/50 processed.","timestamp":"2026-02-25T12:35:58.758Z"}
+{"level":"info","message":"💾 Heap Used: 47.19 MB | Open Pages: 0","timestamp":"2026-02-25T12:35:58.758Z"}
+{"level":"info","message":"👷 Processing: Montazzo LLC (ID: a1487866-908d-4f64-b31c-c29edd761808) - URL: https://montazzo.com/","timestamp":"2026-02-25T12:35:58.763Z"}
+{"level":"info","message":"🤷 No emails found for Montazzo LLC","timestamp":"2026-02-25T12:36:03.861Z"}
+{"level":"info","message":"📊 Job 44/50 processed.","timestamp":"2026-02-25T12:36:03.873Z"}
+{"level":"info","message":"💾 Heap Used: 39.69 MB | Open Pages: 0","timestamp":"2026-02-25T12:36:03.874Z"}
+{"level":"info","message":"👷 Processing: Internet Marketing Firm Net SEO (ID: 87cd44ab-b397-4d35-b579-d89d8f8cbef7) - URL: https://www.internetmarketingfirm.net/new-york-internet-marketing/","timestamp":"2026-02-25T12:36:08.889Z"}
+{"level":"info","message":"🤷 No emails found for Internet Marketing Firm Net SEO","timestamp":"2026-02-25T12:36:15.520Z"}
+{"level":"info","message":"📊 Job 45/50 processed.","timestamp":"2026-02-25T12:36:15.534Z"}
+{"level":"info","message":"💾 Heap Used: 34.21 MB | Open Pages: 0","timestamp":"2026-02-25T12:36:15.534Z"}
+{"level":"info","message":"👷 Processing: DivBit Media (ID: e4d0f8a6-201a-4bb1-ba94-70044173c9f7) - URL: https://divbit.com/","timestamp":"2026-02-25T12:36:20.545Z"}
+{"level":"info","message":"✅ Found 2 emails for DivBit Media: info@divbit.com, usinfo@divbit.com","timestamp":"2026-02-25T12:36:33.850Z"}
+{"level":"info","message":"📊 Job 46/50 processed.","timestamp":"2026-02-25T12:36:33.882Z"}
+{"level":"info","message":"💾 Heap Used: 37.17 MB | Open Pages: 0","timestamp":"2026-02-25T12:36:33.885Z"}
