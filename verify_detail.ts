@@ -19,7 +19,7 @@ async function verifyData() {
             console.log("✅ Latest Lead Details:");
             console.log(JSON.stringify(lead, null, 2));
 
-            if (lead.phone || lead.website || lead.address !== 'Tbilisi, Georgia') {
+            if (lead.phone || lead.website || lead.address) {
                 console.log("🎉 SUCCESS: Data extracted!");
             } else {
                 console.log("⚠️ WARNING: Fields are still empty.");

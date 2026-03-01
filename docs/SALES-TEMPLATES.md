@@ -193,13 +193,14 @@ Before hitting send on any email, verify:
 
 Use these when a prospect asks "how is this different from Apollo?":
 
-| Feature                                          | Us  | Apollo / ZoomInfo  |
-| ------------------------------------------------ | --- | ------------------ |
-| AI Confidence Score (0–100) per email            | ✅  | ❌ Not exposed     |
-| Live MX Verification at export                   | ✅  | ❌ Static snapshot |
-| Hyper-local niche coverage (Google Maps)         | ✅  | ⚠️ Incomplete      |
-| Email source transparency (REGEX / LLM / HYBRID) | ✅  | ❌ Black box       |
-| Data freshness timestamp per row                 | ✅  | ⚠️ Inconsistent    |
+| Feature                                           | Us  | Apollo / ZoomInfo              |
+| ------------------------------------------------- | --- | ------------------------------ |
+| AI Confidence Score (0–100) per email             | ✅  | ❌ Not exposed                 |
+| Live MX Verification at export                    | ✅  | ❌ Static snapshot             |
+| Catch-All Domain Filtering (Prevents false positives) | ✅  | ❌ Leaves you vulnerable to catch-alls |
+| Hyper-local niche coverage (Google Maps)          | ✅  | ⚠️ Incomplete                  |
+| Email source transparency (REGEX / LLM / HYBRID)  | ✅  | ❌ Black box                   |
+| Data freshness timestamp per row                  | ✅  | ⚠️ Inconsistent                |
 
 ---
 
