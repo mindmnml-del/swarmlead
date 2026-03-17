@@ -19,13 +19,13 @@
 | Street address | same | L207-208 | `aria-label` containing `"Address:"` |
 | Rating (float) | same | L214-216 | Regex `\d\.\d` — can false-match non-rating decimals |
 | Review count (int) | same | L218-219 | Regex `([\d,]+)\s*reviews` — fallback pattern is greedy |
-| Infinite scroll collection | same | `collectResultLinks()` L86-179 | Mouse wheel + PageDown, up to 60 scroll attempts |
+| Infinite scroll data collection | same | `collectResultLinks()` L86-179 | Mouse wheel + PageDown, up to 60 scroll attempts |
 
-**Advantage over static DBs (Apollo/ZoomInfo):** Data is as fresh as Google Maps itself. No stale records. A business that opened yesterday can be found today.
+**Advantage over static DBs (Apollo/ZoomInfo):** Data is as fresh as Google Maps itself. No stale records. A business that opened yesterday can be collected today.
 
 **Honest caveat:** All CSS selectors except `data-item-id="authority"` use Google's obfuscated class names (e.g., `a.hfpxzc`, `h1.DUwDvf`). These break without warning when Google deploys frontend updates.
 
-### 1b. Stealth Browser Infrastructure
+### 1b. Stealth Browser Infrastructure (Data Collection Engine)
 
 | Capability | File | Function / Line | Notes |
 |---|---|---|---|
@@ -36,9 +36,9 @@
 | Proxy support | same | L49-51, L66-71 | `PROXY_SERVER` / `PROXY_USERNAME` / `PROXY_PASSWORD` env vars |
 | Human simulation | same | `simulateHuman()` L122-140 | Single random mouse move + half-viewport scroll + delay |
 
-**Honest caveat:** ~~`simulateHuman()` is defined but **never called** from the Google Maps scraping pipeline.~~ (Fixed: now invoked after `search()` and `extractDetails()` navigation.) The UA pool is static and will become stale. The stealth is sufficient for Google Maps at low volume but will not survive Cloudflare/Akamai/DataDome.
+**Honest caveat:** ~~`simulateHuman()` is defined but **never called** from the Google Maps data collection pipeline.~~ (Fixed: now invoked after `search()` and `extractDetails()` navigation.) The UA pool is static and will become stale. The stealth is sufficient for Google Maps at low volume but will not survive Cloudflare/Akamai/DataDome.
 
-### 1c. Website Crawling & Email Extraction
+### 1c. Website Crawling & Email Data Extraction
 
 | Capability | File | Function / Line | Notes |
 |---|---|---|---|
@@ -64,7 +64,7 @@
 | Placeholder domain filtering | same | `deduplicateAndFilter()` L143-160 | Removes `example.com`, `email.com`, `domain.com` |
 | Confidence scoring | same | L63, L42-44, L132 | Mailto=100, personal regex=95, generic regex=70, obfuscated=60, LLM=unvalidated |
 
-**Advantage over pure regex scrapers (Hunter.io):** The LLM can extract founder/CEO names and roles from unstructured text — something regex cannot do at all.
+**Advantage over pure regex extractors (Hunter.io):** The LLM can extract founder/CEO names and roles from unstructured text — something regex cannot do at all.
 
 **Honest caveats:**
 - The `HYBRID` source enum (L10) is defined but never assigned — dead code.
@@ -168,7 +168,7 @@ The domain has MX records (and DNS doesn't error out)
 | Address | Yes (Google Maps) | Yes | Yes | No |
 | Website | Yes (Google Maps) | Yes | Yes | Yes |
 | Rating / Reviews | Yes (Google Maps) | No | No | No |
-| Business email | Regex + LLM from website | Database | Database | Database + scrape |
+| Business email | Regex + LLM from website | Database | Database | Database + extraction |
 | Personal email | Pattern guess + MX check | Verified database | Verified database | Pattern + SMTP verify |
 | Contact name | LLM extraction (premium only) | Database | Database | Database |
 | Job title | LLM extraction (limited) | Database | Database | No |
@@ -185,9 +185,9 @@ The domain has MX records (and DNS doesn't error out)
 
 | Risk | Probability | Impact | Mitigation |
 |---|---|---|---|
-| Google obfuscated CSS class rotation | High (quarterly) | Scraper returns empty data | Manual selector updates |
-| Google CAPTCHA on Maps | Medium-High | Complete scraper failure | None built in |
-| IP ban from Google | Medium (volume dependent) | Scraper blocked | Proxy rotation (manual config) |
+| Google obfuscated CSS class rotation | High (quarterly) | Collector returns empty data | Manual selector updates |
+| Google CAPTCHA on Maps | Medium-High | Complete extraction failure | None built in |
+| IP ban from Google | Medium (volume dependent) | Collector blocked | Proxy rotation (manual config) |
 | OpenAI API outage / rate limit | Low-Medium | Premium extraction fails silently | Regex fallback still works |
 | LLM hallucinated email | Medium | False email delivered to customer | No cross-validation exists |
 | Target site behind Cloudflare | Medium | Website crawl returns nothing | None built in |
@@ -201,7 +201,7 @@ The domain has MX records (and DNS doesn't error out)
 
 | Claim | Evidence | Phrasing Guide |
 |---|---|---|
-| "Real-time business data from Google Maps" | `googleMapsScraper.ts` scrapes live Google Maps DOM | Safe to say. Emphasize freshness vs. stale databases. |
+| "Real-time business data from Google Maps" | `googleMapsScraper.ts` extracts live Google Maps DOM | Safe to say. Emphasize freshness vs. stale databases. |
 | "AI-powered contact extraction" | `hybridParser.ts` L162-200 uses `gpt-4o-mini` for name/role extraction | Safe for premium tier only. Specify it requires a discoverable name on the website. |
 | "Multi-source email finding: mailto, regex, and obfuscated patterns" | `hybridParser.ts` L55 (mailto), L105 (regex), L122 (obfuscated) | Safe to say. Three extraction methods is factual. |
 | "Email classification: personal vs. generic" | `hybridParser.ts` `classifyEmail()` L39-45, 20 known generic prefixes | Safe to say. The classification is deterministic and based on a defined prefix list. |
@@ -217,33 +217,33 @@ The domain has MX records (and DNS doesn't error out)
 |---|---|---|
 | "Verified email addresses" | Our verifier checks DNS MX records, not mailbox existence. There is no SMTP `RCPT TO` check. | We verify the domain can receive mail. We do NOT verify the specific mailbox exists. Bounce rates from our "VALID" emails will be 20-40%+. |
 | "100% accurate contact data" | LLM hallucination risk, regex false matches, CSS selector fragility | Every stage has a failure mode. Accuracy is best-effort, not guaranteed. |
-| "Database of X million contacts" | We have no static database. Every data point is scraped live. | We are a real-time scraper, not a data provider. We cannot quote a database size. |
-| "Faster than Apollo/ZoomInfo" | We are 100-1000x slower due to live scraping. | We are fresher, not faster. These are different value propositions. |
-| "GDPR/CCPA compliant" | We scrape public websites without consent mechanisms. We do not comply with `robots.txt`. Google Maps scraping violates their ToS. | Legal review required before making any compliance claims. |
+| "Database of X million contacts" | We have no static database. Every data point is collected live. | We are a real-time data collection tool, not a data provider. We cannot quote a database size. |
+| "Faster than Apollo/ZoomInfo" | We are 100-1000x slower due to live data collection. | We are fresher, not faster. These are different value propositions. |
+| "GDPR/CCPA compliant" | We collect data from public websites without consent mechanisms. We do not comply with `robots.txt`. Google Maps data extraction violates their ToS. | Legal review required before making any compliance claims. |
 | "Works for any business" | Requires Google Maps listing, accessible website, discoverable name on the site. | Works for businesses with public web presence and standard website structures. |
 | "Enterprise-grade reliability" | No retry logic, no CAPTCHA handling, CSS selectors break on Google updates, silent error swallowing. | Best suited for SMB/startup use cases at low-to-moderate volume. |
-| "LinkedIn integration" | We have no LinkedIn scraping or API integration. | Do not mention LinkedIn in any context. |
+| "LinkedIn integration" | We have no LinkedIn data extraction or API integration. | Do not mention LinkedIn in any context. |
 | "SMTP email verification" | We perform DNS MX lookup only. Zero SMTP connections are made. | Never use the word "SMTP" in marketing materials. |
 | "Works globally for ALL name formats" | NFD normalization handles Latin-based names, but CJK/Arabic/Cyrillic names are dropped entirely during transliteration. | Safe for Western/European. Do NOT claim global coverage — qualify as "Latin-script names". |
 
 ### 3c. Recommended Positioning
 
 **What we are:**
-> A real-time local business intelligence tool that extracts fresh contact data directly from Google Maps and company websites, using AI to identify decision-makers and their likely email addresses.
+> A real-time local business lead intelligence tool that collects fresh contact data directly from Google Maps and company websites, using AI to identify decision-makers and their likely email addresses.
 
 **What we are not:**
 > Not a verified contact database. Not an email verification service. Not a competitor to Apollo/ZoomInfo's breadth of data. Not suitable for high-volume enterprise cold email without additional verification.
 
 **Differentiation that is real and defensible:**
-1. **Freshness** — live scraping vs. months-old database snapshots.
+1. **Freshness** — live data collection vs. months-old database snapshots.
 2. **Google Maps data** — ratings, reviews, phone, address in one pipeline. Apollo doesn't provide Google ratings.
-3. **AI person extraction** — LLM identifies founders/CEOs from unstructured website text. Regex scrapers cannot do this.
+3. **AI person extraction** — LLM identifies founders/CEOs from unstructured website text. Regex-based tools cannot do this.
 4. **No per-seat pricing or credit limits** — our cost is compute, not seats.
 
 **Differentiation that is NOT defensible:**
 1. "Better email data" — we cannot out-verify Apollo's SMTP-checked database with MX-only lookups.
 2. "More contacts" — we have zero stored contacts. Every query starts from scratch.
-3. "Enterprise scale" — serial Puppeteer scraping cannot compete with API-served databases on throughput.
+3. "Enterprise scale" — serial Puppeteer data collection cannot compete with API-served databases on throughput.
 
 ---
 
@@ -253,7 +253,7 @@ The domain has MX records (and DNS doesn't error out)
 |---|---|---|---|---|---|
 | ~~DNS catch-all returns VALID~~ | `emailVerifier.ts` | ~~L49-51~~ | ~~**Critical**~~ | ~~Nonexistent domains marked as valid~~ | **FIXED** — DNS errors now distinguished (`ENOTFOUND`→INVALID, timeout→UNKNOWN); catch-all domains return `CATCH_ALL` with confidence 40 |
 | ~~Non-ASCII name corruption~~ | `emailGuesser.ts` | ~~L8~~ | ~~High~~ | ~~International names produce garbage patterns~~ | **FIXED** — NFD normalization + diacritic stripping + non-ASCII removal before pattern generation |
-| ~~`simulateHuman()` never called in scraping pipeline~~ | `stealthBrowser.ts` / `googleMapsScraper.ts` | ~~L122-140~~ | ~~Medium~~ | ~~Anti-detection weaker than intended~~ | **FIXED** — `simulateHuman()` now called after `search()` and `extractDetails()` navigation in Google Maps scraper |
+| ~~`simulateHuman()` never called in data collection pipeline~~ | `stealthBrowser.ts` / `googleMapsScraper.ts` | ~~L122-140~~ | ~~Medium~~ | ~~Anti-detection weaker than intended~~ | **FIXED** — `simulateHuman()` now called after `search()` and `extractDetails()` navigation in Google Maps collector |
 | LLM confidence scores unvalidated | `hybridParser.ts` | L9 | Medium | Hallucinated emails can overwrite real ones in dedup | Open |
 | ~~Rating regex false matches~~ | `googleMapsScraper.ts` | ~~L216~~ | ~~Low~~ | ~~`\d\.\d` matches any decimal, not just ratings~~ | **FIXED** — Replaced innerText regex with deterministic `aria-label` DOM selectors (same pattern as Phone/Address extraction). Returns `null` when no structured element found. |
 | `HYBRID` source enum never assigned | `hybridParser.ts` | L10 | Low | Dead code, no functional impact | Open |

@@ -1,4 +1,4 @@
-# Architectural Review — LEADS2 Swarm Lead Scraper
+# Architectural Review — LEADS2 Swarm Lead Intelligence Engine
 
 **Date:** 2026-03-14
 **Scope:** Full system (Worker + Dashboard + Data Layer)
@@ -25,10 +25,10 @@
 Using PostgreSQL as the sole communication channel eliminates service discovery, API versioning, and network failure modes between dashboard and worker. `FOR UPDATE SKIP LOCKED` provides safe concurrent polling without Redis or RabbitMQ.
 
 ### S2 — Sequential Email Verification
-Moving from `Promise.all` to sequential `for...of` with 500ms delays prevents DNS rate-limiting. This is the correct tradeoff for a scraping workload where throughput matters less than deliverability accuracy.
+Moving from `Promise.all` to sequential `for...of` with 500ms delays prevents DNS rate-limiting. This is the correct tradeoff for a data collection workload where throughput matters less than deliverability accuracy.
 
 ### S3 — Stealth Browser Reuse
-Sharing a single Chromium instance across Maps + website scraping (ARC-02) reduces memory and startup overhead. Browser rotation every 50 jobs balances fingerprint freshness against resource cost.
+Sharing a single Chromium instance across Maps + website data collection (ARC-02) reduces memory and startup overhead. Browser rotation every 50 jobs balances fingerprint freshness against resource cost.
 
 ### S4 — Catch-All Domain Detection
 Probing with a garbage local part before trusting SMTP RCPT TO responses prevents false positives on catch-all domains (Microsoft 365, etc.). Returning `CATCH_ALL` with confidence 40 is honest and useful.
@@ -110,10 +110,10 @@ Every dashboard page sets `export const dynamic = 'force-dynamic'`, disabling Ne
 
 ### MEDIUM
 
-#### R7 — No Graceful Shutdown for In-Flight Scraping
+#### R7 — No Graceful Shutdown for In-Flight Data Collection
 **Impact:** MEDIUM | **Likelihood:** MEDIUM
 
-`worker.ts` handles SIGINT/SIGTERM but doesn't wait for the current `processJob` to finish. A deploy or restart mid-scrape leaves the task in PROCESSING.
+`worker.ts` handles SIGINT/SIGTERM but doesn't wait for the current `processJob` to finish. A deploy or restart mid-extraction leaves the task in PROCESSING.
 
 **Recommendation:** Set a `shuttingDown` flag on signal, let the current job finish, then exit. Combine with R1's stale lock recovery as a safety net.
 
@@ -164,9 +164,9 @@ Neither the worker nor the dashboard exposes a `/health` or `/readyz` endpoint f
 
 | Principle | Status | Notes |
 |-----------|--------|-------|
-| Single Responsibility | ✅ PASS | Clear separation: scraper, verifier, parser, guesser |
+| Single Responsibility | ✅ PASS | Clear separation: collector, verifier, parser, guesser |
 | Dependency Inversion | ⚠️ PARTIAL | Services directly import Prisma client; no repository abstraction |
-| Open/Closed | ⚠️ PARTIAL | Adding new scraper sources requires modifying `scraperService.ts` |
+| Open/Closed | ⚠️ PARTIAL | Adding new data sources requires modifying `scraperService.ts` |
 | Interface Segregation | ✅ PASS | Small, focused modules |
 | Clean Architecture | ⚠️ PARTIAL | No domain layer; business logic mixed with infrastructure (Prisma calls in service layer) |
 | 12-Factor App | ⚠️ PARTIAL | Config from env ✅, but logs to file not stdout, no health endpoint |
@@ -234,7 +234,7 @@ Neither the worker nor the dashboard exposes a `/health` or `/readyz` endpoint f
 ### ADR-002: Shared Browser Instance
 **Status:** Accepted with Conditions
 **Context:** Puppeteer instances cost ~200MB RAM each.
-**Decision:** Share one Chromium instance across Maps + website scraping, rotate every 50 jobs.
+**Decision:** Share one Chromium instance across Maps + website data collection, rotate every 50 jobs.
 **Consequences:** (+) Memory efficient. (−) Single point of failure, crash propagation.
 **Conditions:** Must implement R1 (health check + stale lock recovery) before production traffic.
 

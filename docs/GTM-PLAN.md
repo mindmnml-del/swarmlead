@@ -8,7 +8,7 @@
 
 ## 1. Target Niches (Top 3)
 
-Niches selected for: scrapeability on Google Maps, buyer willingness-to-pay for cold email data, low data availability on Apollo/ZoomInfo, and high agency demand.
+Niches selected for: data availability on Google Maps, buyer willingness-to-pay for cold email data, low coverage on Apollo/ZoomInfo, and high agency demand.
 
 ### Niche A: MedSpas & Aesthetic Clinics
 
@@ -34,7 +34,7 @@ Niches selected for: scrapeability on Google Maps, buyer willingness-to-pay for 
 
 | Factor                | Detail                                                                                                                                                                            |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Why**               | Dentists spend $20K-50K/year on marketing. Highly competitive local market = hungry for leads and reputation tools. Well-structured Google Maps presence makes scraping accurate. |
+| **Why**               | Dentists spend $20K-50K/year on marketing. Highly competitive local market = hungry for leads and reputation tools. Well-structured Google Maps presence makes data extraction accurate. |
 | **Google Maps Query** | `"dentist"`, `"dental clinic"`, `"orthodontist"`, `"cosmetic dentistry"`                                                                                                          |
 | **Buyer Persona**     | Dental marketing agencies, patient scheduling SaaS, and insurance brokers                                                                                                         |
 | **Pain Point Data**   | Low review count = pitch for patient engagement; no website = pitch for web presence                                                                                              |
@@ -42,7 +42,7 @@ Niches selected for: scrapeability on Google Maps, buyer willingness-to-pay for 
 
 ### Niche Comparison
 
-| Niche             | Market Size | Avg. Deal Value (for buyer)  | Data Scarcity on Apollo | Scrape Difficulty |
+| Niche             | Market Size | Avg. Deal Value (for buyer)  | Data Scarcity on Apollo | Collection Difficulty |
 | ----------------- | ----------- | ---------------------------- | ----------------------- | ----------------- |
 | **MedSpas**       | ★★★★☆       | ★★★★★ ($3K-10K/mo retainers) | ★★★★★ (very scarce)     | Easy              |
 | **Home Services** | ★★★★★       | ★★★☆☆ ($500-2K/mo)           | ★★★★☆                   | Easy              |
@@ -52,7 +52,7 @@ Niches selected for: scrapeability on Google Maps, buyer willingness-to-pay for 
 
 ## 2. Premium CSV Schema
 
-Map our existing database fields to what buyers expect. All columns below are **already captured** by the scraper unless marked with 🆕.
+Map our existing database fields to what buyers expect. All columns below are **already captured** by the extraction pipeline unless marked with 🆕.
 
 | #   | Column Name           | Source                       | Notes                            |
 | --- | --------------------- | ---------------------------- | -------------------------------- |
@@ -70,8 +70,8 @@ Map our existing database fields to what buyers expect. All columns below are **
 | 12  | `verification_status` | `Contact.verificationStatus` | `VALID`, `INVALID`, `UNKNOWN`    |
 | 13  | `niche`               | `ScrapeJob.query`            | 🆕 Derived from the search query |
 | 14  | `state`               | `Company.address`            | 🆕 Parsed from address string    |
-| 15  | `zip_code`            | `ScrapeTask.zipCode`         | Zip code of the scrape           |
-| 16  | `scraped_date`        | `Company.emailScrapedAt`     | Data freshness timestamp         |
+| 15  | `zip_code`            | `ScrapeTask.zipCode`         | Zip code of the collection       |
+| 16  | `collected_date`      | `Company.emailScrapedAt`     | Data freshness timestamp         |
 
 > **Key Differentiator:** Columns 9-12 (AI Confidence, Email Type, Source, Verification) do not exist in Apollo/ZoomInfo exports. This is our unique value proposition — **AI-enriched data**.
 
@@ -120,9 +120,9 @@ Based on market research: Apollo charges ~$0.05/email credit, ZoomInfo ~$3+/lead
 
 ## 5. Launch Checklist
 
-- [ ] Run full US scrape for **MedSpas** (all zip codes) — ~35K leads
-- [ ] Run full US scrape for **HVAC** (top 50 metros first) — ~25K leads
-- [ ] Run full US scrape for **Dental** (all zip codes) — ~40K leads
+- [ ] Run full US data collection for **MedSpas** (all zip codes) — ~35K leads
+- [ ] Run full US data collection for **HVAC** (top 50 metros first) — ~25K leads
+- [ ] Run full US data collection for **Dental** (all zip codes) — ~40K leads
 - [ ] Build CSV export script (query DB → format per schema above → output `.csv`)
 - [ ] Create Gumroad product pages (3 niches × 4 tiers = 12 listings)
 - [ ] Create Whop membership page (Agency + Unlimited tiers)

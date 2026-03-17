@@ -13,7 +13,7 @@
 
 ### Short Description
 
-500 verified MedSpa owner contacts with AI confidence scoring and live MX verification. Extracted directly from Google Maps and deep website crawling — data that Apollo and ZoomInfo don't have.
+500 verified MedSpa owner contacts with AI confidence scoring and live MX verification. Collected directly from Google Maps and deep website crawling — data that Apollo and ZoomInfo don't have.
 
 ### Full Description
 
@@ -23,7 +23,7 @@ This list contains 500 MedSpa and aesthetic clinic contacts across the United St
 
 - **MX-verified in real time** — the mail server was confirmed live before export. Zero dead domains.
 - **Scored by AI (0–100 confidence)** — you see exactly how reliable each contact is before you load it into your sequencer.
-- **Extracted from Google Maps + deep website crawling** — we visit the actual business website, parse contact pages, about pages, and team pages. These are contacts that enterprise databases miss entirely because MedSpas are local businesses, not venture-backed SaaS companies.
+- **Collected from Google Maps + deep website crawling** — we visit the actual business website, parse contact pages, about pages, and team pages. These are contacts that enterprise databases miss entirely because MedSpas are local businesses, not venture-backed SaaS companies.
 
 **What you get (CSV columns):**
 
@@ -45,7 +45,7 @@ This list contains 500 MedSpa and aesthetic clinic contacts across the United St
 
 **What makes this different from Apollo/ZoomInfo:**
 
-Apollo and ZoomInfo are built for enterprise SaaS companies. Local service businesses like MedSpas, aesthetic clinics, and Botox providers are massively underrepresented in their databases. Our pipeline scrapes Google Maps in real time and crawls each business website to extract contacts that don't exist in any enterprise database. Every row includes an AI confidence score and MX verification status — fields that no other data vendor exposes.
+Apollo and ZoomInfo are built for enterprise SaaS companies. Local service businesses like MedSpas, aesthetic clinics, and Botox providers are massively underrepresented in their databases. Our pipeline collects data from Google Maps in real time and crawls each business website to extract contacts that don't exist in any enterprise database. Every row includes an AI confidence score and MX verification status — fields that no other data vendor exposes.
 
 ---
 
@@ -111,7 +111,7 @@ The entire verified MedSpa database: 2,779 leads with AI confidence scores, MX v
 
 **Every verified MedSpa contact we have. One file. Zero bounces.**
 
-This is the complete extraction: 2,779 MedSpa and aesthetic clinic contacts across the United States, deduplicated and filtered to include only emails that passed live MX verification.
+This is the complete dataset: 2,779 MedSpa and aesthetic clinic contacts across the United States, deduplicated and filtered to include only emails that passed live MX verification.
 
 This is not a subset of a larger list. This is the full, cleaned database — every MedSpa we found on Google Maps, crawled, extracted, AI-scored, and MX-verified. When you buy this pack, you own the same dataset our internal team uses.
 
@@ -122,7 +122,7 @@ This is not a subset of a larger list. This is the full, cleaned database — ev
 | AI Confidence Score (0–100) per email | Included | Not exposed |
 | Live MX Verification at export | Every row | Static snapshot, decays daily |
 | Catch-All Domain Filtering | Flagged and filtered | Not handled — inflates your bounce rate |
-| Google Maps extraction (real-time freshness) | Primary source | Incomplete coverage for local businesses |
+| Google Maps data collection (real-time freshness) | Primary source | Incomplete coverage for local businesses |
 | MX Provider identification | Included (Google, Outlook, etc.) | Not available |
 | Data freshness timestamp | Per row | Inconsistent |
 
@@ -152,4 +152,4 @@ This is not a subset of a larger list. This is the full, cleaned database — ev
 
 **Why 2,779 and not a round number?**
 
-Because we don't pad lists with unverified junk to hit a marketing-friendly number. 2,779 is the exact count of MedSpa contacts that passed our full verification pipeline: Google Maps extraction → website crawling → hybrid email parsing → AI confidence scoring → live MX verification. Every row earned its place in this file.
+Because we don't pad lists with unverified junk to hit a marketing-friendly number. 2,779 is the exact count of MedSpa contacts that passed our full verification pipeline: Google Maps data collection → website crawling → hybrid email parsing → AI confidence scoring → live MX verification. Every row earned its place in this file.

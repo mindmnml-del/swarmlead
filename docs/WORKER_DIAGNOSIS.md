@@ -88,7 +88,7 @@ The `jobPoller.ts` processes tasks **one at a time** in a `while` loop with 5-se
 
 The most recent 5 jobs in the DB are all FAILED (Tampa, Wichita) with `resultsFound: 0`. These appear to be smaller cities where:
 - Google Maps returned fewer results
-- Or the scraper task failed during processing
+- Or the collection task failed during processing
 - Their parent ScrapeJobs were marked FAILED but the tasks were never re-queued
 
 ### Tertiary Issue: resultsFound Counter Mismatch

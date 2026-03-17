@@ -144,7 +144,7 @@ processJob:    Maps extract → createCompany(status: PENDING) → DONE (fast)
 worker.ts:     Poll PENDING companies → scrapeEmails → verifyEmail → COMPLETED
 ```
 
-**Current state:** The worker already does exactly this for companies with `emailScraped: false`. The only change needed is to **remove the inline email scraping from processJob** and let the worker pick it up.
+**Current state:** The worker already does exactly this for companies with `emailScraped: false`. The only change needed is to **remove the inline email extraction from processJob** and let the worker pick it up.
 
 **Risk mitigations:**
 | Risk | Mitigation |

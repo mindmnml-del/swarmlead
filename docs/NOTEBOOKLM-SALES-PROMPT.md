@@ -73,7 +73,7 @@ I have 50 [Offer] leads with decision-maker emails ready. Free sample — just r
 
 ## Objection Handling (under 75 words each)
 
-**"We use Apollo"** → "Totally get it — Apollo is great for enterprise. [Niche] local businesses are barely indexed there. We scrape live from Google Maps with AI confidence scores — data Apollo doesn't have. Worth a 2-min look at a free sample?"
+**"We use Apollo"** → "Totally get it — Apollo is great for enterprise. [Niche] local businesses are barely indexed there. We collect live data from Google Maps with AI confidence scores — data Apollo doesn't have. Worth a 2-min look at a free sample?"
 Key: Don't trash Apollo. Position as complementary.
 
 **"Too expensive"** → "Growth pack is $67 for 1,000 leads ($0.067/lead — 1/50th of ZoomInfo). But before pricing — want the free 50-lead sample to see if quality is worth it?"

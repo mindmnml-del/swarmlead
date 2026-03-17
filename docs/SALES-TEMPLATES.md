@@ -142,7 +142,7 @@ Hi [First Name],
 Saw [Recent Win or their niche focus] — impressive work.
 
 Quick context: [Micro-Niche] businesses are nearly invisible on
-Apollo and ZoomInfo. We use an AI-verified scraping pipeline to
+Apollo and ZoomInfo. We use an AI-verified data extraction pipeline to
 surface their direct emails — with a confidence score attached
 to every contact.
 

@@ -45,7 +45,7 @@ WEB and BACKEND
 - **Agent**: `backend-specialist`
 - **Input**: `dashboard/src/app/actions.ts`, `src/services/scraperService.ts`
 - **Output**: `createScrapeJob` skips credit validation. `scraperService.ts` does not invoke `deductCredit` or `hasCredits`. Existing imports are kept but commented out or unused.
-- **Verify**: Run a test scrape job and confirm it processes successfully without requiring credits or interacting with Stripe.
+- **Verify**: Run a test data collection job and confirm it processes successfully without requiring credits or interacting with Stripe.
 
 ### Task 3: Worker Crash Recovery (Stability)
 

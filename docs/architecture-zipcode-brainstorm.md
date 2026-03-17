@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-Google Maps returns a maximum of ~120 results per search query. When a user requests a large quota (e.g., "Plumbers in New York, max 1000"), a single search hits this ceiling. We need to **split large searches into granular Zip Code chunks**, run them as parallel workers, and **track a global quota** across all chunks so we stop scraping the moment the user's target is met.
+Google Maps returns a maximum of ~120 results per search query. When a user requests a large quota (e.g., "Plumbers in New York, max 1000"), a single search hits this ceiling. We need to **split large searches into granular Zip Code chunks**, run them as parallel workers, and **track a global quota** across all chunks so we stop collecting the moment the user's target is met.
 
 ### Current Architecture (As-Is)
 
@@ -30,7 +30,7 @@ Dashboard (Next.js)
        │ N:M
        ▼
 ┌──────────────┐
-│   Company    │  ← Scraped leads (name, website, emails, jobId)
+│   Company    │  ← Extracted leads (name, website, emails, jobId)
 │  (M rows)    │
 └──────────────┘
 ```
@@ -49,7 +49,7 @@ Dashboard (Next.js)
 
 ### Concept
 
-Add an **atomic counter column** `currentResults` to `ScrapeJob`. Each worker increments it atomically after inserting a new unique Company. Workers check the counter before each scrape cycle and self-cancel when quota is met. A **cancellation sweep** marks remaining PENDING tasks as `CANCELLED`.
+Add an **atomic counter column** `currentResults` to `ScrapeJob`. Each worker increments it atomically after inserting a new unique Company. Workers check the counter before each extraction cycle and self-cancel when quota is met. A **cancellation sweep** marks remaining PENDING tasks as `CANCELLED`.
 
 ### Schema Changes (Conceptual)
 
@@ -138,7 +138,7 @@ WHERE "Company".updated_at < NOW() - INTERVAL '30 days';
 
 ### Concept
 
-Instead of maintaining an atomic counter column, **derive the current count** from the database every time via `SELECT COUNT(*)` on the Company table filtered by `jobId`. No mutable counter state — the database is the source of truth. Workers query the count before and after each scrape batch.
+Instead of maintaining an atomic counter column, **derive the current count** from the database every time via `SELECT COUNT(*)` on the Company table filtered by `jobId`. No mutable counter state — the database is the source of truth. Workers query the count before and after each extraction batch.
 
 ### Schema Changes (Conceptual)
 
@@ -159,7 +159,7 @@ ScrapeTask
 ```
 1. Dashboard creates ScrapeJob + Job Splitter creates ScrapeTask rows (same as Option 1)
 2. Workers pick tasks via SKIP LOCKED (same as Option 1)
-3. Before each lead scrape:
+3. Before each lead extraction:
    SELECT COUNT(*) FROM "Company" WHERE "jobId" = $1;
    → If count >= maxResults → mark task COMPLETED, trigger cancellation sweep
 4. After inserting a Company:
@@ -201,7 +201,7 @@ Same as Option 1 — `ON CONFLICT` on `(name, address)` scoped to `jobId`.
 
 ### Concept
 
-Workers **reserve a batch quota** from the parent job before starting their zip code scrape. Instead of checking the counter per-lead, a worker atomically claims a "slot" of N leads (e.g., 20) from the global quota. If fewer than N remain, it gets only what's left. If zero remain, it self-cancels. This minimizes contention to one lock acquisition per task, not per lead.
+Workers **reserve a batch quota** from the parent job before starting their zip code extraction. Instead of checking the counter per-lead, a worker atomically claims a "slot" of N leads (e.g., 20) from the global quota. If fewer than N remain, it gets only what's left. If zero remain, it self-cancels. This minimizes contention to one lock acquisition per task, not per lead.
 
 ### Schema Changes (Conceptual)
 
@@ -212,7 +212,7 @@ ScrapeJob
   + region           String?
 
 ScrapeTask
-  + reservedQuota    Int     @default(0)    -- how many leads this task is allowed to scrape
+  + reservedQuota    Int     @default(0)    -- how many leads this task is allowed to collect
   + status           -- add CANCELLED
 
 ProcessingStatus enum
@@ -251,7 +251,7 @@ ProcessingStatus enum
    UPDATE "ScrapeTask" SET "reservedQuota" = $granted WHERE id = $taskId;
    COMMIT;
 
-4. Worker scrapes up to `reservedQuota` leads for its zip code
+4. Worker extracts up to `reservedQuota` leads for its zip code
    - If it finds fewer (zip exhausted), the unused slots are "returned":
      UPDATE "ScrapeJob" SET "currentResults" = "currentResults" - $unused WHERE id = $1;
 5. If granted = 0 → mark task CANCELLED immediately
@@ -267,7 +267,7 @@ Same as Options 1 & 2. But duplicates consume reserved quota — worker might "w
 | # | Pro |
 |---|-----|
 | 1 | **Minimal contention** — lock on ScrapeJob row happens once per task, not once per lead |
-| 2 | **Predictable worker behavior** — each worker knows exactly how many leads it can scrape before starting |
+| 2 | **Predictable worker behavior** — each worker knows exactly how many leads it can extract before starting |
 | 3 | **No overshoot** — quota is pre-allocated, total cannot exceed maxResults |
 | 4 | **Batch efficiency** — workers don't need per-insert counter checks |
 | 5 | **Pure Postgres** — standard row-level locks, no advisory locks actually needed |
@@ -334,7 +334,7 @@ Same as Options 1 & 2. But duplicates consume reserved quota — worker might "w
 ### 3. Stale Data Refresh (>30 Days Old)
 
 If a Company already exists from a previous job:
-- Check `updatedAt` — if > 30 days, re-scrape website/emails
+- Check `updatedAt` — if > 30 days, re-extract website/emails
 - Don't count as "new" toward quota (it's a refresh, not a new lead)
 - Flag with `isRefreshed: true` for dashboard filtering
 
